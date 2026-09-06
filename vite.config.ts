@@ -62,7 +62,12 @@ export default defineConfig(({ mode }) => {
         : []),
     ],
     resolve: {
-      alias: { '@': path.join(here, 'src') },
+      alias: {
+        '@': path.join(here, 'src'),
+        ...(isAndroid
+          ? { 'virtual:pwa-register': path.join(here, 'src/platform/pwaRegisterStub.ts') }
+          : {}),
+      },
     },
     define: {
       'import.meta.env.VITE_TARGET': JSON.stringify(isAndroid ? 'android' : 'web'),

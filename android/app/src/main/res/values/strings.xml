@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RDR2 Complete Guide</string>
+    <string name="title_activity_main">RDR2 Complete Guide</string>
+    <string name="package_name">io.github.victorjnr.rdr2guide</string>
+    <string name="custom_url_scheme">io.github.victorjnr.rdr2guide</string>
+</resources>

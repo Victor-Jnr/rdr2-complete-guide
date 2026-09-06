@@ -46,6 +46,9 @@
 - `src/services/exportImport.ts` — transactional backup/restore
 - `src/features/**` — Journey, Treasures, Map, Search, Progress, Settings, About
 - `src/components/**` — shared journal UI, map, dialogs, attribution
+- `src/platform/pwaRegisterStub.ts` — no-op PWA register module for Android Vite builds
+- `scripts/android-assets.mjs` — launcher icons, splash, and local.properties helper
+- `android/` — Capacitor 8 Android project (SDK 36, app id frozen)
 - `src/services/search-progress.test.ts` — MiniSearch grouping and progress-empty tests
 - `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
 - `src/services/treasures.test.ts` — treasure-chain dataset tests
@@ -182,6 +185,25 @@
 - `documentation/README.md` — linked 005
 - `README.md` — listed 005 in Documentation
 - `CHANGELOG.md` — added 005 section
+
+## 006 — Android shell, PWA verify, and v1 close-out (2026-09-06)
+
+- `android/**` — added Capacitor Android project (compile/target SDK 36)
+- `android/app/src/main/AndroidManifest.xml` — disabled cleartext traffic
+- `android/app/src/main/res/values/colors.xml` — added Campfire colors
+- `android/app/src/main/res/values/ic_launcher_background.xml` — set launcher background
+- `android/app/src/main/res/mipmap-*/**` — replaced default launcher icons
+- `android/app/src/main/res/drawable*/splash.png` — replaced splash screens
+- `android/gradle.properties` — raised Gradle heap
+- `scripts/android-assets.mjs` — added icon/splash/`local.properties` generator
+- `src/platform/pwaRegisterStub.ts` — added Android-mode PWA stub
+- `vite.config.ts` — alias `virtual:pwa-register` on android builds
+- `package.json` — added `android:assets` script
+- `documentation/006-android-and-verification.md` — added this change document
+- `documentation/README.md` — linked 006
+- `README.md` — listed 006 and release-signing notes
+- `CHANGELOG.md` — added 006 section
+
 
 
 

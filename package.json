@@ -19,6 +19,7 @@
     "pretest": "npm run validate:data",
     "validate:data": "tsx scripts/validate-data.ts",
     "prepare:map": "tsx scripts/prepare-map.ts",
+    "android:assets": "node scripts/android-assets.mjs",
     "cap:sync": "npm run build:android && cap sync android",
     "cap:open": "cap open android",
     "android:debug": "npm run cap:sync && cd android && .\\gradlew.bat assembleDebug",

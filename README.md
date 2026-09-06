@@ -86,10 +86,22 @@ Guide content is static JSON under `src/data/`. User checklists live in IndexedD
 
 Each record carries `research.verificationStatus`: `unresearched` | `researched` | `cross-checked` | `verified` | `needs-review`, plus `sourceIds`. `scripts/validate-data.ts` (also `pretest`) checks IDs, refs, coordinates, checklist uniqueness, and unused sources.
 
+## Release signing
+
+Do not commit keystores. On the machine that ships the Play/sideload release:
+
+1. Generate a keystore outside this repo.
+2. Create `keystore.properties` (gitignored) with `storeFile`, `storePassword`, `keyAlias`, and `keyPassword`.
+3. Point `android/app/build.gradle` `signingConfigs.release` at those values (local change or a documented snippet).
+4. Run `npm run android:release`.
+
+The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it installs a second app and will not update existing users.
+
 ## Documentation
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [006 — Android shell, PWA verify, and v1 close-out](documentation/006-android-and-verification.md)
 - [005 — Search and progress tests](documentation/005-search-progress-tests.md)
 - [004 — Native-resolution world map tiles](documentation/004-native-map-tiles.md)
 - [003 — Treasure chain tests](documentation/003-treasure-chain-tests.md)
