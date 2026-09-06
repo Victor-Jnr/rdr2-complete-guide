@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [012](012-themed-scrollbars.md) | Themed scrollbars |
 | [011](011-map-layer-panel-stacking.md) | Map layer panel stacking |
 | [010](010-map-pin-calibration-fix.md) | Map pin calibration fix |
 | [009](009-compendium-general-locations.md) | Compendium with general locations |

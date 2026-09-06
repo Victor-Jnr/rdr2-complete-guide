@@ -32,8 +32,8 @@
 - `src/main.tsx` — React root, fonts, global CSS
 - `src/app/router.tsx` — lazy routes for every v1 screen
 - `src/layouts/RootLayout.tsx` — chrome, navigation, PWA prompt, toasts, back button
-- `src/styles/tokens.css` — Campfire / Parchment CSS variables and safe areas
-- `src/styles/base.css` — typography, focus, reduced-motion, controls
+- `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
+- `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars
 - `src/styles/textures.css` — journal panel paper noise and stamps
 - `src/styles/layout.css` — page gutters for phone / tablet / desktop
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
@@ -361,8 +361,14 @@
 - `README.md` — listed 011
 - `CHANGELOG.md` — added 011 section
 
+## 012 — Themed scrollbars (2026-09-06)
 
-
-
-
+- `src/styles/tokens.css` — Campfire/Parchment `--scrollbar-*` colors and 8px `--scrollbar-size`
+- `src/styles/base.css` — global `::-webkit-scrollbar` theming; Firefox `scrollbar-color` only inside a Mozilla `@supports` query
+- `src/features/about/AboutPage.tsx` — version 0.4.2
+- `package.json` — version 0.4.2
+- `documentation/012-themed-scrollbars.md` — added this change document
+- `documentation/README.md` — linked 012
+- `README.md` — listed 012
+- `CHANGELOG.md` — added 012 section
 

@@ -16,6 +16,9 @@
   --ok: #8faf6a;
   --theme-color: #2a1c14;
   --nav-surface: #241810;
+  --scrollbar-track: var(--leather);
+  --scrollbar-thumb: var(--brass-dim);
+  --scrollbar-thumb-hover: var(--brass);
 }
 
 [data-theme='parchment'] {
@@ -35,6 +38,9 @@
   --ok: #3d6b2a;
   --theme-color: #efe0b8;
   --nav-surface: #ead9b0;
+  --scrollbar-track: var(--nav-surface);
+  --scrollbar-thumb: var(--leather);
+  --scrollbar-thumb-hover: var(--brass);
 }
 
 :root {
@@ -49,6 +55,7 @@
   --touch: 48px;
   --nav-height: calc(64px + var(--safe-bottom));
   --text-size: 1rem;
+  --scrollbar-size: 8px;
 }
 
 [data-text='s'] { --text-size: 0.92rem; }
