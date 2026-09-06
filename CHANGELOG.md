@@ -46,6 +46,7 @@
 - `src/services/exportImport.ts` — transactional backup/restore
 - `src/features/**` — Journey, Treasures, Map, Search, Progress, Settings, About
 - `src/components/**` — shared journal UI, map, dialogs, attribution
+- `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
 - `src/services/treasures.test.ts` — treasure-chain dataset tests
 - `src/services/journey.test.ts` — Chapter 1–2 / later-chapter dataset contract tests
 - `documentation/README.md` — index of numbered change documents
@@ -164,5 +165,14 @@
 - `documentation/README.md` — linked 003
 - `README.md` — listed 003 in Documentation
 - `CHANGELOG.md` — added 003 section
+
+## 004 — Native-resolution map tile pyramid (2026-09-06)
+
+- `public/assets/maps/tiles/**` — added 1365 WebP tiles (zoom 0–5, ~4 MB)
+- `documentation/004-native-map-tiles.md` — added this change document
+- `documentation/README.md` — linked 004
+- `README.md` — listed 004 in Documentation
+- `CHANGELOG.md` — added 004 section
+
 
 
