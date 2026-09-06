@@ -66,7 +66,16 @@ export default function AboutPage() {
         {completionRequirements.filter((r) => r.countsToward100).length} official 100% criteria.
         Missions that have no Gold Medal list on the Red Dead Wiki are left without gold requirements.
       </p>
-        <p>Version 0.5.0</p>
+      <h2>Android</h2>
+      <p>
+        Application ID <code>io.github.victorjnr.rdr2guide</code>. Sideload APKs, when published, are attached to
+        GitHub Releases rather than committed in git. This is not a Play Store listing. Updates must use the same
+        signing keystore.
+      </p>
+      <p>
+        <ExternalLink href="https://github.com/Victor-Jnr/rdr2-complete-guide/releases">↗ GitHub Releases</ExternalLink>
+      </p>
+      <p>Version 0.5.0</p>
     </main>
   );
 }

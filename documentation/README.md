@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [014](014-wire-release-signing.md) | Wire release signing from keystore.properties |
 | [013](013-unsigned-android-050-release.md) | Unsigned Android 0.5.0 release |
 | [012](012-themed-scrollbars.md) | Themed scrollbars |
 | [011](011-map-layer-panel-stacking.md) | Map layer panel stacking |

@@ -56,7 +56,8 @@
 - `src/platform/pwaRegisterStub.ts` — no-op PWA register module for Android Vite builds
 - `scripts/android-assets.mjs` — launcher icons, splash, and local.properties helper
 - `android/` — Capacitor 8 Android project (SDK 36, app id frozen)
-- `android/app/build.gradle` — `versionName` / `versionCode`; unsigned `release` buildType (`signingConfig` null)
+- `android/app/build.gradle` — `versionName` / `versionCode`; `signingConfigs.release` from gitignored `android/keystore.properties`
+- `android/keystore.properties.example` — placeholder keys for local release signing (`storeFile`, `storePassword`, `keyAlias`, `keyPassword`)
 - `src/services/search-progress.test.ts` — MiniSearch grouping and progress-empty tests
 - `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
 - `src/services/treasures.test.ts` — treasure-chain dataset tests
@@ -382,4 +383,14 @@
 - `documentation/013-unsigned-android-050-release.md` — added this change document
 - `documentation/README.md` — linked 013
 - `CHANGELOG.md` — added 013 section
+
+## 014 — Wire release signing from keystore.properties (2026-09-06)
+
+- `android/app/build.gradle` — `signingConfigs.release` from gitignored `android/keystore.properties`; unsigned if that file is missing
+- `android/keystore.properties.example` — dummy `storeFile`, `storePassword`, `keyAlias`, `keyPassword`
+- `README.md` — local signing steps; GitHub Releases for sideload APKs; listed 014
+- `src/features/about/AboutPage.tsx` — Android id, GitHub Releases link, same-keystore note
+- `documentation/014-wire-release-signing.md` — added this change document
+- `documentation/README.md` — linked 014
+- `CHANGELOG.md` — file roles and 014 section
 

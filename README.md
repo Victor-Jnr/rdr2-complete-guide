@@ -83,7 +83,7 @@ npm run android:debug
 
 The Android application ID is frozen as **`io.github.victorjnr.rdr2guide`**. Changing it later installs as a different app.
 
-**0.5.0 ships unsigned by choice** (no project keystore; the Android Debug key is not used for release). Typical phones will not install that APK until you sign it. See Release signing below.
+**0.5.0 sideload APKs**, when signed, are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). See Release signing below.
 
 ## PWA vs Android
 
@@ -98,16 +98,28 @@ Each record carries `research.verificationStatus`: `unresearched` | `researched`
 
 ## Release signing
 
-**0.5.0 is an unsigned release APK**, not a Play-signed or debug-signed build. `android/app/build.gradle` leaves `signingConfig` null on the `release` build type. `npm run android:release` writes `android/app/build/outputs/apk/release/app-release-unsigned.apk` (copy: `release/rdr2-complete-guide-0.5.0-unsigned.apk`, untracked).
+`android/app/build.gradle` reads a **gitignored** `android/keystore.properties` (see `android/keystore.properties.example`). If that file exists, `npm run android:release` produces a **signed** release APK. If it is missing, the release build stays unsigned (`signingConfig` null). The Android Debug key is never used for release.
 
-Most stock Android devices **refuse** to install unsigned packages. Sideload still needs you to sign with `apksigner` (keystore kept outside git) or a ROM/setting that allows unsigned APKs.
+Do not commit keystores or `android/keystore.properties`. Keep the `.jks` **outside** this repo.
 
-Do not commit keystores. If you later want a signed Play/sideload build:
+Create `android/keystore.properties` locally with these keys (no extras required):
 
-1. Generate a keystore outside this repo.
-2. Create `keystore.properties` (gitignored) with `storeFile`, `storePassword`, `keyAlias`, and `keyPassword`.
-3. Point `android/app/build.gradle` `signingConfigs.release` at those values (local change).
-4. Run `npm run android:release`.
+```properties
+storeFile=C:/Users/YOU/keys/your-release.jks
+storePassword=YOUR_STORE_PASSWORD
+keyAlias=rdr2guide
+keyPassword=YOUR_KEY_PASSWORD
+```
+
+`storeFile` must be an **absolute** path. `keyAlias` is whatever you chose when creating the keystore (the suggested alias was `rdr2guide`). Then:
+
+```powershell
+$env:JAVA_HOME = "C:\Program Files\Microsoft\jdk-21.0.12.101-hotspot"
+$env:Path = "$env:JAVA_HOME\bin;C:\Program Files\nodejs;$env:Path"
+npm run android:release
+```
+
+Signed sideload APKs are attached to [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases), not committed in git. This is **not** a Play Store listing. Keep the same keystore for updates.
 
 The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it installs a second app and will not update existing users.
 
@@ -115,6 +127,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [014 — Wire release signing from keystore.properties](documentation/014-wire-release-signing.md)
 - [013 — Unsigned Android 0.5.0 release](documentation/013-unsigned-android-050-release.md)
 - [012 — Themed scrollbars](documentation/012-themed-scrollbars.md)
 - [011 — Map layer panel stacking](documentation/011-map-layer-panel-stacking.md)
