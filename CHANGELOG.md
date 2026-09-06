@@ -56,6 +56,7 @@
 - `src/platform/pwaRegisterStub.ts` — no-op PWA register module for Android Vite builds
 - `scripts/android-assets.mjs` — launcher icons, splash, and local.properties helper
 - `android/` — Capacitor 8 Android project (SDK 36, app id frozen)
+- `android/app/build.gradle` — `versionName` / `versionCode`; unsigned `release` buildType (`signingConfig` null)
 - `src/services/search-progress.test.ts` — MiniSearch grouping and progress-empty tests
 - `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
 - `src/services/treasures.test.ts` — treasure-chain dataset tests
@@ -371,4 +372,14 @@
 - `documentation/README.md` — linked 012
 - `README.md` — listed 012
 - `CHANGELOG.md` — added 012 section
+
+## 013 — Unsigned Android 0.5.0 release (2026-09-06)
+
+- `package.json` — version 0.5.0
+- `src/features/about/AboutPage.tsx` — Version 0.5.0
+- `android/app/build.gradle` — `versionName "0.5.0"`, `versionCode 2`, unsigned release (`signingConfig null`)
+- `README.md` — 0.5.0 ships unsigned by choice; listed 013
+- `documentation/013-unsigned-android-050-release.md` — added this change document
+- `documentation/README.md` — linked 013
+- `CHANGELOG.md` — added 013 section
 

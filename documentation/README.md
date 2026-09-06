@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [013](013-unsigned-android-050-release.md) | Unsigned Android 0.5.0 release |
 | [012](012-themed-scrollbars.md) | Themed scrollbars |
 | [011](011-map-layer-panel-stacking.md) | Map layer panel stacking |
 | [010](010-map-pin-calibration-fix.md) | Map pin calibration fix |
