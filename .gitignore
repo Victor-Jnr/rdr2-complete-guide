@@ -137,3 +137,27 @@ dist
 
 .cursor/rules/
 /plan
+/.cursor
+
+# Capacitor / Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+android/app/release/
+android/captures/
+android/app/.cxx/
+*.keystore
+*.jks
+keystore.properties
+
+# Map source cache (derived tiles are committed)
+scripts/.cache/
+
+# vite-plugin-pwa
+dev-dist/
+
+# Python venv (unused for app deps; ignore if created for helper scripts)
+.venv/
+venv/

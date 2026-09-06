@@ -1,0 +1,28 @@
+.wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: var(--touch);
+  cursor: pointer;
+}
+
+.box {
+  width: 28px;
+  height: 28px;
+  border: 2px solid var(--brass);
+  display: grid;
+  place-items: center;
+  background: var(--paper);
+  flex-shrink: 0;
+}
+
+.box[data-checked='true'] {
+  background: var(--brass);
+  color: var(--paper);
+}
+
+input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}

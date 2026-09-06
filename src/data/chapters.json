@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chapter-1",
+    "order": 1,
+    "title": "Chapter 1",
+    "subtitle": "Colter",
+    "region": "Ambarino",
+    "description": "After a failed robbery the gang hides in an abandoned mining town in the Grizzlies, waiting out a late spring storm.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "chapter-2",
+    "order": 2,
+    "title": "Chapter 2",
+    "subtitle": "Horseshoe Overlook",
+    "region": "New Hanover",
+    "description": "The gang camps above Valentine and begins gathering money, horses, and new leads.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "chapter-3",
+    "order": 3,
+    "title": "Chapter 3",
+    "subtitle": "Clemens Point",
+    "region": "Lemoyne",
+    "description": "Pushed south after Valentine, the gang camps near Rhodes and plays two feuding families against each other.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "chapter-4",
+    "order": 4,
+    "title": "Chapter 4",
+    "subtitle": "Saint Denis / Shady Belle",
+    "region": "Lemoyne",
+    "description": "The gang moves into a decaying manor in the swamps outside Saint Denis while Dutch hunts a way out.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "chapter-5",
+    "order": 5,
+    "title": "Chapter 5",
+    "subtitle": "Guarma",
+    "region": "Guarma",
+    "description": "A botched bank job strands several members on a sugar island under a local tyrant.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "chapter-6",
+    "order": 6,
+    "title": "Chapter 6",
+    "subtitle": "Beaver Hollow",
+    "region": "New Hanover",
+    "description": "The remnants of the gang hide in dangerous country as internal disputes and Arthur’s illness worsen.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "epilogue-1",
+    "order": 7,
+    "title": "Epilogue, Part 1",
+    "subtitle": "Pronghorn Ranch",
+    "region": "West Elizabeth",
+    "description": "Years later, John takes ranch work and tries to keep his family safe under assumed names.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "epilogue-2",
+    "order": 8,
+    "title": "Epilogue, Part 2",
+    "subtitle": "Beecher's Hope",
+    "region": "West Elizabeth",
+    "description": "John buys a farm of his own and tries to become a family man, with help and hindrance from old friends.",
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

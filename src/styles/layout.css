@@ -1,0 +1,23 @@
+.page {
+  padding: calc(12px + var(--safe-top)) 16px calc(var(--nav-height) + 16px);
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .page {
+    padding-left: calc(88px + var(--safe-left) + 16px);
+    padding-bottom: 24px;
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page {
+    padding-left: calc(240px + var(--safe-left) + 24px);
+    max-width: 1120px;
+  }
+}
+
+.stack { display: flex; flex-direction: column; gap: 12px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }

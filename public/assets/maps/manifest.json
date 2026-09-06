@@ -1,0 +1,10 @@
+{
+  "width": 7200,
+  "height": 5400,
+  "tileSize": 256,
+  "maxNativeZoom": 5,
+  "tileUrlTemplate": "/assets/maps/tiles/{z}/{x}/{y}.webp",
+  "previewUrl": "/assets/maps/preview.webp",
+  "sourceFileUrl": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e2/Red-Dead-Redemption-2-Full-World-Map.jpg/revision/latest?cb=20240604033758",
+  "attribution": "In-game map imagery © Rockstar Games / Take-Two Interactive. Local copy sourced from the Red Dead Wiki for this non-commercial fan project."
+}

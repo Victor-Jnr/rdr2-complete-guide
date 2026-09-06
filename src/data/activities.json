@@ -1,0 +1,382 @@
+[
+  {
+    "id": "act-ch2-fff-lenny",
+    "title": "Five Finger Fillet with Lenny",
+    "kind": "companion",
+    "companion": "Lenny Summers",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch2-hunt-charles",
+    "title": "Go Hunting with Charles",
+    "kind": "companion",
+    "companion": "Charles Smith",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch2-rob-javier",
+    "title": "Rob a Homestead with Javier",
+    "kind": "companion",
+    "companion": "Javier Escuella",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-fff-micah",
+    "title": "Five Finger Fillet with Micah",
+    "kind": "companion",
+    "companion": "Micah Bell",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-dominoes-tilly",
+    "title": "Dominoes with Tilly",
+    "kind": "companion",
+    "companion": "Tilly Jackson",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-rob-sean",
+    "title": "Rob a Homestead with Sean",
+    "kind": "companion",
+    "companion": "Sean MacGuire",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-fish-javier",
+    "title": "Go Fishing with Javier",
+    "kind": "companion",
+    "companion": "Javier Escuella",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-fish-kieran",
+    "title": "Go Fishing with Kieran",
+    "kind": "companion",
+    "companion": "Kieran Duffy",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-coach-bill",
+    "title": "Rob a Stagecoach with Bill",
+    "kind": "companion",
+    "companion": "Bill Williamson",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch3-coach-sean",
+    "title": "Rob a Stagecoach with Sean",
+    "kind": "companion",
+    "companion": "Sean MacGuire",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch4-bank-charles",
+    "title": "Rob a Bank with Charles",
+    "kind": "companion",
+    "companion": "Charles Smith",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4",
+      "editions": [
+        "special",
+        "ultimate"
+      ],
+      "notes": "Exclusive companion activity for Special / Ultimate Edition."
+    },
+    "locationId": "loc-shady-belle",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch4-hunt-pearson",
+    "title": "Go Hunting with Pearson",
+    "kind": "companion",
+    "companion": "Simon Pearson",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "locationId": "loc-shady-belle",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch4-coach-lenny",
+    "title": "Rob a Stagecoach with Lenny",
+    "kind": "companion",
+    "companion": "Lenny Summers",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "locationId": "loc-shady-belle",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch4-coach-micah",
+    "title": "Rob a Stagecoach with Micah",
+    "kind": "companion",
+    "companion": "Micah Bell",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "locationId": "loc-shady-belle",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "act-ch4-rustle-uncle",
+    "title": "Go Rustling with Uncle",
+    "kind": "companion",
+    "companion": "Uncle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "locationId": "loc-shady-belle",
+    "sourceIds": [
+      "wiki-missions-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-missions-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

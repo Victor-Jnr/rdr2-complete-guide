@@ -1,0 +1,226 @@
+[
+  {
+    "id": "item-javier-oleander",
+    "title": "Oleander Sage for Javier",
+    "requester": "Javier Escuella",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8:00–20:00"
+        }
+      ]
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "description": "Javier is at the dominoes table, poisoning his knives.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-mary-beth-pen",
+    "title": "Fountain Pen for Mary-Beth",
+    "requester": "Mary-Beth Gaskill",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8:00–20:00"
+        }
+      ]
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "description": "Mary-Beth is writing in her journal near her bed.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-pearson-compass",
+    "title": "Naval Compass for Pearson",
+    "requester": "Simon Pearson",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8:00–14:00"
+        }
+      ]
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "description": "Ask while playing poker with him. Available Chapters 2–4.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-jack-comic-book",
+    "title": "Comic Book for Jack",
+    "requester": "Jack Marston",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "earliestMissionId": "mission-a-fisher-of-men"
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "description": "Can trigger during A Fisher of Men.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-jack-thimble",
+    "title": "Thimble for Jack",
+    "requester": "Jack Marston",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "earliestMissionId": "mission-a-fisher-of-men"
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "description": "After A Fisher of Men; Jack talks to Arthur in front of Dutch’s tent.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-abigail-five",
+    "title": "$5 for Abigail",
+    "requester": "Abigail Marston",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "earliestMissionId": "mission-a-fisher-of-men"
+    },
+    "locationId": "loc-horseshoe-overlook",
+    "description": "After A Fisher of Men; Abigail and Jack are in their tent.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-tilly-necklace",
+    "title": "Necklace for Tilly",
+    "requester": "Tilly Jackson",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "locationId": "loc-clemens-point",
+    "description": "While playing dominoes with her.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-sadie-harmonica",
+    "title": "Harmonica for Sadie",
+    "requester": "Sadie Adler",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "earliestMissionId": "mission-further-questions-of-female-suffrage"
+    },
+    "locationId": "loc-clemens-point",
+    "description": "During Further Questions of Female Suffrage.",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

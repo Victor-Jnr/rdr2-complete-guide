@@ -1,0 +1,5659 @@
+[
+  {
+    "id": "mission-outlaws-from-the-west",
+    "slug": "outlaws-from-the-west",
+    "title": "Outlaws from the West",
+    "chapterId": "chapter-1",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Dutch van der Linde",
+    "startLocationId": "loc-colter",
+    "followUpMissionIds": [
+      "mission-enter-pursued-by-a-memory"
+    ],
+    "summary": "The gang holes up in Colter. Dutch takes Arthur and Micah out through the snow to search a nearby ranch for food and anything they can use.",
+    "availability": {
+      "displayChapterId": "chapter-1",
+      "availableChapterIds": [
+        "chapter-1"
+      ],
+      "earliestChapterId": "chapter-1",
+      "latestChapterId": "chapter-1"
+    },
+    "objectives": [
+      {
+        "id": "obj-outlaws-from-the-west-1",
+        "label": "Ride with Dutch to look for supplies",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-outlaws-from-the-west-2",
+        "label": "Search Adler Ranch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-outlaws-from-the-west-3",
+        "label": "Capture the O’Driscoll in the barn",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-outlaws-from-the-west-4",
+        "label": "Calm the horse and lead it back",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-outlaws-from-the-west-1",
+        "label": "Take no damage during the shootout",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-outlaws-from-the-west-2",
+        "label": "Loot 6 or more items from Adler Ranch",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-outlaws-from-the-west-3",
+        "label": "Complete with at least 80% accuracy",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-outlaws-from-the-west"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-outlaws-from-the-west"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-outlaws-from-the-west"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-enter-pursued-by-a-memory",
+    "slug": "enter-pursued-by-a-memory",
+    "title": "Enter, Pursued by a Memory",
+    "chapterId": "chapter-1",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Abigail Roberts",
+    "startLocationId": "loc-colter",
+    "prerequisiteMissionIds": [
+      "mission-outlaws-from-the-west"
+    ],
+    "followUpMissionIds": [
+      "mission-the-aftermath-of-genesis",
+      "mission-old-friends"
+    ],
+    "summary": "Abigail asks Arthur and Javier to find John, who has been missing in the storm. They track him through wolf country and bring him home.",
+    "availability": {
+      "displayChapterId": "chapter-1",
+      "availableChapterIds": [
+        "chapter-1"
+      ],
+      "earliestChapterId": "chapter-1",
+      "latestChapterId": "chapter-1"
+    },
+    "objectives": [
+      {
+        "id": "obj-enter-pursued-by-a-memory-1",
+        "label": "Ride out with Javier to search for John",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-enter-pursued-by-a-memory"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-enter-pursued-by-a-memory-2",
+        "label": "Follow the trail through the snow",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-enter-pursued-by-a-memory"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-enter-pursued-by-a-memory-3",
+        "label": "Hold off the wolves",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-enter-pursued-by-a-memory"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-enter-pursued-by-a-memory-4",
+        "label": "Bring John back to Colter",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-enter-pursued-by-a-memory"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-enter-pursued-by-a-memory-1",
+        "label": "Kill all the wolves without taking any damage",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-enter-pursued-by-a-memory"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-enter-pursued-by-a-memory-2",
+        "label": "Complete with at least 80% accuracy",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-enter-pursued-by-a-memory"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-enter-pursued-by-a-memory"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-enter-pursued-by-a-memory"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-aftermath-of-genesis",
+    "slug": "the-aftermath-of-genesis",
+    "title": "The Aftermath of Genesis",
+    "chapterId": "chapter-1",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Simon Pearson",
+    "startLocationId": "loc-colter",
+    "prerequisiteMissionIds": [
+      "mission-enter-pursued-by-a-memory"
+    ],
+    "summary": "Pearson needs meat. Charles takes Arthur hunting for deer in the woods above Colter.",
+    "availability": {
+      "displayChapterId": "chapter-1",
+      "availableChapterIds": [
+        "chapter-1"
+      ],
+      "earliestChapterId": "chapter-1",
+      "latestChapterId": "chapter-1"
+    },
+    "objectives": [
+      {
+        "id": "obj-the-aftermath-of-genesis-1",
+        "label": "Ride out with Charles",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-aftermath-of-genesis"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-aftermath-of-genesis-2",
+        "label": "Track and hunt deer",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-aftermath-of-genesis"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-aftermath-of-genesis-3",
+        "label": "Skin the kills and return to camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-aftermath-of-genesis"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-the-aftermath-of-genesis-1",
+        "label": "Kill each deer with one arrow",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-aftermath-of-genesis"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-aftermath-of-genesis-2",
+        "label": "Do not spook either deer",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-aftermath-of-genesis"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-aftermath-of-genesis-3",
+        "label": "Get a clean kill on the second deer",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-aftermath-of-genesis"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-the-aftermath-of-genesis"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-the-aftermath-of-genesis"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-old-friends",
+    "slug": "old-friends",
+    "title": "Old Friends",
+    "chapterId": "chapter-1",
+    "order": 4,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Bill Williamson",
+    "startLocationId": "loc-colter",
+    "prerequisiteMissionIds": [
+      "mission-enter-pursued-by-a-memory"
+    ],
+    "summary": "Micah has found an O’Driscoll camp. The gang attacks it and captures a young O’Driscoll named Kieran.",
+    "availability": {
+      "displayChapterId": "chapter-1",
+      "availableChapterIds": [
+        "chapter-1"
+      ],
+      "earliestChapterId": "chapter-1",
+      "latestChapterId": "chapter-1"
+    },
+    "objectives": [
+      {
+        "id": "obj-old-friends-1",
+        "label": "Join the assault on the O’Driscoll camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-old-friends-2",
+        "label": "Clear the camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-old-friends-3",
+        "label": "Catch and hogtie Kieran",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-old-friends-4",
+        "label": "Return to Colter",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-old-friends-1",
+        "label": "Catch and hogtie Kieran within 45 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-old-friends-2",
+        "label": "Kill 3 O’Driscolls in the same Dead Eye use",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-old-friends-3",
+        "label": "Complete within 15 minutes and 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-old-friends-4",
+        "label": "Get 15 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-old-friends-5",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-old-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-old-friends"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-old-friends"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-who-the-hell-is-leviticus-cornwall",
+    "slug": "who-the-hell-is-leviticus-cornwall",
+    "title": "Who the Hell is Leviticus Cornwall?",
+    "chapterId": "chapter-1",
+    "order": 5,
+    "tags": [
+      "main-story",
+      "robbery"
+    ],
+    "questGiver": "John Marston",
+    "startLocationId": "loc-colter",
+    "prerequisiteMissionIds": [
+      "mission-the-aftermath-of-genesis",
+      "mission-old-friends"
+    ],
+    "followUpMissionIds": [
+      "mission-eastward-bound"
+    ],
+    "summary": "Dutch wants a real score. The gang hits a Cornwall train in the mountains to steal bonds and cash.",
+    "availability": {
+      "displayChapterId": "chapter-1",
+      "availableChapterIds": [
+        "chapter-1"
+      ],
+      "earliestChapterId": "chapter-1",
+      "latestChapterId": "chapter-1"
+    },
+    "objectives": [
+      {
+        "id": "obj-who-the-hell-is-leviticus-cornwall-1",
+        "label": "Ride to the trestle with the gang",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-who-the-hell-is-leviticus-cornwall-2",
+        "label": "Stop the train",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-who-the-hell-is-leviticus-cornwall-3",
+        "label": "Clear the guards",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-who-the-hell-is-leviticus-cornwall-4",
+        "label": "Loot the private car",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-who-the-hell-is-leviticus-cornwall-1",
+        "label": "Save Lenny when he is hanging from the train",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-who-the-hell-is-leviticus-cornwall-2",
+        "label": "After stopping the train, take out the guards within 1 minute and 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-who-the-hell-is-leviticus-cornwall-3",
+        "label": "Take no damage during the shootout",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-who-the-hell-is-leviticus-cornwall-4",
+        "label": "Get 10 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-who-the-hell-is-leviticus-cornwall-5",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-the-hell-is-leviticus-cornwall"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-who-the-hell-is-leviticus-cornwall"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-who-the-hell-is-leviticus-cornwall"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-eastward-bound",
+    "slug": "eastward-bound",
+    "title": "Eastward Bound",
+    "chapterId": "chapter-1",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Dutch van der Linde",
+    "startLocationId": "loc-colter",
+    "prerequisiteMissionIds": [
+      "mission-who-the-hell-is-leviticus-cornwall"
+    ],
+    "followUpMissionIds": [
+      "mission-polite-society-valentine-style"
+    ],
+    "summary": "The weather breaks. The gang packs up Colter and wagons east to a new camp overlooking the Heartlands.",
+    "availability": {
+      "displayChapterId": "chapter-1",
+      "availableChapterIds": [
+        "chapter-1"
+      ],
+      "earliestChapterId": "chapter-1",
+      "latestChapterId": "chapter-1"
+    },
+    "objectives": [
+      {
+        "id": "obj-eastward-bound-1",
+        "label": "Help break camp at Colter",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-eastward-bound"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-eastward-bound-2",
+        "label": "Drive the wagon east",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-eastward-bound"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-eastward-bound-3",
+        "label": "Arrive at Horseshoe Overlook",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-eastward-bound"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-eastward-bound-1",
+        "label": "Pick up Javier when entering Horseshoe Overlook",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-eastward-bound"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-eastward-bound-2",
+        "label": "Complete within 6 minutes",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-eastward-bound"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-eastward-bound"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-eastward-bound"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-polite-society-valentine-style",
+    "slug": "polite-society-valentine-style",
+    "title": "Polite Society, Valentine Style",
+    "chapterId": "chapter-2",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Uncle",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-eastward-bound"
+    ],
+    "followUpMissionIds": [
+      "mission-good-honest-snake-oil",
+      "mission-pouring-forth-oil-i"
+    ],
+    "summary": "Uncle, Arthur, and the girls ride into Valentine for supplies and gossip. Mary-Beth comes back with a train lead; a man from Blackwater complicates the afternoon.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-polite-society-valentine-style-1",
+        "label": "Ride the wagon into Valentine",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-polite-society-valentine-style-2",
+        "label": "Buy supplies with Uncle",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-polite-society-valentine-style-3",
+        "label": "Find Karen in the hotel",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-polite-society-valentine-style-4",
+        "label": "Deal with the man from Blackwater",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-polite-society-valentine-style-1",
+        "label": "Return the lost wagon horse to its owner",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-polite-society-valentine-style-2",
+        "label": "Find Karen within 45 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "missables": [
+      {
+        "id": "miss-polite-honor-horse",
+        "label": "Honor choice: return the runaway coach horse",
+        "description": "Helping the stranded coach driver on the ride into town is an optional Honor opportunity.",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-polite-society-valentine-style"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-polite-society-valentine-style"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-polite-society-valentine-style"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-americans-at-rest",
+    "slug": "americans-at-rest",
+    "title": "Americans at Rest",
+    "chapterId": "chapter-2",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Javier Escuella",
+    "startLocationId": "loc-valentine",
+    "followUpMissionIds": [
+      "mission-the-first-shall-be-last",
+      "mission-paying-a-social-call",
+      "mission-money-lending-and-other-sins-i"
+    ],
+    "summary": "Arthur finds Javier, Charles, and Bill drinking in Valentine. A bar fight with a giant named Tommy spills into the street.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-americans-at-rest-1",
+        "label": "Meet the boys in the Valentine saloon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-americans-at-rest"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-americans-at-rest-2",
+        "label": "Join the brawl",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-americans-at-rest"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-americans-at-rest-3",
+        "label": "Fight Tommy",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-americans-at-rest"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-americans-at-rest-1",
+        "label": "Save Javier within 15 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-americans-at-rest"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-americans-at-rest-2",
+        "label": "Defeat Tommy within 1 minute and 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-americans-at-rest"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-americans-at-rest"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-americans-at-rest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-exit-pursued-by-a-bruised-ego",
+    "slug": "exit-pursued-by-a-bruised-ego",
+    "title": "Exit Pursued by a Bruised Ego",
+    "chapterId": "chapter-2",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Hosea Matthews",
+    "startLocationId": "loc-horseshoe-overlook",
+    "followUpMissionIds": [
+      "mission-the-spines-of-america"
+    ],
+    "summary": "Hosea takes Arthur to buy a proper horse, then on a bear hunt that goes badly in the woods near the Dakota.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-exit-pursued-by-a-bruised-ego-1",
+        "label": "Ride with Hosea to the horse fence",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-exit-pursued-by-a-bruised-ego-2",
+        "label": "Buy a horse",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-exit-pursued-by-a-bruised-ego-3",
+        "label": "Hunt the bear",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-exit-pursued-by-a-bruised-ego-4",
+        "label": "Survive the attack and get back to camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-exit-pursued-by-a-bruised-ego-1",
+        "label": "Track the bear within 1 minute 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-exit-pursued-by-a-bruised-ego-2",
+        "label": "Shoot the bear at least 6 times",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-exit-pursued-by-a-bruised-ego-3",
+        "label": "Complete within 12 minutes",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-exit-pursued-by-a-bruised-ego"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-exit-pursued-by-a-bruised-ego"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-exit-pursued-by-a-bruised-ego"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-paying-a-social-call",
+    "slug": "paying-a-social-call",
+    "title": "Paying a Social Call",
+    "chapterId": "chapter-2",
+    "order": 4,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Kieran Duffy",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-americans-at-rest"
+    ],
+    "summary": "Kieran is forced to lead Arthur, Bill, and John to Colm’s camp. The raid turns into a night assault on Six Point Cabin.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-paying-a-social-call-1",
+        "label": "Ride with Kieran to the O’Driscoll hideout",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-paying-a-social-call-2",
+        "label": "Scout and assault the camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-paying-a-social-call-3",
+        "label": "Search the cabin",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-paying-a-social-call-1",
+        "label": "Silently kill 4 O’Driscolls",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-paying-a-social-call-2",
+        "label": "Get 12 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-paying-a-social-call-3",
+        "label": "Complete with at least 80% accuracy",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-paying-a-social-call-4",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-paying-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-paying-a-social-call"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-paying-a-social-call"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-quiet-time",
+    "slug": "a-quiet-time",
+    "title": "A Quiet Time",
+    "chapterId": "chapter-2",
+    "order": 5,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Dutch van der Linde",
+    "startLocationId": "loc-horseshoe-overlook",
+    "summary": "Dutch sends Arthur to take Lenny into Valentine for a drink. The night gets out of hand.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-a-quiet-time-1",
+        "label": "Ride into Valentine with Lenny",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-quiet-time-2",
+        "label": "Drink at the saloon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-quiet-time-3",
+        "label": "Find Lenny around town",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-quiet-time-4",
+        "label": "Get back to camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-a-quiet-time-1",
+        "label": "Try to make amends with an old rival",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-quiet-time-2",
+        "label": "Catch Lenny in the act",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-quiet-time-3",
+        "label": "Don't get arrested",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-quiet-time"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-a-quiet-time"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-a-quiet-time"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-spines-of-america",
+    "slug": "the-spines-of-america",
+    "title": "The Spines of America",
+    "chapterId": "chapter-2",
+    "order": 6,
+    "tags": [
+      "main-story",
+      "robbery"
+    ],
+    "questGiver": "Hosea Matthews",
+    "startLocationId": "loc-emerald-ranch",
+    "prerequisiteMissionIds": [
+      "mission-exit-pursued-by-a-bruised-ego"
+    ],
+    "summary": "Hosea introduces Arthur to Seamus, a crooked fence at Emerald Ranch. Together they steal a wagon from Carmody Dell.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-the-spines-of-america-1",
+        "label": "Meet Hosea at Emerald Ranch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-spines-of-america"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-spines-of-america-2",
+        "label": "Rob Carmody Dell",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-spines-of-america"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-spines-of-america-3",
+        "label": "Deliver the wagon to Seamus",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-spines-of-america"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-the-spines-of-america-1",
+        "label": "Loot everything from Carmody Dell",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-spines-of-america"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-spines-of-america-2",
+        "label": "Don't get spotted",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-spines-of-america"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-spines-of-america-3",
+        "label": "Deliver the wagon to Emerald Ranch within 1 minute and 10 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-spines-of-america"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-the-spines-of-america"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-the-spines-of-america"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-blessed-are-the-meek",
+    "slug": "blessed-are-the-meek",
+    "title": "Blessed are the Meek?",
+    "chapterId": "chapter-2",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Micah Bell",
+    "startLocationId": "loc-strawberry",
+    "summary": "Micah is locked in the Strawberry jail. Arthur breaks him out, and the escape turns into a massacre in the streets.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-blessed-are-the-meek-1",
+        "label": "Reach Strawberry jail",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blessed-are-the-meek-2",
+        "label": "Free Micah",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blessed-are-the-meek-3",
+        "label": "Fight clear of town",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-blessed-are-the-meek-1",
+        "label": "While escaping, kill all mounted lawmen within 55 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blessed-are-the-meek-2",
+        "label": "Get 15 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blessed-are-the-meek-3",
+        "label": "Complete with at least 70% accuracy",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blessed-are-the-meek-4",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "missables": [
+      {
+        "id": "miss-micah-guns",
+        "label": "Micah’s confiscated guns",
+        "description": "During the breakout Micah can recover guns taken from him in Strawberry.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-meek"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-blessed-are-the-meek"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-blessed-are-the-meek"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-who-is-not-without-sin",
+    "slug": "who-is-not-without-sin",
+    "title": "Who is Not Without Sin",
+    "chapterId": "chapter-2",
+    "order": 8,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Orville Swanson",
+    "startLocationId": "loc-flatneck-station",
+    "summary": "Reverend Swanson is in trouble at Flatneck Station. Arthur pulls him out of a poker game, a beating, and a near hanging.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-who-is-not-without-sin-1",
+        "label": "Find Swanson at Flatneck Station",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-is-not-without-sin"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-who-is-not-without-sin-2",
+        "label": "Get him out of the poker game",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-is-not-without-sin"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-who-is-not-without-sin-3",
+        "label": "Stop the fight and the hanging",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-is-not-without-sin"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-who-is-not-without-sin-4",
+        "label": "Return him to camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-who-is-not-without-sin"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-who-is-not-without-sin-1",
+        "label": "Win 2 hands of Poker",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-is-not-without-sin"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-who-is-not-without-sin-2",
+        "label": "Return the Reverend to camp within 2 minutes and 5 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-who-is-not-without-sin"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-who-is-not-without-sin"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-who-is-not-without-sin"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-first-shall-be-last",
+    "slug": "the-first-shall-be-last",
+    "title": "The First Shall Be Last",
+    "chapterId": "chapter-2",
+    "order": 9,
+    "tags": [
+      "main-story",
+      "missable"
+    ],
+    "questGiver": "Javier Escuella",
+    "startLocationId": "loc-blackwater",
+    "prerequisiteMissionIds": [
+      "mission-americans-at-rest"
+    ],
+    "summary": "Trelawny has a lead on Sean, held by bounty hunters west of Blackwater. Arthur, Javier, and Charles break him out on the Upper Montana.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "notes": "Sean’s rescue is available in Chapter 2; do not delay indefinitely."
+    },
+    "missable": true,
+    "missableWarning": "Complete Sean’s rescue during Chapter 2",
+    "objectives": [
+      {
+        "id": "obj-the-first-shall-be-last-1",
+        "label": "Meet Trelawny near Blackwater",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-first-shall-be-last-2",
+        "label": "Scout the bounty hunters with Javier",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-first-shall-be-last-3",
+        "label": "Free Sean",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-first-shall-be-last-4",
+        "label": "Escape the river fight",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-the-first-shall-be-last-1",
+        "label": "Silently kill the bounty hunters by the river with Javier",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-first-shall-be-last-2",
+        "label": "Shoot the rope to free Sean",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-first-shall-be-last-3",
+        "label": "Get 10 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-first-shall-be-last-4",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-first-shall-be-last"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-the-first-shall-be-last"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-the-first-shall-be-last"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-sheep-and-the-goats",
+    "slug": "the-sheep-and-the-goats",
+    "title": "The Sheep and the Goats",
+    "chapterId": "chapter-2",
+    "order": 10,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "John Marston",
+    "startLocationId": "loc-valentine",
+    "followUpMissionIds": [
+      "mission-a-strange-kindness"
+    ],
+    "summary": "John and Arthur steal a flock of sheep and sell them in Valentine. Cornwall’s men walk in on the payday, and the town becomes a war zone.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-the-sheep-and-the-goats-1",
+        "label": "Steal and herd the sheep",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-sheep-and-the-goats-2",
+        "label": "Sell them in Valentine",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-sheep-and-the-goats-3",
+        "label": "Survive the Cornwall ambush",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-sheep-and-the-goats-4",
+        "label": "Escape town with John",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-the-sheep-and-the-goats-1",
+        "label": "Herd all the sheep into the pen in Valentine",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-sheep-and-the-goats-2",
+        "label": "Get 25 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-sheep-and-the-goats-3",
+        "label": "Complete with at least 70% accuracy",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-sheep-and-the-goats-4",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-the-sheep-and-the-goats"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-the-sheep-and-the-goats"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-the-sheep-and-the-goats"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-strange-kindness",
+    "slug": "a-strange-kindness",
+    "title": "A Strange Kindness",
+    "chapterId": "chapter-2",
+    "order": 11,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Dutch van der Linde",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-the-sheep-and-the-goats"
+    ],
+    "summary": "After Valentine, Dutch wants a new camp. Micah leads Arthur to a supposed site that turns into a hostage rescue in the woods.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-a-strange-kindness-1",
+        "label": "Ride with Micah",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-strange-kindness-2",
+        "label": "Clear the camp of captors",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-strange-kindness-3",
+        "label": "Return the captive to his family",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-strange-kindness-4",
+        "label": "Scout Clemens Point",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-a-strange-kindness-1",
+        "label": "Return the captive to his family within 1 minute and 40 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-strange-kindness-2",
+        "label": "Get 5 headshots",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-strange-kindness-3",
+        "label": "Complete with at least 80% accuracy",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-strange-kindness-4",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-strange-kindness"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-a-strange-kindness"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-a-strange-kindness"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-pouring-forth-oil-i",
+    "slug": "pouring-forth-oil-i",
+    "title": "Pouring Forth Oil I",
+    "chapterId": "chapter-2",
+    "order": 12,
+    "tags": [
+      "main-story",
+      "robbery"
+    ],
+    "questGiver": "John Marston",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-polite-society-valentine-style"
+    ],
+    "followUpMissionIds": [
+      "mission-pouring-forth-oil-ii"
+    ],
+    "summary": "John wants to rob the tourist train Mary-Beth spotted. He asks Arthur to steal an oil wagon to block the tracks. This part is a camp conversation.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-pouring-forth-oil-i-1",
+        "label": "Talk to John at camp about the train",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-i"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-pouring-forth-oil-i"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-pouring-forth-oil-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-pouring-forth-oil-ii",
+    "slug": "pouring-forth-oil-ii",
+    "title": "Pouring Forth Oil II",
+    "chapterId": "chapter-2",
+    "order": 13,
+    "tags": [
+      "optional-story",
+      "robbery"
+    ],
+    "questGiver": "John Marston",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-pouring-forth-oil-i"
+    ],
+    "followUpMissionIds": [
+      "mission-pouring-forth-oil-iii"
+    ],
+    "summary": "Arthur locates and steals an oil wagon for the planned train robbery.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "sourceIds": [
+      "wiki-pouring-forth-oil-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-pouring-forth-oil-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-pouring-forth-oil-iii",
+    "slug": "pouring-forth-oil-iii",
+    "title": "Pouring Forth Oil III",
+    "chapterId": "chapter-2",
+    "order": 14,
+    "tags": [
+      "main-story",
+      "robbery"
+    ],
+    "questGiver": "John Marston",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-pouring-forth-oil-ii"
+    ],
+    "followUpMissionIds": [
+      "mission-pouring-forth-oil-iv"
+    ],
+    "summary": "Arthur delivers the stolen oil wagon to the hide site for the train job.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "sourceIds": [
+      "wiki-pouring-forth-oil-iii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-pouring-forth-oil-iii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-pouring-forth-oil-iv",
+    "slug": "pouring-forth-oil-iv",
+    "title": "Pouring Forth Oil IV",
+    "chapterId": "chapter-2",
+    "order": 15,
+    "tags": [
+      "main-story",
+      "robbery"
+    ],
+    "questGiver": "John Marston",
+    "startLocationId": "loc-old-trail-rise",
+    "prerequisiteMissionIds": [
+      "mission-pouring-forth-oil-iii"
+    ],
+    "summary": "Arthur, John, Sean, and Charles stop the train with the oil wagon and rob it before the law closes in.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-pouring-forth-oil-iv-1",
+        "label": "Place the oil wagon on the tracks",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-pouring-forth-oil-iv-2",
+        "label": "Rob the train",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-pouring-forth-oil-iv-3",
+        "label": "Escape the law",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-pouring-forth-oil-iv-1",
+        "label": "Kill all the train guards before Sean fires a shot",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-pouring-forth-oil-iv-2",
+        "label": "Clear the baggage car of loot",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-pouring-forth-oil-iv-3",
+        "label": "Escape the Law within 1 minute 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-pouring-forth-oil-iv-4",
+        "label": "Get 10 kills in Dead Eye",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-pouring-forth-oil-iv-5",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-iv"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-pouring-forth-oil-iv"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-pouring-forth-oil-iv"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-fisher-of-men",
+    "slug": "a-fisher-of-men",
+    "title": "A Fisher of Men",
+    "chapterId": "chapter-2",
+    "order": 16,
+    "tags": [
+      "main-story"
+    ],
+    "questGiver": "Abigail Marston",
+    "startLocationId": "loc-horseshoe-overlook",
+    "summary": "Abigail asks Arthur to take Jack fishing. Pinkertons interrupt the afternoon on the riverbank.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "objectives": [
+      {
+        "id": "obj-a-fisher-of-men-1",
+        "label": "Take Jack fishing",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fisher-of-men"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fisher-of-men-2",
+        "label": "Catch a fish",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fisher-of-men"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fisher-of-men-3",
+        "label": "Deal with the Pinkertons",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fisher-of-men"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fisher-of-men-4",
+        "label": "Return Jack to camp",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fisher-of-men"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-a-fisher-of-men-1",
+        "label": "After arriving at the river, catch a fish within 1 minute and 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-fisher-of-men"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-fisher-of-men-2",
+        "label": "Complete within 7 minutes and 20 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-a-fisher-of-men"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "missables": [
+      {
+        "id": "miss-jack-comic",
+        "missableId": "item-jack-comic-book",
+        "label": "Jack’s comic book request",
+        "description": "Jack’s penny dreadful request can trigger during this outing.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-companion-item-requests"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-a-fisher-of-men"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-a-fisher-of-men"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-an-american-pastoral-scene",
+    "slug": "an-american-pastoral-scene",
+    "title": "An American Pastoral Scene",
+    "chapterId": "chapter-2",
+    "order": 17,
+    "tags": [
+      "main-story",
+      "robbery"
+    ],
+    "questGiver": "Micah Bell",
+    "startLocationId": "loc-montos-rest",
+    "summary": "Micah wants to hit a banking coach. Arthur helps him rob it in the Heartlands.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-3",
+      "notes": "Can be played in Chapter 2 or left until Chapter 3."
+    },
+    "objectives": [
+      {
+        "id": "obj-an-american-pastoral-scene-1",
+        "label": "Meet Micah",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-american-pastoral-scene-2",
+        "label": "Ambush the coach",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-american-pastoral-scene-3",
+        "label": "Deal with the guards",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-american-pastoral-scene-4",
+        "label": "Get the take away",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-an-american-pastoral-scene-1",
+        "label": "Headshot each of the mounted guards protecting the wagon",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-american-pastoral-scene-2",
+        "label": "Get 10 kills in Dead Eye",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-american-pastoral-scene-3",
+        "label": "Complete within 6 minutes",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-american-pastoral-scene-4",
+        "label": "Complete the mission without taking any health items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-an-american-pastoral-scene"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-an-american-pastoral-scene"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-an-american-pastoral-scene"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-good-honest-snake-oil",
+    "slug": "good-honest-snake-oil",
+    "title": "Good, Honest, Snake Oil",
+    "chapterId": "chapter-2",
+    "order": 18,
+    "tags": [
+      "stranger",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Uncle",
+    "startLocationId": "loc-valentine",
+    "prerequisiteMissionIds": [
+      "mission-polite-society-valentine-style"
+    ],
+    "summary": "The Valentine sheriff wants a snake-oil salesman brought in. Arthur runs Benedict Allbright down along the cliffs.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Available from Valentine in Chapter 2 after Polite Society",
+    "objectives": [
+      {
+        "id": "obj-good-honest-snake-oil-1",
+        "label": "Talk to the sheriff in Valentine",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-good-honest-snake-oil"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-good-honest-snake-oil-2",
+        "label": "Chase Benedict Allbright",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-good-honest-snake-oil"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-good-honest-snake-oil-3",
+        "label": "Hogtie him and bring him in",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-good-honest-snake-oil"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-good-honest-snake-oil-1",
+        "label": "Stop Benedict Allbright falling off the cliff",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-good-honest-snake-oil"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-good-honest-snake-oil-2",
+        "label": "Hogtie Allbright within 1 minute and 15 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-good-honest-snake-oil"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-good-honest-snake-oil-3",
+        "label": "Return Allbright to the sheriff within 1 minute and 30 seconds",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-good-honest-snake-oil"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-good-honest-snake-oil"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-good-honest-snake-oil"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-we-loved-once-and-true-i",
+    "slug": "we-loved-once-and-true-i",
+    "title": "We Loved Once and True I",
+    "chapterId": "chapter-2",
+    "order": 19,
+    "tags": [
+      "honor",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Mary Linton",
+    "startLocationId": "loc-horseshoe-overlook",
+    "summary": "A letter from Mary Linton reaches camp. Reading it starts this honor strand.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Read Mary’s letter and follow up during Chapter 2",
+    "sourceIds": [
+      "wiki-we-loved-once-and-true"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-we-loved-once-and-true"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-we-loved-once-and-true-ii",
+    "slug": "we-loved-once-and-true-ii",
+    "title": "We Loved Once and True II",
+    "chapterId": "chapter-2",
+    "order": 20,
+    "tags": [
+      "honor",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Mary Linton",
+    "startLocationId": "loc-valentine",
+    "prerequisiteMissionIds": [
+      "mission-we-loved-once-and-true-i"
+    ],
+    "followUpMissionIds": [
+      "mission-we-loved-once-and-true-iii"
+    ],
+    "summary": "Arthur meets Mary in Valentine. She asks for help with her brother Jamie.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Meet Mary in Valentine during Chapter 2",
+    "sourceIds": [
+      "wiki-we-loved-once-and-true"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-we-loved-once-and-true"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-we-loved-once-and-true-iii",
+    "slug": "we-loved-once-and-true-iii",
+    "title": "We Loved Once and True III",
+    "chapterId": "chapter-2",
+    "order": 21,
+    "tags": [
+      "honor",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Mary Linton",
+    "startLocationId": "loc-cumberland-forest",
+    "prerequisiteMissionIds": [
+      "mission-we-loved-once-and-true-ii"
+    ],
+    "summary": "Arthur finds Jamie among the Chelonians and can talk or shoot his way to bringing the young man back to Mary.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Optional follow-up; complete while Mary’s strand is available",
+    "objectives": [
+      {
+        "id": "obj-we-loved-once-and-true-iii-1",
+        "label": "Find Jamie with the Chelonians",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-we-loved-once-and-true-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-we-loved-once-and-true-iii-2",
+        "label": "Get him away from the group",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-we-loved-once-and-true-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-we-loved-once-and-true-iii-3",
+        "label": "Return him to Mary",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-we-loved-once-and-true-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "goldRequirements": [
+      {
+        "id": "gold-we-loved-once-and-true-iii-1",
+        "label": "Peacefully convince the Chelonians to let you take Jamie",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-we-loved-once-and-true-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-we-loved-once-and-true-iii-2",
+        "label": "Return Jamie to Mary within 2 minutes",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-we-loved-once-and-true-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-we-loved-once-and-true-iii"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-we-loved-once-and-true-iii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-money-lending-and-other-sins-i",
+    "slug": "money-lending-and-other-sins-i",
+    "title": "Money Lending and Other Sins I",
+    "chapterId": "chapter-2",
+    "order": 22,
+    "tags": [
+      "debt-collection",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Leopold Strauss",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-americans-at-rest"
+    ],
+    "followUpMissionIds": [
+      "mission-money-lending-and-other-sins-ii"
+    ],
+    "summary": "Strauss asks Arthur to collect from camp debtors around the Heartlands.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Strauss’s Chapter 2 debt collections should be finished before leaving the chapter",
+    "sourceIds": [
+      "wiki-money-lending-i-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-i-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-money-lending-and-other-sins-ii",
+    "slug": "money-lending-and-other-sins-ii",
+    "title": "Money Lending and Other Sins II",
+    "chapterId": "chapter-2",
+    "order": 23,
+    "tags": [
+      "debt-collection",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Leopold Strauss",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-money-lending-and-other-sins-i"
+    ],
+    "summary": "Arthur continues Strauss’s collections. Several debtors can be found independently.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Finish remaining Chapter 2 debtors before leaving Horseshoe Overlook",
+    "sourceIds": [
+      "wiki-money-lending-i-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-i-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-money-lending-and-other-sins-iii",
+    "slug": "money-lending-and-other-sins-iii",
+    "title": "Money Lending and Other Sins III",
+    "chapterId": "chapter-2",
+    "order": 24,
+    "tags": [
+      "debt-collection",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Leopold Strauss",
+    "startLocationId": "loc-horseshoe-overlook",
+    "prerequisiteMissionIds": [
+      "mission-money-lending-and-other-sins-ii"
+    ],
+    "summary": "Further debt work for Strauss during the Horseshoe Overlook chapter.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "missable": true,
+    "missableWarning": "Complete before leaving Chapter 2",
+    "sourceIds": [
+      "wiki-money-lending-i-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-i-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-further-questions-of-female-suffrage",
+    "slug": "further-questions-of-female-suffrage",
+    "title": "Further Questions of Female Suffrage",
+    "chapterId": "chapter-3",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-further-questions-of-female-suffrage"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-further-questions-of-female-suffrage"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-new-south",
+    "slug": "the-new-south",
+    "title": "The New South",
+    "chapterId": "chapter-3",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-new-south"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-new-south"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-course-of-true-love-i",
+    "slug": "the-course-of-true-love-i",
+    "title": "The Course of True Love I",
+    "chapterId": "chapter-3",
+    "order": 3,
+    "tags": [
+      "optional-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-course-of-true-love-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-course-of-true-love-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-course-of-true-love-ii",
+    "slug": "the-course-of-true-love-ii",
+    "title": "The Course of True Love II",
+    "chapterId": "chapter-3",
+    "order": 4,
+    "tags": [
+      "optional-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-course-of-true-love-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-course-of-true-love-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-course-of-true-love-iii",
+    "slug": "the-course-of-true-love-iii",
+    "title": "The Course of True Love III",
+    "chapterId": "chapter-3",
+    "order": 5,
+    "tags": [
+      "optional-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-course-of-true-love-iii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-course-of-true-love-iii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-american-distillation",
+    "slug": "american-distillation",
+    "title": "American Distillation",
+    "chapterId": "chapter-3",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-american-distillation"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-american-distillation"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-an-honest-mistake",
+    "slug": "an-honest-mistake",
+    "title": "An Honest Mistake",
+    "chapterId": "chapter-3",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-an-honest-mistake"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-an-honest-mistake"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-preaching-forgiveness-as-he-went",
+    "slug": "preaching-forgiveness-as-he-went",
+    "title": "Preaching Forgiveness as He Went",
+    "chapterId": "chapter-3",
+    "order": 8,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-preaching-forgiveness-as-he-went"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-preaching-forgiveness-as-he-went"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-sodom-back-to-gomorrah",
+    "slug": "sodom-back-to-gomorrah",
+    "title": "Sodom? Back to Gomorrah",
+    "chapterId": "chapter-3",
+    "order": 9,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-sodom-back-to-gomorrah"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-sodom-back-to-gomorrah"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-advertising-the-new-american-art",
+    "slug": "advertising-the-new-american-art",
+    "title": "Advertising, The New American Art",
+    "chapterId": "chapter-3",
+    "order": 10,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-advertising-the-new-american-art"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-advertising-the-new-american-art"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-magicians-for-sport",
+    "slug": "magicians-for-sport",
+    "title": "Magicians for Sport",
+    "chapterId": "chapter-3",
+    "order": 11,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-magicians-for-sport"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-magicians-for-sport"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-fine-joys-of-tobacco",
+    "slug": "the-fine-joys-of-tobacco",
+    "title": "The Fine Joys of Tobacco",
+    "chapterId": "chapter-3",
+    "order": 12,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-fine-joys-of-tobacco"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-fine-joys-of-tobacco"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-horse-flesh-for-dinner",
+    "slug": "horse-flesh-for-dinner",
+    "title": "Horse Flesh for Dinner",
+    "chapterId": "chapter-3",
+    "order": 13,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-horse-flesh-for-dinner"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse-flesh-for-dinner"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-friends-in-very-low-places",
+    "slug": "friends-in-very-low-places",
+    "title": "Friends in Very Low Places",
+    "chapterId": "chapter-3",
+    "order": 14,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-friends-in-very-low-places"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-friends-in-very-low-places"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-blessed-are-the-peacemakers",
+    "slug": "blessed-are-the-peacemakers",
+    "title": "Blessed are the Peacemakers",
+    "chapterId": "chapter-3",
+    "order": 15,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-blessed-are-the-peacemakers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-blessed-are-the-peacemakers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-short-walk-in-a-pretty-town",
+    "slug": "a-short-walk-in-a-pretty-town",
+    "title": "A Short Walk in a Pretty Town",
+    "chapterId": "chapter-3",
+    "order": 16,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-short-walk-in-a-pretty-town"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-short-walk-in-a-pretty-town"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-blood-feuds-ancient-and-modern",
+    "slug": "blood-feuds-ancient-and-modern",
+    "title": "Blood Feuds, Ancient and Modern",
+    "chapterId": "chapter-3",
+    "order": 17,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-blood-feuds-ancient-and-modern"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-blood-feuds-ancient-and-modern"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-battle-of-shady-belle",
+    "slug": "the-battle-of-shady-belle",
+    "title": "The Battle of Shady Belle",
+    "chapterId": "chapter-3",
+    "order": 18,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-clemens-point",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-battle-of-shady-belle"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-battle-of-shady-belle"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-joys-of-civilization",
+    "slug": "the-joys-of-civilization",
+    "title": "The Joys of Civilization",
+    "chapterId": "chapter-4",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-joys-of-civilization"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-joys-of-civilization"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-no-no-and-thrice-no",
+    "slug": "no-no-and-thrice-no",
+    "title": "No, No and Thrice, No",
+    "chapterId": "chapter-4",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-no-no-and-thrice-no"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-no-no-and-thrice-no"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-angelo-bronte-a-man-of-honor",
+    "slug": "angelo-bronte-a-man-of-honor",
+    "title": "Angelo Bronte, A Man of Honor",
+    "chapterId": "chapter-4",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-angelo-bronte-a-man-of-honor"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-angelo-bronte-a-man-of-honor"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-help-a-brother-out",
+    "slug": "help-a-brother-out",
+    "title": "Help a Brother Out",
+    "chapterId": "chapter-4",
+    "order": 4,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-help-a-brother-out"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-help-a-brother-out"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-brothers-and-sisters-one-and-all",
+    "slug": "brothers-and-sisters-one-and-all",
+    "title": "Brothers and Sisters, One and All",
+    "chapterId": "chapter-4",
+    "order": 5,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-brothers-and-sisters-one-and-all"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-brothers-and-sisters-one-and-all"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-gilded-cage",
+    "slug": "the-gilded-cage",
+    "title": "The Gilded Cage",
+    "chapterId": "chapter-4",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-gilded-cage"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-gilded-cage"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-fine-night-of-debauchery",
+    "slug": "a-fine-night-of-debauchery",
+    "title": "A Fine Night of Debauchery",
+    "chapterId": "chapter-4",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-fine-night-of-debauchery"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fine-night-of-debauchery"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-horsemen-apocalypses",
+    "slug": "horsemen-apocalypses",
+    "title": "Horsemen, Apocalypses",
+    "chapterId": "chapter-4",
+    "order": 8,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-horsemen-apocalypses"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horsemen-apocalypses"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-urban-pleasures",
+    "slug": "urban-pleasures",
+    "title": "Urban Pleasures",
+    "chapterId": "chapter-4",
+    "order": 9,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-urban-pleasures"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-urban-pleasures"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-country-pursuits",
+    "slug": "country-pursuits",
+    "title": "Country Pursuits",
+    "chapterId": "chapter-4",
+    "order": 10,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-country-pursuits"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-country-pursuits"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-revenge-is-a-dish-best-eaten",
+    "slug": "revenge-is-a-dish-best-eaten",
+    "title": "Revenge is a Dish Best Eaten",
+    "chapterId": "chapter-4",
+    "order": 11,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-revenge-is-a-dish-best-eaten"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-revenge-is-a-dish-best-eaten"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-fatherhood-and-other-dreams",
+    "slug": "fatherhood-and-other-dreams",
+    "title": "Fatherhood and Other Dreams",
+    "chapterId": "chapter-4",
+    "order": 12,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-fatherhood-and-other-dreams"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fatherhood-and-other-dreams"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-american-fathers-i",
+    "slug": "american-fathers-i",
+    "title": "American Fathers I",
+    "chapterId": "chapter-4",
+    "order": 13,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-american-fathers-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-american-fathers-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-american-fathers-ii",
+    "slug": "american-fathers-ii",
+    "title": "American Fathers II",
+    "chapterId": "chapter-4",
+    "order": 14,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-american-fathers-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-american-fathers-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-banking-the-old-american-art",
+    "slug": "banking-the-old-american-art",
+    "title": "Banking, The Old American Art",
+    "chapterId": "chapter-4",
+    "order": 15,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-banking-the-old-american-art"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-banking-the-old-american-art"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-lost-and-not-quite-found",
+    "slug": "lost-and-not-quite-found",
+    "title": "Lost and Not Quite Found",
+    "chapterId": "chapter-4",
+    "order": 16,
+    "tags": [
+      "optional-story"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-lost-and-not-quite-found"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-lost-and-not-quite-found"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-money-lending-and-other-sins-v",
+    "slug": "money-lending-and-other-sins-v",
+    "title": "Money Lending and Other Sins V",
+    "chapterId": "chapter-4",
+    "order": 17,
+    "tags": [
+      "debt-collection",
+      "missable"
+    ],
+    "startLocationId": "loc-shady-belle",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-v"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-v"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-welcome-to-the-new-world",
+    "slug": "welcome-to-the-new-world",
+    "title": "Welcome to the New World",
+    "chapterId": "chapter-5",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-welcome-to-the-new-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-welcome-to-the-new-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-kind-and-benevolent-despot",
+    "slug": "a-kind-and-benevolent-despot",
+    "title": "A Kind and Benevolent Despot",
+    "chapterId": "chapter-5",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-kind-and-benevolent-despot"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-kind-and-benevolent-despot"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-savagery-unleashed",
+    "slug": "savagery-unleashed",
+    "title": "Savagery Unleashed",
+    "chapterId": "chapter-5",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-savagery-unleashed"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-savagery-unleashed"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-hell-hath-no-fury",
+    "slug": "hell-hath-no-fury",
+    "title": "Hell Hath No Fury",
+    "chapterId": "chapter-5",
+    "order": 4,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-hell-hath-no-fury"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-hell-hath-no-fury"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-paradise-mercifully-departed",
+    "slug": "paradise-mercifully-departed",
+    "title": "Paradise Mercifully Departed",
+    "chapterId": "chapter-5",
+    "order": 5,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-paradise-mercifully-departed"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paradise-mercifully-departed"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-dear-uncle-tacitus",
+    "slug": "dear-uncle-tacitus",
+    "title": "Dear Uncle Tacitus",
+    "chapterId": "chapter-5",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-dear-uncle-tacitus"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dear-uncle-tacitus"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-fleeting-joy",
+    "slug": "fleeting-joy",
+    "title": "Fleeting Joy",
+    "chapterId": "chapter-5",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-guarma",
+    "availability": {
+      "displayChapterId": "chapter-5",
+      "availableChapterIds": [
+        "chapter-5"
+      ],
+      "earliestChapterId": "chapter-5",
+      "latestChapterId": "chapter-5"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-fleeting-joy"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fleeting-joy"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-thats-murfree-country",
+    "slug": "thats-murfree-country",
+    "title": "That's Murfree Country",
+    "chapterId": "chapter-6",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-thats-murfree-country"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-thats-murfree-country"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-fork-in-the-road",
+    "slug": "a-fork-in-the-road",
+    "title": "A Fork in the Road",
+    "chapterId": "chapter-6",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-fork-in-the-road"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fork-in-the-road"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-icarus-and-friends",
+    "slug": "icarus-and-friends",
+    "title": "Icarus and Friends",
+    "chapterId": "chapter-6",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-icarus-and-friends"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-icarus-and-friends"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-visiting-hours",
+    "slug": "visiting-hours",
+    "title": "Visiting Hours",
+    "chapterId": "chapter-6",
+    "order": 4,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-visiting-hours"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-visiting-hours"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-just-a-social-call",
+    "slug": "just-a-social-call",
+    "title": "Just a Social Call",
+    "chapterId": "chapter-6",
+    "order": 5,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-just-a-social-call"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-just-a-social-call"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-delights-of-van-horn",
+    "slug": "the-delights-of-van-horn",
+    "title": "The Delights of Van Horn",
+    "chapterId": "chapter-6",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-delights-of-van-horn"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-delights-of-van-horn"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-rage-unleashed",
+    "slug": "a-rage-unleashed",
+    "title": "A Rage Unleashed",
+    "chapterId": "chapter-6",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-rage-unleashed"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-rage-unleashed"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-goodbye-dear-friend",
+    "slug": "goodbye-dear-friend",
+    "title": "Goodbye, Dear Friend",
+    "chapterId": "chapter-6",
+    "order": 8,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-goodbye-dear-friend"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-goodbye-dear-friend"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-archeology-for-beginners",
+    "slug": "archeology-for-beginners",
+    "title": "Archeology for Beginners",
+    "chapterId": "chapter-6",
+    "order": 9,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-archeology-for-beginners"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-archeology-for-beginners"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-honor-amongst-thieves",
+    "slug": "honor-amongst-thieves",
+    "title": "Honor, Amongst Thieves",
+    "chapterId": "chapter-6",
+    "order": 10,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-honor-amongst-thieves"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-honor-amongst-thieves"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-fine-art-of-conversation",
+    "slug": "the-fine-art-of-conversation",
+    "title": "The Fine Art of Conversation",
+    "chapterId": "chapter-6",
+    "order": 11,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-fine-art-of-conversation"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-fine-art-of-conversation"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-favored-sons",
+    "slug": "favored-sons",
+    "title": "Favored Sons",
+    "chapterId": "chapter-6",
+    "order": 12,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-favored-sons"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-favored-sons"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-kings-son",
+    "slug": "the-kings-son",
+    "title": "The King's Son",
+    "chapterId": "chapter-6",
+    "order": 13,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-kings-son"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-kings-son"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-mrs-sadie-adler-widow-i",
+    "slug": "mrs-sadie-adler-widow-i",
+    "title": "Mrs. Sadie Adler, Widow I",
+    "chapterId": "chapter-6",
+    "order": 14,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-mrs-sadie-adler-widow-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-mrs-sadie-adler-widow-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-mrs-sadie-adler-widow-ii",
+    "slug": "mrs-sadie-adler-widow-ii",
+    "title": "Mrs. Sadie Adler, Widow II",
+    "chapterId": "chapter-6",
+    "order": 15,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-mrs-sadie-adler-widow-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-mrs-sadie-adler-widow-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-bridge-to-nowhere",
+    "slug": "the-bridge-to-nowhere",
+    "title": "The Bridge to Nowhere",
+    "chapterId": "chapter-6",
+    "order": 16,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-bridge-to-nowhere"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-bridge-to-nowhere"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-my-last-boy",
+    "slug": "my-last-boy",
+    "title": "My Last Boy",
+    "chapterId": "chapter-6",
+    "order": 17,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-my-last-boy"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-my-last-boy"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-our-best-selves",
+    "slug": "our-best-selves",
+    "title": "Our Best Selves",
+    "chapterId": "chapter-6",
+    "order": 18,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-our-best-selves"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-our-best-selves"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-red-dead-redemption",
+    "slug": "red-dead-redemption",
+    "title": "Red Dead Redemption",
+    "chapterId": "chapter-6",
+    "order": 19,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-red-dead-redemption"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-red-dead-redemption"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-course-of-true-love-iv",
+    "slug": "the-course-of-true-love-iv",
+    "title": "The Course of True Love IV",
+    "chapterId": "chapter-6",
+    "order": 20,
+    "tags": [
+      "optional-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-course-of-true-love-iv"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-course-of-true-love-iv"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-course-of-true-love-v",
+    "slug": "the-course-of-true-love-v",
+    "title": "The Course of True Love V",
+    "chapterId": "chapter-6",
+    "order": 21,
+    "tags": [
+      "optional-story"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-course-of-true-love-v"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-course-of-true-love-v"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-money-lending-and-other-sins-vi",
+    "slug": "money-lending-and-other-sins-vi",
+    "title": "Money Lending and Other Sins VI",
+    "chapterId": "chapter-6",
+    "order": 22,
+    "tags": [
+      "debt-collection",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-vi"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-vi"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-money-lending-and-other-sins-vii",
+    "slug": "money-lending-and-other-sins-vii",
+    "title": "Money Lending and Other Sins VII",
+    "chapterId": "chapter-6",
+    "order": 23,
+    "tags": [
+      "debt-collection",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-vii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-vii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-do-not-seek-absolution-i",
+    "slug": "do-not-seek-absolution-i",
+    "title": "Do Not Seek Absolution I",
+    "chapterId": "chapter-6",
+    "order": 24,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-do-not-seek-absolution-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-do-not-seek-absolution-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-do-not-seek-absolution-ii",
+    "slug": "do-not-seek-absolution-ii",
+    "title": "Do Not Seek Absolution II",
+    "chapterId": "chapter-6",
+    "order": 25,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-do-not-seek-absolution-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-do-not-seek-absolution-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-of-men-and-angels-i",
+    "slug": "of-men-and-angels-i",
+    "title": "Of Men and Angels I",
+    "chapterId": "chapter-6",
+    "order": 26,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-of-men-and-angels-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-of-men-and-angels-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-of-men-and-angels-ii",
+    "slug": "of-men-and-angels-ii",
+    "title": "Of Men and Angels II",
+    "chapterId": "chapter-6",
+    "order": 27,
+    "tags": [
+      "honor",
+      "missable"
+    ],
+    "startLocationId": "loc-beaver-hollow",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "missable": true,
+    "missableWarning": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-of-men-and-angels-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-of-men-and-angels-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-wheel",
+    "slug": "the-wheel",
+    "title": "The Wheel",
+    "chapterId": "epilogue-1",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-wheel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-wheel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-simple-pleasures",
+    "slug": "simple-pleasures",
+    "title": "Simple Pleasures",
+    "chapterId": "epilogue-1",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-simple-pleasures"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-simple-pleasures"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-farming-for-beginners",
+    "slug": "farming-for-beginners",
+    "title": "Farming, For Beginners",
+    "chapterId": "epilogue-1",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-farming-for-beginners"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-farming-for-beginners"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-fatherhood-for-beginners",
+    "slug": "fatherhood-for-beginners",
+    "title": "Fatherhood, For Beginners",
+    "chapterId": "epilogue-1",
+    "order": 4,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-fatherhood-for-beginners"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fatherhood-for-beginners"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-old-habits",
+    "slug": "old-habits",
+    "title": "Old Habits",
+    "chapterId": "epilogue-1",
+    "order": 5,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-old-habits"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-old-habits"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-fatherhood-for-idiots",
+    "slug": "fatherhood-for-idiots",
+    "title": "Fatherhood, For Idiots",
+    "chapterId": "epilogue-1",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-fatherhood-for-idiots"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fatherhood-for-idiots"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-jim-milton-rides-again",
+    "slug": "jim-milton-rides-again",
+    "title": "Jim Milton Rides, Again?",
+    "chapterId": "epilogue-1",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-jim-milton-rides-again"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-jim-milton-rides-again"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-motherhood",
+    "slug": "motherhood",
+    "title": "Motherhood",
+    "chapterId": "epilogue-1",
+    "order": 8,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-motherhood"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-motherhood"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-gainful-employment",
+    "slug": "gainful-employment",
+    "title": "Gainful Employment",
+    "chapterId": "epilogue-1",
+    "order": 9,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-gainful-employment"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gainful-employment"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-landowning-classes",
+    "slug": "the-landowning-classes",
+    "title": "The Landowning Classes",
+    "chapterId": "epilogue-1",
+    "order": 10,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-landowning-classes"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-landowning-classes"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-home-of-the-gentry",
+    "slug": "home-of-the-gentry",
+    "title": "Home of the Gentry?",
+    "chapterId": "epilogue-1",
+    "order": 11,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-pronghorn-ranch",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-1"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-home-of-the-gentry"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-home-of-the-gentry"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-bare-knuckle-friendships",
+    "slug": "bare-knuckle-friendships",
+    "title": "Bare Knuckle Friendships",
+    "chapterId": "epilogue-2",
+    "order": 1,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-bare-knuckle-friendships"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-bare-knuckle-friendships"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-an-honest-days-labors",
+    "slug": "an-honest-days-labors",
+    "title": "An Honest Day's Labors",
+    "chapterId": "epilogue-2",
+    "order": 2,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-an-honest-days-labors"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-an-honest-days-labors"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-home-improvement-for-beginners",
+    "slug": "home-improvement-for-beginners",
+    "title": "Home Improvement for Beginners",
+    "chapterId": "epilogue-2",
+    "order": 3,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-home-improvement-for-beginners"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-home-improvement-for-beginners"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-tool-box",
+    "slug": "the-tool-box",
+    "title": "The Tool Box",
+    "chapterId": "epilogue-2",
+    "order": 4,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-tool-box"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-tool-box"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-new-jerusalem",
+    "slug": "a-new-jerusalem",
+    "title": "A New Jerusalem",
+    "chapterId": "epilogue-2",
+    "order": 5,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-new-jerusalem"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-new-jerusalem"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-quick-favor-for-an-old-friend",
+    "slug": "a-quick-favor-for-an-old-friend",
+    "title": "A Quick Favor for an Old Friend",
+    "chapterId": "epilogue-2",
+    "order": 6,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-quick-favor-for-an-old-friend"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-quick-favor-for-an-old-friend"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-uncles-bad-day",
+    "slug": "uncles-bad-day",
+    "title": "Uncle's Bad Day",
+    "chapterId": "epilogue-2",
+    "order": 7,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-uncles-bad-day"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-uncles-bad-day"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-the-best-of-women",
+    "slug": "the-best-of-women",
+    "title": "The Best of Women",
+    "chapterId": "epilogue-2",
+    "order": 8,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-the-best-of-women"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-best-of-women"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-trying-again",
+    "slug": "trying-again",
+    "title": "Trying Again",
+    "chapterId": "epilogue-2",
+    "order": 9,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-trying-again"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-trying-again"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-really-big-bastard",
+    "slug": "a-really-big-bastard",
+    "title": "A Really Big Bastard",
+    "chapterId": "epilogue-2",
+    "order": 10,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-really-big-bastard"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-really-big-bastard"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-a-new-future-imagined",
+    "slug": "a-new-future-imagined",
+    "title": "A New Future Imagined",
+    "chapterId": "epilogue-2",
+    "order": 11,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-a-new-future-imagined"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-new-future-imagined"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "mission-american-venom",
+    "slug": "american-venom",
+    "title": "American Venom",
+    "chapterId": "epilogue-2",
+    "order": 12,
+    "tags": [
+      "main-story"
+    ],
+    "startLocationId": "loc-beechers-hope",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "missable": false,
+    "sourceIds": [
+      "wiki-american-venom"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-american-venom"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

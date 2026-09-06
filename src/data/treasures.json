@@ -1,0 +1,604 @@
+[
+  {
+    "id": "treasure-jack-hall-gang",
+    "name": "Jack Hall Gang",
+    "description": "Three maps left by an old outlaw gang, ending at a rocky island on O’Creagh’s Run.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4",
+        "chapter-6",
+        "epilogue-1",
+        "epilogue-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "sourceIds": [
+      "wiki-jack-hall-gang-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-jack-hall-gang-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "jh-1",
+        "order": 1,
+        "title": "Buy or take Map 1 from Máximo near Flatneck Station",
+        "type": "map-pickup",
+        "locationId": "loc-flatneck-station",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-jack-hall-gang-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "jh-2",
+        "order": 2,
+        "title": "Find Map 2 at Caliban’s Seat",
+        "type": "next-map",
+        "locationId": "loc-calibans-seat",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-jack-hall-gang-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "jh-3",
+        "order": 3,
+        "title": "Find Map 3 at Cotorra Springs",
+        "type": "next-map",
+        "locationId": "loc-cotorra-springs",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-jack-hall-gang-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "jh-4",
+        "order": 4,
+        "title": "Collect the gold bars at O’Creagh’s Run",
+        "type": "treasure",
+        "locationId": "loc-ocreaghs-run",
+        "reward": "2 gold bars",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-jack-hall-gang-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "treasure-high-stakes",
+    "name": "High Stakes",
+    "description": "A rumored cursed map chain that starts after the All That Glitters stranger encounter.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4",
+        "chapter-6",
+        "epilogue-1",
+        "epilogue-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "epilogue-2",
+      "notes": "First map appears after triggering All That Glitters; the hunter can be found between Diablo Ridge and Riggs Station."
+    },
+    "sourceIds": [
+      "wiki-high-stakes-treasure-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-high-stakes-treasure-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "hs-1",
+        "order": 1,
+        "title": "Take Map 1 from the treasure hunter",
+        "type": "map-pickup",
+        "locationId": "loc-diablo-ridge",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-high-stakes-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "hs-2",
+        "order": 2,
+        "title": "Find Map 2 behind Cumberland Falls",
+        "type": "next-map",
+        "locationId": "loc-cumberland-falls",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-high-stakes-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "hs-3",
+        "order": 3,
+        "title": "Find Map 3 at Barrow Lagoon",
+        "type": "next-map",
+        "locationId": "loc-barrow-lagoon",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-high-stakes-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "hs-4",
+        "order": 4,
+        "title": "Collect the treasure near Fort Wallace",
+        "type": "treasure",
+        "locationId": "loc-fort-wallace",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-high-stakes-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "treasure-poisonous-trail",
+    "name": "Poisonous Trail",
+    "description": "Maps hidden from Cairn Lodge to Serpent Mound, ending in a cave at Elysian Pool.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4",
+        "chapter-6",
+        "epilogue-1",
+        "epilogue-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "sourceIds": [
+      "wiki-poisonous-trail-treasure-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-poisonous-trail-treasure-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "pt-1",
+        "order": 1,
+        "title": "Find Map 1 under the bed at Cairn Lodge",
+        "type": "map-pickup",
+        "locationId": "loc-cairn-lodge",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-poisonous-trail-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "pt-2",
+        "order": 2,
+        "title": "Find Map 2 in the hollow tree near Face Rock",
+        "type": "next-map",
+        "locationId": "loc-face-rock",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-poisonous-trail-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "pt-3",
+        "order": 3,
+        "title": "Find Map 3 at Serpent Mound",
+        "type": "next-map",
+        "locationId": "loc-serpent-mound",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-poisonous-trail-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "pt-4",
+        "order": 4,
+        "title": "Collect 4 gold bars in the Elysian Pool cave",
+        "type": "treasure",
+        "locationId": "loc-elysian-pool",
+        "reward": "4 gold bars",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-poisonous-trail-treasure-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "treasure-le-tresor-des-morts",
+    "name": "Le Trésor des Morts",
+    "description": "A short chain from burned Limpany to a Saint Denis mausoleum.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4",
+        "chapter-6",
+        "epilogue-1",
+        "epilogue-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "epilogue-2",
+      "platforms": [
+        "ps4",
+        "ps5",
+        "xbox-one",
+        "xbox-series"
+      ],
+      "preorderOnly": true,
+      "notes": "Exclusive to digital versions pre-ordered through PlayStation Store and Xbox Store prior to 15 August 2018."
+    },
+    "sourceIds": [
+      "wiki-le-tresor-des-morts-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-le-tresor-des-morts-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "lt-1",
+        "order": 1,
+        "title": "Find Map 1 in the unburnt jail cell at Limpany",
+        "type": "map-pickup",
+        "locationId": "loc-limpany",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-le-tresor-des-morts-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "lt-2",
+        "order": 2,
+        "title": "Find the riddle note in the Saint Denis dock tunnels",
+        "type": "clue",
+        "locationId": "loc-sd-docks",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-le-tresor-des-morts-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "lt-3",
+        "order": 3,
+        "title": "Collect 6 gold bars in the Saint Denis cemetery mausoleum",
+        "type": "treasure",
+        "locationId": "loc-sd-graveyard",
+        "reward": "6 gold bars",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-le-tresor-des-morts-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "treasure-mended-map",
+    "name": "Mended Map (Torn Treasure Map)",
+    "description": "Two map halves from hostile hermits; the treasure cannot be collected until after Epilogue Part 1.",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4",
+        "chapter-6",
+        "epilogue-1",
+        "epilogue-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "epilogue-2",
+      "notes": "Map pieces can be found from Chapter 2; the treasure is only collectable after completing Epilogue, Part 1 (without glitches)."
+    },
+    "sourceIds": [
+      "wiki-mended-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-mended-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "mm-1",
+        "order": 1,
+        "title": "Take the first map half from the Hermit Woman’s cabin",
+        "type": "map-pickup",
+        "locationId": "loc-little-creek-hermit",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-mended-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "mm-2",
+        "order": 2,
+        "title": "Take the second map half at Manito Glade",
+        "type": "next-map",
+        "locationId": "loc-manito-glade",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-mended-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "mm-3",
+        "order": 3,
+        "title": "Collect Otis Miller’s Revolver west of Twin Rocks",
+        "type": "treasure",
+        "locationId": "loc-twin-rocks",
+        "reward": "Otis Miller's Revolver",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-mended-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "treasure-landmarks-of-riches",
+    "name": "Landmarks of Riches",
+    "description": "Four maps from landmarks across the map, ending under a sundial on Mount Shann.",
+    "availability": {
+      "displayChapterId": "epilogue-1",
+      "availableChapterIds": [
+        "epilogue-1",
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-1",
+      "latestChapterId": "epilogue-2",
+      "notes": "Initially PC-only (Oct–Dec 2019); later added to consoles with the Moonshiners update.",
+      "platforms": [
+        "pc",
+        "ps4",
+        "ps5",
+        "xbox-one",
+        "xbox-series"
+      ]
+    },
+    "sourceIds": [
+      "wiki-landmarks-of-riches-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-landmarks-of-riches-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "lr-1",
+        "order": 1,
+        "title": "Find Map 1 in the Obelisk near Owanjila",
+        "type": "map-pickup",
+        "locationId": "loc-obelisk",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-landmarks-of-riches-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "lr-2",
+        "order": 2,
+        "title": "Find Map 2 on the Tiny Church roof",
+        "type": "next-map",
+        "locationId": "loc-tiny-church",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-landmarks-of-riches-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "lr-3",
+        "order": 3,
+        "title": "Find Map 3 at the Mysterious Hill Home",
+        "type": "next-map",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-landmarks-of-riches-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "lr-4",
+        "order": 4,
+        "title": "Find Map 4 in the tree at Bolger Glade",
+        "type": "next-map",
+        "locationId": "loc-bolger-glade",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-landmarks-of-riches-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "lr-5",
+        "order": 5,
+        "title": "Collect 6 gold bars on Mount Shann",
+        "type": "treasure",
+        "locationId": "loc-mount-shann",
+        "reward": "6 gold bars",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-landmarks-of-riches-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "treasure-elemental-trail",
+    "name": "The Elemental Trail",
+    "description": "A New Austin chain that is only available after the epilogue.",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2"
+    },
+    "sourceIds": [
+      "wiki-elemental-trail-map"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "wiki-elemental-trail-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "steps": [
+      {
+        "id": "et-1",
+        "order": 1,
+        "title": "Loot Map 1 from the hanging corpse at the Sea of Coronado",
+        "type": "map-pickup",
+        "locationId": "loc-sea-of-coronado",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-elemental-trail-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "et-2",
+        "order": 2,
+        "title": "Find Map 2 in the chimney at Greenhollow",
+        "type": "next-map",
+        "locationId": "loc-greenhollow",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-elemental-trail-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "et-3",
+        "order": 3,
+        "title": "Find Map 3 on the gutter near Benedict Point",
+        "type": "next-map",
+        "locationId": "loc-benedict-point",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-elemental-trail-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "et-4",
+        "order": 4,
+        "title": "Collect the treasure at Coot’s Chapel",
+        "type": "treasure",
+        "locationId": "loc-coots-chapel",
+        "reward": "Crow Beak Trinket, gold bar, special horse items",
+        "research": {
+          "verificationStatus": "cross-checked",
+          "sourceIds": [
+            "wiki-elemental-trail-map"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
+  }
+]
