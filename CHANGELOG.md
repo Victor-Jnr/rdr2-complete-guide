@@ -46,6 +46,7 @@
 - `src/services/exportImport.ts` — transactional backup/restore
 - `src/features/**` — Journey, Treasures, Map, Search, Progress, Settings, About
 - `src/components/**` — shared journal UI, map, dialogs, attribution
+- `src/services/treasures.test.ts` — treasure-chain dataset tests
 - `src/services/journey.test.ts` — Chapter 1–2 / later-chapter dataset contract tests
 - `documentation/README.md` — index of numbered change documents
 - `CHANGELOG.md` — this file
@@ -155,4 +156,13 @@
 - `documentation/README.md` — linked 002
 - `README.md` — listed 002 in Documentation
 - `CHANGELOG.md` — added 002 section
+
+## 003 — Treasure chain tests (2026-09-06)
+
+- `src/services/treasures.test.ts` — added seven-chain and pre-order tests
+- `documentation/003-treasure-chain-tests.md` — added this change document
+- `documentation/README.md` — linked 003
+- `README.md` — listed 003 in Documentation
+- `CHANGELOG.md` — added 003 section
+
 
