@@ -46,6 +46,7 @@
 - `src/services/exportImport.ts` — transactional backup/restore
 - `src/features/**` — Journey, Treasures, Map, Search, Progress, Settings, About
 - `src/components/**` — shared journal UI, map, dialogs, attribution
+- `src/services/search-progress.test.ts` — MiniSearch grouping and progress-empty tests
 - `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
 - `src/services/treasures.test.ts` — treasure-chain dataset tests
 - `src/services/journey.test.ts` — Chapter 1–2 / later-chapter dataset contract tests
@@ -173,6 +174,15 @@
 - `documentation/README.md` — linked 004
 - `README.md` — listed 004 in Documentation
 - `CHANGELOG.md` — added 004 section
+
+## 005 — Search and progress tests (2026-09-06)
+
+- `src/services/search-progress.test.ts` — added grouped search and empty-progress tests
+- `documentation/005-search-progress-tests.md` — added this change document
+- `documentation/README.md` — linked 005
+- `README.md` — listed 005 in Documentation
+- `CHANGELOG.md` — added 005 section
+
 
 
 

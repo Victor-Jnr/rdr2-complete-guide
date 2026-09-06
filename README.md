@@ -90,6 +90,7 @@ Each record carries `research.verificationStatus`: `unresearched` | `researched`
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [005 — Search and progress tests](documentation/005-search-progress-tests.md)
 - [004 — Native-resolution world map tiles](documentation/004-native-map-tiles.md)
 - [003 — Treasure chain tests](documentation/003-treasure-chain-tests.md)
 - [002 — Journey checklists and Chapter 1–2 data tests](documentation/002-journey-checklist-tests.md)
