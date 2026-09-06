@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [010](010-map-pin-calibration-fix.md) | Map pin calibration fix |
 | [009](009-compendium-general-locations.md) | Compendium with general locations |
 | [008](008-public-domain-map-pins.md) | Public-domain map pins and layered map |
 | [007](007-wiki-data-and-map-zoom.md) | Wiki dataset fill and map overview zoom |

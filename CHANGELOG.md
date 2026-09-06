@@ -62,7 +62,7 @@
 - `src/services/journey.test.ts` — Chapter 1–2 / later-chapter dataset contract tests
 - `scripts/research/import-jeanropke.mjs` — cached public-domain RDOMap pin importer
 - `scripts/research/jeanropke-transform.mjs` — jeanropke lat/lng affine fit onto 0–1 map space
-- `scripts/research/calibration.json` — town control points, fitted matrix, and residuals
+- `scripts/research/calibration.json` — station-icon control points, fitted matrix, residuals, and `maxRms`
 - `scripts/research/calibration.test.ts` — RMS residual test against committed control points
 - `src/data/markerCategories.ts` — map layer taxonomy, colours, and mark-entity mapping
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
@@ -336,6 +336,20 @@
 - `documentation/README.md` — linked 009
 - `README.md` — listed 009
 - `CHANGELOG.md` — added 009 section
+
+## 010 — Map pin calibration fix (2026-09-06)
+
+- `scripts/research/calibration.json` — replaced eyeballed town control points with eight station-icon points; RMS 0.00232 → 0.00153 (0.0086 → 0.0015 against icon ground truth); `maxRms` 0.0025
+- `scripts/research/import-jeanropke.mjs` — `maxRms` from calibration file; `LOCATION_ALIASES` and `TILE_MEASURED` update hand-placed `locations.json` coordinates; imports the Pronghorn Ranch area label
+- `src/data/mapMarkers.json` — regenerated all 1733 pins with the refitted transform
+- `src/data/locations.json` — 61 coordinates corrected; removed the off-map Guarma coordinate
+- `src/data/sources.json` — added `wiki-full-world-map` for tile-measured positions
+- `src/features/about/AboutPage.tsx` — version 0.4.1
+- `package.json` — version 0.4.1
+- `documentation/010-map-pin-calibration-fix.md` — added this change document
+- `documentation/README.md` — linked 010
+- `README.md` — listed 010
+- `CHANGELOG.md` — added 010 section
 
 
 

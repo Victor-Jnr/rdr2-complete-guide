@@ -3320,5 +3320,16 @@
     "verificationStatus": "researched",
     "accessedAt": "2026-09-06",
     "publicAttribution": true
+  },
+  {
+    "id": "wiki-full-world-map",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "File:Red-Dead-Redemption-2-Full-World-Map.jpg",
+    "url": "https://reddead.fandom.com/wiki/File:Red-Dead-Redemption-2-Full-World-Map.jpg",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true,
+    "notes": "Positions measured directly on the project map tiles (zoom 5 source pixels) from printed labels and station icons. See public/assets/maps/PROVENANCE.md."
   }
 ]

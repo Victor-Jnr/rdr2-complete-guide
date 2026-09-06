@@ -4,8 +4,8 @@
     "name": "Colter",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.52486,
-      "y": 0.12355
+      "x": 0.52581,
+      "y": 0.12666
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -25,16 +25,18 @@
     "name": "Adler Ranch",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.4,
-      "y": 0.18
+      "x": 0.58829,
+      "y": 0.09867
     },
     "sourceIds": [
-      "wiki-outlaws-from-the-west"
+      "wiki-outlaws-from-the-west",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-outlaws-from-the-west"
+        "wiki-outlaws-from-the-west",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -44,8 +46,8 @@
     "name": "Horseshoe Overlook",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.6155,
-      "y": 0.39818
+      "x": 0.61866,
+      "y": 0.40232
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -65,8 +67,8 @@
     "name": "Valentine",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.61847,
-      "y": 0.32692
+      "x": 0.62078,
+      "y": 0.33057
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -86,8 +88,8 @@
     "name": "Strawberry",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.48253,
-      "y": 0.44549
+      "x": 0.48768,
+      "y": 0.451
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -107,8 +109,8 @@
     "name": "Blackwater",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.567,
-      "y": 0.54123
+      "x": 0.57235,
+      "y": 0.54667
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -128,16 +130,18 @@
     "name": "Flatneck Station",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.5,
-      "y": 0.4
+      "x": 0.60715,
+      "y": 0.44454
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -147,8 +151,8 @@
     "name": "Emerald Ranch",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.76519,
-      "y": 0.35223
+      "x": 0.76621,
+      "y": 0.35486
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -168,16 +172,18 @@
     "name": "Carmody Dell",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.54,
-      "y": 0.34
+      "x": 0.70349,
+      "y": 0.31079
     },
     "sourceIds": [
-      "wiki-the-spines-of-america"
+      "wiki-the-spines-of-america",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-the-spines-of-america"
+        "wiki-the-spines-of-america",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -187,16 +193,18 @@
     "name": "Caliban's Seat",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.48,
-      "y": 0.38
+      "x": 0.60153,
+      "y": 0.37296
     },
     "sourceIds": [
-      "wiki-jack-hall-gang-map"
+      "wiki-jack-hall-gang-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-jack-hall-gang-map"
+        "wiki-jack-hall-gang-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -206,16 +214,18 @@
     "name": "Cumberland Forest",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.48,
-      "y": 0.28
+      "x": 0.65278,
+      "y": 0.275
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -225,16 +235,18 @@
     "name": "Monto's Rest",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.44,
-      "y": 0.36
+      "x": 0.50764,
+      "y": 0.42685
     },
     "sourceIds": [
-      "wiki-an-american-pastoral-scene"
+      "wiki-an-american-pastoral-scene",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-an-american-pastoral-scene"
+        "wiki-an-american-pastoral-scene",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -244,16 +256,18 @@
     "name": "Old Trail Rise",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.54,
-      "y": 0.42
+      "x": 0.73772,
+      "y": 0.41313
     },
     "sourceIds": [
-      "wiki-pouring-forth-oil-iv"
+      "wiki-pouring-forth-oil-iv",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-pouring-forth-oil-iv"
+        "wiki-pouring-forth-oil-iv",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -263,8 +277,8 @@
     "name": "Clemens Point",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.68966,
-      "y": 0.53553
+      "x": 0.69362,
+      "y": 0.53994
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -284,8 +298,8 @@
     "name": "Rhodes",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.73902,
-      "y": 0.54851
+      "x": 0.7426,
+      "y": 0.5526
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -305,8 +319,8 @@
     "name": "Saint Denis",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.86151,
-      "y": 0.57002
+      "x": 0.86402,
+      "y": 0.57326
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -326,8 +340,8 @@
     "name": "Shady Belle",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.79543,
-      "y": 0.62149
+      "x": 0.79925,
+      "y": 0.6256
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -346,10 +360,6 @@
     "id": "loc-guarma",
     "name": "Guarma",
     "region": "Guarma",
-    "coordinate": {
-      "x": 0.88,
-      "y": 0.82
-    },
     "sourceIds": [
       "wiki-missions-in-redemption-2"
     ],
@@ -366,16 +376,18 @@
     "name": "Lakay",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.7,
-      "y": 0.56
+      "x": 0.83333,
+      "y": 0.48889
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -385,8 +397,8 @@
     "name": "Beaver Hollow",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.83682,
-      "y": 0.2439
+      "x": 0.8358,
+      "y": 0.24526
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -406,16 +418,18 @@
     "name": "Pronghorn Ranch",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.32,
-      "y": 0.46
+      "x": 0.42111,
+      "y": 0.34603
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -425,8 +439,8 @@
     "name": "Beecher's Hope",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.48242,
-      "y": 0.55283
+      "x": 0.48881,
+      "y": 0.55902
     },
     "sourceIds": [
       "wiki-missions-in-redemption-2",
@@ -446,16 +460,18 @@
     "name": "Cotorra Springs",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.5,
-      "y": 0.2
+      "x": 0.64403,
+      "y": 0.20222
     },
     "sourceIds": [
-      "wiki-jack-hall-gang-map"
+      "wiki-jack-hall-gang-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-jack-hall-gang-map"
+        "wiki-jack-hall-gang-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -465,16 +481,18 @@
     "name": "O'Creagh's Run",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.58,
-      "y": 0.22
+      "x": 0.77569,
+      "y": 0.24167
     },
     "sourceIds": [
-      "wiki-jack-hall-gang-map"
+      "wiki-jack-hall-gang-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-jack-hall-gang-map"
+        "wiki-jack-hall-gang-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -484,16 +502,18 @@
     "name": "Cairn Lodge",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.36,
-      "y": 0.14
+      "x": 0.54931,
+      "y": 0.15556
     },
     "sourceIds": [
-      "wiki-poisonous-trail-treasure-map"
+      "wiki-poisonous-trail-treasure-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-poisonous-trail-treasure-map"
+        "wiki-poisonous-trail-treasure-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -503,16 +523,18 @@
     "name": "Face Rock",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.6,
-      "y": 0.5
+      "x": 0.72866,
+      "y": 0.47813
     },
     "sourceIds": [
-      "wiki-poisonous-trail-treasure-map"
+      "wiki-poisonous-trail-treasure-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-poisonous-trail-treasure-map"
+        "wiki-poisonous-trail-treasure-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -522,16 +544,18 @@
     "name": "Serpent Mound",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.7,
-      "y": 0.3
+      "x": 0.8644,
+      "y": 0.35572
     },
     "sourceIds": [
-      "wiki-poisonous-trail-treasure-map"
+      "wiki-poisonous-trail-treasure-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-poisonous-trail-treasure-map"
+        "wiki-poisonous-trail-treasure-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -541,16 +565,18 @@
     "name": "Elysian Pool",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.64,
-      "y": 0.3
+      "x": 0.84028,
+      "y": 0.29852
     },
     "sourceIds": [
-      "wiki-poisonous-trail-treasure-map"
+      "wiki-poisonous-trail-treasure-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-poisonous-trail-treasure-map"
+        "wiki-poisonous-trail-treasure-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -560,16 +586,18 @@
     "name": "Cumberland Falls",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.46,
-      "y": 0.3
+      "x": 0.54861,
+      "y": 0.35
     },
     "sourceIds": [
-      "wiki-high-stakes-treasure-map"
+      "wiki-high-stakes-treasure-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-high-stakes-treasure-map"
+        "wiki-high-stakes-treasure-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -579,16 +607,18 @@
     "name": "Barrow Lagoon",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.4,
-      "y": 0.18
+      "x": 0.55389,
+      "y": 0.22926
     },
     "sourceIds": [
-      "wiki-high-stakes-treasure-map"
+      "wiki-high-stakes-treasure-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-high-stakes-treasure-map"
+        "wiki-high-stakes-treasure-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -598,16 +628,18 @@
     "name": "Fort Wallace",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.52,
-      "y": 0.26
+      "x": 0.67264,
+      "y": 0.23815
     },
     "sourceIds": [
-      "wiki-high-stakes-treasure-map"
+      "wiki-high-stakes-treasure-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-high-stakes-treasure-map"
+        "wiki-high-stakes-treasure-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -617,16 +649,18 @@
     "name": "Limpany",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.5,
-      "y": 0.42
+      "x": 0.60539,
+      "y": 0.42394
     },
     "sourceIds": [
-      "wiki-le-tresor-des-morts-map"
+      "wiki-le-tresor-des-morts-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-le-tresor-des-morts-map"
+        "wiki-le-tresor-des-morts-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -636,16 +670,18 @@
     "name": "Saint Denis docks",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.74,
-      "y": 0.56
+      "x": 0.84861,
+      "y": 0.5787
     },
     "sourceIds": [
-      "wiki-le-tresor-des-morts-map"
+      "wiki-le-tresor-des-morts-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-le-tresor-des-morts-map"
+        "wiki-le-tresor-des-morts-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -655,16 +691,18 @@
     "name": "Saint Denis cemetery",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.73,
-      "y": 0.54
+      "x": 0.86944,
+      "y": 0.52685
     },
     "sourceIds": [
-      "wiki-le-tresor-des-morts-map"
+      "wiki-le-tresor-des-morts-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-le-tresor-des-morts-map"
+        "wiki-le-tresor-des-morts-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -674,16 +712,18 @@
     "name": "Hermit Woman cabin",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.34,
-      "y": 0.38
+      "x": 0.41911,
+      "y": 0.2671
     },
     "sourceIds": [
-      "wiki-mended-map"
+      "wiki-mended-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-mended-map"
+        "wiki-mended-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -693,16 +733,18 @@
     "name": "Manito Glade",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.68,
-      "y": 0.26
+      "x": 0.89468,
+      "y": 0.19821
     },
     "sourceIds": [
-      "wiki-mended-map"
+      "wiki-mended-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-mended-map"
+        "wiki-mended-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -712,16 +754,18 @@
     "name": "West of Twin Rocks",
     "region": "New Austin",
     "coordinate": {
-      "x": 0.22,
-      "y": 0.62
+      "x": 0.29167,
+      "y": 0.64296
     },
     "sourceIds": [
-      "wiki-mended-map"
+      "wiki-mended-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-mended-map"
+        "wiki-mended-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -731,16 +775,18 @@
     "name": "Obelisk (Owanjila)",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.3,
-      "y": 0.4
+      "x": 0.38616,
+      "y": 0.41929
     },
     "sourceIds": [
-      "wiki-landmarks-of-riches-map"
+      "wiki-landmarks-of-riches-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-landmarks-of-riches-map"
+        "wiki-landmarks-of-riches-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -750,16 +796,18 @@
     "name": "Tiny Church",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.66,
-      "y": 0.54
+      "x": 0.84276,
+      "y": 0.48736
     },
     "sourceIds": [
-      "wiki-landmarks-of-riches-map"
+      "wiki-landmarks-of-riches-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-landmarks-of-riches-map"
+        "wiki-landmarks-of-riches-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -769,16 +817,18 @@
     "name": "Bolger Glade",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.64,
-      "y": 0.56
+      "x": 0.76597,
+      "y": 0.61204
     },
     "sourceIds": [
-      "wiki-landmarks-of-riches-map"
+      "wiki-landmarks-of-riches-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-landmarks-of-riches-map"
+        "wiki-landmarks-of-riches-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -788,16 +838,18 @@
     "name": "Mount Shann",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.36,
-      "y": 0.38
+      "x": 0.45833,
+      "y": 0.40037
     },
     "sourceIds": [
-      "wiki-landmarks-of-riches-map"
+      "wiki-landmarks-of-riches-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-landmarks-of-riches-map"
+        "wiki-landmarks-of-riches-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -807,16 +859,18 @@
     "name": "Sea of Coronado",
     "region": "New Austin",
     "coordinate": {
-      "x": 0.12,
-      "y": 0.7
+      "x": 0.07639,
+      "y": 0.81481
     },
     "sourceIds": [
-      "wiki-elemental-trail-map"
+      "wiki-elemental-trail-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-elemental-trail-map"
+        "wiki-elemental-trail-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -826,16 +880,18 @@
     "name": "Greenhollow",
     "region": "New Austin",
     "coordinate": {
-      "x": 0.18,
-      "y": 0.66
+      "x": 0.39729,
+      "y": 0.76776
     },
     "sourceIds": [
-      "wiki-elemental-trail-map"
+      "wiki-elemental-trail-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-elemental-trail-map"
+        "wiki-elemental-trail-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -845,16 +901,18 @@
     "name": "Benedict Point",
     "region": "New Austin",
     "coordinate": {
-      "x": 0.16,
-      "y": 0.68
+      "x": 0.18802,
+      "y": 0.79894
     },
     "sourceIds": [
-      "wiki-elemental-trail-map"
+      "wiki-elemental-trail-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-elemental-trail-map"
+        "wiki-elemental-trail-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -864,8 +922,8 @@
     "name": "Coot's Chapel",
     "region": "New Austin",
     "coordinate": {
-      "x": 0.34305,
-      "y": 0.72441
+      "x": 0.35294,
+      "y": 0.73282
     },
     "sourceIds": [
       "wiki-elemental-trail-map",
@@ -885,16 +943,18 @@
     "name": "Diablo Ridge",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.4,
-      "y": 0.46
+      "x": 0.535,
+      "y": 0.42444
     },
     "sourceIds": [
-      "wiki-high-stakes-treasure-map"
+      "wiki-high-stakes-treasure-map",
+      "wiki-full-world-map"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-high-stakes-treasure-map"
+        "wiki-high-stakes-treasure-map",
+        "wiki-full-world-map"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -903,8 +963,8 @@
     "id": "loc-gaptooth-breach",
     "name": "Gaptooth Breach",
     "coordinate": {
-      "x": 0.11617,
-      "y": 0.76701
+      "x": 0.12901,
+      "y": 0.77752
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -921,8 +981,8 @@
     "id": "loc-hanging-dog-ranch",
     "name": "Hanging Dog Ranch",
     "coordinate": {
-      "x": 0.45231,
-      "y": 0.31013
+      "x": 0.45621,
+      "y": 0.31502
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -939,8 +999,8 @@
     "id": "loc-pikes-basin",
     "name": "Pike's Basin",
     "coordinate": {
-      "x": 0.40003,
-      "y": 0.66155
+      "x": 0.40858,
+      "y": 0.6691
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -957,8 +1017,8 @@
     "id": "loc-six-point-cabin",
     "name": "Six Point Cabin",
     "coordinate": {
-      "x": 0.6362,
-      "y": 0.26471
+      "x": 0.63759,
+      "y": 0.26783
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -975,8 +1035,8 @@
     "id": "loc-solomons-folly",
     "name": "Solomon's Folly",
     "coordinate": {
-      "x": 0.15214,
-      "y": 0.80749
+      "x": 0.16506,
+      "y": 0.81796
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -993,8 +1053,8 @@
     "id": "loc-annesburg",
     "name": "Annesburg",
     "coordinate": {
-      "x": 0.8889,
-      "y": 0.25624
+      "x": 0.88746,
+      "y": 0.25727
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1011,8 +1071,8 @@
     "id": "loc-armadillo",
     "name": "Armadillo",
     "coordinate": {
-      "x": 0.30677,
-      "y": 0.69487
+      "x": 0.31671,
+      "y": 0.70338
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1029,8 +1089,8 @@
     "id": "loc-lagras",
     "name": "Lagras",
     "coordinate": {
-      "x": 0.81381,
-      "y": 0.46879
+      "x": 0.81565,
+      "y": 0.47177
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1047,8 +1107,8 @@
     "id": "loc-macfarlanes-ranch",
     "name": "MacFarlane's Ranch",
     "coordinate": {
-      "x": 0.41292,
-      "y": 0.67533
+      "x": 0.42149,
+      "y": 0.68286
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1065,8 +1125,8 @@
     "id": "loc-manzanita-post",
     "name": "Manzanita Post",
     "coordinate": {
-      "x": 0.46091,
-      "y": 0.5811
+      "x": 0.46787,
+      "y": 0.58764
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1083,8 +1143,8 @@
     "id": "loc-tumbleweed",
     "name": "Tumbleweed",
     "coordinate": {
-      "x": 0.15793,
-      "y": 0.72914
+      "x": 0.16988,
+      "y": 0.73907
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1101,8 +1161,8 @@
     "id": "loc-van-horn",
     "name": "Van Horn",
     "coordinate": {
-      "x": 0.88541,
-      "y": 0.33132
+      "x": 0.88488,
+      "y": 0.33286
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1119,8 +1179,8 @@
     "id": "loc-wapiti",
     "name": "Wapiti",
     "coordinate": {
-      "x": 0.67912,
-      "y": 0.15334
+      "x": 0.67875,
+      "y": 0.1554
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
@@ -1137,14 +1197,14 @@
     "id": "loc-butcher-creek",
     "name": "Butcher Creek",
     "coordinate": {
-      "x": 0.8614,
-      "y": 0.3176
+      "x": 0.86097,
+      "y": 0.31924
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "gh-jeanropke-rdomap"
       ],
@@ -1155,14 +1215,14 @@
     "id": "loc-cornwall-kerosene-tar",
     "name": "Cornwall Kerosene & Tar",
     "coordinate": {
-      "x": 0.67292,
-      "y": 0.31668
+      "x": 0.67452,
+      "y": 0.31984
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "gh-jeanropke-rdomap"
       ],
@@ -1173,14 +1233,14 @@
     "id": "loc-ewing-basin",
     "name": "Ewing Basin",
     "coordinate": {
-      "x": 0.46942,
-      "y": 0.25262
+      "x": 0.47247,
+      "y": 0.257
     },
     "sourceIds": [
       "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "gh-jeanropke-rdomap"
       ],

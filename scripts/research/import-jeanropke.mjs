@@ -21,7 +21,6 @@ const TODAY = '2026-09-06';
 const COMMIT = '922daf072c3ea027c5d5ed097173ce66d70d65b6';
 const SOURCE_ID = 'gh-jeanropke-rdomap';
 const UA = 'rdr2-complete-guide/0.3 (fan project; local jeanropke importer)';
-const MAX_RMS = 0.004;
 const FT_TITLES = {
   'fasttravel.annesburg': 'Annesburg',
   'fasttravel.armadillo': 'Armadillo',
@@ -58,6 +57,59 @@ const LABEL_TITLES = {
   settlement_coots_chapel: "Coot's Chapel",
   settlement_cornwall_kerosene_tar: 'Cornwall Kerosene & Tar',
   settlement_ewing_basin: 'Ewing Basin',
+};
+
+/**
+ * locations.json entries whose coordinates come from a specific RDOMap marker rather than
+ * from a name match (key = marker externalKey). Used for mission-start / treasure-step pins.
+ */
+const LOCATION_ALIASES = {
+  'label:special_settlement_pronghorn_ranch': 'loc-pronghorn-ranch',
+  'label:homestead_adler_ranch': 'loc-adler-ranch',
+  'label:homestead_carmody_dell': 'loc-carmody-dell',
+  'label:landmark_face_rock': 'loc-face-rock',
+  'label:landmark_greenhollow': 'loc-greenhollow',
+  shop_ben_post_office: 'loc-benedict-point',
+  discoverable_obelisk: 'loc-obelisk',
+  discoverable_serpent_mound: 'loc-serpent-mound',
+  discoverable_hermit_woman: 'loc-little-creek-hermit',
+  discoverable_one_room_church: 'loc-tiny-church',
+  // Limpany is the unlabelled burned town on the Dakota River between Caliban's Seat and Flatneck.
+  'label:discoverabletext_burned_settlement': 'loc-limpany',
+  // Old Trail Rise = ruined cabin east of Dewberry Creek whose basement carries the carved names.
+  'label:shack_underground_railroad': 'loc-old-trail-rise',
+  // Manito Glade = the angry hermit's homestead north of Annesburg.
+  'label:shack_angry_isolationist': 'loc-manito-glade',
+};
+
+/** sp_areas labels worth importing as place markers (the rest are story-flow areas). */
+const AREA_LABELS = new Set(['special_settlement_pronghorn_ranch']);
+
+/**
+ * locations.json entries with no RDOMap counterpart, measured directly on our zoom-5 tiles
+ * (source px of the printed label / station icon). Source: MAP_SOURCE_ID.
+ */
+const MAP_SOURCE_ID = 'wiki-full-world-map';
+const TILE_MEASURED = {
+  'loc-flatneck-station': { px: [4371.5, 2400.5], note: 'station icon' },
+  'loc-barrow-lagoon': { px: [3988, 1238], note: 'printed label centre (lagoon)' },
+  'loc-bolger-glade': { px: [5515, 3305], note: 'printed label centre' },
+  'loc-cairn-lodge': { px: [3955, 840], note: 'Cairn Lake label; the lodge sits on the lake shore' },
+  'loc-calibans-seat': { px: [4331, 2014], note: 'printed label centre' },
+  'loc-cotorra-springs': { px: [4637, 1092], note: 'printed label centre' },
+  'loc-cumberland-falls': { px: [3950, 1890], note: 'printed label / falls on the Dakota River' },
+  'loc-cumberland-forest': { px: [4700, 1485], note: 'centre of the CUMBERLAND FOREST region label' },
+  'loc-diablo-ridge': { px: [3852, 2292], note: 'printed label centre' },
+  'loc-elysian-pool': { px: [6050, 1612], note: 'printed label centre (pool)' },
+  'loc-fort-wallace': { px: [4843, 1286], note: 'printed label centre' },
+  'loc-lakay': { px: [6000, 2640], note: 'printed label centre' },
+  'loc-montos-rest': { px: [3655, 2305], note: 'printed label centre' },
+  'loc-mount-shann': { px: [3300, 2162], note: 'printed label centre' },
+  'loc-ocreaghs-run': { px: [5585, 1305], note: 'printed label centre (lake)' },
+  'loc-sd-docks': { px: [6110, 3125], note: 'pier / warehouse row west of the Saint Denis station' },
+  'loc-sd-graveyard': { px: [6260, 2845], note: 'walled cemetery enclosure, north-east Saint Denis' },
+  'loc-sea-of-coronado': { px: [550, 4400], note: 'printed label centre (sea)' },
+  'loc-twin-rocks': { px: [2100, 3472], note: 'printed label centre' },
 };
 
 const FILES = ['discoverables.json', 'singleplayer.json', 'shops.json', 'fasttravels.json'];
@@ -126,6 +178,7 @@ async function fetchFile(name) {
 }
 
 const calib = JSON.parse(fs.readFileSync(calibPath, 'utf8'));
+const MAX_RMS = calib.maxRms ?? 0.004;
 const fitPoints = calib.controlPoints.map((p) => {
   const n = tileToNormalized(p.tile.x, p.tile.y, calib.image);
   return { id: p.id, lat: p.jeanropke.lat, lng: p.jeanropke.lng, x: n.x, y: n.y };
@@ -394,9 +447,10 @@ for (const group of discoverables) {
         compendiumId: meta?.id ?? undefined,
       });
     }
-  } else if (group.key === 'text') {
+  } else if (group.key === 'text' || group.key === 'sp_areas') {
     for (const loc of group.locations ?? []) {
       const name = loc.name ?? '';
+      if (group.key === 'sp_areas' && !AREA_LABELS.has(name)) continue;
       let type = 'landmark';
       if (name.startsWith('hideout_')) type = 'gang-camp';
       else if (/^(town_|settlement_|fasttravel|special_settlement_)/.test(name)) type = 'town';
@@ -465,7 +519,26 @@ const locByName = new Map(locations.map((l) => [normName(l.name), l]));
 const PLACE_TYPES = new Set(['fast-travel', 'town', 'gang-camp', 'landmark']);
 const addedLocations = [];
 const updatedLocations = [];
+const locById = new Map(locations.map((l) => [l.id, l]));
 for (const m of markers) {
+  const aliasId = LOCATION_ALIASES[m.externalKey];
+  if (aliasId) {
+    const target = locById.get(aliasId);
+    if (!target) {
+      console.warn('alias target missing', aliasId);
+    } else {
+      target.coordinate = { x: m.x, y: m.y };
+      target.sourceIds = [...new Set([...(target.sourceIds ?? []), SOURCE_ID])];
+      target.research = {
+        verificationStatus: 'cross-checked',
+        sourceIds: [...new Set([...(target.research?.sourceIds ?? []), SOURCE_ID])],
+        lastReviewedAt: TODAY,
+      };
+      if (!m.locationId) m.locationId = aliasId;
+      updatedLocations.push(aliasId);
+    }
+    continue;
+  }
   if (!PLACE_TYPES.has(m.type)) continue;
   const nm = normName(m.title);
   const existing = locByName.get(nm);
@@ -501,6 +574,39 @@ for (const m of markers) {
     m.locationId = id;
     addedLocations.push(id);
   }
+}
+
+for (const [id, meas] of Object.entries(TILE_MEASURED)) {
+  const target = locById.get(id);
+  if (!target) {
+    console.warn('measured target missing', id);
+    continue;
+  }
+  target.coordinate = {
+    x: Number((meas.px[0] / calib.image.width).toFixed(5)),
+    y: Number((meas.px[1] / calib.image.height).toFixed(5)),
+  };
+  target.sourceIds = [...new Set([...(target.sourceIds ?? []), MAP_SOURCE_ID])];
+  target.research = {
+    verificationStatus: 'cross-checked',
+    sourceIds: [...new Set([...(target.research?.sourceIds ?? []), MAP_SOURCE_ID])],
+    lastReviewedAt: TODAY,
+  };
+  updatedLocations.push(id);
+}
+if (!sources.some((s) => s.id === MAP_SOURCE_ID)) {
+  sources.push({
+    id: MAP_SOURCE_ID,
+    sourceName: 'Red Dead Wiki',
+    pageTitle: 'File:Red-Dead-Redemption-2-Full-World-Map.jpg',
+    url: 'https://reddead.fandom.com/wiki/File:Red-Dead-Redemption-2-Full-World-Map.jpg',
+    sourceType: 'wiki',
+    verificationStatus: 'researched',
+    accessedAt: TODAY,
+    publicAttribution: true,
+    notes:
+      'Positions measured directly on the project map tiles (zoom 5 source pixels) from printed labels and station icons. See public/assets/maps/PROVENANCE.md.',
+  });
 }
 
 saveJson('mapMarkers.json', markers);

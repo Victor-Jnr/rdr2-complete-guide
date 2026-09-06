@@ -8,171 +8,172 @@
     "tileSize": 256,
     "maxNativeZoom": 5
   },
+  "method": "Control points are RDOMap post-office positions (shops.json, key post_office) matched to the train-station icon (12 px black ring, white centre) printed on our zoom-5 tiles. Icon centres were located programmatically (connected dark component 11–13 px, bright centre) and confirmed visually. tile.x/y = icon centre px / 256. Van Horn and Saint Denis post offices are not at their station icons and are excluded.",
   "controlPoints": [
     {
+      "id": "benedict-point",
+      "note": "shop_ben_post_office ↔ Benedict Point station icon at px 1360.5,4323.5",
+      "jeanropke": {
+        "lat": -117.441,
+        "lng": 30.1614
+      },
+      "tile": {
+        "z": 5,
+        "x": 5.31445,
+        "y": 16.88867
+      }
+    },
+    {
+      "id": "armadillo",
+      "note": "shop_amd_post_office ↔ Armadillo station icon at px 2274.0,3763.5",
+      "jeanropke": {
+        "lat": -103.9225,
+        "lng": 53.36
+      },
+      "tile": {
+        "z": 5,
+        "x": 8.88281,
+        "y": 14.70117
+      }
+    },
+    {
       "id": "wallace-station",
-      "note": "Town pin right of WALLACE STATION on tile 5/14/7",
+      "note": "shop_wal_post_office ↔ Wallace Station icon at px 3778.5,1929.5",
       "jeanropke": {
-        "lat": -57.4932,
-        "lng": 91.0859
+        "lat": -57.3786,
+        "lng": 91.117
       },
       "tile": {
         "z": 5,
-        "x": 14.65,
-        "y": 7.46
+        "x": 14.75977,
+        "y": 7.53711
       }
     },
     {
-      "id": "strawberry",
-      "note": "Building cluster on STRAWBERRY, tile 5/13/9",
+      "id": "riggs-station",
+      "note": "shop_rgg_post_office ↔ Riggs Station icon at px 3902.5,2543.0",
       "jeanropke": {
-        "lat": -70.03,
-        "lng": 84.3196
+        "lat": -72.5347,
+        "lng": 94.3286
       },
       "tile": {
         "z": 5,
-        "x": 13.55,
-        "y": 9.4
-      }
-    },
-    {
-      "id": "rhodes",
-      "note": "Town pin above RHODES on tile 5/20/11",
-      "jeanropke": {
-        "lat": -83.6534,
-        "lng": 130.6434
-      },
-      "tile": {
-        "z": 5,
-        "x": 20.68,
-        "y": 11.62
-      }
-    },
-    {
-      "id": "blackwater",
-      "note": "Town grid right of BLACKWATER on tile 5/15/11",
-      "jeanropke": {
-        "lat": -82.9581,
-        "lng": 99.7447
-      },
-      "tile": {
-        "z": 5,
-        "x": 15.93,
-        "y": 11.42
-      }
-    },
-    {
-      "id": "tumbleweed",
-      "note": "Building cluster on TUMBLEWEED, tile 5/4/15",
-      "jeanropke": {
-        "lat": -109.3272,
-        "lng": 26.8317
-      },
-      "tile": {
-        "z": 5,
-        "x": 4.5,
-        "y": 15.38
-      }
-    },
-    {
-      "id": "saint-denis",
-      "note": "Dock pin on Saint Denis waterfront, tile 5/24/12",
-      "jeanropke": {
-        "lat": -86.3787,
-        "lng": 152.6896
-      },
-      "tile": {
-        "z": 5,
-        "x": 24.28,
-        "y": 11.98
-      }
-    },
-    {
-      "id": "annesburg",
-      "note": "Coast pin on Annesburg, tile 5/25/5",
-      "jeanropke": {
-        "lat": -43.4814,
-        "lng": 156.745
-      },
-      "tile": {
-        "z": 5,
-        "x": 25.08,
-        "y": 5.42
+        "x": 15.24414,
+        "y": 9.93359
       }
     },
     {
       "id": "valentine",
-      "note": "East side / station of VALENTINE, tiles 5/16–17/6",
+      "note": "shop_val_post_office ↔ Valentine station icon at px 4478.5,1800.0",
       "jeanropke": {
-        "lat": -53.602,
-        "lng": 108.3971
+        "lat": -53.8518,
+        "lng": 108.5275
       },
       "tile": {
         "z": 5,
-        "x": 17.37,
-        "y": 6.88
+        "x": 17.49414,
+        "y": 7.03125
+      }
+    },
+    {
+      "id": "rhodes",
+      "note": "shop_rho_post_office ↔ Rhodes station icon at px 5330.5,2988.0",
+      "jeanropke": {
+        "lat": -83.6995,
+        "lng": 130.328
+      },
+      "tile": {
+        "z": 5,
+        "x": 20.82227,
+        "y": 11.67188
+      }
+    },
+    {
+      "id": "emerald-station",
+      "note": "shop_emr_post_office ↔ Emerald Station icon at px 5520.5,1915.5",
+      "jeanropke": {
+        "lat": -56.7534,
+        "lng": 134.9101
+      },
+      "tile": {
+        "z": 5,
+        "x": 21.56445,
+        "y": 7.48242
+      }
+    },
+    {
+      "id": "annesburg",
+      "note": "shop_asb_post_office ↔ Annesburg station icon at px 6402.5,1390.5",
+      "jeanropke": {
+        "lat": -43.6248,
+        "lng": 156.9046
+      },
+      "tile": {
+        "z": 5,
+        "x": 25.00977,
+        "y": 5.43164
       }
     }
   ],
-  "maxRms": 0.004,
+  "maxRms": 0.0025,
   "transform": {
     "kind": "affine",
-    "a": 0.00556986323961715,
-    "b": 0.00011187506270036543,
-    "c": 0.02071384448788063,
-    "d": 0.00007070484870442607,
-    "e": -0.007321388658756595,
-    "f": -0.07318710216666774,
-    "rms": 0.0023166918350578857,
-    "maxResidual": 0.0044183455864950285,
+    "a": 0.005510571200555404,
+    "b": 0.00002557943799909193,
+    "c": 0.02481806343417882,
+    "d": 0.000026249301327503475,
+    "e": -0.0073688732938347245,
+    "f": -0.06725680895372955,
+    "rms": 0.0015340759682220561,
+    "maxResidual": 0.0030141058224533966,
     "residuals": [
       {
+        "id": "benedict-point",
+        "dx": -0.00094,
+        "dy": -0.00171,
+        "distance": 0.00195
+      },
+      {
+        "id": "armadillo",
+        "dx": 0.00037,
+        "dy": 0.00299,
+        "distance": 0.00301
+      },
+      {
         "id": "wallace-station",
-        "dx": 0.00073,
-        "dy": 0.00052,
-        "distance": 0.0009
+        "dx": 0.00067,
+        "dy": 0.00064,
+        "distance": 0.00092
       },
       {
-        "id": "strawberry",
+        "id": "riggs-station",
         "dx": 0.00075,
-        "dy": -0.00014,
-        "distance": 0.00076
-      },
-      {
-        "id": "rhodes",
-        "dx": 0.00373,
-        "dy": -0.00237,
-        "distance": 0.00442
-      },
-      {
-        "id": "blackwater",
-        "dx": 0.0006,
-        "dy": -0.00016,
-        "distance": 0.00062
-      },
-      {
-        "id": "tumbleweed",
-        "dx": -0.00207,
-        "dy": 0.00001,
-        "distance": 0.00207
-      },
-      {
-        "id": "saint-denis",
-        "dx": -0.00178,
-        "dy": 0.00208,
-        "distance": 0.00274
-      },
-      {
-        "id": "annesburg",
-        "dx": -0.00284,
-        "dy": -0.00071,
-        "distance": 0.00292
+        "dy": -0.00121,
+        "distance": 0.00142
       },
       {
         "id": "valentine",
-        "dx": 0.00087,
-        "dy": 0.00076,
-        "distance": 0.00116
+        "dx": -0.00052,
+        "dy": -0.00091,
+        "distance": 0.00105
+      },
+      {
+        "id": "rhodes",
+        "dx": 0.00051,
+        "dy": -0.0004,
+        "distance": 0.00065
+      },
+      {
+        "id": "emerald-station",
+        "dx": 0.00006,
+        "dy": -0.00023,
+        "distance": 0.00024
+      },
+      {
+        "id": "annesburg",
+        "dx": -0.0009,
+        "dy": 0.00083,
+        "distance": 0.00122
       }
     ]
   }
