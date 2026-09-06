@@ -1,6 +1,6 @@
 import { describe, expect, it, beforeEach } from 'vitest';
 import { db } from '@/db/db';
-import { getMissionState, getTreasureState, putMissionState, putTreasureState, resetAllProgress } from '@/db/repositories';
+import { getEntityState, getMissionState, getTreasureState, putEntityState, putMissionState, putTreasureState, resetAllProgress } from '@/db/repositories';
 import { applyImport, buildExport, parseExport } from '@/services/exportImport';
 
 describe('mission state repository', () => {
@@ -58,5 +58,30 @@ describe('mission state repository', () => {
     expect((await getMissionState('mission-outlaws-from-the-west')).completed).toBe(false);
     if (parsed.ok) await applyImport(parsed.data);
     expect((await getMissionState('mission-outlaws-from-the-west')).completed).toBe(true);
+  });
+});
+
+describe('compendium entity state', () => {
+  beforeEach(async () => {
+    await db.delete();
+    await db.open();
+  });
+
+  it('toggles completion without wiping notes', async () => {
+    await putEntityState({
+      entityType: 'compendium',
+      entityId: 'comp-animal-american-alligator',
+      completed: false,
+      notes: 'Bayou Nwa',
+    });
+    await putEntityState({
+      entityType: 'compendium',
+      entityId: 'comp-animal-american-alligator',
+      completed: true,
+      completedAt: '2026-09-06T00:00:00.000Z',
+    });
+    const row = await getEntityState('compendium', 'comp-animal-american-alligator');
+    expect(row?.completed).toBe(true);
+    expect(row?.notes).toBe('Bayou Nwa');
   });
 });

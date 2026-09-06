@@ -158,8 +158,10 @@ function docs(): Doc[] {
       kind: 'compendium',
       title: c.title,
       subtitle: c.kind,
-      body: c.kind,
-      href: '/progress',
+      body: [c.kind, c.familyTitle, c.generalLocation?.summary, ...(c.generalLocation?.namedPlaces ?? [])]
+        .filter(Boolean)
+        .join(' '),
+      href: `/compendium/${c.id}`,
     });
   }
   return out;

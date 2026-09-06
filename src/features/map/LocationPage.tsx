@@ -1,5 +1,5 @@
 import { Link, useParams } from 'react-router';
-import { getLocation, missions, treasures } from '@/data';
+import { compendium, getLocation, missions, treasures } from '@/data';
 import { EmptyState } from '@/components/EmptyState';
 import { GameMap } from '@/components/GameMap';
 import { SourceAttribution } from '@/components/SourceAttribution';
@@ -19,6 +19,7 @@ export default function LocationPage() {
   const relatedT = treasures.filter((t) => t.steps.some((s) => s.locationId === loc.id));
   const markers = derivedMarkers().filter((m) => m.locationId === loc.id);
   const nearbyPins = markers.filter((m) => !m.missionId && !m.treasureId);
+  const wildlife = compendium.filter((c) => c.generalLocation?.locationIds?.includes(loc.id));
 
   return (
     <main className="page stack">
@@ -58,6 +59,16 @@ export default function LocationPage() {
           {nearbyPins.map((m) => (
             <p key={m.id}>
               <Link to={`/map?marker=${m.id}`}>{m.title}</Link>
+            </p>
+          ))}
+        </section>
+      ) : null}
+      {wildlife.length ? (
+        <section>
+          <h2>Wildlife and herbs recorded here</h2>
+          {wildlife.map((c) => (
+            <p key={c.id}>
+              <Link to={`/compendium/${c.id}`}>{c.title}</Link>
             </p>
           ))}
         </section>

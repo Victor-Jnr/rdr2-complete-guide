@@ -66,7 +66,7 @@ export default function AboutPage() {
         {completionRequirements.filter((r) => r.countsToward100).length} official 100% criteria.
         Missions that have no Gold Medal list on the Red Dead Wiki are left without gold requirements.
       </p>
-      <p>Version 0.3.0</p>
+        <p>Version 0.4.0</p>
     </main>
   );
 }

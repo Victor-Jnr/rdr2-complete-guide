@@ -1,0 +1,381 @@
+{
+  "animal_alligator": [
+    "comp-animal-american-alligator",
+    "comp-animal-american-alligator-small"
+  ],
+  "animal_armadillo": [
+    "comp-animal-nine-banded-armadillo"
+  ],
+  "animal_badger": [
+    "comp-animal-american-badger"
+  ],
+  "animal_band_pigeon": [
+    "comp-animal-band-tailed-pigeon"
+  ],
+  "animal_bat": [
+    "comp-animal-little-brown-bat"
+  ],
+  "animal_beaver": [
+    "comp-animal-north-american-beaver"
+  ],
+  "animal_bighornram_ram_rocky": [
+    "comp-animal-rocky-mountain-bighorn-ram"
+  ],
+  "animal_bighornram_sheep_rocky": [
+    "comp-animal-rocky-mountain-bighorn-sheep"
+  ],
+  "animal_bighornram_sierra": [
+    "comp-animal-sierra-nevada-bighorn-ram",
+    "comp-animal-sierra-nevada-bighorn-sheep"
+  ],
+  "animal_bison": [
+    "comp-animal-american-bison"
+  ],
+  "animal_black_bear": [
+    "comp-animal-american-black-bear"
+  ],
+  "animal_black_squirrel": [
+    "comp-animal-black-squirrel"
+  ],
+  "animal_blacktailed_rattlesnake": [
+    "comp-animal-black-tailed-rattlesnake"
+  ],
+  "animal_blue_heron": [
+    "comp-animal-great-blue-heron"
+  ],
+  "animal_bluejay": [
+    "comp-animal-blue-jay"
+  ],
+  "animal_boar": [
+    "comp-animal-wild-boar"
+  ],
+  "animal_buck": [
+    "comp-animal-white-tailed-buck"
+  ],
+  "animal_californian_condor": [
+    "comp-animal-california-condor"
+  ],
+  "animal_cardinal": [
+    "comp-animal-northern-cardinal"
+  ],
+  "animal_cedar_wax_wing": [
+    "comp-animal-cedar-waxwing"
+  ],
+  "animal_cotton_mouth_snake": [
+    "comp-animal-cottonmouth-snake"
+  ],
+  "animal_cougar": [
+    "comp-animal-cougar"
+  ],
+  "animal_coyote": [
+    "comp-animal-california-valley-coyote"
+  ],
+  "animal_crab": [
+    "comp-animal-cuban-land-crab"
+  ],
+  "animal_crow": [
+    "comp-animal-american-crow"
+  ],
+  "animal_deer": [
+    "comp-animal-white-tailed-deer"
+  ],
+  "animal_desert_big_horn_ram": [
+    "comp-animal-desert-bighorn-ram"
+  ],
+  "animal_desert_big_horn_sheep": [
+    "comp-animal-desert-bighorn-sheep"
+  ],
+  "animal_diamond_snake": [
+    "comp-animal-diamondback-snake"
+  ],
+  "animal_duck_mallard": [
+    "comp-animal-mallard-duck"
+  ],
+  "animal_duck_pekin": [
+    "comp-animal-pekin-duck"
+  ],
+  "animal_eagle_bald_photo": [
+    "comp-animal-bald-eagle"
+  ],
+  "animal_eastern_turkey_vulture": [
+    "comp-animal-eastern-turkey-vulture"
+  ],
+  "animal_egret_little": [
+    "comp-animal-little-egret"
+  ],
+  "animal_egret_reddish": [
+    "comp-animal-reddish-egret"
+  ],
+  "animal_egret_snowy": [
+    "comp-animal-snowy-egret"
+  ],
+  "animal_elk_rocky": [
+    "comp-animal-rocky-mountain-bull-elk",
+    "comp-animal-rocky-mountain-cow-elk"
+  ],
+  "animal_elk_tule": [
+    "comp-animal-rocky-mountain-bull-elk"
+  ],
+  "animal_ferdelance_snake": [
+    "comp-animal-fer-de-lance-snake"
+  ],
+  "animal_fox_grey": [
+    "comp-animal-american-gray-fox"
+  ],
+  "animal_golden_eagle": [
+    "comp-animal-golden-eagle"
+  ],
+  "animal_goose": [
+    "comp-animal-canada-goose"
+  ],
+  "animal_gray_squirrel": [
+    "comp-animal-western-gray-squirrel"
+  ],
+  "animal_great_horned_owl": [
+    "comp-animal-great-horned-owl"
+  ],
+  "animal_grizzly": [
+    "comp-animal-grizzly-bear"
+  ],
+  "animal_hawk_redtailed": [
+    "comp-animal-red-tailed-hawk"
+  ],
+  "animal_hawk_roughlegged": [
+    "comp-animal-rough-legged-hawk"
+  ],
+  "animal_iguana": [
+    "comp-animal-green-iguana",
+    "comp-animal-desert-iguana"
+  ],
+  "animal_loon_common": [
+    "comp-animal-common-loon"
+  ],
+  "animal_loon_pacific": [
+    "comp-animal-pacific-loon"
+  ],
+  "animal_loon_yellowbilled": [
+    "comp-animal-yellow-billed-loon"
+  ],
+  "animal_moose_western_bull": [
+    "comp-animal-western-bull-moose"
+  ],
+  "animal_oriole_baltimore": [
+    "comp-animal-baltimore-oriole"
+  ],
+  "animal_oriole_hooded": [
+    "comp-animal-hooded-oriole"
+  ],
+  "animal_owl_californian": [
+    "comp-animal-california-horned-owl"
+  ],
+  "animal_owl_coastal": [
+    "comp-animal-coastal-horned-owl"
+  ],
+  "animal_panther": [
+    "comp-animal-panther"
+  ],
+  "animal_panther_florida": [
+    "comp-animal-florida-panther"
+  ],
+  "animal_parakeet": [
+    "comp-animal-carolina-parakeet"
+  ],
+  "animal_peccary": [
+    "comp-animal-collared-peccary"
+  ],
+  "animal_pelican_brown": [
+    "comp-animal-brown-pelican"
+  ],
+  "animal_pelican_white": [
+    "comp-animal-american-white-pelican"
+  ],
+  "animal_pheasant_chinese": [
+    "comp-animal-chinese-ring-necked-pheasant"
+  ],
+  "animal_pheasant_ringneck": [
+    "comp-animal-ring-necked-pheasant"
+  ],
+  "animal_possum": [
+    "comp-animal-virginia-opossum"
+  ],
+  "animal_prairie_chicken": [
+    "comp-animal-greater-prairie-chicken"
+  ],
+  "animal_pronghorn": [
+    "comp-animal-american-pronghorn-buck",
+    "comp-animal-american-pronghorn-doe"
+  ],
+  "animal_pronghorn_baja_photo": [
+    "comp-animal-baja-california-pronghorn-buck",
+    "comp-animal-baja-california-pronghorn-doe"
+  ],
+  "animal_pronghorn_sonoran": [
+    "comp-animal-sonoran-pronghorn-buck",
+    "comp-animal-sonoran-pronghorn-doe"
+  ],
+  "animal_quail": [
+    "comp-animal-california-quail"
+  ],
+  "animal_rabbit": [
+    "comp-animal-black-tailed-jackrabbit"
+  ],
+  "animal_racoon": [
+    "comp-animal-american-raccoon"
+  ],
+  "animal_raven": [
+    "comp-animal-western-raven"
+  ],
+  "animal_red_boa": [
+    "comp-animal-red-boa"
+  ],
+  "animal_red_fox": [
+    "comp-animal-american-red-fox"
+  ],
+  "animal_red_squirrel": [
+    "comp-animal-american-red-squirrel"
+  ],
+  "animal_robin": [
+    "comp-animal-american-robin"
+  ],
+  "animal_seagull_herring": [
+    "comp-animal-herring-gull"
+  ],
+  "animal_seagull_laughing": [
+    "comp-animal-laughing-gull"
+  ],
+  "animal_seagull_ring": [
+    "comp-animal-ring-billed-gull"
+  ],
+  "animal_skunk": [
+    "comp-animal-striped-skunk"
+  ],
+  "animal_snapping_turtle": [
+    "comp-animal-alligator-snapping-turtle"
+  ],
+  "animal_songbird_scarlet": [
+    "comp-animal-scarlet-tanager-songbird"
+  ],
+  "animal_songbird_western": [
+    "comp-animal-western-tanager-songbird"
+  ],
+  "animal_sparrow_eurasian": [
+    "comp-animal-eurasian-tree-sparrow"
+  ],
+  "animal_sparrow_golden": [
+    "comp-animal-golden-crowned-sparrow"
+  ],
+  "animal_spoonbill": [
+    "comp-animal-roseate-spoonbill"
+  ],
+  "animal_timber_wolf": [
+    "comp-animal-timber-wolf"
+  ],
+  "animal_tricolour_heron": [
+    "comp-animal-tricolored-heron"
+  ],
+  "animal_western_moose": [
+    "comp-animal-western-moose"
+  ],
+  "animal_western_turkey_vulture": [
+    "comp-animal-western-turkey-vulture"
+  ],
+  "animal_whooping_crane": [
+    "comp-animal-whooping-crane"
+  ],
+  "animal_wolf_gray": [
+    "comp-animal-gray-wolf"
+  ],
+  "animal_woodpecker_pileated": [
+    "comp-animal-pileated-woodpecker"
+  ],
+  "animal_woodpecker_red": [
+    "comp-animal-red-bellied-woodpecker"
+  ],
+  "veg_berry_black_berry": [
+    "comp-plant-blackberry"
+  ],
+  "veg_berry_evergreen_huckleberry": [
+    "comp-plant-evergreen-huckleberry"
+  ],
+  "veg_berry_red_raspberry": [
+    "comp-plant-red-raspberry"
+  ],
+  "veg_berry_wintergreen_berry": [
+    "comp-plant-wintergreen-berry"
+  ],
+  "veg_herb_alaskan_ginseng": [
+    "comp-plant-alaskan-ginseng"
+  ],
+  "veg_herb_american_ginseng": [
+    "comp-plant-american-ginseng"
+  ],
+  "veg_herb_black_currant": [
+    "comp-plant-blackcurrant"
+  ],
+  "veg_herb_burdock_root": [
+    "comp-plant-burdock-root"
+  ],
+  "veg_herb_common_bulrush": [
+    "comp-plant-common-bulrush"
+  ],
+  "veg_herb_desert_sage": [
+    "comp-plant-desert-sage"
+  ],
+  "veg_herb_english_mace": [
+    "comp-plant-english-mace"
+  ],
+  "veg_herb_golden_currant": [
+    "comp-plant-golden-currant"
+  ],
+  "veg_herb_hummingbird_sage": [
+    "comp-plant-hummingbird-sage"
+  ],
+  "veg_herb_indian_tobacco": [
+    "comp-plant-indian-tobacco"
+  ],
+  "veg_herb_milkweed": [
+    "comp-plant-milkweed"
+  ],
+  "veg_herb_oleander_sage": [
+    "comp-plant-oleander-sage"
+  ],
+  "veg_herb_prairie_poppy": [
+    "comp-plant-prairie-poppy"
+  ],
+  "veg_herb_red_sage": [
+    "comp-plant-red-sage"
+  ],
+  "veg_herb_violet_snowdrop": [
+    "comp-plant-violet-snowdrop"
+  ],
+  "veg_herb_wild_carrots": [
+    "comp-plant-wild-carrot"
+  ],
+  "veg_herb_wild_feverfew": [
+    "comp-plant-wild-feverfew"
+  ],
+  "veg_herb_yarrow": [
+    "comp-plant-yarrow"
+  ],
+  "veg_mushroom_bay_bolete": [
+    "comp-plant-bay-bolete"
+  ],
+  "veg_mushroom_chanterelles": [
+    "comp-plant-chanterelles"
+  ],
+  "veg_mushroom_parasol_mushroom": [
+    "comp-plant-parasol-mushroom"
+  ],
+  "veg_mushroom_rams_head": [
+    "comp-plant-rams-head"
+  ],
+  "veg_spice_creeping_thyme": [
+    "comp-plant-creeping-thyme"
+  ],
+  "veg_spice_oregano": [
+    "comp-plant-oregano"
+  ],
+  "veg_spice_wild_mint": [
+    "comp-plant-wild-mint"
+  ]
+}

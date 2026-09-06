@@ -74,7 +74,15 @@ export async function getEntityState(
 export async function putEntityState(
   row: Omit<UserEntityState, 'updatedAt'> & { updatedAt?: string },
 ): Promise<UserEntityState> {
-  const next: UserEntityState = { ...row, updatedAt: now() };
+  const current = await getEntityState(row.entityType, row.entityId);
+  const next: UserEntityState = {
+    entityType: row.entityType,
+    entityId: row.entityId,
+    completed: row.completed,
+    completedAt: Object.hasOwn(row, 'completedAt') ? row.completedAt : current?.completedAt,
+    notes: Object.hasOwn(row, 'notes') ? row.notes : current?.notes,
+    updatedAt: now(),
+  };
   await db.entityChecklistState.put(next);
   return next;
 }

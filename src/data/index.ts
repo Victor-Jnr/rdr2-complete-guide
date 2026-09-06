@@ -12,6 +12,8 @@ import collectibleSetsJson from './collectibleSets.json';
 import challengesJson from './challenges.json';
 import compendiumJson from './compendium.json';
 import completionRequirementsJson from './completionRequirements.json';
+import regionsJson from './regions.json';
+import speciesIconsJson from './speciesIcons.json';
 import type {
   Activity,
   Challenge,
@@ -19,12 +21,14 @@ import type {
   Collectible,
   CollectibleSet,
   CompendiumEntry,
+  CompendiumKind,
   CompletionRequirement,
   ItemRequest,
   Location,
   MapMarker,
   Mission,
   Missable,
+  Region,
   SourceReference,
   TreasureChain,
 } from '@/types';
@@ -43,6 +47,8 @@ export const collectibleSets = collectibleSetsJson as CollectibleSet[];
 export const challenges = challengesJson as Challenge[];
 export const compendium = compendiumJson as CompendiumEntry[];
 export const completionRequirements = completionRequirementsJson as CompletionRequirement[];
+export const regions = regionsJson as Region[];
+export const speciesIcons = speciesIconsJson as Record<string, string[]>;
 
 export const chaptersById = new Map(chapters.map((c) => [c.id, c]));
 export const missionsById = new Map(missions.map((m) => [m.id, m]));
@@ -52,6 +58,8 @@ export const activitiesById = new Map(activities.map((a) => [a.id, a]));
 export const itemRequestsById = new Map(itemRequests.map((i) => [i.id, i]));
 export const missablesById = new Map(missables.map((m) => [m.id, m]));
 export const sourcesById = new Map(sources.map((s) => [s.id, s]));
+export const compendiumById = new Map(compendium.map((c) => [c.id, c]));
+export const regionsById = new Map(regions.map((r) => [r.id, r]));
 
 export function getChapter(id: string): Chapter | undefined {
   return chaptersById.get(id);
@@ -71,6 +79,14 @@ export function getTreasure(id: string): TreasureChain | undefined {
 
 export function getSource(id: string): SourceReference | undefined {
   return sourcesById.get(id);
+}
+
+export function getCompendium(id: string): CompendiumEntry | undefined {
+  return compendiumById.get(id);
+}
+
+export function compendiumByKind(kind: CompendiumKind): CompendiumEntry[] {
+  return compendium.filter((c) => c.kind === kind);
 }
 
 export function missionsForChapter(chapterId: string): Mission[] {

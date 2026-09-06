@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import { activities, chapters, completionRequirements, itemRequests, missions, missables, treasures } from '@/data';
+import { activities, chapters, completionRequirements, compendium, itemRequests, missions, missables, treasures } from '@/data';
 import { Checkbox } from '@/components/Checkbox';
 import { ProgressBar } from '@/components/ProgressBar';
 import { overallCategories, percent, evaluateCompletionRequirement } from '@/services/progress';
@@ -35,6 +35,7 @@ export default function ProgressPage() {
     itemTotal: itemRequests.length,
     missableTotal: missables.length,
     mapMarkers: derivedMarkers(),
+    compendium,
   });
   const overallDone = cats.reduce((n, c) => n + c.done, 0);
   const overallTotal = cats.reduce((n, c) => n + c.total, 0);

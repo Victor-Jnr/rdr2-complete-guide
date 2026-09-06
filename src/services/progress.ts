@@ -1,4 +1,4 @@
-import type { CompletionRequirement, MapMarker, Mission, TreasureChain } from '@/types';
+import type { CompletionRequirement, CompendiumEntry, MapMarker, Mission, TreasureChain } from '@/types';
 import type { UserEntityState, UserMissionState, UserTreasureState } from '@/types';
 import { markerIsCollected } from '@/services/mapLayers';
 
@@ -49,6 +49,7 @@ export function overallCategories(
     itemTotal: number;
     missableTotal: number;
     mapMarkers?: MapMarker[];
+    compendium?: CompendiumEntry[];
   },
 ): CategoryCount[] {
   const main = missions.filter((m) => hasTag(m, MAIN));
@@ -94,6 +95,7 @@ export function overallCategories(
     { id: 'treasure-chains', label: 'Treasure Chains', done: treasureChainsDone, total: treasures.length },
     { id: 'treasure-steps', label: 'Treasure Steps', done: treasureStepsDone, total: treasureSteps },
     ...pinnedMapCategories(extras.mapMarkers ?? [], entityStates),
+    ...compendiumKindCategories(extras.compendium ?? [], entityStates),
   ];
 }
 
@@ -114,6 +116,24 @@ export function pinnedMapCategories(
   return groups.map((g) => {
     const list = markers.filter((m) => m.type === g.type);
     const done = list.filter((m) => markerIsCollected(m, entityStates)).length;
+    return { id: g.id, label: g.label, done, total: list.length };
+  });
+}
+
+export function compendiumKindCategories(
+  entries: CompendiumEntry[],
+  entityStates: Map<string, UserEntityState>,
+): CategoryCount[] {
+  const groups: { id: string; label: string; kind: CompendiumEntry['kind'] }[] = [
+    { id: 'comp-animals', label: 'Animals studied', kind: 'animal' },
+    { id: 'comp-leg-animals', label: 'Legendary animals', kind: 'legendary-animal' },
+    { id: 'comp-fish', label: 'Fish', kind: 'fish' },
+    { id: 'comp-leg-fish', label: 'Legendary fish', kind: 'legendary-fish' },
+    { id: 'comp-plants', label: 'Plants', kind: 'plant' },
+  ];
+  return groups.map((g) => {
+    const list = entries.filter((e) => e.kind === g.kind);
+    const done = list.filter((e) => entityStates.get(`compendium:${e.id}`)?.completed).length;
     return { id: g.id, label: g.label, done, total: list.length };
   });
 }

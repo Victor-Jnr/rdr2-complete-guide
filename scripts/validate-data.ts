@@ -91,7 +91,21 @@ const collectibleSets = load<{ id: string; collectibleIds: string[]; research?: 
 const challenges = load<{ id: string; sourceIds?: string[]; research?: Research; ranks?: { id: string; research?: Research }[] }[]>(
   'challenges.json',
 );
-const compendium = load<{ id: string; sourceIds?: string[]; research?: Research }[]>('compendium.json');
+const regions = load<{ id: string; name: string; description: string }[]>('regions.json');
+const speciesIcons = load<Record<string, string[]>>('speciesIcons.json');
+const compendium = load<
+  {
+    id: string;
+    sourceIds?: string[];
+    research?: Research;
+    generalLocation?: {
+      regionIds: string[];
+      namedPlaces?: string[];
+      locationIds?: string[];
+      research: Research;
+    };
+  }[]
+>('compendium.json');
 
 const errors: string[] = [];
 const usedSources = new Set<string>();
@@ -150,6 +164,7 @@ checkIds('collectible', collectibles.map((c) => c.id));
 checkIds('collectibleSet', collectibleSets.map((c) => c.id));
 checkIds('challenge', challenges.map((c) => c.id));
 checkIds('compendium', compendium.map((c) => c.id));
+checkIds('region', regions.map((r) => r.id));
 checkIds(
   'challengeRank',
   challenges.flatMap((c) => c.ranks?.map((r) => r.id) ?? []),
@@ -176,6 +191,28 @@ const chapterIds = new Set(chapters.map((c) => c.id));
 const treasureIds = new Set(treasures.map((t) => t.id));
 const collectibleSetIds = new Set(collectibleSets.map((s) => s.id));
 const compendiumIds = new Set(compendium.map((c) => c.id));
+const regionIds = new Set(regions.map((r) => r.id));
+const KNOWN_REGION_IDS = new Set([
+  'ambarino',
+  'new-hanover',
+  'lemoyne',
+  'west-elizabeth',
+  'new-austin',
+  'guarma',
+]);
+
+for (const r of regions) {
+  if (!KNOWN_REGION_IDS.has(r.id)) fail(`region ${r.id} is not a known RegionId`);
+  if (!r.name?.trim()) fail(`region ${r.id} missing name`);
+}
+
+for (const [icon, ids] of Object.entries(speciesIcons)) {
+  if (!icon.trim()) fail('speciesIcons has an empty key');
+  if (!Array.isArray(ids) || !ids.length) fail(`speciesIcons ${icon} has no compendium ids`);
+  for (const id of ids) {
+    if (!compendiumIds.has(id)) fail(`speciesIcons ${icon} unknown compendium ${id}`);
+  }
+}
 
 const KNOWN_MARKER_TYPES = new Set([
   'mission-start',
@@ -349,6 +386,16 @@ for (const c of challenges) {
 for (const c of compendium) {
   c.sourceIds?.forEach((id) => checkSourceId(id, `compendium ${c.id}`));
   collectResearch(c.research);
+  if (c.generalLocation) {
+    collectResearch(c.generalLocation.research);
+    c.generalLocation.research.sourceIds.forEach((id) => checkSourceId(id, `compendium ${c.id} location`));
+    for (const regionId of c.generalLocation.regionIds) {
+      if (!regionIds.has(regionId)) fail(`compendium ${c.id} unknown region ${regionId}`);
+    }
+    for (const locationId of c.generalLocation.locationIds ?? []) {
+      if (!locIds.has(locationId)) fail(`compendium ${c.id} unknown location ${locationId}`);
+    }
+  }
 }
 
 for (const s of sources) {

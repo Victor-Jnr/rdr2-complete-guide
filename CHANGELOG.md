@@ -18,6 +18,7 @@
 - `scripts/research/fill-lists.mjs` — challenge / collectible list pass
 - `scripts/research/finalize-data.mjs` — structured list cleanup
 - `scripts/research/fill-remaining.mjs` — remaining Wiki lists (cards, POIs, 100%, compendium)
+- `scripts/research/fill-compendium-locations.mjs` — Wiki general locations + species icon map
 - `src/services/mapCoords.ts` — 0–1 ↔ Leaflet CRS.Simple scaled to the tile pyramid
 - `src/components/GameMap.tsx` — map starts at zoom 0; users zoom in for detail
 - `scripts/prepare-map.ts` — Wiki map download + WebP tile pyramid
@@ -48,8 +49,9 @@
 - `src/services/content.ts` — derived map markers
 - `src/services/search.ts` — MiniSearch index
 - `src/services/progress.ts` — category counts and 100% evaluator
+- `src/services/compendium.ts` — kind/region filters and Compendium helpers
 - `src/services/exportImport.ts` — transactional backup/restore
-- `src/features/**` — Journey, Treasures, Map, Search, Progress, Settings, About
+- `src/features/**` — Journey, Treasures, Map, Compendium, Search, Progress, Settings, About
 - `src/components/**` — shared journal UI, map, dialogs, attribution
 - `src/platform/pwaRegisterStub.ts` — no-op PWA register module for Android Vite builds
 - `scripts/android-assets.mjs` — launcher icons, splash, and local.properties helper
@@ -71,6 +73,12 @@
 - `src/features/map/MapPage.module.css` — full-height map shell
 - `src/components/MapLayerPanel.module.css` — bottom-sheet / side layer panel layout
 - `src/services/map-pins.test.ts` — calibration, merge, layer, popup, and pin-progress tests
+- `src/services/compendium.test.ts` — kind/region filters, pin lookup, progress-by-kind, search href
+- `src/data/regions.json` — six state rows (id, name, description)
+- `src/data/speciesIcons.json` — RDOMap habitat/herb icon → Compendium ids
+- `src/features/compendium/CompendiumPage.tsx` — kind/region Compendium index
+- `src/features/compendium/CompendiumEntryPage.tsx` — entry detail, notes, mini map
+- `src/features/compendium/CompendiumPage.module.css` — Compendium list layout
 - `documentation/README.md` — index of numbered change documents
 - `CHANGELOG.md` — this file
 - `README.md` — setup, disclaimer, license split, PWA vs Android
@@ -288,6 +296,47 @@
 - `documentation/README.md` — linked 008
 - `README.md` — listed 008 and jeanropke Sources entry
 - `CHANGELOG.md` — added 008 section
+
+## 009 — Compendium with general locations (2026-09-06)
+
+- `scripts/research/fill-compendium-locations.mjs` — added Wiki general-location enricher and species icon map
+- `scripts/validate-data.ts` — check region ids, locationIds, speciesIcons, and generalLocation sources
+- `src/types/future.ts` — added Region, GeneralLocation, and CompendiumEntry location fields
+- `src/types/index.ts` — exported Region
+- `src/data/regions.json` — added six states
+- `src/data/speciesIcons.json` — added habitat/herb icon → Compendium ids
+- `src/data/compendium.json` — filled familyTitle, wikiPageTitle, and generalLocation on animals/fish/plants
+- `src/data/mapMarkers.json` — tagged habitat/herb/legendary pins with compendiumId
+- `src/data/sources.json` — added per-page Wiki sources for location-filled entries
+- `src/data/index.ts` — added regions, speciesIcons, and Compendium loaders
+- `src/data/markerCategories.ts` — habitat/herb pins mark Compendium entries
+- `src/db/repositories.ts` — merge existing entity notes when toggling completion
+- `src/db/repositories.test.ts` — Compendium entity toggle keeps notes
+- `src/services/content.ts` — added markersForCompendium and pinCountsByCompendium
+- `src/services/compendium.ts` — kind/region filters and labels
+- `src/services/compendium.test.ts` — filters, pin lookup, progress-by-kind, search href
+- `src/services/mapLayers.ts` — `?compendium=` matches icon-mapped pins
+- `src/services/mapPopup.ts` — Compendium popup links to `/compendium/:id`
+- `src/services/progress.ts` — separate Animals/Fish/Plants progress bars
+- `src/services/search.ts` — Compendium hits link to entry pages
+- `src/services/map-pins.test.ts` — popup href assertion
+- `src/app/router.tsx` — `/compendium` and `/compendium/:entryId`
+- `src/layouts/RootLayout.tsx` — sixth Compendium tab
+- `src/layouts/RootLayout.module.css` — six-column bottom nav
+- `src/features/compendium/CompendiumPage.tsx` — kind, region, incomplete, family groups
+- `src/features/compendium/CompendiumEntryPage.tsx` — location, mini map, notes
+- `src/features/compendium/CompendiumPage.module.css` — list row layout
+- `src/features/progress/ProgressPage.tsx` — include Compendium kind counts
+- `src/features/progress/SavedPage.tsx` — Compendium favourite titles
+- `src/features/map/LocationPage.tsx` — wildlife and herbs recorded here
+- `src/features/map/MapPage.tsx` — center on species pins for `?compendium=`
+- `src/features/about/AboutPage.tsx` — version 0.4.0
+- `package.json` — version 0.4.0
+- `documentation/009-compendium-general-locations.md` — added this change document
+- `documentation/README.md` — linked 009
+- `README.md` — listed 009
+- `CHANGELOG.md` — added 009 section
+
 
 
 

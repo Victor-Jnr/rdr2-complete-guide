@@ -13,6 +13,8 @@ export const router = createBrowserRouter([
       { path: 'treasures', lazy: () => import('@/features/treasures/TreasuresPage').then((m) => ({ Component: m.default })) },
       { path: 'treasures/:treasureId', lazy: () => import('@/features/treasures/TreasureDetailPage').then((m) => ({ Component: m.default })) },
       { path: 'map', lazy: () => import('@/features/map/MapPage').then((m) => ({ Component: m.default })) },
+      { path: 'compendium', lazy: () => import('@/features/compendium/CompendiumPage').then((m) => ({ Component: m.default })) },
+      { path: 'compendium/:entryId', lazy: () => import('@/features/compendium/CompendiumEntryPage').then((m) => ({ Component: m.default })) },
       { path: 'search', lazy: () => import('@/features/search/SearchPage').then((m) => ({ Component: m.default })) },
       { path: 'progress', lazy: () => import('@/features/progress/ProgressPage').then((m) => ({ Component: m.default })) },
       { path: 'progress/saved', lazy: () => import('@/features/progress/SavedPage').then((m) => ({ Component: m.default })) },

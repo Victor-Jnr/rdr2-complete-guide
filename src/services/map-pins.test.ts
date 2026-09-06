@@ -97,7 +97,7 @@ describe('popup actions', () => {
       title: 'Legendary Beaver',
       compendiumId: 'comp-leg-animal-legendary-beaver',
     });
-    expect(markerPopupLinks(legend).some((l) => l.label === 'Open Compendium entry')).toBe(true);
+    expect(markerPopupLinks(legend).some((l) => l.href === '/compendium/comp-leg-animal-legendary-beaver')).toBe(true);
     expect(markerMarkAction(legend)).toEqual({
       label: 'Mark hunted',
       entityType: 'compendium',

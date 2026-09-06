@@ -56,7 +56,7 @@
   bottom: 0;
   z-index: 30;
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   padding-bottom: var(--safe-bottom);
   border-top: 1px solid var(--rule);
 }
@@ -70,9 +70,16 @@
   gap: 2px;
   text-decoration: none;
   color: var(--ink-muted);
-  font-size: 0.7rem;
-  letter-spacing: 0.04em;
+  font-size: 0.58rem;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
+}
+
+.bottomNav a span {
+  max-width: 100%;
+  text-align: center;
+  line-height: 1.1;
+  padding: 0 1px;
 }
 
 .bottomNav a[aria-current='page'] {

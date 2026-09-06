@@ -26,6 +26,9 @@ export type {
   CompendiumEntry,
   CompendiumKind,
   CompletionRequirement,
+  GeneralLocation,
+  Region,
+  RegionId,
 } from './future';
 export type { ResearchMetadata, VerificationStatus } from './research';
 export type { SourceReference, SourceType } from './sources';

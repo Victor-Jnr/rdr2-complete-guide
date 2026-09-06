@@ -1,4 +1,5 @@
 import { categoryFor, DEFAULT_HIDDEN_MARKER_TYPES, MARKER_TYPES } from '@/data/markerCategories';
+import { markersForCompendium } from '@/services/content';
 import type { MapMarker, MarkerType, UserEntityState, UserMissionState, UserTreasureState } from '@/types';
 
 export function parseLayersParam(
@@ -60,11 +61,14 @@ export function filterMapMarkers(opts: {
   const forced = opts.forceMarkerId ? opts.markers.find((m) => m.id === opts.forceMarkerId) : undefined;
   const visible = new Set(opts.visibleTypes);
   if (forced) visible.add(forced.type);
+  const relatedIds = opts.compendiumId
+    ? new Set(markersForCompendium(opts.compendiumId, opts.markers).map((m) => m.id))
+    : null;
 
   return opts.markers.filter((m) => {
     if (opts.forceMarkerId && m.id === opts.forceMarkerId) return true;
-    if (opts.compendiumId) {
-      return m.compendiumId === opts.compendiumId;
+    if (relatedIds) {
+      return relatedIds.has(m.id);
     }
     if (!visible.has(m.type)) return false;
     if (q && !`${m.title} ${m.subtitle ?? ''}`.toLowerCase().includes(q)) return false;

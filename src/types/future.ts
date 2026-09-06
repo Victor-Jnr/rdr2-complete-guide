@@ -58,10 +58,36 @@ export type CompendiumKind =
   | 'gang'
   | 'other';
 
+export type RegionId =
+  | 'ambarino'
+  | 'new-hanover'
+  | 'lemoyne'
+  | 'west-elizabeth'
+  | 'new-austin'
+  | 'guarma';
+
+export interface Region {
+  id: RegionId;
+  name: string;
+  description: string;
+}
+
+export interface GeneralLocation {
+  regionIds: RegionId[];
+  summary?: string;
+  namedPlaces: string[];
+  locationIds?: string[];
+  research: ResearchMetadata;
+}
+
 export interface CompendiumEntry {
   id: string;
   kind: CompendiumKind;
   title: string;
+  familyTitle?: string;
+  wikiPageTitle?: string;
+  description?: string;
+  generalLocation?: GeneralLocation;
   sourceIds?: string[];
   research: ResearchMetadata;
 }

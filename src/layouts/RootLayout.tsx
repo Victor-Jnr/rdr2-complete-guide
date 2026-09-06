@@ -1,5 +1,5 @@
 import { NavLink, Outlet, ScrollRestoration, useNavigate } from 'react-router';
-import { BookOpen, Compass, Gem, Menu, Search, Settings, Trophy } from 'lucide-react';
+import { BookOpen, Compass, Gem, Menu, PawPrint, Search, Settings, Trophy } from 'lucide-react';
 import { useEffect } from 'react';
 import { applySystemBars, listenBackButton } from '@/platform/capacitor';
 import { useSettings } from '@/hooks/useGuideState';
@@ -12,6 +12,7 @@ const tabs = [
   { to: '/journey', label: 'Journey', icon: BookOpen },
   { to: '/treasures', label: 'Treasures', icon: Gem },
   { to: '/map', label: 'Map', icon: Compass },
+  { to: '/compendium', label: 'Compendium', icon: PawPrint },
   { to: '/search', label: 'Search', icon: Search },
   { to: '/progress', label: 'Progress', icon: Trophy },
 ];

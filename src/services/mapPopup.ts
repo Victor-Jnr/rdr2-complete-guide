@@ -18,7 +18,7 @@ export function markerPopupLinks(marker: MapMarker): MarkerPopupLink[] {
   if (marker.treasureId) links.push({ label: 'Open Treasure', href: `/treasures/${marker.treasureId}` });
   if (marker.locationId) links.push({ label: 'Open Details', href: `/locations/${marker.locationId}` });
   if (marker.compendiumId) {
-    links.push({ label: 'Open Compendium entry', href: `/progress` });
+    links.push({ label: 'Open Compendium entry', href: `/compendium/${marker.compendiumId}` });
   }
   if (marker.collectibleSetId) {
     links.push({ label: 'Open Collectible set', href: `/progress` });

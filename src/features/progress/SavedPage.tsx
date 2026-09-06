@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import { getMission, getTreasure } from '@/data';
+import { getCompendium, getMission, getTreasure } from '@/data';
 import { EmptyState } from '@/components/EmptyState';
 import { useAllMissionState, useAllTreasureState, useFavorites } from '@/hooks/useGuideState';
 
@@ -36,6 +36,14 @@ export default function SavedPage() {
           return t ? (
             <p key={`${f.entityType}-${f.entityId}`}>
               <Link to={`/treasures/${t.id}`}>{t.name}</Link>
+            </p>
+          ) : null;
+        }
+        if (f.entityType === 'compendium') {
+          const c = getCompendium(f.entityId);
+          return c ? (
+            <p key={`${f.entityType}-${f.entityId}`}>
+              <Link to={`/compendium/${c.id}`}>{c.title}</Link>
             </p>
           ) : null;
         }

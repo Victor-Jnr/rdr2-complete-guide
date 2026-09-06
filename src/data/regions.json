@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ambarino",
+    "name": "Ambarino",
+    "description": "Snowy mountains and the Grizzlies in the far north."
+  },
+  {
+    "id": "new-hanover",
+    "name": "New Hanover",
+    "description": "Heartlands, Cumberland Forest, and Roanoke Ridge."
+  },
+  {
+    "id": "lemoyne",
+    "name": "Lemoyne",
+    "description": "Scarlett Meadows, Bayou Nwa, and Bluewater Marsh."
+  },
+  {
+    "id": "west-elizabeth",
+    "name": "West Elizabeth",
+    "description": "Big Valley, Great Plains, and Tall Trees."
+  },
+  {
+    "id": "new-austin",
+    "name": "New Austin",
+    "description": "Gaptooth Ridge, Cholla Springs, Río Bravo, and Hennigan's Stead."
+  },
+  {
+    "id": "guarma",
+    "name": "Guarma",
+    "description": "A Caribbean island visited during Chapter 5."
+  }
+]

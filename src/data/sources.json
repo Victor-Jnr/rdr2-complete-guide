@@ -1660,5 +1660,1665 @@
     "accessedAt": "2026-09-06",
     "publicAttribution": true,
     "notes": "Public-domain (Unlicense) game-extracted coordinates at commit 922daf072c3ea027c5d5ed097173ce66d70d65b6. Not copied from rdr2map.com / Map Genie."
+  },
+  {
+    "id": "wiki-alligator",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Alligator",
+    "url": "https://reddead.fandom.com/wiki/Alligator",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-armadillo-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Armadillo (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Armadillo_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-badger",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Badger",
+    "url": "https://reddead.fandom.com/wiki/Badger",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bat-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bat (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Bat_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-beaver-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Beaver (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Beaver_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bison",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bison",
+    "url": "https://reddead.fandom.com/wiki/Bison",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-black-bear",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Black Bear",
+    "url": "https://reddead.fandom.com/wiki/Black_Bear",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-blue-jay",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Blue Jay",
+    "url": "https://reddead.fandom.com/wiki/Blue_Jay",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-boar-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Boar (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Boar_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-booby",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Booby",
+    "url": "https://reddead.fandom.com/wiki/Booby",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-buck-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Buck (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Buck_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bull-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bull (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Bull_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bullfrog",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bullfrog",
+    "url": "https://reddead.fandom.com/wiki/Bullfrog",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-cat",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Cat",
+    "url": "https://reddead.fandom.com/wiki/Cat",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-cardinal",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Cardinal",
+    "url": "https://reddead.fandom.com/wiki/Cardinal",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-chicken-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Chicken (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Chicken_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-chipmunk",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Chipmunk",
+    "url": "https://reddead.fandom.com/wiki/Chipmunk",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-condor",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Condor",
+    "url": "https://reddead.fandom.com/wiki/Condor",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-cormorant",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Cormorant",
+    "url": "https://reddead.fandom.com/wiki/Cormorant",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-cougar-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Cougar (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Cougar_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-cow-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Cow (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Cow_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-coyote-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Coyote (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Coyote_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-crustaceans",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Crustaceans",
+    "url": "https://reddead.fandom.com/wiki/Crustaceans",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-crane",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Crane",
+    "url": "https://reddead.fandom.com/wiki/Crane",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-crow-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Crow (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Crow_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-deer-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Deer (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Deer_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-dog-rdr2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Dog (RDR2)",
+    "url": "https://reddead.fandom.com/wiki/Dog_(RDR2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-duck-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Duck (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Duck_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-eagle-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Eagle (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Eagle_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-egret",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Egret",
+    "url": "https://reddead.fandom.com/wiki/Egret",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-elk-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Elk (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Elk_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-fox-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Fox (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Fox_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-gila-monster",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Gila Monster",
+    "url": "https://reddead.fandom.com/wiki/Gila_Monster",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-goat-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Goat (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Goat_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-goose",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Goose",
+    "url": "https://reddead.fandom.com/wiki/Goose",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-grizzly-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Grizzly (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Grizzly_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-gull",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Gull",
+    "url": "https://reddead.fandom.com/wiki/Gull",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-hawk-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Hawk (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Hawk_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-heron",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Heron",
+    "url": "https://reddead.fandom.com/wiki/Heron",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-iguana",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Iguana",
+    "url": "https://reddead.fandom.com/wiki/Iguana",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-lion",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Lion",
+    "url": "https://reddead.fandom.com/wiki/Lion",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-loon",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Loon",
+    "url": "https://reddead.fandom.com/wiki/Loon",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-moose",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Moose",
+    "url": "https://reddead.fandom.com/wiki/Moose",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-muskrat",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Muskrat",
+    "url": "https://reddead.fandom.com/wiki/Muskrat",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-opossum",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Opossum",
+    "url": "https://reddead.fandom.com/wiki/Opossum",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-oriole",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Oriole",
+    "url": "https://reddead.fandom.com/wiki/Oriole",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-owl-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Owl (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Owl_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-oxen",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Oxen",
+    "url": "https://reddead.fandom.com/wiki/Oxen",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-panther",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Panther",
+    "url": "https://reddead.fandom.com/wiki/Panther",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-parakeet",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Parakeet",
+    "url": "https://reddead.fandom.com/wiki/Parakeet",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-parrot",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Parrot",
+    "url": "https://reddead.fandom.com/wiki/Parrot",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-peccary",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Peccary",
+    "url": "https://reddead.fandom.com/wiki/Peccary",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-pelican",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Pelican",
+    "url": "https://reddead.fandom.com/wiki/Pelican",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-pheasant",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Pheasant",
+    "url": "https://reddead.fandom.com/wiki/Pheasant",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-pig-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Pig (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Pig_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-pigeon",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Pigeon",
+    "url": "https://reddead.fandom.com/wiki/Pigeon",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-pronghorn",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Pronghorn",
+    "url": "https://reddead.fandom.com/wiki/Pronghorn",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-quail",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Quail",
+    "url": "https://reddead.fandom.com/wiki/Quail",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rabbit",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Rabbit",
+    "url": "https://reddead.fandom.com/wiki/Rabbit",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-raccoon-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Raccoon (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Raccoon_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bighorn-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bighorn (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Bighorn_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rat",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Rat",
+    "url": "https://reddead.fandom.com/wiki/Rat",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-raven",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Raven",
+    "url": "https://reddead.fandom.com/wiki/Raven",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-robin",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Robin",
+    "url": "https://reddead.fandom.com/wiki/Robin",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rooster",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Rooster",
+    "url": "https://reddead.fandom.com/wiki/Rooster",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-sheep-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Sheep (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Sheep_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-skunk-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Skunk (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Skunk_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-snake-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Snake (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Snake_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-songbird-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Songbird (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Songbird_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-sparrow",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Sparrow",
+    "url": "https://reddead.fandom.com/wiki/Sparrow",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-spoonbill",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Spoonbill",
+    "url": "https://reddead.fandom.com/wiki/Spoonbill",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-squirrel",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Squirrel",
+    "url": "https://reddead.fandom.com/wiki/Squirrel",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-toad",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Toad",
+    "url": "https://reddead.fandom.com/wiki/Toad",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-turkey",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Turkey",
+    "url": "https://reddead.fandom.com/wiki/Turkey",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-turtle",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Turtle",
+    "url": "https://reddead.fandom.com/wiki/Turtle",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-vulture-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Vulture (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Vulture_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-waxwing",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Waxwing",
+    "url": "https://reddead.fandom.com/wiki/Waxwing",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-wolf-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Wolf (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Wolf_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-woodpecker",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Woodpecker",
+    "url": "https://reddead.fandom.com/wiki/Woodpecker",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-bullgator-lacartus",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Bullgator \"Lacartus\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Bullgator_%22Lacartus%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-beaver-malia",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Beaver \"Malia\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Beaver_%22Malia%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-tatanka-bison",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Tatanka Bison",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Tatanka_Bison",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-white-bison",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary White Bison",
+    "url": "https://reddead.fandom.com/wiki/Legendary_White_Bison",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-boar-oryx",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Boar \"Oryx\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Boar_%22Oryx%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-buck-obie",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Buck \"Obie\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Buck_%22Obie%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-cougar",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Cougar",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Cougar",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-coyote-suki",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Coyote \"Suki\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Coyote_%22Suki%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-elk-enyeto",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Elk \"Enyeto\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Elk_%22Enyeto%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-fox-layla",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Fox \"Layla\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Fox_%22Layla%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-bharati-grizzly-bear",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Bharati Grizzly Bear",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Bharati_Grizzly_Bear",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-moose-anoki",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Moose \"Anoki\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Moose_%22Anoki%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-giaguaro-panther",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Giaguaro Panther",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Giaguaro_Panther",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-pronghorn-ira",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Pronghorn \"Ira\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Pronghorn_%22Ira%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-bighorn-ram",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Bighorn Ram",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Bighorn_Ram",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-wolf-hotah",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Wolf \"Hotah\"",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Wolf_%22Hotah%22",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bluegill",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bluegill",
+    "url": "https://reddead.fandom.com/wiki/Bluegill",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-bluegill",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Bluegill",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Bluegill",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bullhead-catfish",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bullhead Catfish",
+    "url": "https://reddead.fandom.com/wiki/Bullhead_Catfish",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-bullhead-catfish",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Bullhead Catfish",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Bullhead_Catfish",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-chain-pickerel",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Chain Pickerel",
+    "url": "https://reddead.fandom.com/wiki/Chain_Pickerel",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-chain-pickerel",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Chain Pickerel",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Chain_Pickerel",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-channel-catfish",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Channel Catfish",
+    "url": "https://reddead.fandom.com/wiki/Channel_Catfish",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-lake-sturgeon",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Lake Sturgeon",
+    "url": "https://reddead.fandom.com/wiki/Lake_Sturgeon",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-lake-sturgeon",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Lake Sturgeon",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Lake_Sturgeon",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-largemouth-bass",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Largemouth Bass",
+    "url": "https://reddead.fandom.com/wiki/Largemouth_Bass",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-largemouth-bass",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Largemouth Bass",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Largemouth_Bass",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-longnose-gar",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Longnose Gar",
+    "url": "https://reddead.fandom.com/wiki/Longnose_Gar",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-longnose-gar",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Longnose Gar",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Longnose_Gar",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-muskie",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Muskie",
+    "url": "https://reddead.fandom.com/wiki/Muskie",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-muskie",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Muskie",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Muskie",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-northern-pike",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Northern Pike",
+    "url": "https://reddead.fandom.com/wiki/Northern_Pike",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-perch",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Perch",
+    "url": "https://reddead.fandom.com/wiki/Perch",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-perch",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Perch",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Perch",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-redfin-pickerel",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Redfin Pickerel",
+    "url": "https://reddead.fandom.com/wiki/Redfin_Pickerel",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-redfin-pickerel",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Redfin Pickerel",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Redfin_Pickerel",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rock-bass",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Rock Bass",
+    "url": "https://reddead.fandom.com/wiki/Rock_Bass",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-rock-bass",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Rock Bass",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Rock_Bass",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-smallmouth-bass",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Smallmouth Bass",
+    "url": "https://reddead.fandom.com/wiki/Smallmouth_Bass",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-smallmouth-bass",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Smallmouth Bass",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Smallmouth_Bass",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-sockeye-salmon",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Sockeye Salmon",
+    "url": "https://reddead.fandom.com/wiki/Sockeye_Salmon",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-sockeye-salmon",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Sockeye Salmon",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Sockeye_Salmon",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-steelhead-trout",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Steelhead Trout",
+    "url": "https://reddead.fandom.com/wiki/Steelhead_Trout",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-legendary-steelhead-trout",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Legendary Steelhead Trout",
+    "url": "https://reddead.fandom.com/wiki/Legendary_Steelhead_Trout",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-alaskan-ginseng",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Alaskan Ginseng",
+    "url": "https://reddead.fandom.com/wiki/Alaskan_Ginseng",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-american-ginseng",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "American Ginseng",
+    "url": "https://reddead.fandom.com/wiki/American_Ginseng",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-burdock-root",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Burdock Root",
+    "url": "https://reddead.fandom.com/wiki/Burdock_Root",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-blackcurrant",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Blackcurrant",
+    "url": "https://reddead.fandom.com/wiki/Blackcurrant",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-common-bulrush",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Common Bulrush",
+    "url": "https://reddead.fandom.com/wiki/Common_Bulrush",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-desert-sage",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Desert Sage",
+    "url": "https://reddead.fandom.com/wiki/Desert_Sage",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-english-mace",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "English Mace",
+    "url": "https://reddead.fandom.com/wiki/English_Mace",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-golden-currant-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Golden Currant (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Golden_Currant_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-hummingbird-sage-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Hummingbird Sage (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Hummingbird_Sage_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-indian-tobacco",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Indian Tobacco",
+    "url": "https://reddead.fandom.com/wiki/Indian_Tobacco",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-milkweed",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Milkweed",
+    "url": "https://reddead.fandom.com/wiki/Milkweed",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-oleander-sage",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Oleander Sage",
+    "url": "https://reddead.fandom.com/wiki/Oleander_Sage",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-prairie-poppy",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Prairie Poppy",
+    "url": "https://reddead.fandom.com/wiki/Prairie_Poppy",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-red-sage",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Red Sage",
+    "url": "https://reddead.fandom.com/wiki/Red_Sage",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-vanilla-flower",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Vanilla Flower",
+    "url": "https://reddead.fandom.com/wiki/Vanilla_Flower",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-violet-snowdrop-rdr-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Violet Snowdrop (RDR 2)",
+    "url": "https://reddead.fandom.com/wiki/Violet_Snowdrop_(RDR_2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-wild-carrot",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Wild Carrot",
+    "url": "https://reddead.fandom.com/wiki/Wild_Carrot",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-wild-feverfew",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Wild Feverfew",
+    "url": "https://reddead.fandom.com/wiki/Wild_Feverfew",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-yarrow",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Yarrow",
+    "url": "https://reddead.fandom.com/wiki/Yarrow",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-blackberry",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Blackberry",
+    "url": "https://reddead.fandom.com/wiki/Blackberry",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-red-raspberry",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Red Raspberry",
+    "url": "https://reddead.fandom.com/wiki/Red_Raspberry",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-evergreen-huckleberry",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Evergreen Huckleberry",
+    "url": "https://reddead.fandom.com/wiki/Evergreen_Huckleberry",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-wintergreen-berry",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Wintergreen Berry",
+    "url": "https://reddead.fandom.com/wiki/Wintergreen_Berry",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bay-bolete",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bay Bolete",
+    "url": "https://reddead.fandom.com/wiki/Bay_Bolete",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-parasol-mushroom",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Parasol Mushroom",
+    "url": "https://reddead.fandom.com/wiki/Parasol_Mushroom",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-chanterelles",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Chanterelles",
+    "url": "https://reddead.fandom.com/wiki/Chanterelles",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rams-head",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Ram's Head",
+    "url": "https://reddead.fandom.com/wiki/Ram's_Head",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-creeping-thyme",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Creeping Thyme",
+    "url": "https://reddead.fandom.com/wiki/Creeping_Thyme",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-oregano",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Oregano",
+    "url": "https://reddead.fandom.com/wiki/Oregano",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-wild-mint",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Wild Mint",
+    "url": "https://reddead.fandom.com/wiki/Wild_Mint",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-acunas-star-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Acuna's Star Orchid",
+    "url": "https://reddead.fandom.com/wiki/Acuna's_Star_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-cigar-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Cigar Orchid",
+    "url": "https://reddead.fandom.com/wiki/Cigar_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-clamshell-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Clamshell Orchid",
+    "url": "https://reddead.fandom.com/wiki/Clamshell_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-dragons-mouth-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Dragon's Mouth Orchid",
+    "url": "https://reddead.fandom.com/wiki/Dragon's_Mouth_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-ghost-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Ghost Orchid",
+    "url": "https://reddead.fandom.com/wiki/Ghost_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-lady-of-the-night-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Lady of the Night Orchid",
+    "url": "https://reddead.fandom.com/wiki/Lady_of_the_Night_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-lady-slipper-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Lady Slipper Orchid",
+    "url": "https://reddead.fandom.com/wiki/Lady_Slipper_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-moccasin-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Moccasin Orchid",
+    "url": "https://reddead.fandom.com/wiki/Moccasin_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-night-scented-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Night Scented Orchid",
+    "url": "https://reddead.fandom.com/wiki/Night_Scented_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-queens-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Queen's Orchid",
+    "url": "https://reddead.fandom.com/wiki/Queen's_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rat-tail-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Rat Tail Orchid",
+    "url": "https://reddead.fandom.com/wiki/Rat_Tail_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-sparrow-egg-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Sparrow Egg Orchid",
+    "url": "https://reddead.fandom.com/wiki/Sparrow_Egg_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-spider-orchid",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Spider Orchid",
+    "url": "https://reddead.fandom.com/wiki/Spider_Orchid",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
   }
 ]

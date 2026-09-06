@@ -20,6 +20,7 @@ export default function MapPage() {
   const [params, setParams] = useSearchParams();
   const settings = useSettings();
   const focusId = params.get('marker') ?? undefined;
+  const compendiumId = params.get('compendium') ?? undefined;
   const calibrate = import.meta.env.DEV && params.get('calibrate') === '1';
   const [selected, setSelected] = useState<string | undefined>(focusId);
   const [query, setQuery] = useState('');
@@ -58,9 +59,9 @@ export default function MapPage() {
         hideCollected,
         collectedIds,
         forceMarkerId: focusId,
-        compendiumId: params.get('compendium') ?? undefined,
+        compendiumId,
       }),
-    [all, visibleTypes, query, hideCollected, collectedIds, focusId, params],
+    [all, visibleTypes, query, hideCollected, collectedIds, focusId, compendiumId],
   );
 
   const counts = useMemo(() => countMarkersByType(all), [all]);
@@ -99,6 +100,7 @@ export default function MapPage() {
           focusId={focusId}
           selectedId={selected}
           onSelect={(m) => setSelected(m.id)}
+          center={compendiumId && markers[0] ? { x: markers[0].x, y: markers[0].y } : undefined}
           height="100%"
           collectedIds={collectedIds}
           calibrate={calibrate}

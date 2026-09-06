@@ -1,5 +1,5 @@
 import type { MapMarker, MarkerType, Mission, TreasureChain } from '@/types';
-import { explicitMapMarkers, locationsById, missions, treasures } from '@/data';
+import { explicitMapMarkers, locationsById, missions, speciesIcons, treasures } from '@/data';
 
 const missionMarkerType = (mission: Mission): MarkerType => {
   if (mission.tags.includes('stranger')) return 'stranger';
@@ -74,4 +74,30 @@ export function markerById(id: string): MapMarker | undefined {
 export function explicitExternalKeysUnique(markers: MapMarker[] = explicitMapMarkers): boolean {
   const keys = markers.map((m) => m.externalKey).filter((k): k is string => Boolean(k));
   return new Set(keys).size === keys.length;
+}
+
+export function markersForCompendium(entryId: string, markers: MapMarker[] = derivedMarkers()): MapMarker[] {
+  const iconKeys = Object.entries(speciesIcons)
+    .filter(([, ids]) => ids.includes(entryId))
+    .map(([key]) => key);
+  return markers.filter((m) => {
+    if (m.compendiumId === entryId) return true;
+    const icon = m.externalKey?.split(':')[1] ?? m.externalKey;
+    return Boolean(icon && iconKeys.includes(icon));
+  });
+}
+
+export function pinCountsByCompendium(markers: MapMarker[] = derivedMarkers()): Map<string, number> {
+  const counts = new Map<string, number>();
+  for (const m of markers) {
+    const ids = new Set<string>();
+    if (m.compendiumId) ids.add(m.compendiumId);
+    const icon = m.externalKey?.split(':')[1];
+    const mapped = icon ? speciesIcons[icon] : undefined;
+    if (mapped) {
+      for (const id of mapped) ids.add(id);
+    }
+    for (const id of ids) counts.set(id, (counts.get(id) ?? 0) + 1);
+  }
+  return counts;
 }
