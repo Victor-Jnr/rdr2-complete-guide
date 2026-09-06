@@ -69,9 +69,9 @@
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
-- `src/components/GameMap.css` — DivIcon pin and popup chrome
-- `src/features/map/MapPage.module.css` — full-height map shell
-- `src/components/MapLayerPanel.module.css` — bottom-sheet / side layer panel layout
+- `src/components/GameMap.css` — DivIcon pin and popup chrome; isolate Leaflet stacking
+- `src/features/map/MapPage.module.css` — full-height map shell and Layers button stacking
+- `src/components/MapLayerPanel.module.css` — bottom-sheet / side layer panel layout and stacking
 - `src/services/map-pins.test.ts` — calibration, merge, layer, popup, and pin-progress tests
 - `src/services/compendium.test.ts` — kind/region filters, pin lookup, progress-by-kind, search href
 - `src/data/regions.json` — six state rows (id, name, description)
@@ -350,6 +350,16 @@
 - `documentation/README.md` — linked 010
 - `README.md` — listed 010
 - `CHANGELOG.md` — added 010 section
+
+## 011 — Map layer panel stacking (2026-09-06)
+
+- `src/components/GameMap.css` — isolate Leaflet panes/controls with `.leaflet-container { z-index: 0 }`
+- `src/features/map/MapPage.module.css` — isolate `.mapWrap`; raise Layers button above Leaflet (`z-index: 1100`)
+- `src/components/MapLayerPanel.module.css` — raise layer panel above Leaflet (`z-index: 1100`)
+- `documentation/011-map-layer-panel-stacking.md` — added this change document
+- `documentation/README.md` — linked 011
+- `README.md` — listed 011
+- `CHANGELOG.md` — added 011 section
 
 
 

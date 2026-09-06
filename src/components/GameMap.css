@@ -1,3 +1,8 @@
+.leaflet-container {
+  /* Isolate panes/controls (z-index 200–1000) so page chrome can stack above the map. */
+  z-index: 0;
+}
+
 .leaflet-div-icon.map-pin {
   background: transparent;
   border: none;

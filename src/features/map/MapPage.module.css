@@ -9,11 +9,12 @@
 .mapWrap {
   position: relative;
   height: 100%;
+  isolation: isolate;
 }
 
 .layersBtn {
   position: absolute;
-  z-index: 9;
+  z-index: 1100;
   top: 8px;
   right: 8px;
   min-height: 44px;

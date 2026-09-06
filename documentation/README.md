@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [011](011-map-layer-panel-stacking.md) | Map layer panel stacking |
 | [010](010-map-pin-calibration-fix.md) | Map pin calibration fix |
 | [009](009-compendium-general-locations.md) | Compendium with general locations |
 | [008](008-public-domain-map-pins.md) | Public-domain map pins and layered map |

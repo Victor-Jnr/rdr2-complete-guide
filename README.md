@@ -111,6 +111,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [011 — Map layer panel stacking](documentation/011-map-layer-panel-stacking.md)
 - [010 — Map pin calibration fix](documentation/010-map-pin-calibration-fix.md)
 - [009 — Compendium with general locations](documentation/009-compendium-general-locations.md)
 - [008 — Public-domain map pins and layered map](documentation/008-public-domain-map-pins.md)
