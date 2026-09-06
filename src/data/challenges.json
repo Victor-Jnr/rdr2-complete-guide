@@ -1,1 +1,1235 @@
-[]
+[
+  {
+    "id": "challenge-bandit",
+    "category": "Bandit",
+    "title": "Bandit Challenges",
+    "ranks": [
+      {
+        "id": "chal-bandit-challenges-1",
+        "rank": 1,
+        "description": "Hold up five townsfolk.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-2",
+        "rank": 2,
+        "description": "Rob two coaches along the road or complete any two coach robbery missions.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-3",
+        "rank": 3,
+        "description": "Rob the cash register in any four shops in one day.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-4",
+        "rank": 4,
+        "description": "Rob three coaches in a day.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-5",
+        "rank": 5,
+        "description": "Amass a $250 bounty in one State.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-6",
+        "rank": 6,
+        "description": "Steal five horses and sell them to the horse fence at Clemens Cove.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-7",
+        "rank": 7,
+        "description": "Rob $50 worth of cash and valuables from townsfolk and travelers.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-8",
+        "rank": 8,
+        "description": "Steal seven wagons and sell them to the fence at Emerald Ranch.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-9",
+        "rank": 9,
+        "description": "Hogtie someone and leave them on the railroad three times.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-bandit-challenges-10",
+        "rank": 10,
+        "description": "Complete five train robberies without dying or being caught.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bandit-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-bandit-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-bandit-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-explorer",
+    "category": "Explorer",
+    "title": "Explorer Challenges",
+    "ranks": [
+      {
+        "id": "chal-explorer-challenges-1",
+        "rank": 1,
+        "description": "Find a treasure map",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-2",
+        "rank": 2,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-3",
+        "rank": 3,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-4",
+        "rank": 4,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-5",
+        "rank": 5,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-6",
+        "rank": 6,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-7",
+        "rank": 7,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-8",
+        "rank": 8,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-9",
+        "rank": 9,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-explorer-challenges-10",
+        "rank": 10,
+        "description": "Find a treasure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-explorer-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-explorer-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-explorer-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-gambler",
+    "category": "Gambler",
+    "title": "Gambler Challenges",
+    "ranks": [
+      {
+        "id": "chal-gambler-challenges-1",
+        "rank": 1,
+        "description": "Win five hands of Poker.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-2",
+        "rank": 2,
+        "description": "In Blackjack, double down and win the hand five times.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-3",
+        "rank": 3,
+        "description": "Win three games of Five Finger Fillet.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-4",
+        "rank": 4,
+        "description": "Bust one poker table out in each location (Flatneck Station, Saint Denis, Valentine).",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-5",
+        "rank": 5,
+        "description": "Win three rounds of dominoes without drawing any tiles against two or fewer opponents.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-6",
+        "rank": 6,
+        "description": "Beat the blackjack dealer in two locations (Rhodes, Van Horn Trading Post).",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-7",
+        "rank": 7,
+        "description": "Beat the five finger fillet opponent in each location (Strawberry, Valentine, Van Horn Trading Post).",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-8",
+        "rank": 8,
+        "description": "Win three hands of blackjack, with three hits or more.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-9",
+        "rank": 9,
+        "description": "Win three games of dominoes in a row.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-gambler-challenges-10",
+        "rank": 10,
+        "description": "Win three hands of poker in a row.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gambler-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-gambler-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gambler-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-herbalist",
+    "category": "Herbalist",
+    "title": "Herbalist Challenges",
+    "ranks": [
+      {
+        "id": "chal-herbalist-challenges-1",
+        "rank": 1,
+        "description": "Pick six Yarrow plants.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-2",
+        "rank": 2,
+        "description": "Pick and eat four species of berry.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-3",
+        "rank": 3,
+        "description": "Craft seven items using Sage as an ingredient.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-4",
+        "rank": 4,
+        "description": "Pick five mushrooms and feed them to your horse.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-5",
+        "rank": 5,
+        "description": "Craft nine items using Indian Tobacco as an ingredient.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-6",
+        "rank": 6,
+        "description": "Pick 15 different species of herb.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-7",
+        "rank": 7,
+        "description": "Craft and use five Special Miracle Tonics.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-8",
+        "rank": 8,
+        "description": "Use Oleander Sage to craft six poison weapons.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-9",
+        "rank": 9,
+        "description": "Pick one of each species of herb.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-herbalist-challenges-10",
+        "rank": 10,
+        "description": "Season and cook all 11 types of meat.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-herbalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-herbalist-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-herbalist-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-horseman",
+    "category": "Horseman",
+    "title": "Horseman Challenges",
+    "ranks": [
+      {
+        "id": "chal-horseman-challenges-1",
+        "rank": 1,
+        "description": "Kill five rabbits from horseback.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-2",
+        "rank": 2,
+        "description": "Jump over three obstacles in 15 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-3",
+        "rank": 3,
+        "description": "Ride from Valentine to Rhodes in less than five minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-4",
+        "rank": 4,
+        "description": "While mounted, drag a victim for 3300 feet using your lasso.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-5",
+        "rank": 5,
+        "description": "Trample five animals while on horseback.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-6",
+        "rank": 6,
+        "description": "Ride from Strawberry to Saint Denis in less than nine minutes without touching any water.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-7",
+        "rank": 7,
+        "description": "Kill seven enemies from horseback without dismounting.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-8",
+        "rank": 8,
+        "description": "Kill nine predators from horseback.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-9",
+        "rank": 9,
+        "description": "Ride from Van Horn to Blackwater in less than 17 minutes without touching any water.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-horseman-challenges-10",
+        "rank": 10,
+        "description": "Break every wild horse breed.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horseman-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-horseman-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horseman-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-master-hunter",
+    "category": "Master Hunter",
+    "title": "Master Hunter Challenges",
+    "ranks": [
+      {
+        "id": "chal-master-hunter-challenges-1",
+        "rank": 1,
+        "description": "Kill and skin five coyotes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-2",
+        "rank": 2,
+        "description": "Kill and skin five deer.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-3",
+        "rank": 3,
+        "description": "Kill five wolves with your melee knife and skin 5 wolves.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-4",
+        "rank": 4,
+        "description": "Skin five boars and three armadillos.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-5",
+        "rank": 5,
+        "description": "Kill 2 cougars with your melee knife and skin 2 cougars.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-6",
+        "rank": 6,
+        "description": "Skin 5 raccoons, 5 skunks, and 5 foxes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-7",
+        "rank": 7,
+        "description": "Skin 5 elk and 5 bighorn sheep.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-8",
+        "rank": 8,
+        "description": "Kill a bear with your melee knife and collect a bear pelt.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-9",
+        "rank": 9,
+        "description": "Search Ojo Del Diablo for \"Khan\", the legendary jaguar and collect his pelt.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-master-hunter-challenges-10",
+        "rank": 10,
+        "description": "Search Aurora Basin for \"Lobo\" the legendary wolf, Stillwater Creek for \"Gordo\" the legendary boar, and Nekoti Rock for \"Brumas\" the legendary bear and collect their pelts.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-master-hunter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-master-hunter-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-master-hunter-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-sharpshooter",
+    "category": "Sharpshooter",
+    "title": "Sharpshooter Challenges",
+    "ranks": [
+      {
+        "id": "chal-sharpshooter-challenges-1",
+        "rank": 1,
+        "description": "Kill any 5 flying birds",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-2",
+        "rank": 2,
+        "description": "Kill 5 rabbits",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-3",
+        "rank": 3,
+        "description": "Kill 5 coyotes without taking any damage from them",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-4",
+        "rank": 4,
+        "description": "Kill 5 birds from a moving train",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-5",
+        "rank": 5,
+        "description": "Kill any 2 different types of wild animals in 1 Dead Eye meter",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-6",
+        "rank": 6,
+        "description": "Shoot 2 hats off 2 different people's heads",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-7",
+        "rank": 7,
+        "description": "Kill 3 bears each with 1 shot",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-8",
+        "rank": 8,
+        "description": "Shoot the hats off of 2 people's heads and disarm 2 people",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-9",
+        "rank": 9,
+        "description": "Kill any 6 wild animals without reloading or changing weapons",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-sharpshooter-challenges-10",
+        "rank": 10,
+        "description": "Disarm any 6 enemies without reloading or changing weapons",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sharpshooter-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-sharpshooter-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-sharpshooter-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-survivalist",
+    "category": "Survivalist",
+    "title": "Survivalist Challenges",
+    "ranks": [
+      {
+        "id": "chal-survivalist-challenges-1",
+        "rank": 1,
+        "description": "Collect 6 Wild Feverfew",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-2",
+        "rank": 2,
+        "description": "Collect 6 Desert Sage",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-3",
+        "rank": 3,
+        "description": "Collect 4 Red Sage",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-4",
+        "rank": 4,
+        "description": "Collect 8 Prickly Pear",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-5",
+        "rank": 5,
+        "description": "Collect 7 Woolly Blue Curl",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-6",
+        "rank": 6,
+        "description": "Collect 8 Butterfly Weed",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-7",
+        "rank": 7,
+        "description": "Collect 10 Hummingbird Sage Flower",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-8",
+        "rank": 8,
+        "description": "Collect 12 Prairie Poppies",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-9",
+        "rank": 9,
+        "description": "Collect 15 Golden Currant",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-survivalist-challenges-10",
+        "rank": 10,
+        "description": "Collect 10 Violet Snowdrop then collect 2 more of every other herb available",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-survivalist-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-survivalist-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-survivalist-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "challenge-weapons-expert",
+    "category": "Weapons Expert",
+    "title": "Weapons Expert Challenges",
+    "ranks": [
+      {
+        "id": "chal-weapons-expert-challenges-1",
+        "rank": 1,
+        "description": "Kill three enemies with a knife.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-2",
+        "rank": 2,
+        "description": "Kill three enemies in 10 seconds using only throwing knives.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-3",
+        "rank": 3,
+        "description": "Kill three birds of prey using only a tomahawk.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-4",
+        "rank": 4,
+        "description": "Kill 10 enemies with a shotgun using crafted ammo.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-5",
+        "rank": 5,
+        "description": "Kill five mounted enemies, using one throwing knife per kill.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-6",
+        "rank": 6,
+        "description": "Kill four enemies at the same time with a single stick of dynamite.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-7",
+        "rank": 7,
+        "description": "Kill four consecutive enemies by throwing and retrieving the same tomahawk.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-8",
+        "rank": 8,
+        "description": "Kill 15 enemies using a long-barrelled sidearm.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-9",
+        "rank": 9,
+        "description": "Kill nine unaware enemies from behind, using the bow.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "chal-weapons-expert-challenges-10",
+        "rank": 10,
+        "description": "Kill a grizzly bear without taking damage, using only throwing knives.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-weapons-expert-challenges"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "sourceIds": [
+      "wiki-weapons-expert-challenges"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-expert-challenges"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

@@ -13,7 +13,13 @@
 - `tsconfig.json` / `tsconfig.app.json` / `tsconfig.node.json` — strict TS project references
 - `vite.config.ts` — React plugin, PWA on web, no SW on `android` mode
 - `vitest.config.ts` — jsdom tests with `@` alias
-- `scripts/validate-data.ts` — ID, ref, coordinate, and source-registry checks
+- `scripts/validate-data.ts` — ID, ref, coordinate, source-registry, and list-dataset checks
+- `scripts/research/enrich-from-wiki.mjs` — mission Wiki enricher (cached wikitext)
+- `scripts/research/fill-lists.mjs` — challenge / collectible list pass
+- `scripts/research/finalize-data.mjs` — structured list cleanup
+- `scripts/research/fill-remaining.mjs` — remaining Wiki lists (cards, POIs, 100%, compendium)
+- `src/services/mapCoords.ts` — 0–1 ↔ Leaflet CRS.Simple scaled to the tile pyramid
+- `src/components/GameMap.tsx` — map starts at zoom 0; users zoom in for detail
 - `scripts/prepare-map.ts` — Wiki map download + WebP tile pyramid
 - `scripts/make-icons.mjs` — PNG app icons and placeholder preview
 - `scripts/research/build-seed-data.mjs` — regenerates researched JSON seeds
@@ -40,7 +46,6 @@
 - `src/platform/capacitor.ts` — Browser, Filesystem+Share, SystemBars, back button
 - `src/services/availability.ts` — chapter windows and labels
 - `src/services/content.ts` — derived map markers
-- `src/services/mapCoords.ts` — 0–1 ↔ Leaflet CRS.Simple
 - `src/services/search.ts` — MiniSearch index
 - `src/services/progress.ts` — category counts and 100% evaluator
 - `src/services/exportImport.ts` — transactional backup/restore
@@ -203,6 +208,37 @@
 - `documentation/README.md` — linked 006
 - `README.md` — listed 006 and release-signing notes
 - `CHANGELOG.md` — added 006 section
+
+## 007 — Wiki dataset fill and map overview zoom (2026-09-06)
+
+- `scripts/research/fill-remaining.mjs` — added Wiki list filler for remaining datasets
+- `scripts/research/enrich-from-wiki.mjs` — added mission Wiki enricher
+- `scripts/research/fill-lists.mjs` — added challenge/collectible list pass
+- `scripts/research/finalize-data.mjs` — added structured list cleanup
+- `scripts/validate-data.ts` — validate collectibles, challenges, and compendium source use
+- `src/data/missions.json` — Wiki gold, summaries, and givers for story missions
+- `src/data/itemRequests.json` — 22 companion item requests
+- `src/data/missables.json` — missable missions and item requests
+- `src/data/collectibles.json` — cards, bones, dreamcatchers, carvings, POIs, hunts, exotics, graves
+- `src/data/collectibleSets.json` — collectible set groupings
+- `src/data/challenges.json` — nine challenge trees with ten ranks each
+- `src/data/compendium.json` — animals, fish, plants, weapons, horses, gangs, satchels
+- `src/data/completionRequirements.json` — official 35 100% rows plus non-required extras
+- `src/data/sources.json` — Wiki article sources for filled records
+- `src/services/mapCoords.ts` — scale CRS units so zoom 0 is the full tile world
+- `src/components/GameMap.tsx` — open at zoom 0; marker focus still zooms in
+- `src/features/map/MapPage.tsx` — taller map panel
+- `src/features/progress/ProgressPage.tsx` — checkable official 100% list
+- `src/features/about/AboutPage.tsx` — research counts and version 0.2.0
+- `src/services/search.ts` — index collectibles, challenges, and compendium
+- `src/features/search/SearchPage.tsx` — search group labels for those kinds
+- `src/services/progress.ts` — 100% rows track against their own entity id
+- `src/services/guide.test.ts` — zoom-0 tile-scale assertion
+- `package.json` — version 0.2.0
+- `documentation/007-wiki-data-and-map-zoom.md` — added this change document
+- `documentation/README.md` — linked 007
+- `README.md` — listed 007 in Documentation
+- `CHANGELOG.md` — added 007 section
 
 
 

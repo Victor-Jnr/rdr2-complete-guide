@@ -2056,12 +2056,38 @@
       "wiki-pouring-forth-oil-ii"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-pouring-forth-oil-ii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "goldRequirements": [
+      {
+        "id": "gold-pouring-forth-oil-ii-1",
+        "label": "Deliver the wagon to the drop off within 1 minute and 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-pouring-forth-oil-ii-1",
+        "label": "Tell John back at camp that the wagon is in position",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-pouring-forth-oil-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-pouring-forth-oil-iii",
@@ -2891,12 +2917,150 @@
       "wiki-further-questions-of-female-suffrage"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-further-questions-of-female-suffrage"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "To get her out of camp for a while, Arthur takes Sadie into Rhodes to collect supplies.",
+    "goldRequirements": [
+      {
+        "id": "gold-further-questions-of-female-suffrage-1",
+        "label": "Fend off the Lemoyne Raiders in less than 1 minute.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-further-questions-of-female-suffrage-2",
+        "label": "Get 5 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-further-questions-of-female-suffrage-3",
+        "label": "Complete with at least 85% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-further-questions-of-female-suffrage-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-further-questions-of-female-suffrage-1",
+        "label": "Drive to the store .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-2",
+        "label": "Go to the Post Office .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-3",
+        "label": "Get back on the wagon .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-4",
+        "label": "Wait for Sadie .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-5",
+        "label": "Fend off the outlaws .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-6",
+        "label": "Deal with the remaining outlaws .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-7",
+        "label": "Get back on the wagon .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-further-questions-of-female-suffrage-8",
+        "label": "Go back to Clemens Point .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-further-questions-of-female-suffrage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-new-south",
@@ -2921,12 +3085,49 @@
       "wiki-the-new-south"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-new-south"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Arthur, Dutch and Hosea go out on a fishing trip.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-new-south-1",
+        "label": "Knock out Anders Anderson without taking a hit.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-new-south"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-new-south-2",
+        "label": "Catch and return Anders Anderson to jail within 5 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-new-south"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-new-south-3",
+        "label": "Catch a fish with Dutch and Hosea.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-new-south"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-course-of-true-love-i",
@@ -2956,7 +3157,33 @@
         "wiki-the-course-of-true-love-i"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Beau Gray",
+    "summary": "Dutch asks you to sniff around Caliga Hall to see what you can find out about the Grays.",
+    "objectives": [
+      {
+        "id": "obj-the-course-of-true-love-i-1",
+        "label": "Ask around at Caliga Hall to find out more about the Grays",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-i"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-i-2",
+        "label": "Speak to Beau",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-i"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-course-of-true-love-ii",
@@ -2981,12 +3208,84 @@
       "wiki-the-course-of-true-love-ii"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-course-of-true-love-ii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Beau Gray",
+    "summary": "Beau Gray asks Arthur to deliver a letter to Penelope Braithwaite at Braithwaite Manor.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-course-of-true-love-ii-1",
+        "label": "Reach Penelope without getting spotted.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-course-of-true-love-ii-2",
+        "label": "Complete within 3 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-the-course-of-true-love-ii-1",
+        "label": "Sneak into the grounds around Braithwaite Manor",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-ii-2",
+        "label": "Sneak past the guards to Penelope",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-ii-3",
+        "label": "Leave the area without being seen",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-ii-4",
+        "label": "Give Penelope's letter to Beau",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-course-of-true-love-iii",
@@ -3011,12 +3310,95 @@
       "wiki-the-course-of-true-love-iii"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-course-of-true-love-iii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Beau Gray",
+    "summary": "At the request of Beau, Arthur drives Penelope and other protesters through Rhodes as they participate in a women's suffrage rally lead by Olive Calhoon.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-course-of-true-love-iii-1",
+        "label": "Complete within 4 minutes and 15 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-the-course-of-true-love-iii-1",
+        "label": "Mount your horse",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-iii-2",
+        "label": "Follow Beau",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-iii-3",
+        "label": "Drive to the Bank",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-iii-4",
+        "label": "Stop the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-iii-5",
+        "label": "Mount your horse",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-course-of-true-love-iii-6",
+        "label": "Follow Beau",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-iii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-american-distillation",
@@ -3041,12 +3423,150 @@
       "wiki-american-distillation"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-american-distillation"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Arthur, Dutch and Bill become temporarily deputized citizens of the Scarlett Meadows Sheriff's Office as they help Archibald shut down a moonshine distillery and steal a wagon-load of the Braithwaites' moonshine.",
+    "goldRequirements": [
+      {
+        "id": "gold-american-distillation-1",
+        "label": "Win the race back to camp.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-distillation-2",
+        "label": "Complete the mission without taking any damage.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-distillation-3",
+        "label": "Get 10 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-distillation-4",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-american-distillation-1",
+        "label": "Follow Archibald",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-2",
+        "label": "Help Bill knock out the Moonshiners without being spotted",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-3",
+        "label": "Hogtie the unconscious Moonshiner",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-4",
+        "label": "Pick up the Moonshiner",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-5",
+        "label": "Carry the Moonshiner to the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-6",
+        "label": "Drop the Moonshiner with the other captives",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-7",
+        "label": "Plant dynamite in the distillery",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-distillation-8",
+        "label": "Take out the Lemoyne Raiders",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-distillation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-an-honest-mistake",
@@ -3071,12 +3591,139 @@
       "wiki-an-honest-mistake"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-an-honest-mistake"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Molly O'Shea/Uncle",
+    "summary": "Uncle receives a tip-off and rides off with Arthur, Charles and Bill to rob a wagon carrying payroll.",
+    "goldRequirements": [
+      {
+        "id": "gold-an-honest-mistake-1",
+        "label": "Save Uncle when he is overpowered.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-honest-mistake-2",
+        "label": "Get 20 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-honest-mistake-3",
+        "label": "Complete with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-honest-mistake-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-an-honest-mistake-1",
+        "label": "Keep up with the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-honest-mistake-2",
+        "label": "Approach the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-honest-mistake-3",
+        "label": "Rob the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-honest-mistake-4",
+        "label": "Escape the pursuers with the gang",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-honest-mistake-5",
+        "label": "Keep hidden",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-honest-mistake-6",
+        "label": "Get into cover near Uncle",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-an-honest-mistake-7",
+        "label": "Help Charles and Bill",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-mistake"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-preaching-forgiveness-as-he-went",
@@ -3101,12 +3748,117 @@
       "wiki-preaching-forgiveness-as-he-went"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-preaching-forgiveness-as-he-went"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Lenny Summers",
+    "summary": "Following a lead about the Lemoyne Raiders sitting on a pile of weapons, Lenny and Arthur ride out deep into the woods towards Shady Belle.",
+    "goldRequirements": [
+      {
+        "id": "gold-preaching-forgiveness-as-he-went-1",
+        "label": "Kill 10 Lemoyne Raiders with a long scoped rifle.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-preaching-forgiveness-as-he-went-2",
+        "label": "Complete within 11 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-preaching-forgiveness-as-he-went-3",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-preaching-forgiveness-as-he-went-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-preaching-forgiveness-as-he-went-1",
+        "label": "Follow the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-preaching-forgiveness-as-he-went-2",
+        "label": "Hide the horses amongst the trees",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-preaching-forgiveness-as-he-went-3",
+        "label": "Wait for Lenny",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-preaching-forgiveness-as-he-went-4",
+        "label": "Instruct Lenny",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-preaching-forgiveness-as-he-went-5",
+        "label": "Search the area for weapons",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-preaching-forgiveness-as-he-went"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-sodom-back-to-gomorrah",
@@ -3131,12 +3883,71 @@
       "wiki-sodom-back-to-gomorrah"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-sodom-back-to-gomorrah"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Bill Williamson",
+    "summary": "With the heat in Valentine having died down, Bill decides it's finally time to hit the bank. Karen causes a distraction while Arthur handles the vaults.",
+    "goldRequirements": [
+      {
+        "id": "gold-sodom-back-to-gomorrah-1",
+        "label": "Loot all the safes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sodom-back-to-gomorrah"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-sodom-back-to-gomorrah-2",
+        "label": "Headshot 5 mounted lawmen during the horseback escape.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sodom-back-to-gomorrah"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-sodom-back-to-gomorrah-3",
+        "label": "Get to Downes Ranch within 1 minute and 55 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sodom-back-to-gomorrah"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-sodom-back-to-gomorrah-4",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sodom-back-to-gomorrah"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-sodom-back-to-gomorrah-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-sodom-back-to-gomorrah"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-advertising-the-new-american-art",
@@ -3161,12 +3972,117 @@
       "wiki-advertising-the-new-american-art"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-advertising-the-new-american-art"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Roberts/Hosea Matthews",
+    "summary": "Catherine Braithwaite pays Hosea and Arthur to head into Rhodes and hand out the stolen moonshine for free at the local saloon.",
+    "goldRequirements": [
+      {
+        "id": "gold-advertising-the-new-american-art-1",
+        "label": "Headshot 5 Lemoyne Raiders in the saloon.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-advertising-the-new-american-art-2",
+        "label": "Complete with at least 90% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-advertising-the-new-american-art-3",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-advertising-the-new-american-art-1",
+        "label": "Deliver the moonshine to Braithwaite Manor",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-advertising-the-new-american-art-2",
+        "label": "Take the moonshine to the Rhodes saloon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-advertising-the-new-american-art-3",
+        "label": "Collect the moonshine from the back of the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-advertising-the-new-american-art-4",
+        "label": "Go behind the bar in the saloon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-advertising-the-new-american-art-5",
+        "label": "Follow Hosea upstairs to escape",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-advertising-the-new-american-art-6",
+        "label": "Jump into the wagon below",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-advertising-the-new-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-magicians-for-sport",
@@ -3191,12 +4107,60 @@
       "wiki-magicians-for-sport"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-magicians-for-sport"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Arthur and Charles go to track down Trelawny at his rental caravan in Rhodes.",
+    "goldRequirements": [
+      {
+        "id": "gold-magicians-for-sport-1",
+        "label": "Inspect all the clues in Trelawny’s Caravan.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-magicians-for-sport"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-magicians-for-sport-2",
+        "label": "While tracking, stay within 30 feet of Trelawny’s trail.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-magicians-for-sport"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-magicians-for-sport-3",
+        "label": "Kill 2 Bounty Hunters in the cornfields within 1 minute.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-magicians-for-sport"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-magicians-for-sport-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-magicians-for-sport"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-fine-joys-of-tobacco",
@@ -3221,12 +4185,60 @@
       "wiki-the-fine-joys-of-tobacco"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-fine-joys-of-tobacco"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Hosea Matthews",
+    "summary": "Working with the Braithwaites, Arthur and Sean drive to Caliga Hall with the remaining moonshine and attempt to use it to burn the Grays' tobacco fields.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-fine-joys-of-tobacco-1",
+        "label": "Silently kill the Gray Sean distracts in the wagon store.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-joys-of-tobacco"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-fine-joys-of-tobacco-2",
+        "label": "Douse the fields within 2 minutes 20 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-joys-of-tobacco"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-fine-joys-of-tobacco-3",
+        "label": "Kill 5 Grays during the escape.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-joys-of-tobacco"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-fine-joys-of-tobacco-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-joys-of-tobacco"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-horse-flesh-for-dinner",
@@ -3251,12 +4263,49 @@
       "wiki-horse-flesh-for-dinner"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-horse-flesh-for-dinner"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "John Marston",
+    "summary": "To get back at the Braithwaites, Tavish Gray asks Arthur, John and Javier to steal prized horses from Braithwaite Manor that he claims will sell for $5000.",
+    "goldRequirements": [
+      {
+        "id": "gold-horse-flesh-for-dinner-1",
+        "label": "Kill the stable hand showing you the horses.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horse-flesh-for-dinner"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-horse-flesh-for-dinner-2",
+        "label": "Catch the stallion within 10 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horse-flesh-for-dinner"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-horse-flesh-for-dinner-3",
+        "label": "Get 5 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horse-flesh-for-dinner"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-friends-in-very-low-places",
@@ -3281,12 +4330,84 @@
       "wiki-friends-in-very-low-places"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-friends-in-very-low-places"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Josiah Trelawny",
+    "summary": "Trelawny invites Arthur to see a discouraged worker at Rhodes post office about any available stagecoaches to rob.",
+    "goldRequirements": [
+      {
+        "id": "gold-friends-in-very-low-places-1",
+        "label": "Complete the mission without being spotted.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-friends-in-very-low-places"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-friends-in-very-low-places-2",
+        "label": "Complete within 8 minutes 10 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-friends-in-very-low-places"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-friends-in-very-low-places-1",
+        "label": "Mount your horse",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-friends-in-very-low-places"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-friends-in-very-low-places-2",
+        "label": "Wait for the coach",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-friends-in-very-low-places"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-friends-in-very-low-places-3",
+        "label": "Leave undetected",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-friends-in-very-low-places"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-friends-in-very-low-places-4",
+        "label": "Wait for the stagecoach to leave",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-friends-in-very-low-places"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-blessed-are-the-peacemakers",
@@ -3311,12 +4432,60 @@
       "wiki-blessed-are-the-peacemakers"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-blessed-are-the-peacemakers"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Micah Bell",
+    "summary": "Suspecting a trap, Micah asks Arthur to observe an arranged meeting between Dutch and Colm O'Driscoll from afar.",
+    "goldRequirements": [
+      {
+        "id": "gold-blessed-are-the-peacemakers-1",
+        "label": "Free yourself and perform self-surgery within 1 minute.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-peacemakers"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blessed-are-the-peacemakers-2",
+        "label": "Recover your weapons from the O'Driscolls' camp.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-peacemakers"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blessed-are-the-peacemakers-3",
+        "label": "Kill the O'Driscoll gang members that beat and shot you.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-peacemakers"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blessed-are-the-peacemakers-4",
+        "label": "Escape the O'Driscolls' camp without being spotted.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blessed-are-the-peacemakers"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-short-walk-in-a-pretty-town",
@@ -3341,12 +4510,139 @@
       "wiki-a-short-walk-in-a-pretty-town"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-short-walk-in-a-pretty-town"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Bill Williamson",
+    "summary": "Arthur, Micah, Bill and Sean go to meet some of the Gray boys in Rhodes to discuss a security job.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-short-walk-in-a-pretty-town-1",
+        "label": "Kill 3 lawmen in Dead Eye while saving Bill.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-short-walk-in-a-pretty-town-2",
+        "label": "Complete using only sidearms.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-short-walk-in-a-pretty-town-3",
+        "label": "Complete within 4 minutes 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-short-walk-in-a-pretty-town-4",
+        "label": "Get 20 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-short-walk-in-a-pretty-town-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-a-short-walk-in-a-pretty-town-1",
+        "label": "Fend off the ambushers .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-short-walk-in-a-pretty-town-2",
+        "label": "Enter the back of the gun store .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-short-walk-in-a-pretty-town-3",
+        "label": "Take out the enemies in the gun store.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-short-walk-in-a-pretty-town-4",
+        "label": "Fend off the attackers .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-short-walk-in-a-pretty-town-5",
+        "label": "Follow Micah .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-short-walk-in-a-pretty-town-6",
+        "label": "Kill the Grays .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-short-walk-in-a-pretty-town"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-blood-feuds-ancient-and-modern",
@@ -3371,12 +4667,161 @@
       "wiki-blood-feuds-ancient-and-modern"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-blood-feuds-ancient-and-modern"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Suspecting it was Catherine Braithwaite who kidnapped Jack, the van der Linde gang ride to Braithwaite Manor to get him back.",
+    "goldRequirements": [
+      {
+        "id": "gold-blood-feuds-ancient-and-modern-1",
+        "label": "Headshot Gareth and Gerald Braithwaite.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blood-feuds-ancient-and-modern-2",
+        "label": "Get 20 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blood-feuds-ancient-and-modern-3",
+        "label": "Complete with at least 85% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-blood-feuds-ancient-and-modern-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-1",
+        "label": "Ride with Dutch .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-2",
+        "label": "Go to Dutch .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-3",
+        "label": "Take out the Guards .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-4",
+        "label": "Wait for Dutch .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-5",
+        "label": "Search for Jack inside the manor .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-6",
+        "label": "Go to Dutch upstairs.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-7",
+        "label": "Kill the attackers .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-8",
+        "label": "Help John break the door.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-blood-feuds-ancient-and-modern-9",
+        "label": "Leave the manor with Dutch .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-blood-feuds-ancient-and-modern"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-battle-of-shady-belle",
@@ -3401,12 +4846,183 @@
       "wiki-the-battle-of-shady-belle"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-battle-of-shady-belle"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "John and Arthur clear out the last remaining Lemoyne Raiders from Shady Belle before the gang relocate their caravan there.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-battle-of-shady-belle-1",
+        "label": "Kill all the Lemoyne Raiders in Shady Belle.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-battle-of-shady-belle-2",
+        "label": "Clear two bodies from Shady Belle within 1 minute and 40 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-battle-of-shady-belle-3",
+        "label": "Complete within 11 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-the-battle-of-shady-belle-1",
+        "label": "Ride to Shady Belle .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-2",
+        "label": "Search the rooms for any Lemoyne stragglers.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-3",
+        "label": "Meet John by the entrance.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-4",
+        "label": "Pick up the dead body .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-5",
+        "label": "Follow John .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-6",
+        "label": "Dump the body in the swamp around the jetty.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-7",
+        "label": "Pick up another body from the house.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-8",
+        "label": "Dump the body in the swamp around the jetty.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-9",
+        "label": "Pick up the dead body .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-10",
+        "label": "Follow Dutch .|dialogues=}}",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-11",
+        "label": "The Battle of Shady Belle is a mission in Red Dead Redemption 2. It is the final mission of Chapter 3.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-battle-of-shady-belle-12",
+        "label": "==Mission Overview==",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-battle-of-shady-belle"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-joys-of-civilization",
@@ -3431,12 +5047,38 @@
       "wiki-the-joys-of-civilization"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-joys-of-civilization"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Having just arrived in Saint Denis, Dutch and Arthur ask around the Bastille Saloon for information on Angelo Bronte.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-joys-of-civilization-1",
+        "label": "Catch the street urchin before he reaches the market.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-joys-of-civilization"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-joys-of-civilization-2",
+        "label": "Complete within 5 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-joys-of-civilization"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-no-no-and-thrice-no",
@@ -3461,12 +5103,38 @@
       "wiki-no-no-and-thrice-no"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-no-no-and-thrice-no"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Mary-Beth Gaskill/Susan Grimshaw",
+    "summary": "Susan and Arthur head to the Foreman Brothers' hideout to rescue Tilly, who has been kidnapped.",
+    "goldRequirements": [
+      {
+        "id": "gold-no-no-and-thrice-no-1",
+        "label": "Kill both of the Foreman boys yourself during the chase.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-no-no-and-thrice-no"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-no-no-and-thrice-no-2",
+        "label": "Complete with at least 90% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-no-no-and-thrice-no"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-angelo-bronte-a-man-of-honor",
@@ -3491,12 +5159,60 @@
       "wiki-angelo-bronte-a-man-of-honor"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-angelo-bronte-a-man-of-honor"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Arthur, John, and Dutch head to Angelo Bronte's mansion to get Jack back. Bronte asks the gang to clear out the local graveyard of thieves in return for Jack.",
+    "goldRequirements": [
+      {
+        "id": "gold-angelo-bronte-a-man-of-honor-1",
+        "label": "Encounter the dog and the drunk.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-angelo-bronte-a-man-of-honor"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-angelo-bronte-a-man-of-honor-2",
+        "label": "Don't get spotted by the law.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-angelo-bronte-a-man-of-honor"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-angelo-bronte-a-man-of-honor-3",
+        "label": "Complete within 10 minutes 40 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-angelo-bronte-a-man-of-honor"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-angelo-bronte-a-man-of-honor-4",
+        "label": "Get 4 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-angelo-bronte-a-man-of-honor"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-help-a-brother-out",
@@ -3523,12 +5239,38 @@
       "wiki-help-a-brother-out"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-help-a-brother-out"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Swanson/Brother Dorkins",
+    "summary": "Brother Dorkins asks Arthur to investigate a nearby shop suspected of acting as a front for human trafficking.",
+    "goldRequirements": [
+      {
+        "id": "gold-help-a-brother-out-1",
+        "label": "Find the captives without threatening the store owner.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-help-a-brother-out"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-help-a-brother-out-2",
+        "label": "Complete within 2 minutes and 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-help-a-brother-out"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-brothers-and-sisters-one-and-all",
@@ -3555,12 +5297,27 @@
       "wiki-brothers-and-sisters-one-and-all"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-brothers-and-sisters-one-and-all"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Brother Dorkins/Sister Calderón",
+    "summary": "A street kid steals Sister Calderón's crucifix. Arthur chases the kid throughout Saint Denis. After Arthur retrieves the crucifix, he runs into Edith Downes, who sets the law on him.",
+    "goldRequirements": [
+      {
+        "id": "gold-brothers-and-sisters-one-and-all-1",
+        "label": "Find the kid within 19 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-brothers-and-sisters-one-and-all"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-gilded-cage",
@@ -3585,12 +5342,128 @@
       "wiki-the-gilded-cage"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-gilded-cage"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Hosea Matthews & Dutch van der Linde",
+    "summary": "The gang attend a party hosted by the Mayor of Saint Denis. While at the party, they meet with Bronte, and look for job opportunities.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-gilded-cage-1",
+        "label": "While at the party, pour some drinks, compliment a guest's attire, accept a gift and save a life.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-gilded-cage-2",
+        "label": "Follow the servant without being detected.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-the-gilded-cage-1",
+        "label": "Follow the Escort .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-2",
+        "label": "Follow Dutch .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-3",
+        "label": "Mingle with the guests in the courtyard .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-4",
+        "label": "Escort the drunk guest outside.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-5",
+        "label": "Follow the servant and remain undetected.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-6",
+        "label": "Retrieve the ledger from the desk.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-7",
+        "label": "Return to Dutch at the gala.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-gilded-cage-8",
+        "label": "Follow Dutch .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-gilded-cage"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-fine-night-of-debauchery",
@@ -3615,12 +5488,194 @@
       "wiki-a-fine-night-of-debauchery"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-fine-night-of-debauchery"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Josiah Trelawny",
+    "summary": "While at the Mayor's party, the Van der Linde gang learned of a poker tournament being held on the Grand Korrigan riverboat at the docks in Saint Denis. Leopold Strauss and Josiah Trelawny fix a game so Arthur Morgan can win big on the tables.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-fine-night-of-debauchery-1",
+        "label": "Win the game of Poker without Strauss’s help.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-fine-night-of-debauchery-2",
+        "label": "After your cover is blown, escape the boat in under 35 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-fine-night-of-debauchery-3",
+        "label": "Get 5 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-fine-night-of-debauchery-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-a-fine-night-of-debauchery-1",
+        "label": "Follow Trelawny into the tailors",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-2",
+        "label": "Buy the Fine Three-Piece Town Suit from the tailor",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-3",
+        "label": "Follow Trelawny to the barbers",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-4",
+        "label": "Style your hair or beard at the barbers",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-5",
+        "label": "Get in the coach",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-6",
+        "label": "Follow Trelawny to the docks",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-7",
+        "label": "Sit at the poker table",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-8",
+        "label": "Follow Strauss' instructions while playing poker",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-9",
+        "label": "Take your turn",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-10",
+        "label": "Cause Desmond to go bust in Poker",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-11",
+        "label": "Win the Reutlinger pocket watch in poker",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-fine-night-of-debauchery-12",
+        "label": "Follow the Pit boss to the safe room",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fine-night-of-debauchery"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-horsemen-apocalypses",
@@ -3645,12 +5700,71 @@
       "wiki-horsemen-apocalypses"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-horsemen-apocalypses"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "While planning the Saint Denis trolley robbery, Dutch notices a wave of O'Driscolls attacking the camp, but not before displaying Kieran's corpse.",
+    "goldRequirements": [
+      {
+        "id": "gold-horsemen-apocalypses-1",
+        "label": "Shoot the O'Driscolls in the boat before they disembark.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horsemen-apocalypses"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-horsemen-apocalypses-2",
+        "label": "Complete using only sidearms.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horsemen-apocalypses"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-horsemen-apocalypses-3",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horsemen-apocalypses"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-horsemen-apocalypses-4",
+        "label": "Get 15 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horsemen-apocalypses"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-horsemen-apocalypses-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-horsemen-apocalypses"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-urban-pleasures",
@@ -3675,12 +5789,71 @@
       "wiki-urban-pleasures"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-urban-pleasures"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "After receiving a tip from Angelo Bronte about a trolley station in Saint Denis holding a large amount of cash, Dutch, Arthur and Lenny meet to rob it.",
+    "goldRequirements": [
+      {
+        "id": "gold-urban-pleasures-1",
+        "label": "Rob all the customers in the trolley station.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-urban-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-urban-pleasures-2",
+        "label": "Kill 10 lawmen while on the trolley.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-urban-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-urban-pleasures-3",
+        "label": "Prevent any lawmen jumping on the back of the wagon.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-urban-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-urban-pleasures-4",
+        "label": "Shoot the dynamite Lenny throws.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-urban-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-urban-pleasures-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-urban-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-country-pursuits",
@@ -3705,12 +5878,38 @@
       "wiki-country-pursuits"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-country-pursuits"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Before they can rob the Saint Denis bank, Dutch convinces Arthur that they must kill Angelo Bronte. They visit Thomas, a local fisherman, to procure a skiff for the assault on Bronte's mansion.",
+    "goldRequirements": [
+      {
+        "id": "gold-country-pursuits-1",
+        "label": "Return Jules to the skiff within 1 minute and 40 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-country-pursuits"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-country-pursuits-2",
+        "label": "Shoot the Bullgator 5 times.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-country-pursuits"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-revenge-is-a-dish-best-eaten",
@@ -3735,12 +5934,60 @@
       "wiki-revenge-is-a-dish-best-eaten"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-revenge-is-a-dish-best-eaten"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Gang members Dutch van der Linde, Arthur Morgan, John Marston, Bill Williamson, and Lenny Summers attack Bronte's mansion from the river to get rid of the threat of Bronte's men and to take revenge for the trolley station setup.",
+    "goldRequirements": [
+      {
+        "id": "gold-revenge-is-a-dish-best-eaten-1",
+        "label": "Search every room in Bronte's mansion.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-revenge-is-a-dish-best-eaten"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-revenge-is-a-dish-best-eaten-2",
+        "label": "Carry Bronte to the skiff within 1 minute and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-revenge-is-a-dish-best-eaten"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-revenge-is-a-dish-best-eaten-3",
+        "label": "Get 20 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-revenge-is-a-dish-best-eaten"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-revenge-is-a-dish-best-eaten-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-revenge-is-a-dish-best-eaten"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-fatherhood-and-other-dreams",
@@ -3767,12 +6014,38 @@
       "wiki-fatherhood-and-other-dreams"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-fatherhood-and-other-dreams"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Mary Linton",
+    "summary": "Mary asks Arthur for help with her father, who has become consumed by a gambling addiction. Arthur must retrieve a valuable family heirloom Mary's father has sold off.",
+    "goldRequirements": [
+      {
+        "id": "gold-fatherhood-and-other-dreams-1",
+        "label": "Catch the wagon and take it to the secluded spot within 1 minute and 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-and-other-dreams"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fatherhood-and-other-dreams-2",
+        "label": "Take Mary to the theater.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-and-other-dreams"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-american-fathers-i",
@@ -3804,7 +6077,9 @@
         "wiki-american-fathers-i"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Evelyn Miller",
+    "summary": "Dutch mentioned that the gang might be able to help Evelyn Miller with lobbying officials in Saint Denis on behalf of Rains Fall, the Native American Chief, so Arthur goes to meet him."
   },
   {
     "id": "mission-american-fathers-ii",
@@ -3831,12 +6106,139 @@
       "wiki-american-fathers-ii"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-american-fathers-ii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Eagle Flies",
+    "summary": "Arthur meets Eagle Flies outside Cornwall Kerosene & Tar and prepares to break in to steal a report on the oil reserves at the Wapiti Indian Reservation.",
+    "goldRequirements": [
+      {
+        "id": "gold-american-fathers-ii-1",
+        "label": "Infiltrate the factory by hiding in the wagon.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-fathers-ii-2",
+        "label": "Reach Danbury’s office without being detected.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-fathers-ii-3",
+        "label": "Kill all the horseback pursuers during the escape.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-fathers-ii-4",
+        "label": "Complete with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-american-fathers-ii-1",
+        "label": "Sneak into the factory",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-fathers-ii-2",
+        "label": "Sneak upstairs",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-fathers-ii-3",
+        "label": "Enter the office",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-fathers-ii-4",
+        "label": "Interrogate Danbury",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-fathers-ii-5",
+        "label": "Take the file",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-fathers-ii-6",
+        "label": "Find Eagle Flies",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-fathers-ii-7",
+        "label": "Escape the factory with Eagle Flies",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-fathers-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-banking-the-old-american-art",
@@ -3861,12 +6263,194 @@
       "wiki-banking-the-old-american-art"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-banking-the-old-american-art"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "The gang prepare to rob the bank in Saint Denis as one final score that would allow them to retire.",
+    "goldRequirements": [
+      {
+        "id": "gold-banking-the-old-american-art-1",
+        "label": "Crack the safe without making any mistakes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-banking-the-old-american-art-2",
+        "label": "Complete using only sidearms.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-banking-the-old-american-art-3",
+        "label": "Get 25 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-banking-the-old-american-art-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-banking-the-old-american-art-1",
+        "label": "Follow the convoy to Saint Denis",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-2",
+        "label": "Mount your horse",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-3",
+        "label": "Return to the convoy",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-4",
+        "label": "Return to the gang",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-5",
+        "label": "Follow Dutch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-6",
+        "label": "Wait with Dutch for Hosea's distraction",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-7",
+        "label": "Follow Dutch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-8",
+        "label": "Return to the bank",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-9",
+        "label": "Force the bank manager to open the vault",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-10",
+        "label": "Enter the vault",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-11",
+        "label": "Unlock the safes",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-banking-the-old-american-art-12",
+        "label": "Follow Dutch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-banking-the-old-american-art"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-lost-and-not-quite-found",
@@ -3896,7 +6480,9 @@
         "wiki-lost-and-not-quite-found"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "After a few days at sea, a torrential storm strikes the Antenor, and the Van der Linde gang are forced to abandon ship."
   },
   {
     "id": "mission-money-lending-and-other-sins-v",
@@ -3928,7 +6514,9 @@
         "wiki-money-lending-and-other-sins-v"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Leopold Strauss",
+    "summary": "Leopold Strauss wants the player to collect another overdue debt from a fisherman by the name of Algie Davison."
   },
   {
     "id": "mission-welcome-to-the-new-world",
@@ -3953,12 +6541,38 @@
       "wiki-welcome-to-the-new-world"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-welcome-to-the-new-world"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Having survived the shipwreck, and washed ashore on Guarma, Arthur begins searching for the gang.",
+    "goldRequirements": [
+      {
+        "id": "gold-welcome-to-the-new-world-1",
+        "label": "Do not fall behind while walking with the chain gang.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-welcome-to-the-new-world"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-welcome-to-the-new-world-2",
+        "label": "Get 10 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-welcome-to-the-new-world"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-kind-and-benevolent-despot",
@@ -3983,12 +6597,38 @@
       "wiki-a-kind-and-benevolent-despot"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-kind-and-benevolent-despot"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "With the help of a local, Gloria, Dutch and Arthur infiltrate Fussar's compound to rescue Javier.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-kind-and-benevolent-despot-1",
+        "label": "Get Javier to safety in under 2 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-kind-and-benevolent-despot"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-kind-and-benevolent-despot-2",
+        "label": "Get 10 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-kind-and-benevolent-despot"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-savagery-unleashed",
@@ -4013,12 +6653,49 @@
       "wiki-savagery-unleashed"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-savagery-unleashed"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Unknown/Hercule Fontaine",
+    "summary": "In order to secure safe passage off the island, Arthur has agreed to rescue some local workers for Hercule and Leon.",
+    "goldRequirements": [
+      {
+        "id": "gold-savagery-unleashed-1",
+        "label": "Release all the workers within 4 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-savagery-unleashed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-savagery-unleashed-2",
+        "label": "Complete within 5 minutes and 40 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-savagery-unleashed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-savagery-unleashed-3",
+        "label": "Get 8 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-savagery-unleashed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-hell-hath-no-fury",
@@ -4043,12 +6720,49 @@
       "wiki-hell-hath-no-fury"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-hell-hath-no-fury"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Hercule Fontaine",
+    "summary": "The gang meets Hercule at the fortress of Cinco Torres, and prepare to clear the waters around the island so they can safely depart for America.",
+    "goldRequirements": [
+      {
+        "id": "gold-hell-hath-no-fury-1",
+        "label": "Prevent 4 boats from reaching the shore.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-hell-hath-no-fury"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-hell-hath-no-fury-2",
+        "label": "Destroy the naval ship without missing a shot.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-hell-hath-no-fury"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-hell-hath-no-fury-3",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-hell-hath-no-fury"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-paradise-mercifully-departed",
@@ -4073,12 +6787,60 @@
       "wiki-paradise-mercifully-departed"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-paradise-mercifully-departed"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Bill Williamson",
+    "summary": "Arthur and the gang must destroy the gun batteries on the coast and rescue the ship captain, in order to leave the island.",
+    "goldRequirements": [
+      {
+        "id": "gold-paradise-mercifully-departed-1",
+        "label": "Kill the first 2 sentries without being spotted.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paradise-mercifully-departed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-paradise-mercifully-departed-2",
+        "label": "Escort the captain to the boat within 1 minute and 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paradise-mercifully-departed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-paradise-mercifully-departed-3",
+        "label": "Complete within 6 minutes and 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paradise-mercifully-departed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-paradise-mercifully-departed-4",
+        "label": "Get 25 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-paradise-mercifully-departed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-dear-uncle-tacitus",
@@ -4103,12 +6865,38 @@
       "wiki-dear-uncle-tacitus"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-dear-uncle-tacitus"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Arthur heads for Shady Belle to try to track down the rest of the gang.",
+    "goldRequirements": [
+      {
+        "id": "gold-dear-uncle-tacitus-1",
+        "label": "Leave Shady Belle without being detected by the Pinkertons.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-dear-uncle-tacitus"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-dear-uncle-tacitus-2",
+        "label": "Complete within 8 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-dear-uncle-tacitus"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-fleeting-joy",
@@ -4133,12 +6921,60 @@
       "wiki-fleeting-joy"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-fleeting-joy"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Arthur is reunited with the gang at Lakay. Milton arrives with his Pinkertons, and attacks the camp.",
+    "goldRequirements": [
+      {
+        "id": "gold-fleeting-joy-1",
+        "label": "Kill 2 Pinkertons during the Dead Eye ambush.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fleeting-joy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fleeting-joy-2",
+        "label": "Get 5 headshots with the Gatling Gun.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fleeting-joy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fleeting-joy-3",
+        "label": "Get at least 70% accuracy with the Gatling Gun.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fleeting-joy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fleeting-joy-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fleeting-joy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-thats-murfree-country",
@@ -4163,12 +6999,194 @@
       "wiki-thats-murfree-country"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-thats-murfree-country"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Dutch sends Arthur and Charles to Beaver Hollow to find a new location for the gang's camp.",
+    "goldRequirements": [
+      {
+        "id": "gold-thats-murfree-country-1",
+        "label": "Deliver Meredith to her mother within 2 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-thats-murfree-country-2",
+        "label": "Get 15 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-thats-murfree-country-3",
+        "label": "Complete with at least 85% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-thats-murfree-country-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-thats-murfree-country-1",
+        "label": "Speak to Charles .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-2",
+        "label": "Mount your horse .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-3",
+        "label": "Follow Charles .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-4",
+        "label": "Get in the canoe .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-5",
+        "label": "Go to Butcher Creek .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-6",
+        "label": "Follow Charles .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-7",
+        "label": "Mount the horse .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-8",
+        "label": "Take out the Murfrees .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-9",
+        "label": "Approach the cave .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-10",
+        "label": "Throw dynamite into the cave .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-11",
+        "label": "Take out the Murfrees .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-thats-murfree-country-12",
+        "label": "Approach the cage .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-thats-murfree-country"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-fork-in-the-road",
@@ -4193,12 +7211,27 @@
       "wiki-a-fork-in-the-road"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-fork-in-the-road"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Doctor",
+    "goldRequirements": [
+      {
+        "id": "gold-a-fork-in-the-road-1",
+        "label": "Complete within 3 minutes and 5 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-fork-in-the-road"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "summary": "A Fork in the Road is a mission in Red Dead Redemption 2."
   },
   {
     "id": "mission-icarus-and-friends",
@@ -4223,12 +7256,60 @@
       "wiki-icarus-and-friends"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-icarus-and-friends"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "Sadie's contact, Arturo Bullard, agrees to take Arthur in his hot air balloon to scout out the Sisika Penitentiary.",
+    "goldRequirements": [
+      {
+        "id": "gold-icarus-and-friends-1",
+        "label": "Keep the balloon at the correct altitude for the entire journey.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-icarus-and-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-icarus-and-friends-2",
+        "label": "Get 5 headshots from the balloon.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-icarus-and-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-icarus-and-friends-3",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-icarus-and-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-icarus-and-friends-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-icarus-and-friends"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-visiting-hours",
@@ -4253,12 +7334,71 @@
       "wiki-visiting-hours"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-visiting-hours"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "Arthur and Sadie row to Sisika Island to break John out of prison.",
+    "goldRequirements": [
+      {
+        "id": "gold-visiting-hours-1",
+        "label": "Get headshots on both prison guards when sniping from the tower.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-visiting-hours"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-visiting-hours-2",
+        "label": "Escape to the boat within 2 minutes 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-visiting-hours"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-visiting-hours-3",
+        "label": "Complete within 9 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-visiting-hours"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-visiting-hours-4",
+        "label": "Complete with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-visiting-hours"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-visiting-hours-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-visiting-hours"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-just-a-social-call",
@@ -4283,12 +7423,49 @@
       "wiki-just-a-social-call"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-just-a-social-call"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Micah Bell",
+    "summary": "Arthur meets Dutch and Micah in Annesburg where they are planning to confront Leviticus Cornwall.",
+    "goldRequirements": [
+      {
+        "id": "gold-just-a-social-call-1",
+        "label": "Headshot 3 mounted enemies.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-just-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-just-a-social-call-2",
+        "label": "After killing Cornwall, reach the horses within 2 minutes and 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-just-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-just-a-social-call-3",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-just-a-social-call"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-delights-of-van-horn",
@@ -4313,12 +7490,38 @@
       "wiki-the-delights-of-van-horn"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-delights-of-van-horn"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Micah Bell",
+    "summary": "Bill and Arthur ambush an army convoy transporting dynamite through Van Horn.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-delights-of-van-horn-1",
+        "label": "Headshot 5 soldiers with a long scoped rifle.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-delights-of-van-horn"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-delights-of-van-horn-2",
+        "label": "Complete with at least 85% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-delights-of-van-horn"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-rage-unleashed",
@@ -4343,12 +7546,38 @@
       "wiki-a-rage-unleashed"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-rage-unleashed"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Reverend Swanson",
+    "summary": "Eagle Flies and the gang launch a raid on an army boat, to reclaim horses stolen from the Wapiti Reservation.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-rage-unleashed-1",
+        "label": "Knock out 2 soldiers on the boat.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-rage-unleashed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-rage-unleashed-2",
+        "label": "Round up the horses and reach shore within 1 minute and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-rage-unleashed"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-goodbye-dear-friend",
@@ -4373,12 +7602,117 @@
       "wiki-goodbye-dear-friend"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-goodbye-dear-friend"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler/Dutch van der Linde",
+    "summary": "With Colm O'Driscoll under arrest, Sadie, Arthur and Dutch head to Saint Denis to watch him hang.",
+    "goldRequirements": [
+      {
+        "id": "gold-goodbye-dear-friend-1",
+        "label": "Find Colm's backup within 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-goodbye-dear-friend-2",
+        "label": "Get 8 headshots with a long scoped rifle.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-goodbye-dear-friend-3",
+        "label": "Complete within 6 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-goodbye-dear-friend-1",
+        "label": "Follow Dutch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-goodbye-dear-friend-2",
+        "label": "Follow the O'Driscoll with Dutch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-goodbye-dear-friend-3",
+        "label": "Approach the shooter's location",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-goodbye-dear-friend-4",
+        "label": "Take out the shooter",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-goodbye-dear-friend-5",
+        "label": "Pick up the rifle and observe the hanging",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-goodbye-dear-friend-6",
+        "label": "Take out the O'Driscolls to clear a path for Sadie and Dutch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-goodbye-dear-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-archeology-for-beginners",
@@ -4405,12 +7739,38 @@
       "wiki-archeology-for-beginners"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-archeology-for-beginners"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Rains Fall",
+    "summary": "Arthur visits Rains Fall in Wapiti and they travel to a sacred Native American site in the Grizzlies East.",
+    "goldRequirements": [
+      {
+        "id": "gold-archeology-for-beginners-1",
+        "label": "Recover the relics without being detected.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-archeology-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-archeology-for-beginners-2",
+        "label": "Recover the relics within 1 minute and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-archeology-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-honor-amongst-thieves",
@@ -4437,12 +7797,38 @@
       "wiki-honor-amongst-thieves"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-honor-amongst-thieves"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Lyndon Monroe",
+    "summary": "Colonel Henry Favours is redirecting smallpox vaccines away from the Wapiti Indian Reservation to punish the Wapiti Indians for the recent unrest. Captain Lyndon Monroe requests Arthur's help to steal the vaccines from the U.S. Army.",
+    "goldRequirements": [
+      {
+        "id": "gold-honor-amongst-thieves-1",
+        "label": "Recover the vaccine without being detected.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-honor-amongst-thieves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-honor-amongst-thieves-2",
+        "label": "Complete within 5 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-honor-amongst-thieves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-fine-art-of-conversation",
@@ -4467,12 +7853,60 @@
       "wiki-the-fine-art-of-conversation"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-fine-art-of-conversation"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Josiah Trelawny/Rains Fall",
+    "summary": "Arthur attends a truce meeting between Colonel Favours and Rains Fall, where Rains Fall hopes to negotiate peace.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-fine-art-of-conversation-1",
+        "label": "Kill a pursuer's horse during the escape.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-art-of-conversation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-fine-art-of-conversation-2",
+        "label": "Complete within 9 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-art-of-conversation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-fine-art-of-conversation-3",
+        "label": "Complete with at least 75% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-art-of-conversation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-fine-art-of-conversation-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-fine-art-of-conversation"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-favored-sons",
@@ -4497,12 +7931,49 @@
       "wiki-favored-sons"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-favored-sons"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Eagle Flies",
+    "summary": "In order to draw attention away from the gang and onto the Natives, Dutch convinces Eagle Flies to ambush an army patrol.",
+    "goldRequirements": [
+      {
+        "id": "gold-favored-sons-1",
+        "label": "Kill the soldier on the cannon within 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-favored-sons"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-favored-sons-2",
+        "label": "Get 35 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-favored-sons"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-favored-sons-3",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-favored-sons"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-kings-son",
@@ -4527,12 +7998,49 @@
       "wiki-the-kings-son"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-kings-son"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Charles Smith",
+    "summary": "Upon learning that Eagle Flies has been captured by the army, Arthur and Charles infiltrate Fort Wallace to rescue him.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-kings-son-1",
+        "label": "While infiltrating Fort Wallace, headshot every soldier blocking your way to Eagle Flies.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-kings-son"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-kings-son-2",
+        "label": "Kill 15 enemies while escaping in the canoe.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-kings-son"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-kings-son-3",
+        "label": "Complete with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-kings-son"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-mrs-sadie-adler-widow-i",
@@ -4562,7 +8070,9 @@
         "wiki-mrs-sadie-adler-widow-i"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "Mrs. Sadie Adler, Widow is a mission in Red Dead Redemption 2. It is unlocked by 2 or 3 missions, depending on the order in which they are completed: * If the player completes \"Favored Sons\" first, and \"The Delights of Van Horn\" second, then \"Mrs. Sadie Adler, Widow\" appears; * If the player completes \"The Delights of Van Horn\" first, and \"Favored Sons\" second, then \"The Bridge to Nowhere\" blocks the appearance of \"Mrs. Sadie Adler, Widow\" until it is completed as well."
   },
   {
     "id": "mission-mrs-sadie-adler-widow-ii",
@@ -4592,7 +8102,9 @@
         "wiki-mrs-sadie-adler-widow-ii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "Mrs. Sadie Adler, Widow is a mission in Red Dead Redemption 2. It is unlocked by 2 or 3 missions, depending on the order in which they are completed: * If the player completes \"Favored Sons\" first, and \"The Delights of Van Horn\" second, then \"Mrs. Sadie Adler, Widow\" appears; * If the player completes \"The Delights of Van Horn\" first, and \"Favored Sons\" second, then \"The Bridge to Nowhere\" blocks the appearance of \"Mrs. Sadie Adler, Widow\" until it is completed as well."
   },
   {
     "id": "mission-the-bridge-to-nowhere",
@@ -4617,12 +8129,38 @@
       "wiki-the-bridge-to-nowhere"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-bridge-to-nowhere"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "John Marston",
+    "summary": "John and Arthur plant dynamite on the Bacchus Bridge in order to create a distraction and disrupt the army's transportation.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-bridge-to-nowhere-1",
+        "label": "Plant the dynamite within 1 minute and 35 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-bridge-to-nowhere"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-bridge-to-nowhere-2",
+        "label": "Escape the oncoming train within 19 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-bridge-to-nowhere"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-my-last-boy",
@@ -4647,12 +8185,71 @@
       "wiki-my-last-boy"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-my-last-boy"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "Eagle Flies rides into Beaver Hollow to rally a war party for the final raid on Cornwall Kerosene & Tar. Against his father, Chief Rains Fall's wishes. Dutch and the gang then accompany Eagle Flies into battle against the U.S. Army.",
+    "goldRequirements": [
+      {
+        "id": "gold-my-last-boy-1",
+        "label": "Save Paytah.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-my-last-boy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-my-last-boy-2",
+        "label": "After crossing over the train that shows up with the Gatling Gun, Paytah will be seen struggling with a soldier near a train car to the left. Kill the soldier to accomplish this objective.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-my-last-boy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-my-last-boy-3",
+        "label": "Get 30 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-my-last-boy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-my-last-boy-4",
+        "label": "Complete with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-my-last-boy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-my-last-boy-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-my-last-boy"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-our-best-selves",
@@ -4677,12 +8274,71 @@
       "wiki-our-best-selves"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-our-best-selves"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Dutch van der Linde",
+    "summary": "As their final job, the gang ride to Saint Denis to intercept and rob a train carrying army supplies and payroll, headed for the recently destroyed Bacchus Bridge.",
+    "goldRequirements": [
+      {
+        "id": "gold-our-best-selves-1",
+        "label": "Get a headshot in Dead Eye after jumping from Dutch's horse.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-our-best-selves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-our-best-selves-2",
+        "label": "After Arthur jumps onto the train from The Count, a soldier will shoot John off the train. Headshot this soldier to complete the objective.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-our-best-selves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-our-best-selves-3",
+        "label": "Complete within 11 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-our-best-selves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-our-best-selves-4",
+        "label": "Fight through the train with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-our-best-selves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-our-best-selves-5",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-our-best-selves"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-red-dead-redemption",
@@ -4707,12 +8363,60 @@
       "wiki-red-dead-redemption"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-red-dead-redemption"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Roberts",
+    "summary": "With John assumed dead, and Abigail captured by Pinkertons, Dutch cuts them loose, and rides for Beaver Hollow. Arthur and Sadie head to Van Horn to rescue Abigail.",
+    "goldRequirements": [
+      {
+        "id": "gold-red-dead-redemption-1",
+        "label": "Get 7 headshots while covering Sadie from the lighthouse.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-red-dead-redemption"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-red-dead-redemption-2",
+        "label": "After Sadie is captured, reach Abigail and Sadie within 1 minute.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-red-dead-redemption"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-red-dead-redemption-3",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-red-dead-redemption"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-red-dead-redemption-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-red-dead-redemption"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-course-of-true-love-iv",
@@ -4742,7 +8446,9 @@
         "wiki-the-course-of-true-love-iv"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Penelope Braithwaite",
+    "summary": "At Beaver Hollow, Arthur receives a letter from Penelope Braithwaite."
   },
   {
     "id": "mission-the-course-of-true-love-v",
@@ -4767,12 +8473,38 @@
       "wiki-the-course-of-true-love-v"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-course-of-true-love-v"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Penelope Braithwaite",
+    "summary": "Arthur tries to help Penelope Braithwaite and Beau Gray escape their families once and for all.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-course-of-true-love-v-1",
+        "label": "Headshot 5 of the Braithwaites as they pursue the train.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-v"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-course-of-true-love-v-2",
+        "label": "Complete within 7 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-course-of-true-love-v"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-money-lending-and-other-sins-vi",
@@ -4804,7 +8536,9 @@
         "wiki-money-lending-and-other-sins-vi"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Leopold Strauss",
+    "summary": "Leopold Strauss wants the player to collect two debts, one from J. John Weathers and another from Arthur Londonderry."
   },
   {
     "id": "mission-money-lending-and-other-sins-vii",
@@ -4836,7 +8570,9 @@
         "wiki-money-lending-and-other-sins-vii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Leopold Strauss",
+    "summary": "Leopold Strauss wants the player to collect two debts, one from J. John Weathers and another from Arthur Londonderry."
   },
   {
     "id": "mission-do-not-seek-absolution-i",
@@ -4863,12 +8599,27 @@
       "wiki-do-not-seek-absolution-i"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-do-not-seek-absolution-i"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Edith Downes",
+    "summary": "Edith Downes tells Arthur that her son, Archie, is working at the Annesburg Mine. Arthur heads to the mine, to find Archie being goaded by the foreman, Mr. Dockery.",
+    "goldRequirements": [
+      {
+        "id": "gold-do-not-seek-absolution-i-1",
+        "label": "Complete within 1 minute and 20 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-do-not-seek-absolution-i"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-do-not-seek-absolution-ii",
@@ -4895,12 +8646,27 @@
       "wiki-do-not-seek-absolution-ii"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-do-not-seek-absolution-ii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Archie Downes",
+    "summary": "Unwilling to accept Arthur's money, Edith Downes continues to sell her body. Worried for his mother's safety, Archie Downes asks Arthur to head to Willard's Rest to look for her.",
+    "goldRequirements": [
+      {
+        "id": "gold-do-not-seek-absolution-ii-1",
+        "label": "Find Edith Downes within 1 minute and 10 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-do-not-seek-absolution-ii"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-of-men-and-angels-i",
@@ -4932,7 +8698,9 @@
         "wiki-of-men-and-angels-i"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sister Calderón",
+    "summary": "Of Men and Angels is a Strangers mission in Red Dead Redemption 2. The quest becomes available during Chapter 5 or 6. It has to be played prior to Trelawny's mission \"The Fine Art of Conversation\" or it will become unavailable after that."
   },
   {
     "id": "mission-of-men-and-angels-ii",
@@ -4964,7 +8732,9 @@
         "wiki-of-men-and-angels-ii"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sister Calderón",
+    "summary": "Of Men and Angels is a Strangers mission in Red Dead Redemption 2. The quest becomes available during Chapter 5 or 6. It has to be played prior to Trelawny's mission \"The Fine Art of Conversation\" or it will become unavailable after that."
   },
   {
     "id": "mission-the-wheel",
@@ -4989,12 +8759,117 @@
       "wiki-the-wheel"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-wheel"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "John Marston",
+    "summary": "Several years after fleeing Dutch and the gang, John, Abigail and Jack look for work in the town of Strawberry.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-wheel-1",
+        "label": "Reach Pronghorn Ranch without dropping any supplies.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-wheel-2",
+        "label": "Reclaim the wagon within 1 minute.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-the-wheel-1",
+        "label": "Go to Strawberry",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-wheel-2",
+        "label": "Speak with the Shopkeeper",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-wheel-3",
+        "label": "Go to the Doctor's Office to meet with Abigail",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-wheel-4",
+        "label": "Return to your wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-wheel-5",
+        "label": "Deliver the goods to Pronghorn Ranch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-wheel-6",
+        "label": "Retrieve the wagon",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-the-wheel-7",
+        "label": "Return the wagon to Pronghorn Ranch",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-wheel"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-simple-pleasures",
@@ -5019,12 +8894,95 @@
       "wiki-simple-pleasures"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-simple-pleasures"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Tom Dickens",
+    "summary": "Using the pseudonym \"Jim Milton,\" John has secured a job as a hand at Pronghorn Ranch, and gets to work.",
+    "goldRequirements": [
+      {
+        "id": "gold-simple-pleasures-1",
+        "label": "When milking, fill a bucket within 10 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-simple-pleasures-2",
+        "label": "Complete within 5 minutes and 15 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-simple-pleasures-1",
+        "label": "Follow Abe",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-simple-pleasures-2",
+        "label": "Pick up the pitchfork",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-simple-pleasures-3",
+        "label": "Clean up the manure",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-simple-pleasures-4",
+        "label": "Return the pitchfork",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-simple-pleasures-5",
+        "label": "Go to the house to speak with Abigail",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-simple-pleasures"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-farming-for-beginners",
@@ -5049,12 +9007,139 @@
       "wiki-farming-for-beginners"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-farming-for-beginners"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Tom Dickens",
+    "summary": "John works a day at the ranch, helping to build a fence, and looking after livestock.",
+    "goldRequirements": [
+      {
+        "id": "gold-farming-for-beginners-1",
+        "label": "Fix the first section of fence in 1 minute and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-farming-for-beginners-2",
+        "label": "Avoid being hit by the bull.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-farming-for-beginners-1",
+        "label": "Hammer the post in",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-2",
+        "label": "Position and place the rail",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-3",
+        "label": "Pick up the post",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-4",
+        "label": "Fix the fence",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-5",
+        "label": "Investigate the commotion at the corral",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-6",
+        "label": "Calm the bull",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-7",
+        "label": "Catch the bull",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-8",
+        "label": "Calm the bull",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-farming-for-beginners-9",
+        "label": "Take the bull to the barn",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-farming-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-fatherhood-for-beginners",
@@ -5079,12 +9164,60 @@
       "wiki-fatherhood-for-beginners"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-fatherhood-for-beginners"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "David Geddes",
+    "summary": "With the other ranch hands busy, and Geddes heading in to town, John takes on more work on the ranch.",
+    "goldRequirements": [
+      {
+        "id": "gold-fatherhood-for-beginners-1",
+        "label": "Tire out Jeremiah within 45 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fatherhood-for-beginners-2",
+        "label": "Feed Jeremiah a treat.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fatherhood-for-beginners-3",
+        "label": "Teach Jack to ride without his horse bucking him off.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fatherhood-for-beginners-4",
+        "label": "Win the race back to Pronghorn Ranch.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-old-habits",
@@ -5109,12 +9242,38 @@
       "wiki-old-habits"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-old-habits"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "John Marston",
+    "summary": "A gang of hired-guns cause trouble on Pronghorn Ranch.",
+    "goldRequirements": [
+      {
+        "id": "gold-old-habits-1",
+        "label": "Defeat the Laramie without taking a hit.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-old-habits"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-old-habits-2",
+        "label": "Defeat the Laramie within 25 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-old-habits"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-fatherhood-for-idiots",
@@ -5139,12 +9298,38 @@
       "wiki-fatherhood-for-idiots"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-fatherhood-for-idiots"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Marston",
+    "summary": "John juggles fatherhood and his multiple identities as he heads to Strawberry with Jack to collect mail for Geddes, and a package for Abigail.",
+    "goldRequirements": [
+      {
+        "id": "gold-fatherhood-for-idiots-1",
+        "label": "Kill all 3 enemies in Dead Eye.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-for-idiots"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-fatherhood-for-idiots-2",
+        "label": "After the confrontation, return to Pronghorn Ranch within 1 minute and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-fatherhood-for-idiots"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-jim-milton-rides-again",
@@ -5169,12 +9354,49 @@
       "wiki-jim-milton-rides-again"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-jim-milton-rides-again"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "David Geddes",
+    "summary": "John is thanked by Mr. Geddes for his help with the Laramie Gang, and John turns in for the night, only to be woken by a raid on the ranch.",
+    "goldRequirements": [
+      {
+        "id": "gold-jim-milton-rides-again-1",
+        "label": "Get 10 kills while dual wielding sidearms.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-jim-milton-rides-again"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-jim-milton-rides-again-2",
+        "label": "Get 15 headshots.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-jim-milton-rides-again"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-jim-milton-rides-again-3",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-jim-milton-rides-again"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-motherhood",
@@ -5199,12 +9421,27 @@
       "wiki-motherhood"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-motherhood"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abe",
+    "summary": "John receives a telegram from Sadie Adler.",
+    "goldRequirements": [
+      {
+        "id": "gold-motherhood-1",
+        "label": "Complete within 1 minute 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-motherhood"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-gainful-employment",
@@ -5229,12 +9466,38 @@
       "wiki-gainful-employment"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-gainful-employment"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "After receiving a telegram from Sadie Adler, John Marston meets her in Valentine and helps her with some bounty hunting work.",
+    "goldRequirements": [
+      {
+        "id": "gold-gainful-employment-1",
+        "label": "After arriving in Strawberry, locate the bounty within 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gainful-employment"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-gainful-employment-2",
+        "label": "After mounting your horse, catch and hogtie the bounty within 1 minute and 15 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-gainful-employment"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-landowning-classes",
@@ -5264,7 +9527,9 @@
         "wiki-the-landowning-classes"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Ansel Atherton",
+    "summary": "Mr. Geddes gave a credit reference to use at the bank in Blackwater."
   },
   {
     "id": "mission-home-of-the-gentry",
@@ -5289,12 +9554,27 @@
       "wiki-home-of-the-gentry"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-home-of-the-gentry"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Ansel Atherton",
+    "summary": "Before he can purchase Beecher's Hope, John must inspect the land and move on any illegal tenants. Back in Blackwater, he runs into an old friend.",
+    "goldRequirements": [
+      {
+        "id": "gold-home-of-the-gentry-1",
+        "label": "Complete within 2 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-home-of-the-gentry"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-bare-knuckle-friendships",
@@ -5319,12 +9599,38 @@
       "wiki-bare-knuckle-friendships"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-bare-knuckle-friendships"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Uncle",
+    "summary": "Uncle tells John that he has heard that Charles Smith is alive and in Saint Denis. John and Uncle go to Saint Denis to track him down.",
+    "goldRequirements": [
+      {
+        "id": "gold-bare-knuckle-friendships-1",
+        "label": "After arriving in Saint Denis, find Charles within 1 minute and 50 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bare-knuckle-friendships"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-bare-knuckle-friendships-2",
+        "label": "Kill all of Guido Martelli’s men within 10 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-bare-knuckle-friendships"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-an-honest-days-labors",
@@ -5349,12 +9655,60 @@
       "wiki-an-honest-days-labors"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-an-honest-days-labors"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Sadie Adler",
+    "summary": "John meets Sadie in Blackwater. Sadie asks John to help her recover a bounty named Shane Finley who was taken from her by a professional rival, James Langton.",
+    "goldRequirements": [
+      {
+        "id": "gold-an-honest-days-labors-1",
+        "label": "Kill all of Langton’s men during the horseback escape.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-days-labors"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-honest-days-labors-2",
+        "label": "After choosing your approach, escape with Shane Finley within 5 minutes.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-days-labors"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-honest-days-labors-3",
+        "label": "Complete with at least 70% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-days-labors"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-an-honest-days-labors-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-an-honest-days-labors"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-home-improvement-for-beginners",
@@ -5379,12 +9733,27 @@
       "wiki-home-improvement-for-beginners"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-home-improvement-for-beginners"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Uncle",
+    "summary": "John, Uncle and Charles tear down the derelict shack at Beecher's Hope.",
+    "goldRequirements": [
+      {
+        "id": "gold-home-improvement-for-beginners-1",
+        "label": "Complete within 18 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-home-improvement-for-beginners"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-tool-box",
@@ -5409,12 +9778,60 @@
       "wiki-the-tool-box"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-the-tool-box"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Albert Cakes",
+    "summary": "John purchases a pre-cut house from the Blackwater lumberyard. Hearing the Skinner Brothers are in the area, John, Charles, and two hired guns bring the lumber home via the toolmaker at Manzanita Post.",
+    "goldRequirements": [
+      {
+        "id": "gold-the-tool-box-1",
+        "label": "Headshot all Skinner Brothers hiding up trees.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-tool-box"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-tool-box-2",
+        "label": "Find Mr. Wayne within 2 minutes and 15 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-tool-box"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-tool-box-3",
+        "label": "Complete using only sidearms.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-tool-box"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-the-tool-box-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-the-tool-box"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-new-jerusalem",
@@ -5439,12 +9856,38 @@
       "wiki-a-new-jerusalem"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-new-jerusalem"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Uncle",
+    "summary": "John puts together his pre-cut ranch house with the help of Charles and the encouragement of Uncle.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-new-jerusalem-1",
+        "label": "Hammer the nails in with 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-jerusalem"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-new-jerusalem-2",
+        "label": "Complete within 3 minutes and 35 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-jerusalem"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-quick-favor-for-an-old-friend",
@@ -5469,12 +9912,60 @@
       "wiki-a-quick-favor-for-an-old-friend"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-quick-favor-for-an-old-friend"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Uncle",
+    "summary": "With his debts mounting and a barn to buy, John accompanies Sadie to hunt down the wanted criminal, Ramón Cortez, and bring him to justice.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-quick-favor-for-an-old-friend-1",
+        "label": "Force Cortez's men to flee from Rhodes within 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quick-favor-for-an-old-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-quick-favor-for-an-old-friend-2",
+        "label": "Get 5 headshots while covering Sadie with a long scoped rifle.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quick-favor-for-an-old-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-quick-favor-for-an-old-friend-3",
+        "label": "Get 4 hip fire kills.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quick-favor-for-an-old-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-quick-favor-for-an-old-friend-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-quick-favor-for-an-old-friend"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-uncles-bad-day",
@@ -5499,12 +9990,60 @@
       "wiki-uncles-bad-day"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-uncles-bad-day"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Uncle",
+    "summary": "Uncle, John and Charles spend the night celebrating after finishing work on the barn. John and Charles wake to find that Uncle has been taken by the Skinner Brothers. The two must then find and rescue him from the extremely violent gang.",
+    "goldRequirements": [
+      {
+        "id": "gold-uncles-bad-day-1",
+        "label": "Get 5 headshots using the bow.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-uncles-bad-day"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-uncles-bad-day-2",
+        "label": "After freeing Uncle, return to Beecher's Hope within 3 minutes and 10 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-uncles-bad-day"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-uncles-bad-day-3",
+        "label": "Complete with at least 80% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-uncles-bad-day"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-uncles-bad-day-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-uncles-bad-day"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-the-best-of-women",
@@ -5534,7 +10073,9 @@
         "wiki-the-best-of-women"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Marston",
+    "summary": "After months of separation, Jack and Abigail finally arrive at the ranch."
   },
   {
     "id": "mission-trying-again",
@@ -5559,12 +10100,38 @@
       "wiki-trying-again"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-trying-again"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Jack Marston",
+    "summary": "John takes Jack fishing with the family dog, Rufus. They catch more than they bargained for.",
+    "goldRequirements": [
+      {
+        "id": "gold-trying-again-1",
+        "label": "Catch a fish.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-trying-again"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-trying-again-2",
+        "label": "Complete within 5 minutes and 20 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-trying-again"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-really-big-bastard",
@@ -5589,12 +10156,49 @@
       "wiki-a-really-big-bastard"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-really-big-bastard"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Roberts/Sadie Adler",
+    "summary": "Sadie visits John at Beecher's Hope. They leave to hunt down a bounty, Marshall Thurwell, in Tall Trees and discuss other men who have evaded their capture.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-really-big-bastard-1",
+        "label": "Shoot the bear 4 times as it charges.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-really-big-bastard"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-really-big-bastard-2",
+        "label": "Headshot both the rival bounty hunters in Dead Eye.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-really-big-bastard"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-a-really-big-bastard-3",
+        "label": "Complete within 7 minutes and 15 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-really-big-bastard"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-a-new-future-imagined",
@@ -5619,12 +10223,106 @@
       "wiki-a-new-future-imagined"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-a-new-future-imagined"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Roberts",
+    "summary": "John and Abigail go in to Blackwater to spend some quality time together. John has a question to ask her.",
+    "goldRequirements": [
+      {
+        "id": "gold-a-new-future-imagined-1",
+        "label": "Complete within 7 minutes and 30 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-a-new-future-imagined-1",
+        "label": "Get on the wagon .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-new-future-imagined-2",
+        "label": "Ride to Blackwater .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-new-future-imagined-3",
+        "label": "Go to the photo studio .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-new-future-imagined-4",
+        "label": "Go to the Imperial Theatre .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-new-future-imagined-5",
+        "label": "Go to the shore .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-new-future-imagined-6",
+        "label": "Row out onto the lake .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-a-new-future-imagined-7",
+        "label": "Propose to Abigail .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-a-new-future-imagined"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   },
   {
     "id": "mission-american-venom",
@@ -5649,11 +10347,193 @@
       "wiki-american-venom"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
         "wiki-american-venom"
       ],
       "lastReviewedAt": "2026-09-06"
-    }
+    },
+    "questGiver": "Abigail Roberts/Sadie Adler",
+    "summary": "Sadie Adler hears that Micah Bell is alive somewhere. With the whereabouts of Cleet known in Strawberry, the gang saddles up looking for revenge.",
+    "goldRequirements": [
+      {
+        "id": "gold-american-venom-1",
+        "label": "Help Sadie catch Cleet within 35 seconds.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-venom-2",
+        "label": "Headshot the sniper who shoots Charles.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-venom-3",
+        "label": "Complete with at least 85% accuracy.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "gold-american-venom-4",
+        "label": "Complete the mission without taking any health items.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj-american-venom-1",
+        "label": "Follow Sadie to Strawberry.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-2",
+        "label": "Regroup with Sadie .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-3",
+        "label": "Search for Cleet in Strawberry .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-4",
+        "label": "Chase Cleet .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-5",
+        "label": "Beat up Cleet .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-6",
+        "label": "Drag Cleet to the Gallows .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-7",
+        "label": "Force Cleet up the stairs.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-8",
+        "label": "Tie the noose round Cleet's neck.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-9",
+        "label": "Threaten Cleet by moving the lever.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-10",
+        "label": "Hang Cleet or leave him be.",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-11",
+        "label": "Mount your horse .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      },
+      {
+        "id": "obj-american-venom-12",
+        "label": "Ride towards Mount Hagen .",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-american-venom"
+          ],
+          "lastReviewedAt": "2026-09-06"
+        }
+      }
+    ]
   }
 ]

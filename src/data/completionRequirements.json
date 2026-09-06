@@ -1,1 +1,1294 @@
-[]
+[
+  {
+    "id": "completion-01-complete-all-107-story-missions-required-to-fini",
+    "category": "missions-and-events",
+    "title": "Complete all 107 story missions required to finish the story.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-02-complete-any-10-stranger-mission-strands",
+    "category": "missions-and-events",
+    "title": "Complete any 10 stranger mission strands.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-03-complete-any-5-bounty-hunter-missions",
+    "category": "missions-and-events",
+    "title": "Complete any 5 bounty hunter missions.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-04-complete-25-random-encounters",
+    "category": "missions-and-events",
+    "title": "Complete 25 random encounters.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-05-survive-a-gang-ambush",
+    "category": "missions-and-events",
+    "title": "Survive a gang ambush.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-06-clear-6-gang-hideouts",
+    "category": "missions-and-events",
+    "title": "Clear 6 gang hideouts.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-07-find-any-1-point-of-interest",
+    "category": "collectibles",
+    "title": "Find any 1 Point of Interest.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-08-visit-all-9-graves-of-your-fallen-companions-ava",
+    "category": "collectibles",
+    "title": "Visit all 9 graves of your fallen companions. (Available only after story completion)",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-09-collect-1-complete-set-of-cigarette-cards",
+    "category": "collectibles",
+    "title": "Collect 1 complete set of Cigarette Cards.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-10-complete-a-test-of-faith",
+    "category": "collectibles",
+    "title": "Complete \"A Test of Faith\".",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-11-complete-a-fisher-of-fish",
+    "category": "collectibles",
+    "title": "Complete \"A Fisher of Fish\".",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-12-complete-duchesses-and-other-animals",
+    "category": "collectibles",
+    "title": "Complete \"Duchesses and other Animals\".",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-13-complete-geology-for-beginners",
+    "category": "collectibles",
+    "title": "Complete \"Geology for Beginners\".",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-14-complete-a-better-world-a-new-friend",
+    "category": "collectibles",
+    "title": "Complete \"A Better World, A New Friend\".",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-15-complete-a-treasure-hunt-chain",
+    "category": "collectibles",
+    "title": "Complete a Treasure Hunt chain.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-16-find-all-20-dreamcatchers",
+    "category": "collectibles",
+    "title": "Find all 20 Dreamcatchers.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-17-discover-any-50-animal-species",
+    "category": "compendium",
+    "title": "Discover any 50 animal species.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-18-discover-any-10-equipment-items",
+    "category": "compendium",
+    "title": "Discover any 10 Equipment items.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-19-discover-any-10-fish-species",
+    "category": "compendium",
+    "title": "Discover any 10 fish species.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-20-discover-all-6-gangs",
+    "category": "compendium",
+    "title": "Discover all 6 gangs.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-21-discover-any-10-horse-breeds",
+    "category": "compendium",
+    "title": "Discover any 10 horse breeds.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-22-discover-any-20-plant-species",
+    "category": "compendium",
+    "title": "Discover any 20 plant species.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-23-discover-48-weapons",
+    "category": "compendium",
+    "title": "Discover 48 weapons.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-24-reach-level-10-health-stamina-and-dead-eye",
+    "category": "player",
+    "title": "Reach Level 10 Health, Stamina, and Dead Eye.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-25-achieve-level-4-bonding-with-your-horse",
+    "category": "player",
+    "title": "Achieve level 4 Bonding with your Horse.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-26-complete-all-90-challenges",
+    "category": "player",
+    "title": "Complete all 90 Challenges.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-27-investigate-any-5-shacks",
+    "category": "miscellaneous",
+    "title": "Investigate any 5 shacks.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-28-kill-any-5-legendary-animals",
+    "category": "miscellaneous",
+    "title": "Kill any 5 Legendary Animals.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-29-play-each-table-game-at-least-once",
+    "category": "miscellaneous",
+    "title": "Play each table game at least once.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-30-interact-with-5-special-characters",
+    "category": "miscellaneous",
+    "title": "Interact with 5 special characters.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-31-take-a-bath-at-least-once-available-in-hotels",
+    "category": "miscellaneous",
+    "title": "Take a bath at least once. (Available in hotels)",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-32-watch-a-show",
+    "category": "miscellaneous",
+    "title": "Watch a show.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-33-watch-a-live-show-at-the-theater",
+    "category": "miscellaneous",
+    "title": "Watch a live show at the Theater.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-34-craft-1-recipe-from-six-different-category-types",
+    "category": "miscellaneous",
+    "title": "Craft 1 recipe from six different category types.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-35-complete-a-home-robbery-a-shop-robbery-a-coach-r",
+    "category": "miscellaneous",
+    "title": "Complete a Home Robbery, a Shop Robbery, a Coach Robbery and a Train Robbery.",
+    "targetCount": 1,
+    "countsToward100": true,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-36-get-a-gold-medal-on-all-story-missions",
+    "category": "non-required",
+    "title": "Get a gold medal on all story missions.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-37-complete-all-companion-item-requests",
+    "category": "non-required",
+    "title": "Complete all companion item requests.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-38-complete-all-companion-activities",
+    "category": "non-required",
+    "title": "Complete all companion activities.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-39-complete-all-chores-at-least-once",
+    "category": "non-required",
+    "title": "Complete all chores at least once.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-40-purchase-all-camp-upgrades",
+    "category": "non-required",
+    "title": "Purchase all camp upgrades.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-41-craft-all-camp-upgrades",
+    "category": "non-required",
+    "title": "Craft all camp upgrades.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-42-complete-all-stranger-mission-strands",
+    "category": "non-required",
+    "title": "Complete all stranger mission strands.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-43-complete-all-bounty-hunter-missions",
+    "category": "non-required",
+    "title": "Complete all bounty hunter missions.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-44-complete-all-random-encounters",
+    "category": "non-required",
+    "title": "Complete all random encounters.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-45-complete-all-event-area-encounters",
+    "category": "non-required",
+    "title": "Complete all event area encounters.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-46-clear-all-gang-hideouts",
+    "category": "non-required",
+    "title": "Clear all gang hideouts.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-47-find-all-points-of-interest",
+    "category": "non-required",
+    "title": "Find all points of interest.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-48-complete-all-treasure-hunt-chains",
+    "category": "non-required",
+    "title": "Complete all treasure hunt chains.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-49-discover-all-animal-species-and-complete-100-pro",
+    "category": "non-required",
+    "title": "Discover all animal species and complete 100% progress for each in the Compendium.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-50-kill-all-25-carolina-parakeets",
+    "category": "non-required",
+    "title": "Kill all 25 Carolina Parakeets.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-51-discover-all-equipment-items",
+    "category": "non-required",
+    "title": "Discover all equipment items.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-52-discover-all-fish-species-and-complete-100-progr",
+    "category": "non-required",
+    "title": "Discover all fish species and complete 100% progress for each in the Compendium.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-53-complete-100-progress-for-each-gang-in-the-compe",
+    "category": "non-required",
+    "title": "Complete 100% progress for each gang in the Compendium.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-54-discover-all-horse-breeds-and-complete-100-progr",
+    "category": "non-required",
+    "title": "Discover all horse breeds and complete 100% progress for each in the Compendium.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-55-ride-all-horse-breeds",
+    "category": "non-required",
+    "title": "Ride all horse breeds.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-56-reach-bonding-level-4-with-all-horse-breeds",
+    "category": "non-required",
+    "title": "Reach bonding level 4 with all horse breeds.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-57-discover-all-plant-species-and-complete-100-prog",
+    "category": "non-required",
+    "title": "Discover all plant species and complete 100% progress for each in the Compendium.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-58-discover-all-weapons",
+    "category": "non-required",
+    "title": "Discover all weapons.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-59-investigate-all-shacks",
+    "category": "non-required",
+    "title": "Investigate all shacks.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-60-interact-with-all-special-characters-and-encount",
+    "category": "non-required",
+    "title": "Interact with all special characters and encounter all of their encounters.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-61-complete-all-homestead-robberies-and-encounter-e",
+    "category": "non-required",
+    "title": "Complete all homestead robberies and encounter every related encounter.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-62-complete-all-side-businesses-robberies",
+    "category": "non-required",
+    "title": "Complete all side businesses robberies.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-63-complete-all-coach-robberies",
+    "category": "non-required",
+    "title": "Complete all coach robberies.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-64-collect-all-stolen-hats",
+    "category": "non-required",
+    "title": "Collect all stolen hats.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-65-collect-all-found-hats",
+    "category": "non-required",
+    "title": "Collect all found hats.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-66-collect-all-found-masks",
+    "category": "non-required",
+    "title": "Collect all found masks.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-67-collect-the-worn-flat-cap-after-completing-the-m",
+    "category": "non-required",
+    "title": "Collect the Worn Flat Cap (after completing the mission \"The Wheel\") and John's Gambler's Hat (after completing the mission \"Simple Pleasures\").",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-68-encounter-mary-beth-gaskill-tilly-jackson-and-ra",
+    "category": "non-required",
+    "title": "Encounter Mary-Beth Gaskill, Tilly Jackson, and Rains Fall in the Epilogue.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-69-collect-all-possible-documents",
+    "category": "non-required",
+    "title": "Collect all possible documents.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-70-collect-all-possible-unique-items",
+    "category": "non-required",
+    "title": "Collect all possible unique items.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-71-collect-all-talismans-and-trinkets",
+    "category": "non-required",
+    "title": "Collect all talismans and trinkets",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-72-discover-all-possible-animal-and-plant-icons-on-",
+    "category": "non-required",
+    "title": "Discover all possible animal and plant icons on the map.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-73-complete-all-possible-drawing-and-writing-pages-",
+    "category": "non-required",
+    "title": "Complete all possible drawing and writing pages in the journal.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-74-purchase-all-items",
+    "category": "non-required",
+    "title": "Purchase all items.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-75-purchase-all-clothing-items",
+    "category": "non-required",
+    "title": "Purchase all clothing items.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "completion-76-unlock-all-achievements",
+    "category": "non-required",
+    "title": "Unlock all achievements.",
+    "targetCount": 1,
+    "countsToward100": false,
+    "sourceIds": [
+      "wiki-100-completion-rdr2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-100-completion-rdr2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

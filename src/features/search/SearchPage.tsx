@@ -10,6 +10,9 @@ const labels: Record<SearchKind, string> = {
   missable: 'Missables',
   activity: 'Activities',
   'item-request': 'Item requests',
+  collectible: 'Collectibles',
+  challenge: 'Challenges',
+  compendium: 'Compendium',
   chapter: 'Chapters',
 };
 

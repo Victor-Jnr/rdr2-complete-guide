@@ -1,8 +1,8 @@
 [
   {
-    "id": "item-javier-oleander",
+    "id": "item-javier-oleander-sage-0",
     "title": "Oleander Sage for Javier",
-    "requester": "Javier Escuella",
+    "requester": "Javier",
     "availability": {
       "displayChapterId": "chapter-2",
       "availableChapterIds": [
@@ -13,12 +13,11 @@
       "requirements": [
         {
           "kind": "time-of-day",
-          "window": "8:00–20:00"
+          "window": "8AM - 8PM"
         }
       ]
     },
-    "locationId": "loc-horseshoe-overlook",
-    "description": "Javier is at the dominoes table, poisoning his knives.",
+    "description": "Javier is sitting at the dominoes table, poisoning his knives. Reward: Poison Throwing Knives",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],
@@ -31,9 +30,9 @@
     }
   },
   {
-    "id": "item-mary-beth-pen",
+    "id": "item-mary-beth-fountain-pen-0",
     "title": "Fountain Pen for Mary-Beth",
-    "requester": "Mary-Beth Gaskill",
+    "requester": "Mary-Beth",
     "availability": {
       "displayChapterId": "chapter-2",
       "availableChapterIds": [
@@ -44,12 +43,11 @@
       "requirements": [
         {
           "kind": "time-of-day",
-          "window": "8:00–20:00"
+          "window": "8AM - 8PM"
         }
       ]
     },
-    "locationId": "loc-horseshoe-overlook",
-    "description": "Mary-Beth is writing in her journal near her bed.",
+    "description": "Mary-Beth is writing in her journal near her bed. Reward: Ring",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],
@@ -62,9 +60,9 @@
     }
   },
   {
-    "id": "item-pearson-compass",
+    "id": "item-pearson-naval-compass-0",
     "title": "Naval Compass for Pearson",
-    "requester": "Simon Pearson",
+    "requester": "Pearson",
     "availability": {
       "displayChapterId": "chapter-2",
       "availableChapterIds": [
@@ -77,12 +75,11 @@
       "requirements": [
         {
           "kind": "time-of-day",
-          "window": "8:00–14:00"
+          "window": "8AM - 2PM"
         }
       ]
     },
-    "locationId": "loc-horseshoe-overlook",
-    "description": "Ask while playing poker with him. Available Chapters 2–4.",
+    "description": "While playing poker with him. Reward: Guarma Rum",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],
@@ -95,9 +92,9 @@
     }
   },
   {
-    "id": "item-jack-comic-book",
+    "id": "item-jack-comic-book-0",
     "title": "Comic Book for Jack",
-    "requester": "Jack Marston",
+    "requester": "Jack",
     "availability": {
       "displayChapterId": "chapter-2",
       "availableChapterIds": [
@@ -105,10 +102,14 @@
       ],
       "earliestChapterId": "chapter-2",
       "latestChapterId": "chapter-2",
-      "earliestMissionId": "mission-a-fisher-of-men"
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
     },
-    "locationId": "loc-horseshoe-overlook",
-    "description": "Can trigger during A Fisher of Men.",
+    "description": "During the mission \"A Fisher of Men\". Reward: Chocolate Bar",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],
@@ -121,9 +122,9 @@
     }
   },
   {
-    "id": "item-jack-thimble",
+    "id": "item-jack-thimble-0",
     "title": "Thimble for Jack",
-    "requester": "Jack Marston",
+    "requester": "Jack",
     "availability": {
       "displayChapterId": "chapter-2",
       "availableChapterIds": [
@@ -131,10 +132,14 @@
       ],
       "earliestChapterId": "chapter-2",
       "latestChapterId": "chapter-2",
-      "earliestMissionId": "mission-a-fisher-of-men"
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
     },
-    "locationId": "loc-horseshoe-overlook",
-    "description": "After A Fisher of Men; Jack talks to Arthur in front of Dutch’s tent.",
+    "description": "After the mission \"A Fisher of Men\". Jack goes to talk to Arthur in front of Dutch's tent. Reward: Jack's Drawing UI",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],
@@ -147,9 +152,9 @@
     }
   },
   {
-    "id": "item-abigail-five",
+    "id": "item-abigail-5-0",
     "title": "$5 for Abigail",
-    "requester": "Abigail Marston",
+    "requester": "Abigail",
     "availability": {
       "displayChapterId": "chapter-2",
       "availableChapterIds": [
@@ -157,10 +162,14 @@
       ],
       "earliestChapterId": "chapter-2",
       "latestChapterId": "chapter-2",
-      "earliestMissionId": "mission-a-fisher-of-men"
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
     },
-    "locationId": "loc-horseshoe-overlook",
-    "description": "After A Fisher of Men; Abigail and Jack are in their tent.",
+    "description": "After the mission \"A Fisher of Men\". Abigail and Jack are in their tent. Reward: Honor",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],
@@ -173,34 +182,9 @@
     }
   },
   {
-    "id": "item-tilly-necklace",
+    "id": "item-tilly-necklace-0",
     "title": "Necklace for Tilly",
-    "requester": "Tilly Jackson",
-    "availability": {
-      "displayChapterId": "chapter-3",
-      "availableChapterIds": [
-        "chapter-3"
-      ],
-      "earliestChapterId": "chapter-3",
-      "latestChapterId": "chapter-3"
-    },
-    "locationId": "loc-clemens-point",
-    "description": "While playing dominoes with her.",
-    "sourceIds": [
-      "wiki-companion-item-requests"
-    ],
-    "research": {
-      "verificationStatus": "researched",
-      "sourceIds": [
-        "wiki-companion-item-requests"
-      ],
-      "lastReviewedAt": "2026-09-06"
-    }
-  },
-  {
-    "id": "item-sadie-harmonica",
-    "title": "Harmonica for Sadie",
-    "requester": "Sadie Adler",
+    "requester": "Tilly",
     "availability": {
       "displayChapterId": "chapter-3",
       "availableChapterIds": [
@@ -208,10 +192,480 @@
       ],
       "earliestChapterId": "chapter-3",
       "latestChapterId": "chapter-3",
-      "earliestMissionId": "mission-further-questions-of-female-suffrage"
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
     },
-    "locationId": "loc-clemens-point",
-    "description": "During Further Questions of Female Suffrage.",
+    "description": "While playing dominoes with her. Reward: 2 Health Cures",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-sadie-harmonica-0",
+    "title": "Harmonica for Sadie",
+    "requester": "Sadie",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "During the mission \"Further Questions of Female Suffrage\". Reward: Gun Oil",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-hosea-2-american-ginseng-0",
+    "title": "2 American Ginseng for Hosea",
+    "requester": "Hosea",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Hosea is sitting at a table in the middle of the camp, preparing medicines. Reward: Potent Health Cure",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-molly-pocket-mirror-0",
+    "title": "Pocket Mirror for Molly",
+    "requester": "Molly",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Molly goes to talk to Arthur in front of Dutch's tent. Reward: Cigar",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-kieran-2-burdock-roots-0",
+    "title": "2 Burdock Roots for Kieran",
+    "requester": "Kieran",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "12PM - 6PM"
+        }
+      ]
+    },
+    "description": "Kieran is grooming a horse. Reward: Horse Care Items:",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-sean-kentucky-bourbon-0",
+    "title": "Kentucky Bourbon for Sean",
+    "requester": "Sean",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 6PM"
+        }
+      ]
+    },
+    "description": "Sean is making firebombs at a table behind the campfire tent. Reward: Fire Bottles",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-bill-hair-pomade-0",
+    "title": "Hair Pomade for Bill",
+    "requester": "Bill",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Bill asks Arthur while sitting in front of his tent. Reward: Repeater Cartridges - High Velocity",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-charles-moonshine-0",
+    "title": "Moonshine for Charles (1)",
+    "requester": "Charles",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Charles is preparing arrows. Reward: 1st Request: Fire Arrows 2nd Request: Poison Arrows",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-charles-oleander-sage-1",
+    "title": "Oleander Sage for Charles (2)",
+    "requester": "Charles",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Charles is preparing arrows. Reward: 1st Request: Fire Arrows 2nd Request: Poison Arrows",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-dutch-pipe-0",
+    "title": "Pipe for Dutch",
+    "requester": "Dutch",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Dutch is smoking in front of his tent. Reward: Spurs UI",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-hosea-the-case-of-the-shrew-in-the-fog-book-0",
+    "title": "The Case of the Shrew in the Fog Book for Hosea",
+    "requester": "Hosea",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "When Arthur reads “The Deceitful German” in Hosea and Bill's tent. Reward: Predator Bait",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-susan-any-2-seasoning-herbs-0",
+    "title": "Any 2 Seasoning Herbs for Susan",
+    "requester": "Susan",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Susan goes to talk to Arthur in front of Dutch's tent. Reward: Potent Miracle Tonic",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-pearson-rabbit-carcass-0",
+    "title": "Rabbit Carcass for Pearson",
+    "requester": "Pearson",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 2PM"
+        }
+      ]
+    },
+    "description": "Pearson is preparing food while taking sips of his beer (very difficult to trigger) . Reward: Scout Jacket UI",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-lenny-pocket-watch-0",
+    "title": "Pocket Watch for Lenny",
+    "requester": "Lenny",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8PM - 3AM"
+        }
+      ]
+    },
+    "description": "Lenny is sitting by the campfire, talking about his father's watch. Reward: Dynamite",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-charles-eagle-feathers-0",
+    "title": "Eagle Feathers for Charles",
+    "requester": "Charles",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Charles is hammering nails into the newly built barn. Reward: Horse Reviver",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "item-uncle-home-remedy-ingredients-0",
+    "title": "Home Remedy Ingredients for Uncle",
+    "requester": "Uncle",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Uncle comes to ask John. Reward: Clothing:",
     "sourceIds": [
       "wiki-companion-item-requests"
     ],

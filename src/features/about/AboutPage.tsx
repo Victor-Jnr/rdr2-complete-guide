@@ -1,5 +1,13 @@
 import { ExternalLink } from '@/components/ExternalLink';
-import { chapters, missions, treasures } from '@/data';
+import {
+  challenges,
+  chapters,
+  collectibles,
+  completionRequirements,
+  compendium,
+  missions,
+  treasures,
+} from '@/data';
 
 export default function AboutPage() {
   const researched = missions.filter((m) => m.research.verificationStatus !== 'unresearched').length;
@@ -47,11 +55,13 @@ export default function AboutPage() {
       <h2>Research status</h2>
       <p>
         {chapters.length} chapters, {missions.length} mission records ({researched} researched),{' '}
-        {treasures.length} treasure chains. Later chapters currently list titles and structure; Gold Medal
-        and missable detail is filled in for Chapter 1–2 story missions. Collectibles, challenges, the
-        compendium, and the 100% Total Completion list are modelled in the data layer but not researched yet.
+        {treasures.length} treasure chains, {collectibles.length} collectibles, {challenges.length}{' '}
+        challenge trees, {compendium.length} compendium entries, and{' '}
+        {completionRequirements.filter((r) => r.countsToward100).length} official 100% criteria.
+        Missions that have no Gold Medal list on the Red Dead Wiki are left without gold requirements.
+        Map pins are only placed where coordinates were already recorded — they are not guessed.
       </p>
-      <p>Version 0.1.0</p>
+      <p>Version 0.2.0</p>
     </main>
   );
 }

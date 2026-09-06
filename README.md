@@ -101,6 +101,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [007 — Wiki dataset fill and map overview zoom](documentation/007-wiki-data-and-map-zoom.md)
 - [006 — Android shell, PWA verify, and v1 close-out](documentation/006-android-and-verification.md)
 - [005 — Search and progress tests](documentation/005-search-progress-tests.md)
 - [004 — Native-resolution world map tiles](documentation/004-native-map-tiles.md)

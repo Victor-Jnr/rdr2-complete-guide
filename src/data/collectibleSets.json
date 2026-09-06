@@ -1,1 +1,574 @@
-[]
+[
+  {
+    "id": "set-cards-prominent-americans",
+    "kind": "cigarette-card",
+    "title": "Prominent Americans Card Set",
+    "collectibleIds": [
+      "col-card-prominent-americans-card-set-president-fisher",
+      "col-card-prominent-americans-card-set-president-hardin",
+      "col-card-prominent-americans-card-set-lillian-powell",
+      "col-card-prominent-americans-card-set-leviticus-cornwall",
+      "col-card-prominent-americans-card-set-jd-mcknight",
+      "col-card-prominent-americans-card-set-luther-covington",
+      "col-card-prominent-americans-card-set-harvey-griggs",
+      "col-card-prominent-americans-card-set-henrietta-beatrice-woods",
+      "col-card-prominent-americans-card-set-general-quincy-harris",
+      "col-card-prominent-americans-card-set-general-cornelius-palmer",
+      "col-card-prominent-americans-card-set-senator-thaddeus-waxman",
+      "col-card-prominent-americans-card-set-president-alfred-macalister"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-world-champions",
+    "kind": "cigarette-card",
+    "title": "World Champions Card Set",
+    "collectibleIds": [
+      "col-card-world-champions-card-set-greco-roman-wrestler-percy-wood",
+      "col-card-world-champions-card-set-billiards-edwin-a-rowe",
+      "col-card-world-champions-card-set-pugilist-theobaud-getzin",
+      "col-card-world-champions-card-set-oarsman-ht-slocum",
+      "col-card-world-champions-card-set-cyclist-rs-harradon",
+      "col-card-world-champions-card-set-walker-ed-ewing",
+      "col-card-world-champions-card-set-lawn-tennis-patsey-hill",
+      "col-card-world-champions-card-set-weightlifter-william-sleicher",
+      "col-card-world-champions-card-set-pigeon-shooting-edwin-singerly",
+      "col-card-world-champions-card-set-skater-felix-hawley",
+      "col-card-world-champions-card-set-hammer-thrower-capt-jack-page",
+      "col-card-world-champions-card-set-swinger-axel-mccormack"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-famous-gunslingers",
+    "kind": "cigarette-card",
+    "title": "Famous Gunslingers Card Set",
+    "collectibleIds": [
+      "col-card-famous-gunslingers-card-set-frank-heck",
+      "col-card-famous-gunslingers-card-set-otis-miller-boys",
+      "col-card-famous-gunslingers-card-set-jack-hall-gang",
+      "col-card-famous-gunslingers-card-set-butcher-brothers",
+      "col-card-famous-gunslingers-card-set-flaco-hernandez",
+      "col-card-famous-gunslingers-card-set-slim-grant",
+      "col-card-famous-gunslingers-card-set-landon-ricketts",
+      "col-card-famous-gunslingers-card-set-black-belle",
+      "col-card-famous-gunslingers-card-set-billy-midnight",
+      "col-card-famous-gunslingers-card-set-emmet-granger",
+      "col-card-famous-gunslingers-card-set-jim-boy-calloway",
+      "col-card-famous-gunslingers-card-set-bart-love"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-artists-writers-and-poets",
+    "kind": "cigarette-card",
+    "title": "Artists, Writers, & Poets Card Set",
+    "collectibleIds": [
+      "col-card-artists-writers-and-poets-card-set-edith-corinne",
+      "col-card-artists-writers-and-poets-card-set-elsie-rose",
+      "col-card-artists-writers-and-poets-card-set-wg-hoyt",
+      "col-card-artists-writers-and-poets-card-set-aldous-bramley",
+      "col-card-artists-writers-and-poets-card-set-preston-t-stephenson",
+      "col-card-artists-writers-and-poets-card-set-evelyn-miller",
+      "col-card-artists-writers-and-poets-card-set-slick-hutton",
+      "col-card-artists-writers-and-poets-card-set-laurence-carson",
+      "col-card-artists-writers-and-poets-card-set-miss-maud-delancey",
+      "col-card-artists-writers-and-poets-card-set-charles-ch-tenay",
+      "col-card-artists-writers-and-poets-card-set-george-dixie",
+      "col-card-artists-writers-and-poets-card-set-richard-mccullough"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-vistas-of-america",
+    "kind": "cigarette-card",
+    "title": "Vistas of America Card Set",
+    "collectibleIds": [
+      "col-card-vistas-of-america-card-set-new-york",
+      "col-card-vistas-of-america-card-set-saint-denis",
+      "col-card-vistas-of-america-card-set-blackwater",
+      "col-card-vistas-of-america-card-set-armadillo",
+      "col-card-vistas-of-america-card-set-rio-bravo",
+      "col-card-vistas-of-america-card-set-the-grizzlies",
+      "col-card-vistas-of-america-card-set-san-francisco",
+      "col-card-vistas-of-america-card-set-tall-trees",
+      "col-card-vistas-of-america-card-set-valentine",
+      "col-card-vistas-of-america-card-set-chicago",
+      "col-card-vistas-of-america-card-set-rhodes",
+      "col-card-vistas-of-america-card-set-annesburg"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-gems-of-beauty",
+    "kind": "cigarette-card",
+    "title": "Gems of Beauty Card Set",
+    "collectibleIds": [
+      "col-card-gems-of-beauty-card-set-leila-stetson",
+      "col-card-gems-of-beauty-card-set-isabelle-barlow",
+      "col-card-gems-of-beauty-card-set-hattie-langtry",
+      "col-card-gems-of-beauty-card-set-isabelle-standish",
+      "col-card-gems-of-beauty-card-set-maud-engel",
+      "col-card-gems-of-beauty-card-set-sadie-russell",
+      "col-card-gems-of-beauty-card-set-geraldine-emerson",
+      "col-card-gems-of-beauty-card-set-agnes-guyon",
+      "col-card-gems-of-beauty-card-set-jennie-willetts",
+      "col-card-gems-of-beauty-card-set-ilga-ulmer",
+      "col-card-gems-of-beauty-card-set-fay-delaro",
+      "col-card-gems-of-beauty-card-set-pauline-henderson"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-flora-of-america",
+    "kind": "cigarette-card",
+    "title": "Flora of America Card Set",
+    "collectibleIds": [
+      "col-card-flora-of-america-card-set-golden-currant",
+      "col-card-flora-of-america-card-set-hummingbird-sage",
+      "col-card-flora-of-america-card-set-oleander-sage",
+      "col-card-flora-of-america-card-set-yarrow",
+      "col-card-flora-of-america-card-set-indian-tobacco",
+      "col-card-flora-of-america-card-set-black-mangrove",
+      "col-card-flora-of-america-card-set-longleaf-pine",
+      "col-card-flora-of-america-card-set-desert-fan-palm",
+      "col-card-flora-of-america-card-set-coastal-redwood",
+      "col-card-flora-of-america-card-set-horse-crippler-cactus",
+      "col-card-flora-of-america-card-set-blazing-star",
+      "col-card-flora-of-america-card-set-carolina-lupine"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-fauna-of-america",
+    "kind": "cigarette-card",
+    "title": "Fauna of America Card Set",
+    "collectibleIds": [
+      "col-card-fauna-of-america-card-set-black-widow-spider",
+      "col-card-fauna-of-america-card-set-bloodhound",
+      "col-card-fauna-of-america-card-set-bluejay",
+      "col-card-fauna-of-america-card-set-catfish",
+      "col-card-fauna-of-america-card-set-coral-snake",
+      "col-card-fauna-of-america-card-set-grouper",
+      "col-card-fauna-of-america-card-set-large-mouth-bass",
+      "col-card-fauna-of-america-card-set-panther",
+      "col-card-fauna-of-america-card-set-parrot",
+      "col-card-fauna-of-america-card-set-pheasant",
+      "col-card-fauna-of-america-card-set-snapping-turtle",
+      "col-card-fauna-of-america-card-set-turkey"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-stars-of-the-stage",
+    "kind": "cigarette-card",
+    "title": "Stars of the Stage Card Set",
+    "collectibleIds": [
+      "col-card-stars-of-the-stage-card-set-laurence-dunn",
+      "col-card-stars-of-the-stage-card-set-louis-durand",
+      "col-card-stars-of-the-stage-card-set-jesse-raymond",
+      "col-card-stars-of-the-stage-card-set-augusta-tremlow",
+      "col-card-stars-of-the-stage-card-set-mabel-potter",
+      "col-card-stars-of-the-stage-card-set-robin-koninsky",
+      "col-card-stars-of-the-stage-card-set-isadore-reid",
+      "col-card-stars-of-the-stage-card-set-irene-grubb",
+      "col-card-stars-of-the-stage-card-set-nettie-palmer",
+      "col-card-stars-of-the-stage-card-set-jim-cobb",
+      "col-card-stars-of-the-stage-card-set-mittie-comstock",
+      "col-card-stars-of-the-stage-card-set-robert-elliot-patchen"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-marvels-of-travel",
+    "kind": "cigarette-card",
+    "title": "Marvels of Travel Card Set",
+    "collectibleIds": [
+      "col-card-marvels-of-travel-card-set-packet-ship",
+      "col-card-marvels-of-travel-card-set-schooner",
+      "col-card-marvels-of-travel-card-set-camel-caravan",
+      "col-card-marvels-of-travel-card-set-elephant-carriage",
+      "col-card-marvels-of-travel-card-set-goat-carriage",
+      "col-card-marvels-of-travel-card-set-hot-air-balloon",
+      "col-card-marvels-of-travel-card-set-us-frigate",
+      "col-card-marvels-of-travel-card-set-the-showboat",
+      "col-card-marvels-of-travel-card-set-balener-whaling-vessel",
+      "col-card-marvels-of-travel-card-set-stagecoach",
+      "col-card-marvels-of-travel-card-set-steam-locomotive",
+      "col-card-marvels-of-travel-card-set-velocipede"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-amazing-inventions",
+    "kind": "cigarette-card",
+    "title": "Amazing Inventions Card Set",
+    "collectibleIds": [
+      "col-card-amazing-inventions-card-set-steam-locomotive-1814-george-stephenson",
+      "col-card-amazing-inventions-card-set-camera-1814-joseph-nicephore-niepce",
+      "col-card-amazing-inventions-card-set-electrical-execution-apparatus-1888-hp-brown-a-kennelly",
+      "col-card-amazing-inventions-card-set-typewriter-1829-wa-burt",
+      "col-card-amazing-inventions-card-set-revolver-1836-daniel-buck",
+      "col-card-amazing-inventions-card-set-telegraph-1837-samuel-morse",
+      "col-card-amazing-inventions-card-set-manned-glider-1893-charles-kinnear",
+      "col-card-amazing-inventions-card-set-dynamite-1866-alfred-nobel",
+      "col-card-amazing-inventions-card-set-cylinder-phonograph-1877-thomas-edison",
+      "col-card-amazing-inventions-card-set-player-piano-1829-edward-leveaux",
+      "col-card-amazing-inventions-card-set-electric-light-bulb-1876-thomas-edison",
+      "col-card-amazing-inventions-card-set-fountain-pen-1884-lewis-waterman"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-cards-horses",
+    "kind": "cigarette-card",
+    "title": "Horses Card Set",
+    "collectibleIds": [
+      "col-card-horses-card-set-american-paint",
+      "col-card-horses-card-set-appaloosa",
+      "col-card-horses-card-set-andalusian",
+      "col-card-horses-card-set-american-standardbred",
+      "col-card-horses-card-set-nokota",
+      "col-card-horses-card-set-ardennes",
+      "col-card-horses-card-set-dutch-warmblood",
+      "col-card-horses-card-set-turkoman",
+      "col-card-horses-card-set-hungarian-half-bred",
+      "col-card-horses-card-set-mustang",
+      "col-card-horses-card-set-thoroughbred",
+      "col-card-horses-card-set-missouri-fox-trotter"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-dinosaur-bones",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bones",
+    "collectibleIds": [
+      "col-bone-1",
+      "col-bone-2",
+      "col-bone-3",
+      "col-bone-4",
+      "col-bone-5",
+      "col-bone-1",
+      "col-bone-2",
+      "col-bone-1",
+      "col-bone-2",
+      "col-bone-3",
+      "col-bone-4",
+      "col-bone-5",
+      "col-bone-6",
+      "col-bone-7",
+      "col-bone-8",
+      "col-bone-9",
+      "col-bone-10",
+      "col-bone-11",
+      "col-bone-12",
+      "col-bone-1",
+      "col-bone-2",
+      "col-bone-3",
+      "col-bone-1",
+      "col-bone-2",
+      "col-bone-3",
+      "col-bone-4",
+      "col-bone-5",
+      "col-bone-6",
+      "col-bone-7",
+      "col-bone-8"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-dreamcatchers",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatchers",
+    "collectibleIds": [
+      "col-dream-1",
+      "col-dream-2",
+      "col-dream-3",
+      "col-dream-4",
+      "col-dream-5",
+      "col-dream-6",
+      "col-dream-7",
+      "col-dream-8",
+      "col-dream-9",
+      "col-dream-10",
+      "col-dream-11",
+      "col-dream-12",
+      "col-dream-13",
+      "col-dream-14",
+      "col-dream-15",
+      "col-dream-16",
+      "col-dream-17",
+      "col-dream-18",
+      "col-dream-19",
+      "col-dream-20"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-rock-carvings",
+    "kind": "rock-carving",
+    "title": "Rock Carvings",
+    "collectibleIds": [
+      "col-carve-1",
+      "col-carve-2",
+      "col-carve-3",
+      "col-carve-4",
+      "col-carve-5",
+      "col-carve-6",
+      "col-carve-7",
+      "col-carve-8",
+      "col-carve-9",
+      "col-carve-10"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-points-of-interest",
+    "kind": "point-of-interest",
+    "title": "Points of Interest",
+    "collectibleIds": [
+      "col-poi-abandoned-church",
+      "col-poi-bolger-glade",
+      "col-poi-braithwaites-secret",
+      "col-poi-grays-secret",
+      "col-poi-painting-in-cabin",
+      "col-poi-phonograph",
+      "col-poi-pleasance",
+      "col-poi-tiny-church",
+      "col-poi-withered-arm",
+      "col-poi-abandoned-trading-post",
+      "col-poi-brush-fire",
+      "col-poi-fossilized-man",
+      "col-poi-manmade-mutant",
+      "col-poi-meteor-house",
+      "col-poi-meteorite",
+      "col-poi-oil-derrick",
+      "col-poi-old-tomb",
+      "col-poi-old-world-scripts",
+      "col-poi-register-rock",
+      "col-poi-serpent-mound",
+      "col-poi-trading-post",
+      "col-poi-trail-trees-i",
+      "col-poi-trail-trees-ii",
+      "col-poi-trail-trees-iii",
+      "col-poi-trail-trees-iv",
+      "col-poi-warped-tree",
+      "col-poi-barrel-rider",
+      "col-poi-defaced-grave",
+      "col-poi-face-in-cliff",
+      "col-poi-frozen-settler",
+      "col-poi-mammoth",
+      "col-poi-meditating-monk",
+      "col-poi-mysterious-hill-home",
+      "col-poi-strange-statues",
+      "col-poi-strange-statues-cave-painting",
+      "col-poi-circus-wagons",
+      "col-poi-faces-in-trees",
+      "col-poi-flying-machine-west-elizabeth",
+      "col-poi-giant-remains",
+      "col-poi-hermit-woman",
+      "col-poi-hidden-tunnel",
+      "col-poi-native-burial",
+      "col-poi-obelisk",
+      "col-poi-pagan-ritual",
+      "col-poi-whale-bones",
+      "col-poi-wickiup",
+      "col-poi-crashed-airship",
+      "col-poi-donkey-lady",
+      "col-poi-jesuit-missionary",
+      "col-poi-sperm-whale-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-hunting-requests",
+    "kind": "hunting-request",
+    "title": "Hunting Requests",
+    "collectibleIds": [
+      "col-hunt-request-1",
+      "col-hunt-perfect-squirrel-carcass",
+      "col-hunt-perfect-rabbit-carcass",
+      "col-hunt-request-2",
+      "col-hunt-perfect-cardinal-carcass",
+      "col-hunt-perfect-rat-carcass",
+      "col-hunt-perfect-woodpecker-carcass",
+      "col-hunt-request-3",
+      "col-hunt-perfect-chipmunk-carcass",
+      "col-hunt-perfect-oriole-carcass",
+      "col-hunt-perfect-robin-carcass",
+      "col-hunt-perfect-opossum-carcass",
+      "col-hunt-request-4",
+      "col-hunt-perfect-sparrow-carcass",
+      "col-hunt-perfect-songbird-carcass",
+      "col-hunt-perfect-toad-carcass",
+      "col-hunt-perfect-bullfrog-carcass",
+      "col-hunt-perfect-skunk-carcass",
+      "col-hunt-request-5",
+      "col-hunt-perfect-waxwing-carcass",
+      "col-hunt-perfect-bat-carcass",
+      "col-hunt-perfect-blue-jay-carcass",
+      "col-hunt-perfect-crow-carcass",
+      "col-hunt-perfect-beaver-carcass"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-exotics",
+    "kind": "exotic",
+    "title": "Duchesses and other Animals",
+    "collectibleIds": [
+      "col-exotic-p1-5-little-egret-plumes",
+      "col-exotic-p1-5-reddish-egret-plumes",
+      "col-exotic-p1-5-snowy-egret-plumes",
+      "col-exotic-p1-15-lady-of-the-night-orchid",
+      "col-exotic-p2-20-heron-plumes",
+      "col-exotic-p2-7-lady-slipper-orchid",
+      "col-exotic-p2-10-moccasin-orchid",
+      "col-exotic-p3-25-gator-eggs",
+      "col-exotic-p3-3-acunas-star-orchid",
+      "col-exotic-p3-7-cigar-orchid",
+      "col-exotic-p3-5-ghost-orchid",
+      "col-exotic-p4-30-spoonbill-plumes",
+      "col-exotic-p4-10-rat-tail-orchid",
+      "col-exotic-p4-5-spider-orchid",
+      "col-exotic-p4-5-night-scented-orchid",
+      "col-exotic-p5-5-clamshell-orchid",
+      "col-exotic-p5-5-queens-orchid",
+      "col-exotic-p5-10-sparrow-egg-orchid",
+      "col-exotic-p5-5-dragons-mouth-orchid"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "set-graves",
+    "kind": "other",
+    "title": "Companion Graves",
+    "collectibleIds": [
+      "col-grave-jenny-kirk",
+      "col-grave-davey-callander",
+      "col-grave-sean-macguire",
+      "col-grave-kieran-duffy",
+      "col-grave-hosea-matthews",
+      "col-grave-lenny-summers",
+      "col-grave-eagle-flies",
+      "col-grave-susan-grimshaw",
+      "col-grave-arthur-morgan"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

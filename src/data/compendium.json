@@ -1,1 +1,5252 @@
-[]
+[
+  {
+    "id": "comp-animal-american-alligator",
+    "kind": "animal",
+    "title": "American Alligator",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-alligator-small",
+    "kind": "animal",
+    "title": "American Alligator (small)",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-nine-banded-armadillo",
+    "kind": "animal",
+    "title": "Nine-banded Armadillo",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-badger",
+    "kind": "animal",
+    "title": "American Badger",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-little-brown-bat",
+    "kind": "animal",
+    "title": "Little Brown Bat",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-north-american-beaver",
+    "kind": "animal",
+    "title": "North American Beaver",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-bison",
+    "kind": "animal",
+    "title": "American Bison",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-black-bear",
+    "kind": "animal",
+    "title": "American Black Bear",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-blue-jay",
+    "kind": "animal",
+    "title": "Blue Jay",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-wild-boar",
+    "kind": "animal",
+    "title": "Wild Boar",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-red-footed-booby",
+    "kind": "animal",
+    "title": "Red-footed Booby",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-white-tailed-buck",
+    "kind": "animal",
+    "title": "White-tailed Buck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-angus-bull",
+    "kind": "animal",
+    "title": "Angus Bull",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-devon-bull",
+    "kind": "animal",
+    "title": "Devon Bull",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-hereford-bull",
+    "kind": "animal",
+    "title": "Hereford Bull",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-bullfrog",
+    "kind": "animal",
+    "title": "American Bullfrog",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-domestic-cat",
+    "kind": "animal",
+    "title": "American Domestic Cat",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-northern-cardinal",
+    "kind": "animal",
+    "title": "Northern Cardinal",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-dominique-chicken",
+    "kind": "animal",
+    "title": "Dominique Chicken",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-greater-prairie-chicken",
+    "kind": "animal",
+    "title": "Greater Prairie Chicken",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-java-chicken",
+    "kind": "animal",
+    "title": "Java Chicken",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-leghorn-chicken",
+    "kind": "animal",
+    "title": "Leghorn Chicken",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-chipmunk",
+    "kind": "animal",
+    "title": "Western Chipmunk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-california-condor",
+    "kind": "animal",
+    "title": "California Condor",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-double-crested-cormorant",
+    "kind": "animal",
+    "title": "Double-crested Cormorant",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-neotropic-cormorant",
+    "kind": "animal",
+    "title": "Neotropic Cormorant",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-cougar",
+    "kind": "animal",
+    "title": "Cougar",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-florida-cracker-cow",
+    "kind": "animal",
+    "title": "Florida Cracker Cow",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-california-valley-coyote",
+    "kind": "animal",
+    "title": "California Valley Coyote",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-cuban-land-crab",
+    "kind": "animal",
+    "title": "Cuban Land Crab",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-red-swamp-crayfish",
+    "kind": "animal",
+    "title": "Red Swamp Crayfish",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sandhill-crane",
+    "kind": "animal",
+    "title": "Sandhill Crane",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-whooping-crane",
+    "kind": "animal",
+    "title": "Whooping Crane",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-crow",
+    "kind": "animal",
+    "title": "American Crow",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-white-tailed-deer",
+    "kind": "animal",
+    "title": "White-tailed Deer",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-foxhound",
+    "kind": "animal",
+    "title": "American Foxhound",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-australian-shepard",
+    "kind": "animal",
+    "title": "Australian Shepard",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-bloodhound",
+    "kind": "animal",
+    "title": "Bloodhound",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-bluetick-coonhound",
+    "kind": "animal",
+    "title": "Bluetick Coonhound",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-border-collie",
+    "kind": "animal",
+    "title": "Border Collie",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-catahoula-cur",
+    "kind": "animal",
+    "title": "Catahoula Cur",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-chesapeake-bay-retriever",
+    "kind": "animal",
+    "title": "Chesapeake Bay Retriever",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-labrador-retriever",
+    "kind": "animal",
+    "title": "Labrador Retriever",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-mutt",
+    "kind": "animal",
+    "title": "Mutt",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-poodle",
+    "kind": "animal",
+    "title": "Poodle",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rufus",
+    "kind": "animal",
+    "title": "Rufus",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-siberian-husky",
+    "kind": "animal",
+    "title": "Siberian Husky",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-mule",
+    "kind": "animal",
+    "title": "Mule",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-standard-donkey",
+    "kind": "animal",
+    "title": "Standard Donkey",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-mallard-duck",
+    "kind": "animal",
+    "title": "Mallard Duck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-pekin-duck",
+    "kind": "animal",
+    "title": "Pekin Duck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-bald-eagle",
+    "kind": "animal",
+    "title": "Bald Eagle",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-golden-eagle",
+    "kind": "animal",
+    "title": "Golden Eagle",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-little-egret",
+    "kind": "animal",
+    "title": "Little Egret",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-reddish-egret",
+    "kind": "animal",
+    "title": "Reddish Egret",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-snowy-egret",
+    "kind": "animal",
+    "title": "Snowy Egret",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rocky-mountain-bull-elk",
+    "kind": "animal",
+    "title": "Rocky Mountain Bull Elk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rocky-mountain-cow-elk",
+    "kind": "animal",
+    "title": "Rocky Mountain Cow Elk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-gray-fox",
+    "kind": "animal",
+    "title": "American Gray Fox",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-red-fox",
+    "kind": "animal",
+    "title": "American Red Fox",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-silver-fox",
+    "kind": "animal",
+    "title": "Silver Fox",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-banded-gila-monster",
+    "kind": "animal",
+    "title": "Banded Gila Monster",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-alpine-goat",
+    "kind": "animal",
+    "title": "Alpine Goat",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-canada-goose",
+    "kind": "animal",
+    "title": "Canada Goose",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-grizzly-bear",
+    "kind": "animal",
+    "title": "Grizzly Bear",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-herring-gull",
+    "kind": "animal",
+    "title": "Herring Gull",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-laughing-gull",
+    "kind": "animal",
+    "title": "Laughing Gull",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-ring-billed-gull",
+    "kind": "animal",
+    "title": "Ring-billed Gull",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-ferruginous-hawk",
+    "kind": "animal",
+    "title": "Ferruginous Hawk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-red-tailed-hawk",
+    "kind": "animal",
+    "title": "Red-tailed Hawk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rough-legged-hawk",
+    "kind": "animal",
+    "title": "Rough-legged Hawk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-great-blue-heron",
+    "kind": "animal",
+    "title": "Great Blue Heron",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-tricolored-heron",
+    "kind": "animal",
+    "title": "Tricolored Heron",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-desert-iguana",
+    "kind": "animal",
+    "title": "Desert Iguana",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-green-iguana",
+    "kind": "animal",
+    "title": "Green Iguana",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-masai-lion",
+    "kind": "animal",
+    "title": "Masai Lion",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-common-loon",
+    "kind": "animal",
+    "title": "Common Loon",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-pacific-loon",
+    "kind": "animal",
+    "title": "Pacific Loon",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-yellow-billed-loon",
+    "kind": "animal",
+    "title": "Yellow-billed Loon",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-bull-moose",
+    "kind": "animal",
+    "title": "Western Bull Moose",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-moose",
+    "kind": "animal",
+    "title": "Western Moose",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-muskrat",
+    "kind": "animal",
+    "title": "American Muskrat",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-virginia-opossum",
+    "kind": "animal",
+    "title": "Virginia Opossum",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-baltimore-oriole",
+    "kind": "animal",
+    "title": "Baltimore Oriole",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-hooded-oriole",
+    "kind": "animal",
+    "title": "Hooded Oriole",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-california-horned-owl",
+    "kind": "animal",
+    "title": "California Horned Owl",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-coastal-horned-owl",
+    "kind": "animal",
+    "title": "Coastal Horned Owl",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-great-horned-owl",
+    "kind": "animal",
+    "title": "Great Horned Owl",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-angus-ox",
+    "kind": "animal",
+    "title": "Angus Ox",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-devon-ox",
+    "kind": "animal",
+    "title": "Devon Ox",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-florida-panther",
+    "kind": "animal",
+    "title": "Florida Panther",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-panther",
+    "kind": "animal",
+    "title": "Panther",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-carolina-parakeet",
+    "kind": "animal",
+    "title": "Carolina Parakeet",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-blue-and-yellow-macaw",
+    "kind": "animal",
+    "title": "Blue-and-yellow Macaw",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-great-green-macaw",
+    "kind": "animal",
+    "title": "Great green Macaw",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-scarlet-macaw",
+    "kind": "animal",
+    "title": "Scarlet Macaw",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-collared-peccary",
+    "kind": "animal",
+    "title": "Collared Peccary",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-white-pelican",
+    "kind": "animal",
+    "title": "American White Pelican",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-brown-pelican",
+    "kind": "animal",
+    "title": "Brown Pelican",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-chinese-ring-necked-pheasant",
+    "kind": "animal",
+    "title": "Chinese Ring-necked Pheasant",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-ring-necked-pheasant",
+    "kind": "animal",
+    "title": "Ring-necked Pheasant",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-berkshire-pig",
+    "kind": "animal",
+    "title": "Berkshire Pig",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-big-china-pig",
+    "kind": "animal",
+    "title": "Big China Pig",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-old-spot-pig",
+    "kind": "animal",
+    "title": "Old Spot Pig",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-band-tailed-pigeon",
+    "kind": "animal",
+    "title": "Band-tailed Pigeon",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rock-pigeon",
+    "kind": "animal",
+    "title": "Rock Pigeon",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-pronghorn-buck",
+    "kind": "animal",
+    "title": "American Pronghorn Buck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-pronghorn-doe",
+    "kind": "animal",
+    "title": "American Pronghorn Doe",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-baja-california-pronghorn-buck",
+    "kind": "animal",
+    "title": "Baja California Pronghorn Buck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-baja-california-pronghorn-doe",
+    "kind": "animal",
+    "title": "Baja California Pronghorn Doe",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sonoran-pronghorn-buck",
+    "kind": "animal",
+    "title": "Sonoran Pronghorn Buck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sonoran-pronghorn-doe",
+    "kind": "animal",
+    "title": "Sonoran Pronghorn Doe",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-california-quail",
+    "kind": "animal",
+    "title": "California Quail",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-black-tailed-jackrabbit",
+    "kind": "animal",
+    "title": "Black-tailed Jackrabbit",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-raccoon",
+    "kind": "animal",
+    "title": "American Raccoon",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-desert-bighorn-ram",
+    "kind": "animal",
+    "title": "Desert Bighorn Ram",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rocky-mountain-bighorn-ram",
+    "kind": "animal",
+    "title": "Rocky Mountain Bighorn Ram",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sierra-nevada-bighorn-ram",
+    "kind": "animal",
+    "title": "Sierra Nevada Bighorn Ram",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-black-rat",
+    "kind": "animal",
+    "title": "Black Rat",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-brown-rat",
+    "kind": "animal",
+    "title": "Brown Rat",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-raven",
+    "kind": "animal",
+    "title": "Western Raven",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-robin",
+    "kind": "animal",
+    "title": "American Robin",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-dominique-rooster",
+    "kind": "animal",
+    "title": "Dominique Rooster",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-java-rooster",
+    "kind": "animal",
+    "title": "Java Rooster",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-leghorn-rooster",
+    "kind": "animal",
+    "title": "Leghorn Rooster",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-desert-bighorn-sheep",
+    "kind": "animal",
+    "title": "Desert Bighorn Sheep",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-merino-sheep",
+    "kind": "animal",
+    "title": "Merino Sheep",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rocky-mountain-bighorn-sheep",
+    "kind": "animal",
+    "title": "Rocky Mountain Bighorn Sheep",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sierra-nevada-bighorn-sheep",
+    "kind": "animal",
+    "title": "Sierra Nevada Bighorn Sheep",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-striped-skunk",
+    "kind": "animal",
+    "title": "Striped Skunk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-black-tailed-rattlesnake",
+    "kind": "animal",
+    "title": "Black-tailed Rattlesnake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-cottonmouth-snake",
+    "kind": "animal",
+    "title": "Cottonmouth Snake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-diamondback-snake",
+    "kind": "animal",
+    "title": "Diamondback Snake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-fer-de-lance-snake",
+    "kind": "animal",
+    "title": "Fer-de-Lance Snake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-midland-water-snake",
+    "kind": "animal",
+    "title": "Midland Water Snake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-northern-copperhead",
+    "kind": "animal",
+    "title": "Northern Copperhead",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-northern-water-snake",
+    "kind": "animal",
+    "title": "Northern Water Snake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rainbow-boa",
+    "kind": "animal",
+    "title": "Rainbow Boa",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-red-boa",
+    "kind": "animal",
+    "title": "Red Boa",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-southern-copperhead",
+    "kind": "animal",
+    "title": "Southern Copperhead",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sunglow-boa",
+    "kind": "animal",
+    "title": "Sunglow Boa",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-timber-rattlesnake",
+    "kind": "animal",
+    "title": "Timber Rattlesnake",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-scarlet-tanager-songbird",
+    "kind": "animal",
+    "title": "Scarlet Tanager Songbird",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-tanager-songbird",
+    "kind": "animal",
+    "title": "Western Tanager Songbird",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-tree-sparrow",
+    "kind": "animal",
+    "title": "American Tree Sparrow",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-eurasian-tree-sparrow",
+    "kind": "animal",
+    "title": "Eurasian Tree Sparrow",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-golden-crowned-sparrow",
+    "kind": "animal",
+    "title": "Golden Crowned Sparrow",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-roseate-spoonbill",
+    "kind": "animal",
+    "title": "Roseate Spoonbill",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-american-red-squirrel",
+    "kind": "animal",
+    "title": "American Red Squirrel",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-black-squirrel",
+    "kind": "animal",
+    "title": "Black Squirrel",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-gray-squirrel",
+    "kind": "animal",
+    "title": "Western Gray Squirrel",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-sonoran-desert-toad",
+    "kind": "animal",
+    "title": "Sonoran Desert Toad",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-toad",
+    "kind": "animal",
+    "title": "Western Toad",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-eastern-wild-turkey",
+    "kind": "animal",
+    "title": "Eastern Wild Turkey",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-rio-grande-wild-turkey",
+    "kind": "animal",
+    "title": "Rio Grande Wild Turkey",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-alligator-snapping-turtle",
+    "kind": "animal",
+    "title": "Alligator Snapping Turtle",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-green-sea-turtle",
+    "kind": "animal",
+    "title": "Green Sea Turtle",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-eastern-turkey-vulture",
+    "kind": "animal",
+    "title": "Eastern Turkey Vulture",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-western-turkey-vulture",
+    "kind": "animal",
+    "title": "Western Turkey Vulture",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-cedar-waxwing",
+    "kind": "animal",
+    "title": "Cedar Waxwing",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-gray-wolf",
+    "kind": "animal",
+    "title": "Gray Wolf",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-timber-wolf",
+    "kind": "animal",
+    "title": "Timber Wolf",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-pileated-woodpecker",
+    "kind": "animal",
+    "title": "Pileated Woodpecker",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-animal-red-bellied-woodpecker",
+    "kind": "animal",
+    "title": "Red-bellied Woodpecker",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-bullgator",
+    "kind": "legendary-animal",
+    "title": "Legendary Bullgator",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-beaver",
+    "kind": "legendary-animal",
+    "title": "Legendary Beaver",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-tatanka-bison",
+    "kind": "legendary-animal",
+    "title": "Legendary Tatanka Bison",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-white-bison",
+    "kind": "legendary-animal",
+    "title": "Legendary White Bison",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-boar",
+    "kind": "legendary-animal",
+    "title": "Legendary Boar",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-buck",
+    "kind": "legendary-animal",
+    "title": "Legendary Buck",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-cougar",
+    "kind": "legendary-animal",
+    "title": "Legendary Cougar",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-coyote",
+    "kind": "legendary-animal",
+    "title": "Legendary Coyote",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-elk",
+    "kind": "legendary-animal",
+    "title": "Legendary Elk",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-fox",
+    "kind": "legendary-animal",
+    "title": "Legendary Fox",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-bharati-grizzly-bear",
+    "kind": "legendary-animal",
+    "title": "Legendary Bharati Grizzly Bear",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-moose",
+    "kind": "legendary-animal",
+    "title": "Legendary Moose",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-giaguaro-panther",
+    "kind": "legendary-animal",
+    "title": "Legendary Giaguaro Panther",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-pronghorn",
+    "kind": "legendary-animal",
+    "title": "Legendary Pronghorn",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-bighorn-ram",
+    "kind": "legendary-animal",
+    "title": "Legendary Bighorn Ram",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-animal-legendary-wolf",
+    "kind": "legendary-animal",
+    "title": "Legendary Wolf",
+    "sourceIds": [
+      "wiki-animals-redemption-2-species"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-animals-redemption-2-species"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-bluegill",
+    "kind": "fish",
+    "title": "Bluegill",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-bullhead-catfish",
+    "kind": "fish",
+    "title": "Bullhead Catfish",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-chain-pickerel",
+    "kind": "fish",
+    "title": "Chain Pickerel",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-channel-catfish",
+    "kind": "fish",
+    "title": "Channel Catfish",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-lake-sturgeon",
+    "kind": "fish",
+    "title": "Lake Sturgeon",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-largemouth-bass",
+    "kind": "fish",
+    "title": "Largemouth Bass",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-longnose-gar",
+    "kind": "fish",
+    "title": "Longnose Gar",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-muskie",
+    "kind": "fish",
+    "title": "Muskie",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-northern-pike",
+    "kind": "fish",
+    "title": "Northern Pike",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-perch",
+    "kind": "fish",
+    "title": "Perch",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-redfin-pickerel",
+    "kind": "fish",
+    "title": "Redfin Pickerel",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-rock-bass",
+    "kind": "fish",
+    "title": "Rock Bass",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-smallmouth-bass",
+    "kind": "fish",
+    "title": "Smallmouth Bass",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-sockeye-salmon",
+    "kind": "fish",
+    "title": "Sockeye Salmon",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-fish-steelhead-trout",
+    "kind": "fish",
+    "title": "Steelhead Trout",
+    "sourceIds": [
+      "wiki-fishing"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fishing"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-bluegill",
+    "kind": "legendary-fish",
+    "title": "Legendary Bluegill",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-bullhead-catfish",
+    "kind": "legendary-fish",
+    "title": "Legendary Bullhead Catfish",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-chain-pickerel",
+    "kind": "legendary-fish",
+    "title": "Legendary Chain Pickerel",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-lake-sturgeon",
+    "kind": "legendary-fish",
+    "title": "Legendary Lake Sturgeon",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-longnose-gar",
+    "kind": "legendary-fish",
+    "title": "Legendary Longnose Gar",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-muskie",
+    "kind": "legendary-fish",
+    "title": "Legendary Muskie",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-perch",
+    "kind": "legendary-fish",
+    "title": "Legendary Perch",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-smallmouth-bass",
+    "kind": "legendary-fish",
+    "title": "Legendary Smallmouth Bass",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-sockeye-salmon",
+    "kind": "legendary-fish",
+    "title": "Legendary Sockeye Salmon",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-steelhead-trout",
+    "kind": "legendary-fish",
+    "title": "Legendary Steelhead Trout",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-largemouth-bass",
+    "kind": "legendary-fish",
+    "title": "Legendary Largemouth Bass",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-redfin-pickerel",
+    "kind": "legendary-fish",
+    "title": "Legendary Redfin Pickerel",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-leg-fish-legendary-rock-bass",
+    "kind": "legendary-fish",
+    "title": "Legendary Rock Bass",
+    "sourceIds": [
+      "wiki-a-fisher-of-fish"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-fisher-of-fish"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-alaskan-ginseng",
+    "kind": "plant",
+    "title": "Alaskan Ginseng",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-american-ginseng",
+    "kind": "plant",
+    "title": "American Ginseng",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-burdock-root",
+    "kind": "plant",
+    "title": "Burdock Root",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-blackcurrant",
+    "kind": "plant",
+    "title": "Blackcurrant",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-common-bulrush",
+    "kind": "plant",
+    "title": "Common Bulrush",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-desert-sage",
+    "kind": "plant",
+    "title": "Desert Sage",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-english-mace",
+    "kind": "plant",
+    "title": "English Mace",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-golden-currant",
+    "kind": "plant",
+    "title": "Golden Currant",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-hummingbird-sage",
+    "kind": "plant",
+    "title": "Hummingbird Sage",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-indian-tobacco",
+    "kind": "plant",
+    "title": "Indian Tobacco",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-milkweed",
+    "kind": "plant",
+    "title": "Milkweed",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-oleander-sage",
+    "kind": "plant",
+    "title": "Oleander Sage",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-prairie-poppy",
+    "kind": "plant",
+    "title": "Prairie Poppy",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-red-sage",
+    "kind": "plant",
+    "title": "Red Sage",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-vanilla-flower",
+    "kind": "plant",
+    "title": "Vanilla Flower",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-violet-snowdrop",
+    "kind": "plant",
+    "title": "Violet Snowdrop",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-wild-carrot",
+    "kind": "plant",
+    "title": "Wild Carrot",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-wild-feverfew",
+    "kind": "plant",
+    "title": "Wild Feverfew",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-yarrow",
+    "kind": "plant",
+    "title": "Yarrow",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-blackberry",
+    "kind": "plant",
+    "title": "Blackberry",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-red-raspberry",
+    "kind": "plant",
+    "title": "Red Raspberry",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-evergreen-huckleberry",
+    "kind": "plant",
+    "title": "Evergreen Huckleberry",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-wintergreen-berry",
+    "kind": "plant",
+    "title": "Wintergreen Berry",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-bay-bolete",
+    "kind": "plant",
+    "title": "Bay Bolete",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-parasol-mushroom",
+    "kind": "plant",
+    "title": "Parasol Mushroom",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-chanterelles",
+    "kind": "plant",
+    "title": "Chanterelles",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-rams-head",
+    "kind": "plant",
+    "title": "Ram's Head",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-creeping-thyme",
+    "kind": "plant",
+    "title": "Creeping Thyme",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-oregano",
+    "kind": "plant",
+    "title": "Oregano",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-wild-mint",
+    "kind": "plant",
+    "title": "Wild Mint",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-acunas-star-orchid",
+    "kind": "plant",
+    "title": "Acuna's Star Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-cigar-orchid",
+    "kind": "plant",
+    "title": "Cigar Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-clamshell-orchid",
+    "kind": "plant",
+    "title": "Clamshell Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-dragons-mouth-orchid",
+    "kind": "plant",
+    "title": "Dragon's Mouth Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-ghost-orchid",
+    "kind": "plant",
+    "title": "Ghost Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-lady-of-the-night-orchid",
+    "kind": "plant",
+    "title": "Lady of the Night Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-lady-slipper-orchid",
+    "kind": "plant",
+    "title": "Lady Slipper Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-moccasin-orchid",
+    "kind": "plant",
+    "title": "Moccasin Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-night-scented-orchid",
+    "kind": "plant",
+    "title": "Night Scented Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-queens-orchid",
+    "kind": "plant",
+    "title": "Queen's Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-rat-tail-orchid",
+    "kind": "plant",
+    "title": "Rat Tail Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-sparrow-egg-orchid",
+    "kind": "plant",
+    "title": "Sparrow Egg Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-plant-spider-orchid",
+    "kind": "plant",
+    "title": "Spider Orchid",
+    "sourceIds": [
+      "wiki-plant-gathering"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-plant-gathering"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-cattleman-revolver",
+    "kind": "weapon",
+    "title": "Cattleman Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-grangers-revolver",
+    "kind": "weapon",
+    "title": "Granger's Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-flacos-revolver",
+    "kind": "weapon",
+    "title": "Flaco's Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-johns-cattleman-revolver",
+    "kind": "weapon",
+    "title": "John's Cattleman Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-double-action-revolver",
+    "kind": "weapon",
+    "title": "Double-Action Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-algernons-revolver",
+    "kind": "weapon",
+    "title": "Algernon's Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-micahs-revolver",
+    "kind": "weapon",
+    "title": "Micah's Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-high-roller-double-action-revolver",
+    "kind": "weapon",
+    "title": "High Roller Double-Action Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-schofield-revolver",
+    "kind": "weapon",
+    "title": "Schofield Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-calloways-revolver",
+    "kind": "weapon",
+    "title": "Calloway's Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-otis-millers-revolver",
+    "kind": "weapon",
+    "title": "Otis Miller's Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-lemat-revolver",
+    "kind": "weapon",
+    "title": "LeMat Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-volcanic-pistol",
+    "kind": "weapon",
+    "title": "Volcanic Pistol",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-semi-automatic-pistol",
+    "kind": "weapon",
+    "title": "Semi-Automatic Pistol",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-mauser-pistol",
+    "kind": "weapon",
+    "title": "Mauser Pistol",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-midnights-pistol",
+    "kind": "weapon",
+    "title": "Midnight's Pistol",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-m1899-pistol",
+    "kind": "weapon",
+    "title": "M1899 Pistol",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-carbine-repeater",
+    "kind": "weapon",
+    "title": "Carbine Repeater",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-lancaster-repeater",
+    "kind": "weapon",
+    "title": "Lancaster Repeater",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-litchfield-repeater",
+    "kind": "weapon",
+    "title": "Litchfield Repeater",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-evans-repeater",
+    "kind": "weapon",
+    "title": "Evans Repeater",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-varmint-rifle",
+    "kind": "weapon",
+    "title": "Varmint Rifle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-springfield-rifle",
+    "kind": "weapon",
+    "title": "Springfield Rifle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-bolt-action-rifle",
+    "kind": "weapon",
+    "title": "Bolt Action Rifle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-rolling-block-rifle",
+    "kind": "weapon",
+    "title": "Rolling Block Rifle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-rare-rolling-block-rifle",
+    "kind": "weapon",
+    "title": "Rare Rolling Block Rifle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-carcano-rifle",
+    "kind": "weapon",
+    "title": "Carcano Rifle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-sawed-off-shotgun",
+    "kind": "weapon",
+    "title": "Sawed-Off Shotgun",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-double-barreled-shotgun",
+    "kind": "weapon",
+    "title": "Double-Barreled Shotgun",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-rare-shotgun",
+    "kind": "weapon",
+    "title": "Rare Shotgun",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-pump-action-shotgun",
+    "kind": "weapon",
+    "title": "Pump-Action Shotgun",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-semi-auto-shotgun",
+    "kind": "weapon",
+    "title": "Semi-Auto Shotgun",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-repeating-shotgun",
+    "kind": "weapon",
+    "title": "Repeating Shotgun",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-fists",
+    "kind": "weapon",
+    "title": "Fists",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-machete",
+    "kind": "weapon",
+    "title": "Machete",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-broken-pirate-sword",
+    "kind": "weapon",
+    "title": "Broken Pirate Sword",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-hunting-knife",
+    "kind": "weapon",
+    "title": "Hunting Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-johns-knife",
+    "kind": "weapon",
+    "title": "John's Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-antler-knife",
+    "kind": "weapon",
+    "title": "Antler Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-civil-war-knife",
+    "kind": "weapon",
+    "title": "Civil War Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-jawbone-knife",
+    "kind": "weapon",
+    "title": "Jawbone Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-wide-blade-knife",
+    "kind": "weapon",
+    "title": "Wide-Blade Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-ornate-dagger",
+    "kind": "weapon",
+    "title": "Ornate Dagger",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-cleaver",
+    "kind": "weapon",
+    "title": "Cleaver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-hatchet",
+    "kind": "weapon",
+    "title": "Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-hewing-hatchet",
+    "kind": "weapon",
+    "title": "Hewing Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-stone-hatchet",
+    "kind": "weapon",
+    "title": "Stone Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-viking-hatchet",
+    "kind": "weapon",
+    "title": "Viking Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-hunter-hatchet",
+    "kind": "weapon",
+    "title": "Hunter Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-rusted-hunter-hatchet",
+    "kind": "weapon",
+    "title": "Rusted Hunter Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-double-bit-hatchet",
+    "kind": "weapon",
+    "title": "Double Bit Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-rusted-double-bit-hatchet",
+    "kind": "weapon",
+    "title": "Rusted Double Bit Hatchet",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-lasso",
+    "kind": "weapon",
+    "title": "Lasso",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-fire-bottle",
+    "kind": "weapon",
+    "title": "Fire Bottle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-volatile-fire-bottle",
+    "kind": "weapon",
+    "title": "Volatile Fire Bottle",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-dynamite",
+    "kind": "weapon",
+    "title": "Dynamite",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-volatile-dynamite",
+    "kind": "weapon",
+    "title": "Volatile Dynamite",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-throwing-knife",
+    "kind": "weapon",
+    "title": "Throwing Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-improved-throwing-knife",
+    "kind": "weapon",
+    "title": "Improved Throwing Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-poison-throwing-knife",
+    "kind": "weapon",
+    "title": "Poison Throwing Knife",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-tomahawk",
+    "kind": "weapon",
+    "title": "Tomahawk",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-improved-tomahawk",
+    "kind": "weapon",
+    "title": "Improved Tomahawk",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-homing-tomahawk",
+    "kind": "weapon",
+    "title": "Homing Tomahawk",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-ancient-tomahawk",
+    "kind": "weapon",
+    "title": "Ancient Tomahawk",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-bow",
+    "kind": "weapon",
+    "title": "Bow",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-weapon-navy-revolver",
+    "kind": "weapon",
+    "title": "Navy Revolver",
+    "sourceIds": [
+      "wiki-weapons-in-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-weapons-in-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-american-paint",
+    "kind": "horse",
+    "title": "American Paint",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-american-standardbred",
+    "kind": "horse",
+    "title": "American Standardbred",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-andalusian",
+    "kind": "horse",
+    "title": "Andalusian",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-appaloosa",
+    "kind": "horse",
+    "title": "Appaloosa",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-arabian",
+    "kind": "horse",
+    "title": "Arabian",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-ardennes",
+    "kind": "horse",
+    "title": "Ardennes",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-belgian-draft-horse",
+    "kind": "horse",
+    "title": "Belgian Draft Horse",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-dutch-warmblood",
+    "kind": "horse",
+    "title": "Dutch Warmblood",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-hungarian-half-bred",
+    "kind": "horse",
+    "title": "Hungarian Half-bred",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-kentucky-saddler",
+    "kind": "horse",
+    "title": "Kentucky Saddler",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-missouri-fox-trotter",
+    "kind": "horse",
+    "title": "Missouri Fox Trotter",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-morgan",
+    "kind": "horse",
+    "title": "Morgan",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-mustang",
+    "kind": "horse",
+    "title": "Mustang",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-nokota",
+    "kind": "horse",
+    "title": "Nokota",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-shire",
+    "kind": "horse",
+    "title": "Shire",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-standard-horse",
+    "kind": "horse",
+    "title": "Standard Horse",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-suffolk-punch",
+    "kind": "horse",
+    "title": "Suffolk Punch",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-tennessee-walker",
+    "kind": "horse",
+    "title": "Tennessee Walker",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-thoroughbred",
+    "kind": "horse",
+    "title": "Thoroughbred",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-horse-turkoman",
+    "kind": "horse",
+    "title": "Turkoman",
+    "sourceIds": [
+      "wiki-horse"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horse"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-gang-del-lobo-gang",
+    "kind": "gang",
+    "title": "Del Lobo Gang",
+    "sourceIds": [
+      "wiki-gangs-in-red-dead-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gangs-in-red-dead-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-gang-laramie-gang",
+    "kind": "gang",
+    "title": "Laramie Gang",
+    "sourceIds": [
+      "wiki-gangs-in-red-dead-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gangs-in-red-dead-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-gang-lemoyne-raiders",
+    "kind": "gang",
+    "title": "Lemoyne Raiders",
+    "sourceIds": [
+      "wiki-gangs-in-red-dead-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gangs-in-red-dead-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-gang-murfree-brood",
+    "kind": "gang",
+    "title": "Murfree Brood",
+    "sourceIds": [
+      "wiki-gangs-in-red-dead-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gangs-in-red-dead-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-gang-odriscoll-boys",
+    "kind": "gang",
+    "title": "O'Driscoll Boys",
+    "sourceIds": [
+      "wiki-gangs-in-red-dead-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gangs-in-red-dead-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-gang-skinner-brothers",
+    "kind": "gang",
+    "title": "Skinner Brothers",
+    "sourceIds": [
+      "wiki-gangs-in-red-dead-redemption-2"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gangs-in-red-dead-redemption-2"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-provisions-satchel",
+    "kind": "equipment",
+    "title": "Provisions Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-tonics-satchel",
+    "kind": "equipment",
+    "title": "Tonics Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-ingredients-satchel",
+    "kind": "equipment",
+    "title": "Ingredients Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-materials-satchel",
+    "kind": "equipment",
+    "title": "Materials Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-kit-satchel",
+    "kind": "equipment",
+    "title": "Kit Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-valuables-satchel",
+    "kind": "equipment",
+    "title": "Valuables Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "comp-equip-legend-of-the-east-satchel",
+    "kind": "equipment",
+    "title": "Legend of the East Satchel",
+    "sourceIds": [
+      "wiki-satchel"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-satchel"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

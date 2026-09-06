@@ -1,9 +1,24 @@
 import { Link } from 'react-router';
 import { activities, chapters, completionRequirements, itemRequests, missions, missables, treasures } from '@/data';
+import { Checkbox } from '@/components/Checkbox';
 import { ProgressBar } from '@/components/ProgressBar';
 import { overallCategories, percent, evaluateCompletionRequirement } from '@/services/progress';
-import { useAllEntityState, useAllMissionState, useAllTreasureState, useFavorites } from '@/hooks/useGuideState';
+import {
+  putEntityState,
+  useAllEntityState,
+  useAllMissionState,
+  useAllTreasureState,
+  useFavorites,
+} from '@/hooks/useGuideState';
 import { missionsForChapter } from '@/data';
+
+const COMPLETION_GROUPS: { id: string; label: string }[] = [
+  { id: 'missions-and-events', label: 'Missions and events' },
+  { id: 'collectibles', label: 'Collectibles' },
+  { id: 'compendium', label: 'Compendium' },
+  { id: 'player', label: 'Player' },
+  { id: 'miscellaneous', label: 'Miscellaneous' },
+];
 
 export default function ProgressPage() {
   const missionStates = useAllMissionState();
@@ -31,6 +46,8 @@ export default function ProgressPage() {
     if (f.entityType === 'treasure') return !tMap.get(f.entityId)?.completed;
     return !eMap.get(`${f.entityType}:${f.entityId}`)?.completed;
   });
+  const required = completionRequirements.filter((r) => r.countsToward100);
+  const requiredDone = required.filter((r) => evaluateCompletionRequirement(r, { completedEntityIds }).complete).length;
 
   return (
     <main className="page stack">
@@ -57,17 +74,37 @@ export default function ProgressPage() {
       </section>
       <section>
         <h2>100% Total Completion</h2>
-        {completionRequirements.length === 0 ? (
-          <p style={{ color: 'var(--ink-muted)' }}>
-            Requirement rows are modelled in the dataset but not researched yet. This section will
-            list official 100% criteria when that data is filled in.
-          </p>
-        ) : (
-          completionRequirements.map((req) => {
-            const r = evaluateCompletionRequirement(req, { completedEntityIds });
-            return <ProgressBar key={req.id} done={r.done} total={r.total} label={req.title} />;
-          })
-        )}
+        <ProgressBar done={requiredDone} total={required.length} label="Official 100% criteria" />
+        {COMPLETION_GROUPS.map((group) => {
+          const rows = required.filter((r) => r.category === group.id);
+          if (!rows.length) return null;
+          const done = rows.filter((r) => evaluateCompletionRequirement(r, { completedEntityIds }).complete).length;
+          return (
+            <div key={group.id} className="journal-panel" style={{ padding: 12, marginBottom: 8 }}>
+              <h3>
+                {group.label} ({done}/{rows.length})
+              </h3>
+              {rows.map((req) => {
+                const complete = evaluateCompletionRequirement(req, { completedEntityIds }).complete;
+                return (
+                  <Checkbox
+                    key={req.id}
+                    checked={complete}
+                    label={req.title}
+                    onChange={(next) => {
+                      void putEntityState({
+                        entityType: 'completionRequirement',
+                        entityId: req.id,
+                        completed: next,
+                        completedAt: next ? new Date().toISOString() : undefined,
+                      });
+                    }}
+                  />
+                );
+              })}
+            </div>
+          );
+        })}
       </section>
       <section>
         <h2>To Do / Saved</h2>

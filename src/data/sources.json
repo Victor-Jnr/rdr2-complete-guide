@@ -1279,5 +1279,375 @@
     "verificationStatus": "cross-checked",
     "accessedAt": "2026-09-06",
     "publicAttribution": true
+  },
+  {
+    "id": "wiki-dinosaur-bones",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Dinosaur Bones",
+    "url": "https://reddead.fandom.com/wiki/Dinosaur_Bones",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-rock-carvings",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Rock Carvings",
+    "url": "https://reddead.fandom.com/wiki/Rock_Carvings",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-dreamcatchers",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Dreamcatchers",
+    "url": "https://reddead.fandom.com/wiki/Dreamcatchers",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bandit-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bandit Challenges",
+    "url": "https://reddead.fandom.com/wiki/Bandit_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-explorer-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Explorer Challenges",
+    "url": "https://reddead.fandom.com/wiki/Explorer_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-gambler-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Gambler Challenges",
+    "url": "https://reddead.fandom.com/wiki/Gambler_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-herbalist-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Herbalist Challenges",
+    "url": "https://reddead.fandom.com/wiki/Herbalist_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-horseman-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Horseman Challenges",
+    "url": "https://reddead.fandom.com/wiki/Horseman_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-master-hunter-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Master Hunter Challenges",
+    "url": "https://reddead.fandom.com/wiki/Master_Hunter_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-sharpshooter-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Sharpshooter Challenges",
+    "url": "https://reddead.fandom.com/wiki/Sharpshooter_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-survivalist-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Survivalist Challenges",
+    "url": "https://reddead.fandom.com/wiki/Survivalist_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-weapons-expert-challenges",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Weapons Expert Challenges",
+    "url": "https://reddead.fandom.com/wiki/Weapons_Expert_Challenges",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-100-completion-rdr2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "100% Completion (RDR2)",
+    "url": "https://reddead.fandom.com/wiki/100%25_Completion_(RDR2)",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-a-better-world",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "A Better World, A New Friend",
+    "url": "https://reddead.fandom.com/wiki/A_Better_World%2C_A_New_Friend",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-a-fisher-of-fish",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "A Fisher of Fish",
+    "url": "https://reddead.fandom.com/wiki/A_Fisher_of_Fish",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-prominent-americans-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Prominent Americans Card Set",
+    "url": "https://reddead.fandom.com/wiki/Prominent_Americans_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-world-champions-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "World Champions Card Set",
+    "url": "https://reddead.fandom.com/wiki/World_Champions_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-famous-gunslingers-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Famous Gunslingers Card Set",
+    "url": "https://reddead.fandom.com/wiki/Famous_Gunslingers_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-artists-writers-and-poets-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Artists, Writers, & Poets Card Set",
+    "url": "https://reddead.fandom.com/wiki/Artists%2C_Writers%2C_%26_Poets_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-vistas-of-america-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Vistas of America Card Set",
+    "url": "https://reddead.fandom.com/wiki/Vistas_of_America_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-gems-of-beauty-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Gems of Beauty Card Set",
+    "url": "https://reddead.fandom.com/wiki/Gems_of_Beauty_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-flora-of-america-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Flora of America Card Set",
+    "url": "https://reddead.fandom.com/wiki/Flora_of_America_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-fauna-of-america-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Fauna of America Card Set",
+    "url": "https://reddead.fandom.com/wiki/Fauna_of_America_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-stars-of-the-stage-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Stars of the Stage Card Set",
+    "url": "https://reddead.fandom.com/wiki/Stars_of_the_Stage_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-marvels-of-travel-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Marvels of Travel Card Set",
+    "url": "https://reddead.fandom.com/wiki/Marvels_of_Travel_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-amazing-inventions-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Amazing Inventions Card Set",
+    "url": "https://reddead.fandom.com/wiki/Amazing_Inventions_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-horses-card-set",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Horses Card Set",
+    "url": "https://reddead.fandom.com/wiki/Horses_Card_Set",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-point-of-interest",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Point of Interest",
+    "url": "https://reddead.fandom.com/wiki/Point_of_Interest",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-duchesses-and-other-animals",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Duchesses and other Animals",
+    "url": "https://reddead.fandom.com/wiki/Duchesses_and_other_Animals",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-paying-respects",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Paying Respects",
+    "url": "https://reddead.fandom.com/wiki/Paying_Respects",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-animals-redemption-2-species",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Animals/Redemption 2 species",
+    "url": "https://reddead.fandom.com/wiki/Animals%2FRedemption_2_species",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-fishing",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Fishing",
+    "url": "https://reddead.fandom.com/wiki/Fishing",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-weapons-in-redemption-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Weapons in Redemption 2",
+    "url": "https://reddead.fandom.com/wiki/Weapons_in_Redemption_2",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-horse",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Horse",
+    "url": "https://reddead.fandom.com/wiki/Horse",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-gangs-in-red-dead-redemption-2",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Gangs in Red Dead Redemption 2",
+    "url": "https://reddead.fandom.com/wiki/Gangs_in_Red_Dead_Redemption_2",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-satchel",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Satchel",
+    "url": "https://reddead.fandom.com/wiki/Satchel",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-plant-gathering",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Plant Gathering in Redemption 2",
+    "url": "https://reddead.fandom.com/wiki/Plant_Gathering_in_Redemption_2",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true
   }
 ]

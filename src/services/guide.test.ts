@@ -26,6 +26,14 @@ describe('mapCoords', () => {
     expect(back.y).toBeCloseTo(c.y);
     expect(isNormalized(c)).toBe(true);
   });
+
+  it('places zoom 0 at one tile so the whole map fits', () => {
+    const [lat, lng] = toLeaflet({ x: 1, y: 1 }, manifest);
+    expect(lng).toBeCloseTo(manifest.width / 2 ** manifest.maxNativeZoom);
+    expect(-lat).toBeCloseTo(manifest.height / 2 ** manifest.maxNativeZoom);
+    expect(lng).toBeLessThanOrEqual(manifest.tileSize);
+    expect(-lat).toBeLessThanOrEqual(manifest.tileSize);
+  });
 });
 
 describe('progress', () => {

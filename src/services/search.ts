@@ -1,7 +1,10 @@
 import MiniSearch from 'minisearch';
 import {
   activities,
+  challenges,
   chapters,
+  collectibles,
+  compendium,
   itemRequests,
   locations,
   missions,
@@ -9,7 +12,17 @@ import {
   treasures,
 } from '@/data';
 
-export type SearchKind = 'mission' | 'treasure' | 'location' | 'missable' | 'activity' | 'item-request' | 'chapter';
+export type SearchKind =
+  | 'mission'
+  | 'treasure'
+  | 'location'
+  | 'missable'
+  | 'activity'
+  | 'item-request'
+  | 'chapter'
+  | 'collectible'
+  | 'challenge'
+  | 'compendium';
 
 export interface SearchHit {
   id: string;
@@ -119,6 +132,36 @@ function docs(): Doc[] {
       href: `/journey/chapter/${i.availability.displayChapterId}`,
     });
   }
+  for (const c of collectibles) {
+    out.push({
+      id: `collectible:${c.id}`,
+      kind: 'collectible',
+      title: c.title,
+      subtitle: c.kind,
+      body: c.kind,
+      href: '/progress',
+    });
+  }
+  for (const c of challenges) {
+    out.push({
+      id: `challenge:${c.id}`,
+      kind: 'challenge',
+      title: c.title,
+      subtitle: c.category,
+      body: [c.category, ...c.ranks.map((r) => r.description)].join(' '),
+      href: '/progress',
+    });
+  }
+  for (const c of compendium) {
+    out.push({
+      id: `compendium:${c.id}`,
+      kind: 'compendium',
+      title: c.title,
+      subtitle: c.kind,
+      body: c.kind,
+      href: '/progress',
+    });
+  }
   return out;
 }
 
@@ -156,5 +199,8 @@ export const SEARCH_GROUP_ORDER: SearchKind[] = [
   'missable',
   'activity',
   'item-request',
+  'collectible',
+  'challenge',
+  'compendium',
   'chapter',
 ];

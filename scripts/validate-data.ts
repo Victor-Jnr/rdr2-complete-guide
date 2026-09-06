@@ -73,6 +73,12 @@ const sources = load<Source[]>('sources.json');
 const completionRequirements = load<{ id: string; entityIds?: string[]; research: Research }[]>(
   'completionRequirements.json',
 );
+const collectibles = load<{ id: string; sourceIds?: string[]; research?: Research }[]>('collectibles.json');
+const collectibleSets = load<{ id: string; collectibleIds: string[]; research?: Research }[]>('collectibleSets.json');
+const challenges = load<{ id: string; sourceIds?: string[]; research?: Research; ranks?: { id: string; research?: Research }[] }[]>(
+  'challenges.json',
+);
+const compendium = load<{ id: string; sourceIds?: string[]; research?: Research }[]>('compendium.json');
 
 const errors: string[] = [];
 const usedSources = new Set<string>();
@@ -127,6 +133,14 @@ checkIds('activity', activities.map((a) => a.id));
 checkIds('itemRequest', itemRequests.map((a) => a.id));
 checkIds('missable', missables.map((m) => m.id));
 checkIds('mapMarker', mapMarkers.map((m) => m.id));
+checkIds('collectible', collectibles.map((c) => c.id));
+checkIds('collectibleSet', collectibleSets.map((c) => c.id));
+checkIds('challenge', challenges.map((c) => c.id));
+checkIds('compendium', compendium.map((c) => c.id));
+checkIds(
+  'challengeRank',
+  challenges.flatMap((c) => c.ranks?.map((r) => r.id) ?? []),
+);
 
 const wikiHome = /^https:\/\/reddead\.fandom\.com\/?$/i;
 
@@ -221,6 +235,26 @@ for (const req of completionRequirements) {
       fail(`completionRequirement ${req.id} unknown entity ${id}`);
     }
   }
+}
+
+for (const c of collectibles) {
+  c.sourceIds?.forEach((id) => checkSourceId(id, `collectible ${c.id}`));
+  collectResearch(c.research);
+}
+for (const s of collectibleSets) {
+  collectResearch(s.research);
+  for (const id of s.collectibleIds) {
+    if (!collectibles.some((c) => c.id === id)) fail(`collectibleSet ${s.id} unknown collectible ${id}`);
+  }
+}
+for (const c of challenges) {
+  c.sourceIds?.forEach((id) => checkSourceId(id, `challenge ${c.id}`));
+  collectResearch(c.research);
+  for (const r of c.ranks ?? []) collectResearch(r.research);
+}
+for (const c of compendium) {
+  c.sourceIds?.forEach((id) => checkSourceId(id, `compendium ${c.id}`));
+  collectResearch(c.research);
 }
 
 for (const s of sources) {

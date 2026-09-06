@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [007](007-wiki-data-and-map-zoom.md) | Wiki dataset fill and map overview zoom |
 | [006](006-android-and-verification.md) | Android shell, PWA verify, and v1 close-out |
 | [005](005-search-progress-tests.md) | Search and progress tests |
 | [004](004-native-map-tiles.md) | Native-resolution map tile pyramid |

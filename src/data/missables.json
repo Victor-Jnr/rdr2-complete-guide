@@ -1,1 +1,1275 @@
-[]
+[
+  {
+    "id": "missable-the-first-shall-be-last",
+    "title": "The First Shall Be Last",
+    "category": "story",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "notes": "Sean’s rescue is available in Chapter 2; do not delay indefinitely."
+    },
+    "relatedMissionIds": [
+      "mission-the-first-shall-be-last"
+    ],
+    "description": "Complete Sean’s rescue during Chapter 2",
+    "sourceIds": [
+      "wiki-the-first-shall-be-last"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-the-first-shall-be-last"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-good-honest-snake-oil",
+    "title": "Good, Honest, Snake Oil",
+    "category": "story",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-good-honest-snake-oil"
+    ],
+    "description": "Available from Valentine in Chapter 2 after Polite Society",
+    "sourceIds": [
+      "wiki-good-honest-snake-oil"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-good-honest-snake-oil"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-we-loved-once-and-true-i",
+    "title": "We Loved Once and True I",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-we-loved-once-and-true-i"
+    ],
+    "description": "Read Mary’s letter and follow up during Chapter 2",
+    "sourceIds": [
+      "wiki-we-loved-once-and-true"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-we-loved-once-and-true"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-we-loved-once-and-true-ii",
+    "title": "We Loved Once and True II",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-we-loved-once-and-true-ii"
+    ],
+    "description": "Meet Mary in Valentine during Chapter 2",
+    "sourceIds": [
+      "wiki-we-loved-once-and-true"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-we-loved-once-and-true"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-we-loved-once-and-true-iii",
+    "title": "We Loved Once and True III",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-we-loved-once-and-true-iii"
+    ],
+    "description": "Optional follow-up; complete while Mary’s strand is available",
+    "sourceIds": [
+      "wiki-we-loved-once-and-true-iii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-we-loved-once-and-true-iii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-money-lending-and-other-sins-i",
+    "title": "Money Lending and Other Sins I",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-i"
+    ],
+    "description": "Strauss’s Chapter 2 debt collections should be finished before leaving the chapter",
+    "sourceIds": [
+      "wiki-money-lending-i-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-i-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-money-lending-and-other-sins-ii",
+    "title": "Money Lending and Other Sins II",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-ii"
+    ],
+    "description": "Finish remaining Chapter 2 debtors before leaving Horseshoe Overlook",
+    "sourceIds": [
+      "wiki-money-lending-i-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-i-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-money-lending-and-other-sins-iii",
+    "title": "Money Lending and Other Sins III",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-iii"
+    ],
+    "description": "Complete before leaving Chapter 2",
+    "sourceIds": [
+      "wiki-money-lending-i-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-i-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-help-a-brother-out",
+    "title": "Help a Brother Out",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "relatedMissionIds": [
+      "mission-help-a-brother-out"
+    ],
+    "description": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-help-a-brother-out"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-help-a-brother-out"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-brothers-and-sisters-one-and-all",
+    "title": "Brothers and Sisters, One and All",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "relatedMissionIds": [
+      "mission-brothers-and-sisters-one-and-all"
+    ],
+    "description": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-brothers-and-sisters-one-and-all"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-brothers-and-sisters-one-and-all"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-fatherhood-and-other-dreams",
+    "title": "Fatherhood and Other Dreams",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "relatedMissionIds": [
+      "mission-fatherhood-and-other-dreams"
+    ],
+    "description": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-fatherhood-and-other-dreams"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fatherhood-and-other-dreams"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-american-fathers-i",
+    "title": "American Fathers I",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "relatedMissionIds": [
+      "mission-american-fathers-i"
+    ],
+    "description": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-american-fathers-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-american-fathers-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-american-fathers-ii",
+    "title": "American Fathers II",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "relatedMissionIds": [
+      "mission-american-fathers-ii"
+    ],
+    "description": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-american-fathers-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-american-fathers-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-money-lending-and-other-sins-v",
+    "title": "Money Lending and Other Sins V",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-4",
+      "availableChapterIds": [
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-4",
+      "latestChapterId": "chapter-4"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-v"
+    ],
+    "description": "Finish during chapter 4 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-v"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-v"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-archeology-for-beginners",
+    "title": "Archeology for Beginners",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-archeology-for-beginners"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-archeology-for-beginners"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-archeology-for-beginners"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-honor-amongst-thieves",
+    "title": "Honor, Amongst Thieves",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-honor-amongst-thieves"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-honor-amongst-thieves"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-honor-amongst-thieves"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-money-lending-and-other-sins-vi",
+    "title": "Money Lending and Other Sins VI",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-vi"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-vi"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-vi"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-money-lending-and-other-sins-vii",
+    "title": "Money Lending and Other Sins VII",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-vii"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-vii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-vii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-do-not-seek-absolution-i",
+    "title": "Do Not Seek Absolution I",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-do-not-seek-absolution-i"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-do-not-seek-absolution-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-do-not-seek-absolution-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-do-not-seek-absolution-ii",
+    "title": "Do Not Seek Absolution II",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-do-not-seek-absolution-ii"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-do-not-seek-absolution-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-do-not-seek-absolution-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-of-men-and-angels-i",
+    "title": "Of Men and Angels I",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-of-men-and-angels-i"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-of-men-and-angels-i"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-of-men-and-angels-i"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-of-men-and-angels-ii",
+    "title": "Of Men and Angels II",
+    "category": "honor-mission",
+    "availability": {
+      "displayChapterId": "chapter-6",
+      "availableChapterIds": [
+        "chapter-6"
+      ],
+      "earliestChapterId": "chapter-6",
+      "latestChapterId": "chapter-6"
+    },
+    "relatedMissionIds": [
+      "mission-of-men-and-angels-ii"
+    ],
+    "description": "Finish during chapter 6 if you do not want to miss it",
+    "sourceIds": [
+      "wiki-of-men-and-angels-ii"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-of-men-and-angels-ii"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-javier-oleander-sage-0",
+    "title": "Oleander Sage for Javier",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Javier is sitting at the dominoes table, poisoning his knives. Reward: Poison Throwing Knives",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-mary-beth-fountain-pen-0",
+    "title": "Fountain Pen for Mary-Beth",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Mary-Beth is writing in her journal near her bed. Reward: Ring",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-pearson-naval-compass-0",
+    "title": "Naval Compass for Pearson",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 2PM"
+        }
+      ]
+    },
+    "description": "While playing poker with him. Reward: Guarma Rum",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-jack-comic-book-0",
+    "title": "Comic Book for Jack",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "During the mission \"A Fisher of Men\". Reward: Chocolate Bar",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-jack-thimble-0",
+    "title": "Thimble for Jack",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "After the mission \"A Fisher of Men\". Jack goes to talk to Arthur in front of Dutch's tent. Reward: Jack's Drawing UI",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-abigail-5-0",
+    "title": "$5 for Abigail",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "After the mission \"A Fisher of Men\". Abigail and Jack are in their tent. Reward: Honor",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-tilly-necklace-0",
+    "title": "Necklace for Tilly",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "While playing dominoes with her. Reward: 2 Health Cures",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-sadie-harmonica-0",
+    "title": "Harmonica for Sadie",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "During the mission \"Further Questions of Female Suffrage\". Reward: Gun Oil",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-hosea-2-american-ginseng-0",
+    "title": "2 American Ginseng for Hosea",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Hosea is sitting at a table in the middle of the camp, preparing medicines. Reward: Potent Health Cure",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-molly-pocket-mirror-0",
+    "title": "Pocket Mirror for Molly",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Molly goes to talk to Arthur in front of Dutch's tent. Reward: Cigar",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-kieran-2-burdock-roots-0",
+    "title": "2 Burdock Roots for Kieran",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "12PM - 6PM"
+        }
+      ]
+    },
+    "description": "Kieran is grooming a horse. Reward: Horse Care Items:",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-sean-kentucky-bourbon-0",
+    "title": "Kentucky Bourbon for Sean",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 6PM"
+        }
+      ]
+    },
+    "description": "Sean is making firebombs at a table behind the campfire tent. Reward: Fire Bottles",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-bill-hair-pomade-0",
+    "title": "Hair Pomade for Bill",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Bill asks Arthur while sitting in front of his tent. Reward: Repeater Cartridges - High Velocity",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-charles-moonshine-0",
+    "title": "Moonshine for Charles (1)",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Charles is preparing arrows. Reward: 1st Request: Fire Arrows 2nd Request: Poison Arrows",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-charles-oleander-sage-1",
+    "title": "Oleander Sage for Charles (2)",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Charles is preparing arrows. Reward: 1st Request: Fire Arrows 2nd Request: Poison Arrows",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-dutch-pipe-0",
+    "title": "Pipe for Dutch",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Dutch is smoking in front of his tent. Reward: Spurs UI",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-hosea-the-case-of-the-shrew-in-the-fog-book-0",
+    "title": "The Case of the Shrew in the Fog Book for Hosea",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "When Arthur reads “The Deceitful German” in Hosea and Bill's tent. Reward: Predator Bait",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-susan-any-2-seasoning-herbs-0",
+    "title": "Any 2 Seasoning Herbs for Susan",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Susan goes to talk to Arthur in front of Dutch's tent. Reward: Potent Miracle Tonic",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-pearson-rabbit-carcass-0",
+    "title": "Rabbit Carcass for Pearson",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 2PM"
+        }
+      ]
+    },
+    "description": "Pearson is preparing food while taking sips of his beer (very difficult to trigger) . Reward: Scout Jacket UI",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-lenny-pocket-watch-0",
+    "title": "Pocket Watch for Lenny",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "chapter-2",
+      "availableChapterIds": [
+        "chapter-2",
+        "chapter-3",
+        "chapter-4"
+      ],
+      "earliestChapterId": "chapter-2",
+      "latestChapterId": "chapter-4",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8PM - 3AM"
+        }
+      ]
+    },
+    "description": "Lenny is sitting by the campfire, talking about his father's watch. Reward: Dynamite",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-charles-eagle-feathers-0",
+    "title": "Eagle Feathers for Charles",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Charles is hammering nails into the newly built barn. Reward: Horse Reviver",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "missable-item-uncle-home-remedy-ingredients-0",
+    "title": "Home Remedy Ingredients for Uncle",
+    "category": "item-request",
+    "availability": {
+      "displayChapterId": "epilogue-2",
+      "availableChapterIds": [
+        "epilogue-2"
+      ],
+      "earliestChapterId": "epilogue-2",
+      "latestChapterId": "epilogue-2",
+      "requirements": [
+        {
+          "kind": "time-of-day",
+          "window": "8AM - 8PM"
+        }
+      ]
+    },
+    "description": "Uncle comes to ask John. Reward: Clothing:",
+    "sourceIds": [
+      "wiki-companion-item-requests"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-companion-item-requests"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  }
+]

@@ -103,8 +103,9 @@ export function evaluateCompletionRequirement(
     const total = req.entityIds.length;
     return { done, total, complete: done >= total };
   }
-  const total = req.targetCount ?? 0;
-  return { done: 0, total, complete: total === 0 };
+  const total = req.targetCount ?? 1;
+  const done = context.completedEntityIds.has(req.id) ? total : 0;
+  return { done, total, complete: done >= total };
 }
 
 export function percent(done: number, total: number): number {

@@ -22,7 +22,7 @@ export default function MapPage() {
     });
   }, [all, type, focusId]);
 
-  const height = typeof window === 'undefined' ? 420 : Math.max(420, window.innerHeight * 0.55);
+  const height = typeof window === 'undefined' ? 520 : Math.max(520, window.innerHeight - 200);
 
   return (
     <main className="page stack">

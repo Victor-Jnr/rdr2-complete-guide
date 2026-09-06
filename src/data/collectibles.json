@@ -1,1 +1,4610 @@
-[]
+[
+  {
+    "id": "col-card-prominent-americans-card-set-president-fisher",
+    "kind": "cigarette-card",
+    "title": "President Fisher (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-president-hardin",
+    "kind": "cigarette-card",
+    "title": "President Hardin (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-lillian-powell",
+    "kind": "cigarette-card",
+    "title": "Lillian Powell (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-leviticus-cornwall",
+    "kind": "cigarette-card",
+    "title": "Leviticus Cornwall (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-jd-mcknight",
+    "kind": "cigarette-card",
+    "title": "JD McKnight (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-luther-covington",
+    "kind": "cigarette-card",
+    "title": "Luther Covington (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-harvey-griggs",
+    "kind": "cigarette-card",
+    "title": "Harvey Griggs (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-henrietta-beatrice-woods",
+    "kind": "cigarette-card",
+    "title": "Henrietta Beatrice Woods (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-general-quincy-harris",
+    "kind": "cigarette-card",
+    "title": "General Quincy Harris (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-general-cornelius-palmer",
+    "kind": "cigarette-card",
+    "title": "General Cornelius Palmer (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-senator-thaddeus-waxman",
+    "kind": "cigarette-card",
+    "title": "Senator Thaddeus Waxman (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-prominent-americans-card-set-president-alfred-macalister",
+    "kind": "cigarette-card",
+    "title": "President Alfred MacAlister (Prominent Americans Card Set)",
+    "sourceIds": [
+      "wiki-prominent-americans-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-prominent-americans-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-prominent-americans"
+  },
+  {
+    "id": "col-card-world-champions-card-set-greco-roman-wrestler-percy-wood",
+    "kind": "cigarette-card",
+    "title": "Greco Roman Wrestler - Percy Wood (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-billiards-edwin-a-rowe",
+    "kind": "cigarette-card",
+    "title": "Billiards - Edwin A. Rowe (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-pugilist-theobaud-getzin",
+    "kind": "cigarette-card",
+    "title": "Pugilist - Theobaud Getzin (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-oarsman-ht-slocum",
+    "kind": "cigarette-card",
+    "title": "Oarsman - H.T. Slocum (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-cyclist-rs-harradon",
+    "kind": "cigarette-card",
+    "title": "Cyclist - R.S. Harradon (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-walker-ed-ewing",
+    "kind": "cigarette-card",
+    "title": "Walker - E.D. Ewing (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-lawn-tennis-patsey-hill",
+    "kind": "cigarette-card",
+    "title": "Lawn Tennis - Patsey Hill (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-weightlifter-william-sleicher",
+    "kind": "cigarette-card",
+    "title": "Weightlifter - William Sleicher (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-pigeon-shooting-edwin-singerly",
+    "kind": "cigarette-card",
+    "title": "Pigeon Shooting - Edwin Singerly (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-skater-felix-hawley",
+    "kind": "cigarette-card",
+    "title": "Skater - Felix Hawley (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-hammer-thrower-capt-jack-page",
+    "kind": "cigarette-card",
+    "title": "Hammer Thrower - Capt. Jack Page (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-world-champions-card-set-swinger-axel-mccormack",
+    "kind": "cigarette-card",
+    "title": "Swinger - Axel McCormack (World Champions Card Set)",
+    "sourceIds": [
+      "wiki-world-champions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-world-champions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-world-champions"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-frank-heck",
+    "kind": "cigarette-card",
+    "title": "Frank Heck (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-otis-miller-boys",
+    "kind": "cigarette-card",
+    "title": "Otis Miller Boys (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-jack-hall-gang",
+    "kind": "cigarette-card",
+    "title": "Jack Hall Gang (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-butcher-brothers",
+    "kind": "cigarette-card",
+    "title": "Butcher Brothers (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-flaco-hernandez",
+    "kind": "cigarette-card",
+    "title": "Flaco Hernandez (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-slim-grant",
+    "kind": "cigarette-card",
+    "title": "Slim Grant (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-landon-ricketts",
+    "kind": "cigarette-card",
+    "title": "Landon Ricketts (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-black-belle",
+    "kind": "cigarette-card",
+    "title": "Black Belle (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-billy-midnight",
+    "kind": "cigarette-card",
+    "title": "Billy Midnight (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-emmet-granger",
+    "kind": "cigarette-card",
+    "title": "Emmet Granger (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-jim-boy-calloway",
+    "kind": "cigarette-card",
+    "title": "Jim \"Boy\" Calloway (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-famous-gunslingers-card-set-bart-love",
+    "kind": "cigarette-card",
+    "title": "Bart Love (Famous Gunslingers Card Set)",
+    "sourceIds": [
+      "wiki-famous-gunslingers-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-famous-gunslingers-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-famous-gunslingers"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-edith-corinne",
+    "kind": "cigarette-card",
+    "title": "Edith Corinne (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-elsie-rose",
+    "kind": "cigarette-card",
+    "title": "Elsie Rose (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-wg-hoyt",
+    "kind": "cigarette-card",
+    "title": "W.G. Hoyt (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-aldous-bramley",
+    "kind": "cigarette-card",
+    "title": "Aldous Bramley (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-preston-t-stephenson",
+    "kind": "cigarette-card",
+    "title": "Preston T. Stephenson (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-evelyn-miller",
+    "kind": "cigarette-card",
+    "title": "Evelyn Miller (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-slick-hutton",
+    "kind": "cigarette-card",
+    "title": "Slick Hutton (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-laurence-carson",
+    "kind": "cigarette-card",
+    "title": "Laurence Carson (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-miss-maud-delancey",
+    "kind": "cigarette-card",
+    "title": "Miss Maud Delancey (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-charles-ch-tenay",
+    "kind": "cigarette-card",
+    "title": "Charles Châtenay (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-george-dixie",
+    "kind": "cigarette-card",
+    "title": "George Dixie (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-artists-writers-and-poets-card-set-richard-mccullough",
+    "kind": "cigarette-card",
+    "title": "Richard McCullough (Artists, Writers, & Poets Card Set)",
+    "sourceIds": [
+      "wiki-artists-writers-and-poets-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-artists-writers-and-poets-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-artists-writers-and-poets"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-new-york",
+    "kind": "cigarette-card",
+    "title": "New York (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-saint-denis",
+    "kind": "cigarette-card",
+    "title": "Saint Denis (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-blackwater",
+    "kind": "cigarette-card",
+    "title": "Blackwater (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-armadillo",
+    "kind": "cigarette-card",
+    "title": "Armadillo (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-rio-bravo",
+    "kind": "cigarette-card",
+    "title": "Rio Bravo (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-the-grizzlies",
+    "kind": "cigarette-card",
+    "title": "The Grizzlies (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-san-francisco",
+    "kind": "cigarette-card",
+    "title": "San Francisco (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-tall-trees",
+    "kind": "cigarette-card",
+    "title": "Tall Trees (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-valentine",
+    "kind": "cigarette-card",
+    "title": "Valentine (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-chicago",
+    "kind": "cigarette-card",
+    "title": "Chicago (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-rhodes",
+    "kind": "cigarette-card",
+    "title": "Rhodes (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-vistas-of-america-card-set-annesburg",
+    "kind": "cigarette-card",
+    "title": "Annesburg (Vistas of America Card Set)",
+    "sourceIds": [
+      "wiki-vistas-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-vistas-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-vistas-of-america"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-leila-stetson",
+    "kind": "cigarette-card",
+    "title": "Leila Stetson (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-isabelle-barlow",
+    "kind": "cigarette-card",
+    "title": "Isabelle Barlow (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-hattie-langtry",
+    "kind": "cigarette-card",
+    "title": "Hattie Langtry (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-isabelle-standish",
+    "kind": "cigarette-card",
+    "title": "Isabelle Standish (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-maud-engel",
+    "kind": "cigarette-card",
+    "title": "Maud Engel (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-sadie-russell",
+    "kind": "cigarette-card",
+    "title": "Sadie Russell (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-geraldine-emerson",
+    "kind": "cigarette-card",
+    "title": "Geraldine Emerson (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-agnes-guyon",
+    "kind": "cigarette-card",
+    "title": "Agnes Guyon (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-jennie-willetts",
+    "kind": "cigarette-card",
+    "title": "Jennie Willetts (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-ilga-ulmer",
+    "kind": "cigarette-card",
+    "title": "Ilga Ulmer (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-fay-delaro",
+    "kind": "cigarette-card",
+    "title": "Fay Delaro (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-gems-of-beauty-card-set-pauline-henderson",
+    "kind": "cigarette-card",
+    "title": "Pauline Henderson (Gems of Beauty Card Set)",
+    "sourceIds": [
+      "wiki-gems-of-beauty-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-gems-of-beauty-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-gems-of-beauty"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-golden-currant",
+    "kind": "cigarette-card",
+    "title": "Golden Currant (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-hummingbird-sage",
+    "kind": "cigarette-card",
+    "title": "Hummingbird Sage (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-oleander-sage",
+    "kind": "cigarette-card",
+    "title": "Oleander Sage (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-yarrow",
+    "kind": "cigarette-card",
+    "title": "Yarrow (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-indian-tobacco",
+    "kind": "cigarette-card",
+    "title": "Indian Tobacco (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-black-mangrove",
+    "kind": "cigarette-card",
+    "title": "Black Mangrove (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-longleaf-pine",
+    "kind": "cigarette-card",
+    "title": "Longleaf Pine (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-desert-fan-palm",
+    "kind": "cigarette-card",
+    "title": "Desert Fan Palm (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-coastal-redwood",
+    "kind": "cigarette-card",
+    "title": "Coastal Redwood (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-horse-crippler-cactus",
+    "kind": "cigarette-card",
+    "title": "Horse Crippler Cactus (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-blazing-star",
+    "kind": "cigarette-card",
+    "title": "Blazing Star (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-flora-of-america-card-set-carolina-lupine",
+    "kind": "cigarette-card",
+    "title": "Carolina Lupine (Flora of America Card Set)",
+    "sourceIds": [
+      "wiki-flora-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-flora-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-flora-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-black-widow-spider",
+    "kind": "cigarette-card",
+    "title": "Black Widow Spider (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-bloodhound",
+    "kind": "cigarette-card",
+    "title": "Bloodhound (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-bluejay",
+    "kind": "cigarette-card",
+    "title": "Bluejay (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-catfish",
+    "kind": "cigarette-card",
+    "title": "Catfish (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-coral-snake",
+    "kind": "cigarette-card",
+    "title": "Coral Snake (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-grouper",
+    "kind": "cigarette-card",
+    "title": "Grouper (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-large-mouth-bass",
+    "kind": "cigarette-card",
+    "title": "Large Mouth Bass (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-panther",
+    "kind": "cigarette-card",
+    "title": "Panther (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-parrot",
+    "kind": "cigarette-card",
+    "title": "Parrot (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-pheasant",
+    "kind": "cigarette-card",
+    "title": "Pheasant (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-snapping-turtle",
+    "kind": "cigarette-card",
+    "title": "Snapping Turtle (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-fauna-of-america-card-set-turkey",
+    "kind": "cigarette-card",
+    "title": "Turkey (Fauna of America Card Set)",
+    "sourceIds": [
+      "wiki-fauna-of-america-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-fauna-of-america-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-fauna-of-america"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-laurence-dunn",
+    "kind": "cigarette-card",
+    "title": "Laurence Dunn (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-louis-durand",
+    "kind": "cigarette-card",
+    "title": "Louis Durand (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-jesse-raymond",
+    "kind": "cigarette-card",
+    "title": "Jesse Raymond (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-augusta-tremlow",
+    "kind": "cigarette-card",
+    "title": "Augusta Tremlow (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-mabel-potter",
+    "kind": "cigarette-card",
+    "title": "Mabel Potter (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-robin-koninsky",
+    "kind": "cigarette-card",
+    "title": "Robin Koninsky (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-isadore-reid",
+    "kind": "cigarette-card",
+    "title": "Isadore Reid (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-irene-grubb",
+    "kind": "cigarette-card",
+    "title": "Irene Grubb (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-nettie-palmer",
+    "kind": "cigarette-card",
+    "title": "Nettie Palmer (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-jim-cobb",
+    "kind": "cigarette-card",
+    "title": "Jim Cobb (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-mittie-comstock",
+    "kind": "cigarette-card",
+    "title": "Mittie Comstock (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-stars-of-the-stage-card-set-robert-elliot-patchen",
+    "kind": "cigarette-card",
+    "title": "Robert Elliot Patchen (Stars of the Stage Card Set)",
+    "sourceIds": [
+      "wiki-stars-of-the-stage-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-stars-of-the-stage-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-stars-of-the-stage"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-packet-ship",
+    "kind": "cigarette-card",
+    "title": "Packet Ship (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-schooner",
+    "kind": "cigarette-card",
+    "title": "Schooner (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-camel-caravan",
+    "kind": "cigarette-card",
+    "title": "Camel Caravan (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-elephant-carriage",
+    "kind": "cigarette-card",
+    "title": "Elephant Carriage (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-goat-carriage",
+    "kind": "cigarette-card",
+    "title": "Goat Carriage (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-hot-air-balloon",
+    "kind": "cigarette-card",
+    "title": "Hot Air Balloon (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-us-frigate",
+    "kind": "cigarette-card",
+    "title": "U.S. Frigate (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-the-showboat",
+    "kind": "cigarette-card",
+    "title": "The Showboat (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-balener-whaling-vessel",
+    "kind": "cigarette-card",
+    "title": "Balener Whaling Vessel (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-stagecoach",
+    "kind": "cigarette-card",
+    "title": "Stagecoach (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-steam-locomotive",
+    "kind": "cigarette-card",
+    "title": "Steam Locomotive (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-marvels-of-travel-card-set-velocipede",
+    "kind": "cigarette-card",
+    "title": "Velocipede (Marvels of Travel Card Set)",
+    "sourceIds": [
+      "wiki-marvels-of-travel-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-marvels-of-travel-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-marvels-of-travel"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-steam-locomotive-1814-george-stephenson",
+    "kind": "cigarette-card",
+    "title": "Steam Locomotive 1814 - George Stephenson (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-camera-1814-joseph-nicephore-niepce",
+    "kind": "cigarette-card",
+    "title": "Camera 1814 - Joseph Nicephore Niepce (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-electrical-execution-apparatus-1888-hp-brown-a-kennelly",
+    "kind": "cigarette-card",
+    "title": "Electrical Execution Apparatus 1888 - H.P. Brown A. Kennelly (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-typewriter-1829-wa-burt",
+    "kind": "cigarette-card",
+    "title": "Typewriter 1829 - W.A. Burt (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-revolver-1836-daniel-buck",
+    "kind": "cigarette-card",
+    "title": "Revolver 1836 - Daniel Buck (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-telegraph-1837-samuel-morse",
+    "kind": "cigarette-card",
+    "title": "Telegraph 1837 - Samuel Morse (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-manned-glider-1893-charles-kinnear",
+    "kind": "cigarette-card",
+    "title": "Manned Glider 1893 - Charles Kinnear (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-dynamite-1866-alfred-nobel",
+    "kind": "cigarette-card",
+    "title": "Dynamite 1866 - Alfred Nobel (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-cylinder-phonograph-1877-thomas-edison",
+    "kind": "cigarette-card",
+    "title": "Cylinder Phonograph 1877 - Thomas Edison (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-player-piano-1829-edward-leveaux",
+    "kind": "cigarette-card",
+    "title": "Player Piano 1829 - Edward Leveaux (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-electric-light-bulb-1876-thomas-edison",
+    "kind": "cigarette-card",
+    "title": "Electric Light Bulb 1876 - Thomas Edison (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-amazing-inventions-card-set-fountain-pen-1884-lewis-waterman",
+    "kind": "cigarette-card",
+    "title": "Fountain Pen 1884 - Lewis Waterman (Amazing Inventions Card Set)",
+    "sourceIds": [
+      "wiki-amazing-inventions-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-amazing-inventions-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-amazing-inventions"
+  },
+  {
+    "id": "col-card-horses-card-set-american-paint",
+    "kind": "cigarette-card",
+    "title": "American Paint (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-appaloosa",
+    "kind": "cigarette-card",
+    "title": "Appaloosa (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-andalusian",
+    "kind": "cigarette-card",
+    "title": "Andalusian (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-american-standardbred",
+    "kind": "cigarette-card",
+    "title": "American Standardbred (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-nokota",
+    "kind": "cigarette-card",
+    "title": "Nokota (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-ardennes",
+    "kind": "cigarette-card",
+    "title": "Ardennes (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-dutch-warmblood",
+    "kind": "cigarette-card",
+    "title": "Dutch Warmblood (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-turkoman",
+    "kind": "cigarette-card",
+    "title": "Turkoman (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-hungarian-half-bred",
+    "kind": "cigarette-card",
+    "title": "Hungarian Half-bred (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-mustang",
+    "kind": "cigarette-card",
+    "title": "Mustang (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-thoroughbred",
+    "kind": "cigarette-card",
+    "title": "Thoroughbred (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-card-horses-card-set-missouri-fox-trotter",
+    "kind": "cigarette-card",
+    "title": "Missouri Fox Trotter (Horses Card Set)",
+    "sourceIds": [
+      "wiki-horses-card-set"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-horses-card-set"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-cards-horses"
+  },
+  {
+    "id": "col-bone-1",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 1 — Grizzlies West - Valentine",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-2",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 2 — Grizzlies East - Cumberland Forest",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-3",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 3 — Grizzlies East - Cumberland Forest",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-4",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 4 — Grizzlies East",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-5",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 5 — Grizzlies East",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-6",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 6 — Annesburg",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-7",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 7 — Annesburg",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-8",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 8 — Annesburg",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-9",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 9 — Annesburg",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-10",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 10 — The Heartlands",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-11",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 11 — The Heartlands",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-bone-12",
+    "kind": "dinosaur-bone",
+    "title": "Dinosaur Bone 12 — The Heartlands",
+    "sourceIds": [
+      "wiki-dinosaur-bones"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dinosaur-bones"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dinosaur-bones"
+  },
+  {
+    "id": "col-dream-1",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 1 — Ambarino - Grizzlies West",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-2",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 2 — Ambarino - Grizzlies West",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-3",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 3 — Ambarino - Grizzlies East",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-4",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 4 — Ambarino - Grizzlies East",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-5",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 5 — New Hanover - Valentine",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-6",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 6 — New Hanover - Valentine",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-7",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 7 — New Hanover - Valentine",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-8",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 8 — New Hanover - The Heartlands",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-9",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 9 — New Hanover - The Heartlands",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-10",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 10 — New Hanover - The Heartlands",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-11",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 11 — New Hanover - Annesburg",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-12",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 12 — New Hanover - Annesburg",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-13",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 13 — New Hanover - Annesburg",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-14",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 14 — New Hanover - Annesburg",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-15",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 15 — New Hanover - Annesburg",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-16",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 16 — New Hanover - Emerald Ranch",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-17",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 17 — New Hanover - Emerald Ranch",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-18",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 18 — Lemoyne - Emerald Ranch",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-19",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 19 — Lemoyne - Emerald Ranch",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-dream-20",
+    "kind": "dreamcatcher",
+    "title": "Dreamcatcher 20 — New Hanover - Emerald Ranch",
+    "sourceIds": [
+      "wiki-dreamcatchers"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-dreamcatchers"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-dreamcatchers"
+  },
+  {
+    "id": "col-carve-1",
+    "kind": "rock-carving",
+    "title": "Rock Carving 1 — Ambarino",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-2",
+    "kind": "rock-carving",
+    "title": "Rock Carving 2 — Ambarino",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-3",
+    "kind": "rock-carving",
+    "title": "Rock Carving 3 — New Hanover",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-4",
+    "kind": "rock-carving",
+    "title": "Rock Carving 4 — New Hanover",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-5",
+    "kind": "rock-carving",
+    "title": "Rock Carving 5 — West Elisabeth",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-6",
+    "kind": "rock-carving",
+    "title": "Rock Carving 6 — West Elisabeth",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-7",
+    "kind": "rock-carving",
+    "title": "Rock Carving 7 — New Hanover",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-8",
+    "kind": "rock-carving",
+    "title": "Rock Carving 8 — Ambarino",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-9",
+    "kind": "rock-carving",
+    "title": "Rock Carving 9 — New Hanover",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-carve-10",
+    "kind": "rock-carving",
+    "title": "Rock Carving 10 — New Hanover",
+    "sourceIds": [
+      "wiki-rock-carvings"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-rock-carvings"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-rock-carvings"
+  },
+  {
+    "id": "col-poi-abandoned-church",
+    "kind": "point-of-interest",
+    "title": "Abandoned Church",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-bolger-glade",
+    "kind": "point-of-interest",
+    "title": "Bolger Glade",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-braithwaites-secret",
+    "kind": "point-of-interest",
+    "title": "Braithwaites' Secret",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-grays-secret",
+    "kind": "point-of-interest",
+    "title": "Gray's Secret",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-painting-in-cabin",
+    "kind": "point-of-interest",
+    "title": "Painting in Cabin",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-phonograph",
+    "kind": "point-of-interest",
+    "title": "Phonograph",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-pleasance",
+    "kind": "point-of-interest",
+    "title": "Pleasance",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-tiny-church",
+    "kind": "point-of-interest",
+    "title": "Tiny Church",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-withered-arm",
+    "kind": "point-of-interest",
+    "title": "Withered Arm",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-abandoned-trading-post",
+    "kind": "point-of-interest",
+    "title": "Abandoned Trading Post",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-brush-fire",
+    "kind": "point-of-interest",
+    "title": "Brush Fire",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-fossilized-man",
+    "kind": "point-of-interest",
+    "title": "Fossilized Man",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-manmade-mutant",
+    "kind": "point-of-interest",
+    "title": "Manmade Mutant",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-meteor-house",
+    "kind": "point-of-interest",
+    "title": "Meteor House",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-meteorite",
+    "kind": "point-of-interest",
+    "title": "Meteorite",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-oil-derrick",
+    "kind": "point-of-interest",
+    "title": "Oil Derrick",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-old-tomb",
+    "kind": "point-of-interest",
+    "title": "Old Tomb",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-old-world-scripts",
+    "kind": "point-of-interest",
+    "title": "Old World Scripts",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-register-rock",
+    "kind": "point-of-interest",
+    "title": "Register Rock",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-serpent-mound",
+    "kind": "point-of-interest",
+    "title": "Serpent Mound",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-trading-post",
+    "kind": "point-of-interest",
+    "title": "Trading Post",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-trail-trees-i",
+    "kind": "point-of-interest",
+    "title": "Trail Trees (I)",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-trail-trees-ii",
+    "kind": "point-of-interest",
+    "title": "Trail Trees (II)",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-trail-trees-iii",
+    "kind": "point-of-interest",
+    "title": "Trail Trees (III)",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-trail-trees-iv",
+    "kind": "point-of-interest",
+    "title": "Trail Trees (IV)",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-warped-tree",
+    "kind": "point-of-interest",
+    "title": "Warped Tree",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-barrel-rider",
+    "kind": "point-of-interest",
+    "title": "Barrel Rider",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-defaced-grave",
+    "kind": "point-of-interest",
+    "title": "Defaced Grave",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-face-in-cliff",
+    "kind": "point-of-interest",
+    "title": "Face in Cliff",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-frozen-settler",
+    "kind": "point-of-interest",
+    "title": "Frozen Settler",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-mammoth",
+    "kind": "point-of-interest",
+    "title": "Mammoth",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-meditating-monk",
+    "kind": "point-of-interest",
+    "title": "Meditating Monk",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-mysterious-hill-home",
+    "kind": "point-of-interest",
+    "title": "Mysterious Hill Home",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-strange-statues",
+    "kind": "point-of-interest",
+    "title": "Strange Statues",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-strange-statues-cave-painting",
+    "kind": "point-of-interest",
+    "title": "Strange Statues (Cave Painting)",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-circus-wagons",
+    "kind": "point-of-interest",
+    "title": "Circus Wagons",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-faces-in-trees",
+    "kind": "point-of-interest",
+    "title": "Faces in Trees",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-flying-machine-west-elizabeth",
+    "kind": "point-of-interest",
+    "title": "Flying Machine (West Elizabeth)",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-giant-remains",
+    "kind": "point-of-interest",
+    "title": "Giant Remains",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-hermit-woman",
+    "kind": "point-of-interest",
+    "title": "Hermit Woman",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-hidden-tunnel",
+    "kind": "point-of-interest",
+    "title": "Hidden Tunnel",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-native-burial",
+    "kind": "point-of-interest",
+    "title": "Native Burial",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-obelisk",
+    "kind": "point-of-interest",
+    "title": "Obelisk",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-pagan-ritual",
+    "kind": "point-of-interest",
+    "title": "Pagan Ritual",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-whale-bones",
+    "kind": "point-of-interest",
+    "title": "Whale Bones",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-wickiup",
+    "kind": "point-of-interest",
+    "title": "Wickiup",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-crashed-airship",
+    "kind": "point-of-interest",
+    "title": "Crashed Airship",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-donkey-lady",
+    "kind": "point-of-interest",
+    "title": "Donkey Lady",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-jesuit-missionary",
+    "kind": "point-of-interest",
+    "title": "Jesuit Missionary",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-poi-sperm-whale-bones",
+    "kind": "point-of-interest",
+    "title": "Sperm Whale Bones",
+    "sourceIds": [
+      "wiki-point-of-interest"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-point-of-interest"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-points-of-interest"
+  },
+  {
+    "id": "col-hunt-request-1",
+    "kind": "hunting-request",
+    "title": "Hunting request 1 (Valentine)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-squirrel-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Squirrel Carcass (Request 1)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-rabbit-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Rabbit Carcass (Request 1)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-request-2",
+    "kind": "hunting-request",
+    "title": "Hunting request 2 (Strawberry)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-cardinal-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Cardinal Carcass (Request 2)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-rat-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Rat Carcass (Request 2)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-woodpecker-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Woodpecker Carcass (Request 2)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-request-3",
+    "kind": "hunting-request",
+    "title": "Hunting request 3 (Rhodes)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-chipmunk-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Chipmunk Carcass (Request 3)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-oriole-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Oriole Carcass (Request 3)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-robin-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Robin Carcass (Request 3)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-opossum-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Opossum Carcass (Request 3)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-request-4",
+    "kind": "hunting-request",
+    "title": "Hunting request 4 (Saint Denis)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-sparrow-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Sparrow Carcass (Request 4)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-songbird-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Songbird Carcass (Request 4)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-toad-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Toad Carcass (Request 4)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-bullfrog-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Bullfrog Carcass (Request 4)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-skunk-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Skunk Carcass (Request 4)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-request-5",
+    "kind": "hunting-request",
+    "title": "Hunting request 5 (Van Horn Trading Post (epilogue))",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-waxwing-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Waxwing Carcass (Request 5)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-bat-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Bat Carcass (Request 5)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-blue-jay-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Blue Jay Carcass (Request 5)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-crow-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Crow Carcass (Request 5)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-hunt-perfect-beaver-carcass",
+    "kind": "hunting-request",
+    "title": "Perfect Beaver Carcass (Request 5)",
+    "sourceIds": [
+      "wiki-a-better-world"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-a-better-world"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-hunting-requests"
+  },
+  {
+    "id": "col-exotic-p1-5-little-egret-plumes",
+    "kind": "exotic",
+    "title": "Part 1: 5 Little Egret Plumes",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p1-5-reddish-egret-plumes",
+    "kind": "exotic",
+    "title": "Part 1: 5 Reddish Egret Plumes",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p1-5-snowy-egret-plumes",
+    "kind": "exotic",
+    "title": "Part 1: 5 Snowy Egret Plumes",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p1-15-lady-of-the-night-orchid",
+    "kind": "exotic",
+    "title": "Part 1: 15 Lady of the Night Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p2-20-heron-plumes",
+    "kind": "exotic",
+    "title": "Part 2: 20 Heron Plumes",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p2-7-lady-slipper-orchid",
+    "kind": "exotic",
+    "title": "Part 2: 7 Lady Slipper Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p2-10-moccasin-orchid",
+    "kind": "exotic",
+    "title": "Part 2: 10 Moccasin Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p3-25-gator-eggs",
+    "kind": "exotic",
+    "title": "Part 3: 25 Gator Eggs",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p3-3-acunas-star-orchid",
+    "kind": "exotic",
+    "title": "Part 3: 3 Acuna's Star Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p3-7-cigar-orchid",
+    "kind": "exotic",
+    "title": "Part 3: 7 Cigar Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p3-5-ghost-orchid",
+    "kind": "exotic",
+    "title": "Part 3: 5 Ghost Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p4-30-spoonbill-plumes",
+    "kind": "exotic",
+    "title": "Part 4: 30 Spoonbill Plumes",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p4-10-rat-tail-orchid",
+    "kind": "exotic",
+    "title": "Part 4: 10 Rat Tail Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p4-5-spider-orchid",
+    "kind": "exotic",
+    "title": "Part 4: 5 Spider Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p4-5-night-scented-orchid",
+    "kind": "exotic",
+    "title": "Part 4: 5 Night scented Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p5-5-clamshell-orchid",
+    "kind": "exotic",
+    "title": "Part 5: 5 Clamshell Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p5-5-queens-orchid",
+    "kind": "exotic",
+    "title": "Part 5: 5 Queen's Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p5-10-sparrow-egg-orchid",
+    "kind": "exotic",
+    "title": "Part 5: 10 Sparrow Egg Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-exotic-p5-5-dragons-mouth-orchid",
+    "kind": "exotic",
+    "title": "Part 5: 5 Dragon's Mouth Orchid",
+    "sourceIds": [
+      "wiki-duchesses-and-other-animals"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-duchesses-and-other-animals"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-exotics"
+  },
+  {
+    "id": "col-grave-jenny-kirk",
+    "kind": "other",
+    "title": "Jenny Kirk's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-davey-callander",
+    "kind": "other",
+    "title": "Davey Callander's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-sean-macguire",
+    "kind": "other",
+    "title": "Sean MacGuire's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-kieran-duffy",
+    "kind": "other",
+    "title": "Kieran Duffy's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-hosea-matthews",
+    "kind": "other",
+    "title": "Hosea Matthews's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-lenny-summers",
+    "kind": "other",
+    "title": "Lenny Summers's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-eagle-flies",
+    "kind": "other",
+    "title": "Eagle Flies's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-susan-grimshaw",
+    "kind": "other",
+    "title": "Susan Grimshaw's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  },
+  {
+    "id": "col-grave-arthur-morgan",
+    "kind": "other",
+    "title": "Arthur Morgan's grave",
+    "sourceIds": [
+      "wiki-paying-respects"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-paying-respects"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    },
+    "setId": "set-graves"
+  }
+]

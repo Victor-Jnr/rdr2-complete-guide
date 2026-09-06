@@ -3,9 +3,12 @@ import { CircleMarker, ImageOverlay, MapContainer, TileLayer, Tooltip, useMap } 
 import L from 'leaflet';
 import type { MapCoordinate, MapManifest, MapMarker } from '@/types';
 import { DEFAULT_MANIFEST } from '@/data/mapManifest';
-import { sourceBounds, toLeaflet } from '@/services/mapCoords';
+import { sourceBounds, tileBounds, toLeaflet } from '@/services/mapCoords';
 import { MapMarkerPopup } from './MapMarkerPopup';
 import 'leaflet/dist/leaflet.css';
+
+const OVERVIEW_ZOOM = 0;
+const MARKER_FOCUS_ZOOM = 3;
 
 function Focus({
   marker,
@@ -18,7 +21,7 @@ function Focus({
   useEffect(() => {
     if (!marker) return;
     const [y, x] = toLeaflet({ x: marker.x, y: marker.y }, manifest);
-    map.flyTo([y, x], Math.max(map.getZoom(), 4), { duration: 0.8 });
+    map.flyTo([y, x], Math.max(map.getZoom(), MARKER_FOCUS_ZOOM), { duration: 0.8 });
   }, [marker, map, manifest]);
   return null;
 }
@@ -44,39 +47,45 @@ export function GameMap({
   selectedId,
   manifest = DEFAULT_MANIFEST,
 }: Props) {
-  const bounds = useMemo(() => sourceBounds(manifest), [manifest]);
+  const imageBounds = useMemo(() => sourceBounds(manifest), [manifest]);
+  const worldBounds = useMemo(() => tileBounds(manifest), [manifest]);
   const focus = markers.find((m) => m.id === focusId);
   const start = center
     ? toLeaflet(center, manifest)
     : focus
       ? toLeaflet({ x: focus.x, y: focus.y }, manifest)
-      : toLeaflet({ x: 0.5, y: 0.4 }, manifest);
+      : toLeaflet({ x: 0.5, y: 0.5 }, manifest);
+  const maxZoom = manifest.maxNativeZoom + 2;
+  const startZoom = focus || center ? MARKER_FOCUS_ZOOM : OVERVIEW_ZOOM;
 
   return (
     <div style={{ height, border: '1px solid var(--rule)' }}>
       <MapContainer
         crs={L.CRS.Simple}
         center={start}
-        zoom={staticPreview ? 2 : 3}
-        minZoom={0}
-        maxZoom={7}
+        zoom={startZoom}
+        minZoom={OVERVIEW_ZOOM}
+        maxZoom={maxZoom}
+        zoomSnap={1}
+        zoomDelta={1}
         style={{ height: '100%', width: '100%', background: '#cbb892' }}
-        maxBounds={bounds}
+        maxBounds={worldBounds}
+        maxBoundsViscosity={0.6}
         attributionControl={!staticPreview}
         zoomControl={!staticPreview}
         dragging={!staticPreview}
         scrollWheelZoom={!staticPreview}
       >
-        <ImageOverlay url={manifest.previewUrl} bounds={bounds} opacity={0.95} />
+        <ImageOverlay url={manifest.previewUrl} bounds={imageBounds} opacity={0.95} />
         {!staticPreview ? (
           <TileLayer
             url={manifest.tileUrlTemplate}
             tileSize={manifest.tileSize}
             noWrap
             maxNativeZoom={manifest.maxNativeZoom}
-            maxZoom={7}
-            minZoom={0}
-            bounds={bounds}
+            maxZoom={maxZoom}
+            minZoom={OVERVIEW_ZOOM}
+            bounds={worldBounds}
             errorTileUrl={manifest.previewUrl}
           />
         ) : null}
