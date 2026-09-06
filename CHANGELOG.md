@@ -46,6 +46,7 @@
 - `src/services/exportImport.ts` — transactional backup/restore
 - `src/features/**` — Journey, Treasures, Map, Search, Progress, Settings, About
 - `src/components/**` — shared journal UI, map, dialogs, attribution
+- `src/services/journey.test.ts` — Chapter 1–2 / later-chapter dataset contract tests
 - `documentation/README.md` — index of numbered change documents
 - `CHANGELOG.md` — this file
 - `README.md` — setup, disclaimer, license split, PWA vs Android
@@ -146,3 +147,12 @@
 - `documentation/001-stage-1-app-foundation.md` — added this change document
 - `README.md` — rewrote setup, disclaimer, and license notes
 - `CHANGELOG.md` — added file roles and 001 section
+
+## 002 — Journey checklists and Chapter 1–2 data tests (2026-09-06)
+
+- `src/services/journey.test.ts` — added Chapter 1 gold and later-chapter skeleton tests
+- `documentation/002-journey-checklist-tests.md` — added this change document
+- `documentation/README.md` — linked 002
+- `README.md` — listed 002 in Documentation
+- `CHANGELOG.md` — added 002 section
+
