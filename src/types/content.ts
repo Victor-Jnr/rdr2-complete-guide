@@ -89,7 +89,35 @@ export type MarkerType =
   | 'robbery'
   | 'item-request'
   | 'unique-item'
-  | 'other';
+  | 'other'
+  | 'dinosaur-bone'
+  | 'dreamcatcher'
+  | 'rock-carving'
+  | 'grave'
+  | 'legendary-animal'
+  | 'legendary-fish'
+  | 'point-of-interest'
+  | 'wilderness-chest'
+  | 'orchid'
+  | 'gang-camp'
+  | 'town'
+  | 'landmark'
+  | 'fast-travel'
+  | 'general-store'
+  | 'gunsmith'
+  | 'stable'
+  | 'doctor'
+  | 'fence'
+  | 'trapper'
+  | 'post-office'
+  | 'saloon'
+  | 'butcher'
+  | 'barber'
+  | 'tailor'
+  | 'photo-studio'
+  | 'bait-shop'
+  | 'animal-habitat'
+  | 'herb';
 
 export interface MapMarker {
   id: string;
@@ -104,6 +132,11 @@ export interface MapMarker {
   treasureStepId?: string;
   chapterIds?: string[];
   tags?: string[];
+  externalKey?: string;
+  compendiumId?: string;
+  collectibleSetId?: string;
+  sourceIds?: string[];
+  research?: ResearchMetadata;
 }
 
 export type TreasureStepType = 'map-pickup' | 'clue' | 'next-map' | 'treasure' | 'reward';

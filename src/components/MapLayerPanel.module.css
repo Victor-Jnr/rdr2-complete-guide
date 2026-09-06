@@ -1,0 +1,77 @@
+.panel {
+  position: absolute;
+  z-index: 8;
+  background: color-mix(in srgb, var(--paper) 94%, transparent);
+  border: 1px solid var(--rule);
+  overflow: auto;
+  backdrop-filter: blur(8px);
+  left: 8px;
+  right: 8px;
+  bottom: 8px;
+  max-height: 48%;
+  border-radius: var(--radius);
+  padding: 12px;
+}
+
+.group {
+  margin-bottom: 12px;
+}
+
+.group h3 {
+  font-size: 0.85rem;
+  margin: 0 0 6px;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 40px;
+  width: 100%;
+  background: transparent;
+  border: 0;
+  padding: 0 4px;
+  color: inherit;
+  text-align: left;
+}
+
+.row[aria-pressed='false'] {
+  opacity: 0.45;
+}
+
+.count {
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.search {
+  width: 100%;
+  min-height: 40px;
+  margin-bottom: 8px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.actions button {
+  min-height: 40px;
+}
+
+@media (min-width: 768px) {
+  .panel {
+    left: auto;
+    top: 8px;
+    right: 8px;
+    bottom: 8px;
+    width: 280px;
+    max-height: none;
+  }
+}

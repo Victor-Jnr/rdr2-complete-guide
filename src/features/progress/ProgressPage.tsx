@@ -3,6 +3,7 @@ import { activities, chapters, completionRequirements, itemRequests, missions, m
 import { Checkbox } from '@/components/Checkbox';
 import { ProgressBar } from '@/components/ProgressBar';
 import { overallCategories, percent, evaluateCompletionRequirement } from '@/services/progress';
+import { derivedMarkers } from '@/services/content';
 import {
   putEntityState,
   useAllEntityState,
@@ -33,6 +34,7 @@ export default function ProgressPage() {
     companionIds: activities.filter((a) => a.kind === 'companion').map((a) => a.id),
     itemTotal: itemRequests.length,
     missableTotal: missables.length,
+    mapMarkers: derivedMarkers(),
   });
   const overallDone = cats.reduce((n, c) => n + c.done, 0);
   const overallTotal = cats.reduce((n, c) => n + c.total, 0);

@@ -102,6 +102,7 @@ export const userEntityStateSchema = z.object({
     'compendium',
     'completionRequirement',
     'treasure-step',
+    'map-marker',
   ]),
   entityId: z.string(),
   completed: z.boolean(),
@@ -123,6 +124,7 @@ export const favoriteRecordSchema = z.object({
     'challenge',
     'compendium',
     'completionRequirement',
+    'map-marker',
   ]),
   entityId: z.string(),
   createdAt: z.string(),
@@ -135,6 +137,8 @@ export const userSettingsSchema = z.object({
   confirmOnUncheck: z.boolean(),
   hideCompletedByDefault: z.boolean(),
   fullResMapDownloaded: z.boolean(),
+  mapHiddenMarkerTypes: z.array(z.string()).default(['animal-habitat', 'herb']),
+  mapHideCollected: z.boolean().default(false),
 });
 
 export const userDataExportSchema = z.object({

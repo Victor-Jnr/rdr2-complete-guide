@@ -1,0 +1,37 @@
+.page {
+  position: relative;
+  height: calc(100dvh - 56px - var(--nav-height));
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mapWrap {
+  position: relative;
+  height: 100%;
+}
+
+.layersBtn {
+  position: absolute;
+  z-index: 9;
+  top: 8px;
+  right: 8px;
+  min-height: 44px;
+}
+
+@media (min-width: 768px) {
+  .page {
+    height: calc(100dvh - 56px);
+    padding-left: 80px;
+  }
+
+  .layersBtn {
+    right: 300px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page {
+    padding-left: 220px;
+  }
+}

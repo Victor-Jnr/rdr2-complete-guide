@@ -1,0 +1,47 @@
+.leaflet-div-icon.map-pin {
+  background: transparent;
+  border: none;
+}
+
+.map-pin__dot {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid #3d2a1f;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.map-pin.is-collected .map-pin__dot {
+  opacity: 0.4;
+}
+
+.map-pin.is-selected .map-pin__dot {
+  width: 18px;
+  height: 18px;
+  box-shadow: 0 0 0 2px #c4a35a;
+}
+
+.leaflet-container .leaflet-tooltip {
+  font-family: var(--font-body);
+}
+
+.leaflet-container .leaflet-popup-content-wrapper {
+  background: var(--paper-raised);
+  color: var(--ink);
+  border-radius: var(--radius);
+  border: 1px solid var(--rule);
+}
+
+.leaflet-container .leaflet-popup-tip {
+  background: var(--paper-raised);
+}
+
+.leaflet-container .leaflet-popup-content {
+  margin: 10px 12px;
+  min-width: 160px;
+}
+
+.leaflet-container .leaflet-popup-content a {
+  color: var(--brass);
+}

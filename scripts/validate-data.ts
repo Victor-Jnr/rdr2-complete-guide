@@ -66,9 +66,22 @@ const itemRequests = load<{ id: string; availability: Availability; locationId?:
 const missables = load<{ id: string; availability: Availability; sourceIds?: string[]; research: Research }[]>(
   'missables.json',
 );
-const mapMarkers = load<{ id: string; x: number; y: number; locationId?: string; missionId?: string; treasureId?: string }[]>(
-  'mapMarkers.json',
-);
+const mapMarkers = load<
+  {
+    id: string;
+    type: string;
+    x: number;
+    y: number;
+    locationId?: string;
+    missionId?: string;
+    treasureId?: string;
+    externalKey?: string;
+    compendiumId?: string;
+    collectibleSetId?: string;
+    sourceIds?: string[];
+    research?: Research;
+  }[]
+>('mapMarkers.json');
 const sources = load<Source[]>('sources.json');
 const completionRequirements = load<{ id: string; entityIds?: string[]; research: Research }[]>(
   'completionRequirements.json',
@@ -161,6 +174,50 @@ const locIds = new Set(locations.map((l) => l.id));
 const missionIds = new Set(missions.map((m) => m.id));
 const chapterIds = new Set(chapters.map((c) => c.id));
 const treasureIds = new Set(treasures.map((t) => t.id));
+const collectibleSetIds = new Set(collectibleSets.map((s) => s.id));
+const compendiumIds = new Set(compendium.map((c) => c.id));
+
+const KNOWN_MARKER_TYPES = new Set([
+  'mission-start',
+  'stranger',
+  'camp-activity',
+  'treasure-map',
+  'treasure-clue',
+  'final-treasure',
+  'missable',
+  'robbery',
+  'item-request',
+  'unique-item',
+  'other',
+  'dinosaur-bone',
+  'dreamcatcher',
+  'rock-carving',
+  'grave',
+  'legendary-animal',
+  'legendary-fish',
+  'point-of-interest',
+  'wilderness-chest',
+  'orchid',
+  'gang-camp',
+  'town',
+  'landmark',
+  'fast-travel',
+  'general-store',
+  'gunsmith',
+  'stable',
+  'doctor',
+  'fence',
+  'trapper',
+  'post-office',
+  'saloon',
+  'butcher',
+  'barber',
+  'tailor',
+  'photo-studio',
+  'bait-shop',
+  'animal-habitat',
+  'herb',
+]);
 
 for (const loc of locations) {
   collectResearch(loc.research);
@@ -221,11 +278,48 @@ for (const a of missables) {
   collectResearch(a.research);
 }
 
+const seenExternal = new Set<string>();
 for (const marker of mapMarkers) {
   if (marker.x < 0 || marker.x > 1 || marker.y < 0 || marker.y > 1) fail(`marker ${marker.id} coords`);
+  if (!KNOWN_MARKER_TYPES.has(marker.type)) fail(`marker ${marker.id} unknown type ${marker.type}`);
   if (marker.locationId && !locIds.has(marker.locationId)) fail(`marker ${marker.id} unknown location`);
   if (marker.missionId && !missionIds.has(marker.missionId)) fail(`marker ${marker.id} unknown mission`);
   if (marker.treasureId && !treasureIds.has(marker.treasureId)) fail(`marker ${marker.id} unknown treasure`);
+  if (marker.compendiumId && !compendiumIds.has(marker.compendiumId)) {
+    fail(`marker ${marker.id} unknown compendium ${marker.compendiumId}`);
+  }
+  if (marker.collectibleSetId && !collectibleSetIds.has(marker.collectibleSetId)) {
+    fail(`marker ${marker.id} unknown collectible set ${marker.collectibleSetId}`);
+  }
+  if (marker.externalKey) {
+    if (seenExternal.has(marker.externalKey)) fail(`duplicate marker externalKey ${marker.externalKey}`);
+    seenExternal.add(marker.externalKey);
+  }
+  marker.sourceIds?.forEach((id) => checkSourceId(id, `marker ${marker.id}`));
+  collectResearch(marker.research);
+}
+
+{
+  const calibPath = join(root, 'scripts', 'research', 'calibration.json');
+  const calib = JSON.parse(readFileSync(calibPath, 'utf8')) as {
+    image: { width: number; height: number; tileSize: number };
+    maxRms: number;
+    transform: { a: number; b: number; c: number; d: number; e: number; f: number };
+    controlPoints: {
+      id: string;
+      jeanropke: { lat: number; lng: number };
+      tile: { x: number; y: number };
+    }[];
+  };
+  const residuals = calib.controlPoints.map((p) => {
+    const expectedX = (p.tile.x * calib.image.tileSize) / calib.image.width;
+    const expectedY = (p.tile.y * calib.image.tileSize) / calib.image.height;
+    const gotX = calib.transform.a * p.jeanropke.lng + calib.transform.b * p.jeanropke.lat + calib.transform.c;
+    const gotY = calib.transform.d * p.jeanropke.lng + calib.transform.e * p.jeanropke.lat + calib.transform.f;
+    return Math.hypot(gotX - expectedX, gotY - expectedY);
+  });
+  const rms = Math.sqrt(residuals.reduce((s, d) => s + d * d, 0) / residuals.length);
+  if (rms > calib.maxRms) fail(`calibration RMS ${rms.toFixed(5)} exceeds ${calib.maxRms}`);
 }
 
 for (const req of completionRequirements) {

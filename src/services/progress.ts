@@ -1,5 +1,6 @@
-import type { CompletionRequirement, Mission, TreasureChain } from '@/types';
+import type { CompletionRequirement, MapMarker, Mission, TreasureChain } from '@/types';
 import type { UserEntityState, UserMissionState, UserTreasureState } from '@/types';
+import { markerIsCollected } from '@/services/mapLayers';
 
 export interface CategoryCount {
   id: string;
@@ -47,6 +48,7 @@ export function overallCategories(
     companionIds: string[];
     itemTotal: number;
     missableTotal: number;
+    mapMarkers?: MapMarker[];
   },
 ): CategoryCount[] {
   const main = missions.filter((m) => hasTag(m, MAIN));
@@ -91,7 +93,29 @@ export function overallCategories(
     { id: 'gold', label: 'Gold Medals', done: goldDone, total: goldTotal },
     { id: 'treasure-chains', label: 'Treasure Chains', done: treasureChainsDone, total: treasures.length },
     { id: 'treasure-steps', label: 'Treasure Steps', done: treasureStepsDone, total: treasureSteps },
+    ...pinnedMapCategories(extras.mapMarkers ?? [], entityStates),
   ];
+}
+
+export function pinnedMapCategories(
+  markers: MapMarker[],
+  entityStates: Map<string, UserEntityState>,
+): CategoryCount[] {
+  const groups: { id: string; label: string; type: MapMarker['type'] }[] = [
+    { id: 'pin-bones', label: 'Dinosaur Bones', type: 'dinosaur-bone' },
+    { id: 'pin-dreamcatchers', label: 'Dreamcatchers', type: 'dreamcatcher' },
+    { id: 'pin-carvings', label: 'Rock Carvings', type: 'rock-carving' },
+    { id: 'pin-graves', label: 'Graves', type: 'grave' },
+    { id: 'pin-pois', label: 'Points of Interest', type: 'point-of-interest' },
+    { id: 'pin-chests', label: 'Wilderness Chests', type: 'wilderness-chest' },
+    { id: 'pin-leg-animals', label: 'Legendary Animals', type: 'legendary-animal' },
+    { id: 'pin-leg-fish', label: 'Legendary Fish', type: 'legendary-fish' },
+  ];
+  return groups.map((g) => {
+    const list = markers.filter((m) => m.type === g.type);
+    const done = list.filter((m) => markerIsCollected(m, entityStates)).length;
+    return { id: g.id, label: g.label, done, total: list.length };
+  });
 }
 
 export function evaluateCompletionRequirement(

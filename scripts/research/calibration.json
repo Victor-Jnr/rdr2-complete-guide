@@ -1,0 +1,179 @@
+{
+  "source": "jeanropke/RDOMap",
+  "commit": "922daf072c3ea027c5d5ed097173ce66d70d65b6",
+  "accessedAt": "2026-09-06",
+  "image": {
+    "width": 7200,
+    "height": 5400,
+    "tileSize": 256,
+    "maxNativeZoom": 5
+  },
+  "controlPoints": [
+    {
+      "id": "wallace-station",
+      "note": "Town pin right of WALLACE STATION on tile 5/14/7",
+      "jeanropke": {
+        "lat": -57.4932,
+        "lng": 91.0859
+      },
+      "tile": {
+        "z": 5,
+        "x": 14.65,
+        "y": 7.46
+      }
+    },
+    {
+      "id": "strawberry",
+      "note": "Building cluster on STRAWBERRY, tile 5/13/9",
+      "jeanropke": {
+        "lat": -70.03,
+        "lng": 84.3196
+      },
+      "tile": {
+        "z": 5,
+        "x": 13.55,
+        "y": 9.4
+      }
+    },
+    {
+      "id": "rhodes",
+      "note": "Town pin above RHODES on tile 5/20/11",
+      "jeanropke": {
+        "lat": -83.6534,
+        "lng": 130.6434
+      },
+      "tile": {
+        "z": 5,
+        "x": 20.68,
+        "y": 11.62
+      }
+    },
+    {
+      "id": "blackwater",
+      "note": "Town grid right of BLACKWATER on tile 5/15/11",
+      "jeanropke": {
+        "lat": -82.9581,
+        "lng": 99.7447
+      },
+      "tile": {
+        "z": 5,
+        "x": 15.93,
+        "y": 11.42
+      }
+    },
+    {
+      "id": "tumbleweed",
+      "note": "Building cluster on TUMBLEWEED, tile 5/4/15",
+      "jeanropke": {
+        "lat": -109.3272,
+        "lng": 26.8317
+      },
+      "tile": {
+        "z": 5,
+        "x": 4.5,
+        "y": 15.38
+      }
+    },
+    {
+      "id": "saint-denis",
+      "note": "Dock pin on Saint Denis waterfront, tile 5/24/12",
+      "jeanropke": {
+        "lat": -86.3787,
+        "lng": 152.6896
+      },
+      "tile": {
+        "z": 5,
+        "x": 24.28,
+        "y": 11.98
+      }
+    },
+    {
+      "id": "annesburg",
+      "note": "Coast pin on Annesburg, tile 5/25/5",
+      "jeanropke": {
+        "lat": -43.4814,
+        "lng": 156.745
+      },
+      "tile": {
+        "z": 5,
+        "x": 25.08,
+        "y": 5.42
+      }
+    },
+    {
+      "id": "valentine",
+      "note": "East side / station of VALENTINE, tiles 5/16–17/6",
+      "jeanropke": {
+        "lat": -53.602,
+        "lng": 108.3971
+      },
+      "tile": {
+        "z": 5,
+        "x": 17.37,
+        "y": 6.88
+      }
+    }
+  ],
+  "maxRms": 0.004,
+  "transform": {
+    "kind": "affine",
+    "a": 0.00556986323961715,
+    "b": 0.00011187506270036543,
+    "c": 0.02071384448788063,
+    "d": 0.00007070484870442607,
+    "e": -0.007321388658756595,
+    "f": -0.07318710216666774,
+    "rms": 0.0023166918350578857,
+    "maxResidual": 0.0044183455864950285,
+    "residuals": [
+      {
+        "id": "wallace-station",
+        "dx": 0.00073,
+        "dy": 0.00052,
+        "distance": 0.0009
+      },
+      {
+        "id": "strawberry",
+        "dx": 0.00075,
+        "dy": -0.00014,
+        "distance": 0.00076
+      },
+      {
+        "id": "rhodes",
+        "dx": 0.00373,
+        "dy": -0.00237,
+        "distance": 0.00442
+      },
+      {
+        "id": "blackwater",
+        "dx": 0.0006,
+        "dy": -0.00016,
+        "distance": 0.00062
+      },
+      {
+        "id": "tumbleweed",
+        "dx": -0.00207,
+        "dy": 0.00001,
+        "distance": 0.00207
+      },
+      {
+        "id": "saint-denis",
+        "dx": -0.00178,
+        "dy": 0.00208,
+        "distance": 0.00274
+      },
+      {
+        "id": "annesburg",
+        "dx": -0.00284,
+        "dy": -0.00071,
+        "distance": 0.00292
+      },
+      {
+        "id": "valentine",
+        "dx": 0.00087,
+        "dy": 0.00076,
+        "distance": 0.00116
+      }
+    ]
+  }
+}

@@ -1,16 +1,27 @@
 import { Link } from 'react-router';
+import { getSource } from '@/data';
+import { putEntityState, putMissionState, putTreasureState } from '@/db/repositories';
+import { markerMarkAction, markerPopupLinks } from '@/services/mapPopup';
 import type { MapMarker } from '@/types';
-import { putMissionState, putTreasureState } from '@/db/repositories';
 
-export function MapMarkerPopup({ marker }: { marker: MapMarker }) {
+export function MapMarkerPopup({ marker, collected }: { marker: MapMarker; collected?: boolean }) {
+  const links = markerPopupLinks(marker);
+  const mark = markerMarkAction(marker);
+  const source = marker.sourceIds?.[0] ? getSource(marker.sourceIds[0]) : undefined;
+
   return (
-    <div>
+    <div
+      onPointerDown={(e) => e.stopPropagation()}
+      onClick={(e) => e.stopPropagation()}
+    >
       <strong>{marker.title}</strong>
       {marker.subtitle ? <div>{marker.subtitle}</div> : null}
       <div className="stack" style={{ marginTop: 8 }}>
-        {marker.missionId ? <Link to={`/journey/${marker.missionId}`}>Open Mission</Link> : null}
-        {marker.treasureId ? <Link to={`/treasures/${marker.treasureId}`}>Open Treasure</Link> : null}
-        {marker.locationId ? <Link to={`/locations/${marker.locationId}`}>Open Details</Link> : null}
+        {links.map((l) => (
+          <Link key={l.href + l.label} to={l.href}>
+            {l.label}
+          </Link>
+        ))}
         {marker.missionId ? (
           <button
             type="button"
@@ -31,6 +42,24 @@ export function MapMarkerPopup({ marker }: { marker: MapMarker }) {
           >
             Mark step complete
           </button>
+        ) : null}
+        {mark ? (
+          <button
+            type="button"
+            onClick={() =>
+              void putEntityState({
+                entityType: mark.entityType,
+                entityId: mark.entityId,
+                completed: !collected,
+                completedAt: !collected ? new Date().toISOString() : undefined,
+              })
+            }
+          >
+            {collected ? `Undo ${mark.label.replace(/^Mark /, '').toLowerCase()}` : mark.label}
+          </button>
+        ) : null}
+        {source ? (
+          <div style={{ color: 'var(--ink-muted)', fontSize: '0.85rem' }}>Source: {source.sourceName}</div>
         ) : null}
       </div>
     </div>

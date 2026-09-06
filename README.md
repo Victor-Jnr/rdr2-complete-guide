@@ -59,11 +59,21 @@ npm run build
 npm run preview
 ```
 
-Native-resolution map tiles (downloads the Wiki JPG into `scripts/.cache/`, gitignored, then writes WebP tiles):
+World map tiles are generated from a source image. **Settings → Download full-resolution map** only caches existing tiles in the browser; it does not write a new image into `public/assets/maps/`.
+
+Place your own map (JPG, PNG, or WebP) at:
+
+```text
+map-source/world-map.jpg
+```
+
+Then regenerate tiles (this also downloads the Wiki map into `scripts/.cache/` if that folder is empty and you did not provide a file):
 
 ```bash
 npm run prepare:map
 ```
+
+Coordinates stay normalized 0–1 against the source image, so a replacement should be the same crop of the world map. A larger file can add extra zoom levels (up to 16384px). Do not commit the source image.
 
 Android debug APK (no service worker; tiles bundled):
 
@@ -77,7 +87,7 @@ Release signing: create a keystore **outside git**, then a local `keystore.prope
 
 ## PWA vs Android
 
-- **Web:** `vite-plugin-pwa` precaches the app shell, icons, and map zoom **0–3**. Zoom **4–5** use a CacheFirst runtime cache. Settings → “Download full-resolution map” fetches those tiles for offline use.
+- **Web:** `vite-plugin-pwa` precaches the app shell, icons, and map zoom **0–3**. Higher zooms use a CacheFirst runtime cache. Settings → “Download full-resolution map” only caches those tiles for offline use; it does not change the image.
 - **Android:** `vite build --mode android` omits the service worker. Capacitor loads `dist/`. System Bars insets are applied as CSS `env()` / `--safe-area-inset-*`. Hardware back closes dialogs, then history, then exits.
 
 ## Data and research status
@@ -101,6 +111,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [008 — Public-domain map pins and layered map](documentation/008-public-domain-map-pins.md)
 - [007 — Wiki dataset fill and map overview zoom](documentation/007-wiki-data-and-map-zoom.md)
 - [006 — Android shell, PWA verify, and v1 close-out](documentation/006-android-and-verification.md)
 - [005 — Search and progress tests](documentation/005-search-progress-tests.md)
@@ -110,3 +121,9 @@ Numbered change documents live in [`documentation/`](documentation/README.md). L
 - [001 — Stage 1 app foundation](documentation/001-stage-1-app-foundation.md)
 
 See also [CHANGELOG.md](CHANGELOG.md).
+
+## Sources and Attribution
+
+- **Red Dead Wiki** — mission, collectible, challenge, and 100% reference pages used during research. Individual entries link to their source articles where practical.
+- **[jeanropke/RDOMap](https://github.com/jeanropke/RDOMap)** — public-domain (Unlicense) story-mode collectible, place, shop, habitat, and herb coordinates at commit `922daf072c3ea027c5d5ed097173ce66d70d65b6`. Those coordinates derive from Rockstar game data in the same way the in-game map image does. They are **not** copied from rdr2map.com (Map Genie, commercial, no license).
+- **Rockstar Games / Take-Two Interactive** — in-game map artwork stored locally for offline use; not covered by this project's MIT license. See `public/assets/maps/PROVENANCE.md`.

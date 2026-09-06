@@ -13,7 +13,8 @@ export type EntityType =
   | 'collectible'
   | 'challenge'
   | 'compendium'
-  | 'completionRequirement';
+  | 'completionRequirement'
+  | 'map-marker';
 
 export interface UserMissionState {
   missionId: string;
@@ -64,6 +65,8 @@ export interface UserSettings {
   confirmOnUncheck: boolean;
   hideCompletedByDefault: boolean;
   fullResMapDownloaded: boolean;
+  mapHiddenMarkerTypes: string[];
+  mapHideCollected: boolean;
 }
 
 export const DEFAULT_SETTINGS: UserSettings = {
@@ -73,4 +76,6 @@ export const DEFAULT_SETTINGS: UserSettings = {
   confirmOnUncheck: true,
   hideCompletedByDefault: false,
   fullResMapDownloaded: false,
+  mapHiddenMarkerTypes: ['animal-habitat', 'herb'],
+  mapHideCollected: false,
 };

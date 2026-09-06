@@ -1649,5 +1649,16 @@
     "verificationStatus": "researched",
     "accessedAt": "2026-09-06",
     "publicAttribution": true
+  },
+  {
+    "id": "gh-jeanropke-rdomap",
+    "sourceName": "jeanropke/RDOMap",
+    "pageTitle": "RDOMap marker data (Unlicense)",
+    "url": "https://github.com/jeanropke/RDOMap/tree/922daf072c3ea027c5d5ed097173ce66d70d65b6/data",
+    "sourceType": "community",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-06",
+    "publicAttribution": true,
+    "notes": "Public-domain (Unlicense) game-extracted coordinates at commit 922daf072c3ea027c5d5ed097173ce66d70d65b6. Not copied from rdr2map.com / Map Genie."
   }
 ]

@@ -58,6 +58,19 @@
 - `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
 - `src/services/treasures.test.ts` — treasure-chain dataset tests
 - `src/services/journey.test.ts` — Chapter 1–2 / later-chapter dataset contract tests
+- `scripts/research/import-jeanropke.mjs` — cached public-domain RDOMap pin importer
+- `scripts/research/jeanropke-transform.mjs` — jeanropke lat/lng affine fit onto 0–1 map space
+- `scripts/research/calibration.json` — town control points, fitted matrix, and residuals
+- `scripts/research/calibration.test.ts` — RMS residual test against committed control points
+- `src/data/markerCategories.ts` — map layer taxonomy, colours, and mark-entity mapping
+- `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
+- `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
+- `src/services/mapPopup.ts` — popup link and mark-action mapping
+- `src/components/MapLayerPanel.tsx` — grouped map layer controls
+- `src/components/GameMap.css` — DivIcon pin and popup chrome
+- `src/features/map/MapPage.module.css` — full-height map shell
+- `src/components/MapLayerPanel.module.css` — bottom-sheet / side layer panel layout
+- `src/services/map-pins.test.ts` — calibration, merge, layer, popup, and pin-progress tests
 - `documentation/README.md` — index of numbered change documents
 - `CHANGELOG.md` — this file
 - `README.md` — setup, disclaimer, license split, PWA vs Android
@@ -239,6 +252,42 @@
 - `documentation/README.md` — linked 007
 - `README.md` — listed 007 in Documentation
 - `CHANGELOG.md` — added 007 section
+
+## 008 — Public-domain map pins and layered map (2026-09-06)
+
+- `scripts/research/import-jeanropke.mjs` — added cached RDOMap pin importer at pinned SHA
+- `scripts/research/jeanropke-transform.mjs` — added affine / residual helpers for jeanropke coords
+- `scripts/research/calibration.json` — added eight town control points (RMS 0.00232)
+- `scripts/research/calibration.test.ts` — added RMS residual assertion
+- `scripts/validate-data.ts` — check marker types, unique externalKey, refs, and calibration RMS
+- `src/data/mapMarkers.json` — 1733 public-domain pins
+- `src/data/locations.json` — calibrated matching towns/camps; added labelled places
+- `src/data/sources.json` — added `gh-jeanropke-rdomap` (Unlicense)
+- `src/data/markerCategories.ts` — added grouped layer taxonomy
+- `src/data/schemas.ts` — added `map-marker` entity type and map layer settings defaults
+- `src/types/content.ts` — widened MarkerType and MapMarker link fields
+- `src/types/userState.ts` — added `map-marker` entity type and map settings
+- `src/services/mapCalibration.ts` — added TypeScript residual check
+- `src/services/mapLayers.ts` — added layer URL, search, and collected filtering
+- `src/services/mapPopup.ts` — added popup link/mark mapping
+- `src/services/content.ts` — added explicit externalKey uniqueness helper
+- `src/services/progress.ts` — added pinned collectible/legendary categories
+- `src/components/GameMap.tsx` — DivIcon pins, canvas habitat/herb, calibrate click logger
+- `src/components/GameMap.css` — pin and popup styling
+- `src/components/MapLayerPanel.tsx` — grouped layer panel
+- `src/components/MapLayerPanel.module.css` — bottom sheet / side panel layout
+- `src/components/MapMarkerPopup.tsx` — typed links and mark-found actions
+- `src/features/map/MapPage.tsx` — full-height map, URL + settings layer state
+- `src/features/map/MapPage.module.css` — map page chrome
+- `src/features/map/LocationPage.tsx` — list pins that share a locationId
+- `src/features/progress/ProgressPage.tsx` — show pinned map categories
+- `src/features/about/AboutPage.tsx` — jeanropke attribution and version 0.3.0
+- `src/services/map-pins.test.ts` — calibration, merge, layers, popup, progress tests
+- `package.json` — version 0.3.0
+- `documentation/008-public-domain-map-pins.md` — added this change document
+- `documentation/README.md` — linked 008
+- `README.md` — listed 008 and jeanropke Sources entry
+- `CHANGELOG.md` — added 008 section
 
 
 

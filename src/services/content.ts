@@ -70,3 +70,8 @@ export function derivedMarkers(): MapMarker[] {
 export function markerById(id: string): MapMarker | undefined {
   return derivedMarkers().find((m) => m.id === id);
 }
+
+export function explicitExternalKeysUnique(markers: MapMarker[] = explicitMapMarkers): boolean {
+  const keys = markers.map((m) => m.externalKey).filter((k): k is string => Boolean(k));
+  return new Set(keys).size === keys.length;
+}

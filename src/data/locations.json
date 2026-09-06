@@ -4,16 +4,18 @@
     "name": "Colter",
     "region": "Ambarino",
     "coordinate": {
-      "x": 0.42,
-      "y": 0.16
+      "x": 0.52486,
+      "y": 0.12355
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -42,16 +44,18 @@
     "name": "Horseshoe Overlook",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.5,
-      "y": 0.32
+      "x": 0.6155,
+      "y": 0.39818
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -61,16 +65,18 @@
     "name": "Valentine",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.52,
-      "y": 0.34
+      "x": 0.61847,
+      "y": 0.32692
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -80,16 +86,18 @@
     "name": "Strawberry",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.38,
-      "y": 0.4
+      "x": 0.48253,
+      "y": 0.44549
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -99,16 +107,18 @@
     "name": "Blackwater",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.4,
-      "y": 0.52
+      "x": 0.567,
+      "y": 0.54123
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -137,16 +147,18 @@
     "name": "Emerald Ranch",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.56,
-      "y": 0.36
+      "x": 0.76519,
+      "y": 0.35223
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -251,16 +263,18 @@
     "name": "Clemens Point",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.6,
-      "y": 0.54
+      "x": 0.68966,
+      "y": 0.53553
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -270,16 +284,18 @@
     "name": "Rhodes",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.62,
-      "y": 0.52
+      "x": 0.73902,
+      "y": 0.54851
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -289,16 +305,18 @@
     "name": "Saint Denis",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.72,
-      "y": 0.55
+      "x": 0.86151,
+      "y": 0.57002
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -308,16 +326,18 @@
     "name": "Shady Belle",
     "region": "Lemoyne",
     "coordinate": {
-      "x": 0.68,
-      "y": 0.58
+      "x": 0.79543,
+      "y": 0.62149
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -365,16 +385,18 @@
     "name": "Beaver Hollow",
     "region": "New Hanover",
     "coordinate": {
-      "x": 0.66,
-      "y": 0.28
+      "x": 0.83682,
+      "y": 0.2439
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -403,16 +425,18 @@
     "name": "Beecher's Hope",
     "region": "West Elizabeth",
     "coordinate": {
-      "x": 0.36,
-      "y": 0.5
+      "x": 0.48242,
+      "y": 0.55283
     },
     "sourceIds": [
-      "wiki-missions-in-redemption-2"
+      "wiki-missions-in-redemption-2",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-missions-in-redemption-2"
+        "wiki-missions-in-redemption-2",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -840,16 +864,18 @@
     "name": "Coot's Chapel",
     "region": "New Austin",
     "coordinate": {
-      "x": 0.2,
-      "y": 0.64
+      "x": 0.34305,
+      "y": 0.72441
     },
     "sourceIds": [
-      "wiki-elemental-trail-map"
+      "wiki-elemental-trail-map",
+      "gh-jeanropke-rdomap"
     ],
     "research": {
-      "verificationStatus": "researched",
+      "verificationStatus": "cross-checked",
       "sourceIds": [
-        "wiki-elemental-trail-map"
+        "wiki-elemental-trail-map",
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }
@@ -869,6 +895,294 @@
       "verificationStatus": "researched",
       "sourceIds": [
         "wiki-high-stakes-treasure-map"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-gaptooth-breach",
+    "name": "Gaptooth Breach",
+    "coordinate": {
+      "x": 0.11617,
+      "y": 0.76701
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-hanging-dog-ranch",
+    "name": "Hanging Dog Ranch",
+    "coordinate": {
+      "x": 0.45231,
+      "y": 0.31013
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-pikes-basin",
+    "name": "Pike's Basin",
+    "coordinate": {
+      "x": 0.40003,
+      "y": 0.66155
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-six-point-cabin",
+    "name": "Six Point Cabin",
+    "coordinate": {
+      "x": 0.6362,
+      "y": 0.26471
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-solomons-folly",
+    "name": "Solomon's Folly",
+    "coordinate": {
+      "x": 0.15214,
+      "y": 0.80749
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-annesburg",
+    "name": "Annesburg",
+    "coordinate": {
+      "x": 0.8889,
+      "y": 0.25624
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-armadillo",
+    "name": "Armadillo",
+    "coordinate": {
+      "x": 0.30677,
+      "y": 0.69487
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-lagras",
+    "name": "Lagras",
+    "coordinate": {
+      "x": 0.81381,
+      "y": 0.46879
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-macfarlanes-ranch",
+    "name": "MacFarlane's Ranch",
+    "coordinate": {
+      "x": 0.41292,
+      "y": 0.67533
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-manzanita-post",
+    "name": "Manzanita Post",
+    "coordinate": {
+      "x": 0.46091,
+      "y": 0.5811
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-tumbleweed",
+    "name": "Tumbleweed",
+    "coordinate": {
+      "x": 0.15793,
+      "y": 0.72914
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-van-horn",
+    "name": "Van Horn",
+    "coordinate": {
+      "x": 0.88541,
+      "y": 0.33132
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-wapiti",
+    "name": "Wapiti",
+    "coordinate": {
+      "x": 0.67912,
+      "y": 0.15334
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "cross-checked",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-butcher-creek",
+    "name": "Butcher Creek",
+    "coordinate": {
+      "x": 0.8614,
+      "y": 0.3176
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-cornwall-kerosene-tar",
+    "name": "Cornwall Kerosene & Tar",
+    "coordinate": {
+      "x": 0.67292,
+      "y": 0.31668
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
+      ],
+      "lastReviewedAt": "2026-09-06"
+    }
+  },
+  {
+    "id": "loc-ewing-basin",
+    "name": "Ewing Basin",
+    "coordinate": {
+      "x": 0.46942,
+      "y": 0.25262
+    },
+    "sourceIds": [
+      "gh-jeanropke-rdomap"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "gh-jeanropke-rdomap"
       ],
       "lastReviewedAt": "2026-09-06"
     }

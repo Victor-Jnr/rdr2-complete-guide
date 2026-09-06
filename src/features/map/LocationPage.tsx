@@ -18,6 +18,7 @@ export default function LocationPage() {
   const relatedM = missions.filter((m) => m.startLocationId === loc.id);
   const relatedT = treasures.filter((t) => t.steps.some((s) => s.locationId === loc.id));
   const markers = derivedMarkers().filter((m) => m.locationId === loc.id);
+  const nearbyPins = markers.filter((m) => !m.missionId && !m.treasureId);
 
   return (
     <main className="page stack">
@@ -47,6 +48,16 @@ export default function LocationPage() {
           {relatedT.map((t) => (
             <p key={t.id}>
               <Link to={`/treasures/${t.id}`}>{t.name}</Link>
+            </p>
+          ))}
+        </section>
+      ) : null}
+      {nearbyPins.length ? (
+        <section>
+          <h2>Pins here</h2>
+          {nearbyPins.map((m) => (
+            <p key={m.id}>
+              <Link to={`/map?marker=${m.id}`}>{m.title}</Link>
             </p>
           ))}
         </section>
