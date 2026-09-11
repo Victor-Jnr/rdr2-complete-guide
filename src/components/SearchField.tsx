@@ -5,8 +5,9 @@ import { useId } from 'react';
  * once `-webkit-appearance: none` (or hidden `::-webkit-search-*` decorations)
  * is applied. Use a text field with an on-screen label instead.
  *
- * Brass chrome lives on `.search-field__control` so input padding cannot grow
- * past the padded page column. `size={1}` removes the UA 20-ch min-width.
+ * Brass chrome is painted on the in-flow input so the tap target matches the
+ * visible box. The control wrapper only clips width. `size={1}` removes the
+ * UA 20-ch min-width.
  */
 export function SearchField({
   label,

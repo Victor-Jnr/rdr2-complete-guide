@@ -19,7 +19,9 @@ describe('SearchField', () => {
     expect(input).not.toHaveAttribute('type', 'search');
     expect(container.querySelector('input[type="search"]')).toBeNull();
     expect(container.querySelector('.search-field__control')).not.toBeNull();
-    expect(screen.getByText('Search')).toBeVisible();
+    const label = screen.getByText('Search');
+    expect(label).toBeVisible();
+    expect(label.closest('label')?.contains(input)).toBe(false);
 
     await userEvent.type(input, 'dutch');
     expect(input).toHaveValue('dutch');
