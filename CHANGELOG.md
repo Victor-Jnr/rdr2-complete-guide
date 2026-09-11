@@ -35,7 +35,7 @@
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
 - `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock
 - `src/styles/textures.css` — journal panel paper noise and stamps
-- `src/styles/layout.css` — page gutters and labeled 44px text search field
+- `src/styles/layout.css` — page gutters with `--safe-left` / `--safe-right`; wrapping labeled search control that cannot overflow the column
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
 - `src/data/*.json` — static guide dataset (never write user progress here)
 - `src/data/index.ts` — typed loaders and chapter helpers
@@ -71,7 +71,7 @@
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
-- `src/components/SearchField.tsx` — visible labeled `type=text` search box (Android WebView cannot paint `type=search`)
+- `src/components/SearchField.tsx` — labeled `type=text` search box; brass chrome on `.search-field__control`; `size={1}` so the field can shrink
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
 - `src/components/GameMap.css` — DivIcon pin and popup chrome; isolate Leaflet stacking
 - `src/features/map/MapPage.module.css` — full-height map shell and Layers button stacking
@@ -440,4 +440,22 @@
 - `documentation/README.md` — linked 016
 - `README.md` — 0.5.2 sideload note; listed 016
 - `CHANGELOG.md` — file roles and 016 section
+
+## 017 — Android search fields fit the phone width (2026-09-12)
+
+- `src/styles/layout.css` — page padding includes `--safe-left` / `--safe-right`; wrapping search row; brass chrome on `.search-field__control`; input fills with `inset: 0` instead of `width: 100%`
+- `src/components/SearchField.tsx` — control wrapper and `size={1}` so the UA min-width cannot overflow
+- `src/components/SearchField.test.tsx` — asserts `size="1"` and the control wrapper
+- `src/features/search/SearchPage.tsx` — offline hint `min-width: 0` so it cannot peek beside the box
+- `src/styles/base.css` — inputs `box-sizing: border-box`, `min-width: 0`, `max-width: 100%`
+- `src/layouts/RootLayout.module.css` — header 16px + `--safe-*` longhands; content `overflow-x: hidden`
+- `src/components/MapLayerPanel.module.css` — sheet `left`/`right` include safe insets; toolbar `min-width: 0`
+- `src/features/map/MapPage.module.css` — Layers button `right` includes `--safe-right`
+- `package.json` — version 0.5.3
+- `src/features/about/AboutPage.tsx` — Version 0.5.3
+- `android/app/build.gradle` — `versionName "0.5.3"`, `versionCode` 5
+- `documentation/017-android-search-width.md` — added this change document
+- `documentation/README.md` — linked 017
+- `README.md` — 0.5.3 sideload note; listed 017
+- `CHANGELOG.md` — file roles and 017 section
 

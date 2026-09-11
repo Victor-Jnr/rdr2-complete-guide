@@ -15,8 +15,10 @@ describe('SearchField', () => {
 
     const input = screen.getByRole('searchbox', { name: 'Search' });
     expect(input).toHaveAttribute('type', 'text');
+    expect(input).toHaveAttribute('size', '1');
     expect(input).not.toHaveAttribute('type', 'search');
     expect(container.querySelector('input[type="search"]')).toBeNull();
+    expect(container.querySelector('.search-field__control')).not.toBeNull();
     expect(screen.getByText('Search')).toBeVisible();
 
     await userEvent.type(input, 'dutch');

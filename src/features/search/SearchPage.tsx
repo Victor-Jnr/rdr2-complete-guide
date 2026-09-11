@@ -34,7 +34,11 @@ export default function SearchPage() {
         onChange={setQ}
         placeholder="Missions, treasures, places…"
       />
-      {!q ? <p style={{ color: 'var(--ink-muted)' }}>Search works fully offline.</p> : null}
+      {!q ? (
+        <p style={{ color: 'var(--ink-muted)', minWidth: 0, maxWidth: '100%' }}>
+          Search works fully offline.
+        </p>
+      ) : null}
       {q && !results.length ? <EmptyState title="No search results" body="Try a shorter name or a location." /> : null}
       {grouped.map((g) => (
         <section key={g.kind}>
