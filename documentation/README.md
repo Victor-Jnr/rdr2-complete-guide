@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [015](015-android-search-and-viewport.md) | Android search fields and viewport fit |
 | [014](014-wire-release-signing.md) | Wire release signing from keystore.properties |
 | [013](013-unsigned-android-050-release.md) | Unsigned Android 0.5.0 release |
 | [012](012-themed-scrollbars.md) | Themed scrollbars |

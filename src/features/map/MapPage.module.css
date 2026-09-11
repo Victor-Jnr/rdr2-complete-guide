@@ -1,9 +1,10 @@
 .page {
   position: relative;
-  height: calc(100dvh - 56px - var(--nav-height));
+  height: 100%;
   max-width: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 .mapWrap {
@@ -22,7 +23,6 @@
 
 @media (min-width: 768px) {
   .page {
-    height: calc(100dvh - 56px);
     padding-left: 80px;
   }
 

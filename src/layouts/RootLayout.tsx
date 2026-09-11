@@ -61,14 +61,6 @@ export function RootLayout() {
         </div>
       </header>
 
-      <nav className={styles.bottomNav} aria-label="Primary">
-        {tabs.map((t) => (
-          <NavLink key={t.to} to={t.to} aria-label={t.label}>
-            <t.icon size={22} aria-hidden />
-            <span>{t.label}</span>
-          </NavLink>
-        ))}
-      </nav>
       <nav className={styles.rail} aria-label="Primary">
         {tabs.map((t) => (
           <NavLink key={t.to} to={t.to} title={t.label} aria-label={t.label}>
@@ -86,7 +78,18 @@ export function RootLayout() {
         ))}
       </nav>
 
-      <Outlet />
+      <div className={styles.content}>
+        <Outlet />
+      </div>
+
+      <nav className={styles.bottomNav} aria-label="Primary">
+        {tabs.map((t) => (
+          <NavLink key={t.to} to={t.to} aria-label={t.label}>
+            <t.icon size={22} aria-hidden />
+            <span>{t.label}</span>
+          </NavLink>
+        ))}
+      </nav>
       <ScrollRestoration />
       <PwaUpdatePrompt />
       <ToastHost message={toast.message} />

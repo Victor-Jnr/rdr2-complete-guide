@@ -83,7 +83,7 @@ npm run android:debug
 
 The Android application ID is frozen as **`io.github.victorjnr.rdr2guide`**. Changing it later installs as a different app.
 
-**0.5.0 sideload APKs**, when signed, are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). See Release signing below.
+**Sideload APKs** are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). Current Android build: **0.5.1** (`versionCode` 3). See Release signing below.
 
 ## PWA vs Android
 
@@ -127,6 +127,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [015 — Android search fields and viewport fit](documentation/015-android-search-and-viewport.md)
 - [014 — Wire release signing from keystore.properties](documentation/014-wire-release-signing.md)
 - [013 — Unsigned Android 0.5.0 release](documentation/013-unsigned-android-050-release.md)
 - [012 — Themed scrollbars](documentation/012-themed-scrollbars.md)

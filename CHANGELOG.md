@@ -7,7 +7,7 @@
 - `.prettierignore` — skip generated Android, dist, and map tiles
 - `capacitor.config.ts` — Capacitor 8 app id/name, `webDir: dist`, System Bars CSS insets
 - `eslint.config.js` — ESLint 9 flat config for TypeScript + React
-- `index.html` — PWA-capable document shell and theme boot script
+- `index.html` — PWA-capable document shell, viewport-fit, and theme boot script
 - `package.json` / `package-lock.json` — local npm scripts and locked dependencies
 - `prettier.config.js` — formatting defaults
 - `tsconfig.json` / `tsconfig.app.json` / `tsconfig.node.json` — strict TS project references
@@ -31,11 +31,11 @@
 - `public/assets/maps/PROVENANCE.md` — map source, rights, and tile notes
 - `src/main.tsx` — React root, fonts, global CSS
 - `src/app/router.tsx` — lazy routes for every v1 screen
-- `src/layouts/RootLayout.tsx` — chrome, navigation, PWA prompt, toasts, back button
+- `src/layouts/RootLayout.tsx` — flex chrome (header / content / bottom nav), navigation, PWA prompt, toasts, back button
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
-- `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars
+- `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock, Android search-field reset
 - `src/styles/textures.css` — journal panel paper noise and stamps
-- `src/styles/layout.css` — page gutters for phone / tablet / desktop
+- `src/styles/layout.css` — page gutters and search-field wrapper for phone / tablet / desktop
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
 - `src/data/*.json` — static guide dataset (never write user progress here)
 - `src/data/index.ts` — typed loaders and chapter helpers
@@ -57,6 +57,7 @@
 - `scripts/android-assets.mjs` — launcher icons, splash, and local.properties helper
 - `android/` — Capacitor 8 Android project (SDK 36, app id frozen)
 - `android/app/build.gradle` — `versionName` / `versionCode`; `signingConfigs.release` from gitignored `android/keystore.properties`
+- `android/app/src/main/java/io/github/victorjnr/rdr2guide/MainActivity.java` — Capacitor `BridgeActivity`; WebView overscroll disabled
 - `android/keystore.properties.example` — placeholder keys for local release signing (`storeFile`, `storePassword`, `keyAlias`, `keyPassword`)
 - `src/services/search-progress.test.ts` — MiniSearch grouping and progress-empty tests
 - `public/assets/maps/tiles/` — WebP tile pyramid (zoom 0–5)
@@ -393,4 +394,28 @@
 - `documentation/014-wire-release-signing.md` — added this change document
 - `documentation/README.md` — linked 014
 - `CHANGELOG.md` — file roles and 014 section
+
+## 015 — Android search fields and viewport fit (2026-09-12)
+
+- `index.html` — `interactive-widget=resizes-content` so the Android keyboard resizes the layout viewport
+- `android/app/src/main/AndroidManifest.xml` — `windowSoftInputMode=adjustResize`
+- `android/app/src/main/res/layout/activity_main.xml` — WebView `overScrollMode=never`
+- `android/app/src/main/java/io/github/victorjnr/rdr2guide/MainActivity.java` — disable WebView overscroll after Capacitor init
+- `android/app/build.gradle` — `versionName "0.5.1"`, `versionCode` 3
+- `package.json` — version 0.5.1
+- `src/features/about/AboutPage.tsx` — Version 0.5.1
+- `src/styles/tokens.css` — safe-area tokens take the max of Capacitor CSS vars and `env()`
+- `src/styles/base.css` — lock html/body/#root to the WebView; reset `input[type=search]` for Android WebView
+- `src/styles/layout.css` — page padding no longer doubles safe-area; `.search-field` wrapper
+- `src/layouts/RootLayout.tsx` — outlet in a flex content pane so chrome does not overlay pages
+- `src/layouts/RootLayout.module.css` — column flex shell; header/nav in flow; content scrolls
+- `src/features/search/SearchPage.tsx` — visible `type=search` field with WebView-safe attributes
+- `src/features/compendium/CompendiumPage.tsx` — same search-field treatment as Search
+- `src/features/map/MapPage.module.css` — map fills the content pane instead of `100dvh` minus guessed chrome
+- `src/components/MapLayerPanel.tsx` — pin search stays outside the scrolling category list
+- `src/components/MapLayerPanel.module.css` — flex panel; search `flex-shrink: 0`; list scrolls
+- `documentation/015-android-search-and-viewport.md` — added this change document
+- `documentation/README.md` — linked 015
+- `README.md` — 0.5.1 sideload note; listed 015
+- `CHANGELOG.md` — file roles and 015 section
 

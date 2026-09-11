@@ -114,10 +114,16 @@ export function MapLayerPanel({
       <input
         className={styles.search}
         type="search"
+        inputMode="search"
         placeholder="Search pins"
         value={query}
         onChange={(e) => onQuery(e.target.value)}
         aria-label="Search map pins"
+        autoComplete="off"
+        autoCorrect="off"
+        autoCapitalize="off"
+        spellCheck={false}
+        enterKeyHint="search"
       />
       <div className={styles.actions}>
         <button type="button" onClick={onShowAll}>
@@ -130,33 +136,35 @@ export function MapLayerPanel({
           Hide collected
         </button>
       </div>
-      {MARKER_GROUPS.map((group) => {
-        const cats = MARKER_CATEGORIES.filter((c) => c.group === group.id);
-        return (
-          <section key={group.id} className={styles.group}>
-            <h3>{group.label}</h3>
-            {cats.map((cat) => {
-              const Icon = ICONS[cat.icon] ?? Circle;
-              const on = visibleTypes.has(cat.type);
-              return (
-                <button
-                  key={cat.type}
-                  type="button"
-                  className={styles.row}
-                  aria-pressed={on}
-                  onClick={() => onToggleType(cat.type)}
-                >
-                  <span className="row" style={{ gap: 8 }}>
-                    <Icon size={16} color={cat.color} aria-hidden />
-                    {cat.label}
-                  </span>
-                  <span className={styles.count}>{counts.get(cat.type) ?? 0}</span>
-                </button>
-              );
-            })}
-          </section>
-        );
-      })}
+      <div className={styles.list}>
+        {MARKER_GROUPS.map((group) => {
+          const cats = MARKER_CATEGORIES.filter((c) => c.group === group.id);
+          return (
+            <section key={group.id} className={styles.group}>
+              <h3>{group.label}</h3>
+              {cats.map((cat) => {
+                const Icon = ICONS[cat.icon] ?? Circle;
+                const on = visibleTypes.has(cat.type);
+                return (
+                  <button
+                    key={cat.type}
+                    type="button"
+                    className={styles.row}
+                    aria-pressed={on}
+                    onClick={() => onToggleType(cat.type)}
+                  >
+                    <span className="row" style={{ gap: 8 }}>
+                      <Icon size={16} color={cat.color} aria-hidden />
+                      {cat.label}
+                    </span>
+                    <span className={styles.count}>{counts.get(cat.type) ?? 0}</span>
+                  </button>
+                );
+              })}
+            </section>
+          );
+        })}
+      </div>
     </div>
   );
 }
