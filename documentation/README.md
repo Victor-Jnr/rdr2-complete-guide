@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [019](019-android-search-box-tap.md) | Android search box tap focuses the field |
 | [018](018-android-search-hit-target.md) | Android search tap target matches the brass box |
 | [017](017-android-search-width.md) | Android search fields fit the phone width |
 | [016](016-android-search-box-visible.md) | Android search boxes actually visible |
