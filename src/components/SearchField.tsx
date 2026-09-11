@@ -5,9 +5,10 @@ import { useId } from 'react';
  * once `-webkit-appearance: none` (or hidden `::-webkit-search-*` decorations)
  * is applied. Use a text field with an on-screen label instead.
  *
- * Brass chrome is painted on the in-flow input so the tap target matches the
- * visible box. The control wrapper only clips width. `size={1}` removes the
- * UA 20-ch min-width.
+ * The visible brass box is the `<input>` itself (in-flow, no absolute positioning).
+ * A wrapping `<label>` covers only the caption + that chrome so a tap on the box
+ * still focuses when WebView fails to hit-test the native editor. `size={1}`
+ * removes the UA 20-ch min-width.
  */
 export function SearchField({
   label,
@@ -22,28 +23,24 @@ export function SearchField({
 }) {
   const id = useId();
   return (
-    <div className="search-field">
-      <label htmlFor={id} className="search-field__label">
-        {label}
-      </label>
-      <div className="search-field__control">
-        <input
-          id={id}
-          className="search-field__input"
-          type="text"
-          size={1}
-          inputMode="search"
-          enterKeyHint="search"
-          role="searchbox"
-          autoComplete="off"
-          autoCorrect="off"
-          autoCapitalize="off"
-          spellCheck={false}
-          value={value}
-          placeholder={placeholder}
-          onChange={(e) => onChange(e.target.value)}
-        />
-      </div>
-    </div>
+    <label className="search-field" htmlFor={id}>
+      <span className="search-field__label">{label}</span>
+      <input
+        id={id}
+        className="search-field__input"
+        type="text"
+        size={1}
+        inputMode="search"
+        enterKeyHint="search"
+        role="searchbox"
+        autoComplete="off"
+        autoCorrect="off"
+        autoCapitalize="off"
+        spellCheck={false}
+        value={value}
+        placeholder={placeholder}
+        onChange={(e) => onChange(e.target.value)}
+      />
+    </label>
   );
 }

@@ -1,7 +1,7 @@
 {
   "name": "rdr2-complete-guide",
   "private": true,
-      "version": "0.5.4",
+      "version": "0.5.5",
   "type": "module",
   "description": "An Android-first, offline-capable RDR2 companion guide with missions, missables, treasures, maps, checklists, and progression tracking.",
   "engines": {

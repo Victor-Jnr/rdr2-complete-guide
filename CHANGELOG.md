@@ -35,7 +35,7 @@
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
 - `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock
 - `src/styles/textures.css` — journal panel paper noise and stamps
-- `src/styles/layout.css` — page gutters with `--safe-left` / `--safe-right`; in-flow labeled search input whose tap target matches the brass chrome
+- `src/styles/layout.css` — page gutters with `--safe-left` / `--safe-right`; wrapping labeled search field whose `<input>` is the brass chrome and the tap target
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
 - `src/data/*.json` — static guide dataset (never write user progress here)
 - `src/data/index.ts` — typed loaders and chapter helpers
@@ -71,7 +71,7 @@
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
-- `src/components/SearchField.tsx` — labeled `type=text` search box; in-flow input paints the brass chrome; `size={1}` so the field can shrink
+- `src/components/SearchField.tsx` — wrapping `<label>` + in-flow `type=text` search box; the input paints and receives taps on the brass chrome; `size={1}` so the field can shrink
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
 - `src/components/GameMap.css` — DivIcon pin and popup chrome; isolate Leaflet stacking
 - `src/features/map/MapPage.module.css` — full-height map shell and Layers button stacking
@@ -471,4 +471,17 @@
 - `documentation/README.md` — linked 018
 - `README.md` — 0.5.4 sideload note; listed 018
 - `CHANGELOG.md` — file roles and 018 section
+
+## 019 — Android search box tap focuses the field (2026-09-12)
+
+- `src/components/SearchField.tsx` — wrapping `<label>` around caption + in-flow input; removed `.search-field__control`
+- `src/styles/layout.css` — brass chrome, 44px min-height, solid `--paper-raised`, `appearance: none`, and `pointer-events: auto` on the input; no absolute positioning
+- `src/components/SearchField.test.tsx` — label wraps the input; click focuses the field
+- `package.json` — version 0.5.5
+- `src/features/about/AboutPage.tsx` — Version 0.5.5
+- `android/app/build.gradle` — `versionName "0.5.5"`, `versionCode` 7
+- `documentation/019-android-search-box-tap.md` — added this change document
+- `documentation/README.md` — linked 019
+- `README.md` — 0.5.5 sideload note; listed 019
+- `CHANGELOG.md` — file roles and 019 section
 
