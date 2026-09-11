@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [017](017-android-search-width.md) | Android search fields fit the phone width |
 | [016](016-android-search-box-visible.md) | Android search boxes actually visible |
 | [015](015-android-search-and-viewport.md) | Android search fields and viewport fit |
 | [014](014-wire-release-signing.md) | Wire release signing from keystore.properties |
