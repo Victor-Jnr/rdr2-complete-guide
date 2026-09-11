@@ -82,13 +82,19 @@ export default function CompendiumPage() {
         value={region ?? 'all'}
         onChange={(id) => set('region', id === 'all' ? null : id)}
       />
-      <label>
+      <label className="search-field">
         <span className="sr-only">Filter entries</span>
         <input
+          type="search"
+          inputMode="search"
           value={query}
           onChange={(e) => set('q', e.target.value || null)}
           placeholder="Filter by name or place…"
-          style={{ width: '100%', minHeight: 44, padding: '0 12px' }}
+          autoComplete="off"
+          autoCorrect="off"
+          autoCapitalize="off"
+          spellCheck={false}
+          enterKeyHint="search"
         />
       </label>
       <label className="row">

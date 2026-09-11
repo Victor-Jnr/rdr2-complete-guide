@@ -27,13 +27,19 @@ export default function SearchPage() {
   return (
     <main className="page stack">
       <h1>Search</h1>
-      <label>
+      <label className="search-field">
         <span className="sr-only">Search the guide</span>
         <input
+          type="search"
+          inputMode="search"
           value={q}
           onChange={(e) => setQ(e.target.value)}
           placeholder="Missions, treasures, places…"
-          style={{ width: '100%', minHeight: 48, padding: '0 12px' }}
+          autoComplete="off"
+          autoCorrect="off"
+          autoCapitalize="off"
+          spellCheck={false}
+          enterKeyHint="search"
         />
       </label>
       {!q ? <p style={{ color: 'var(--ink-muted)' }}>Search works fully offline.</p> : null}
