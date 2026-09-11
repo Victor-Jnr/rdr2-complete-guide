@@ -35,7 +35,7 @@
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
 - `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock
 - `src/styles/textures.css` — journal panel paper noise and stamps
-- `src/styles/layout.css` — page gutters with `--safe-left` / `--safe-right`; wrapping labeled search control that cannot overflow the column
+- `src/styles/layout.css` — page gutters with `--safe-left` / `--safe-right`; in-flow labeled search input whose tap target matches the brass chrome
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
 - `src/data/*.json` — static guide dataset (never write user progress here)
 - `src/data/index.ts` — typed loaders and chapter helpers
@@ -71,7 +71,7 @@
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
-- `src/components/SearchField.tsx` — labeled `type=text` search box; brass chrome on `.search-field__control`; `size={1}` so the field can shrink
+- `src/components/SearchField.tsx` — labeled `type=text` search box; in-flow input paints the brass chrome; `size={1}` so the field can shrink
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
 - `src/components/GameMap.css` — DivIcon pin and popup chrome; isolate Leaflet stacking
 - `src/features/map/MapPage.module.css` — full-height map shell and Layers button stacking
@@ -458,4 +458,17 @@
 - `documentation/README.md` — linked 017
 - `README.md` — 0.5.3 sideload note; listed 017
 - `CHANGELOG.md` — file roles and 017 section
+
+## 018 — Android search tap target matches the brass box (2026-09-12)
+
+- `src/styles/layout.css` — search input is in-flow at 44px with chrome on the field; label is `fit-content` so empty space above the box is not a hit target
+- `src/components/SearchField.tsx` — comment: chrome is on the input, not an absolutely positioned overlay
+- `src/components/SearchField.test.tsx` — label does not wrap the input
+- `package.json` — version 0.5.4
+- `src/features/about/AboutPage.tsx` — Version 0.5.4
+- `android/app/build.gradle` — `versionName "0.5.4"`, `versionCode` 6
+- `documentation/018-android-search-hit-target.md` — added this change document
+- `documentation/README.md` — linked 018
+- `README.md` — 0.5.4 sideload note; listed 018
+- `CHANGELOG.md` — file roles and 018 section
 

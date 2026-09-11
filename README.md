@@ -83,7 +83,7 @@ npm run android:debug
 
 The Android application ID is frozen as **`io.github.victorjnr.rdr2guide`**. Changing it later installs as a different app.
 
-**Sideload APKs** are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). Current Android build: **0.5.3** (`versionCode` 5). See Release signing below.
+**Sideload APKs** are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). Current Android build: **0.5.4** (`versionCode` 6). See Release signing below.
 
 ## PWA vs Android
 
@@ -127,6 +127,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [018 — Android search tap target matches the brass box](documentation/018-android-search-hit-target.md)
 - [017 — Android search fields fit the phone width](documentation/017-android-search-width.md)
 - [016 — Android search boxes actually visible](documentation/016-android-search-box-visible.md)
 - [015 — Android search fields and viewport fit](documentation/015-android-search-and-viewport.md)
