@@ -39,6 +39,7 @@ import {
   User,
   Warehouse,
 } from 'lucide-react';
+import { SearchField } from '@/components/SearchField';
 import { MARKER_CATEGORIES, MARKER_GROUPS } from '@/data/markerCategories';
 import type { MarkerType } from '@/types';
 import styles from './MapLayerPanel.module.css';
@@ -111,30 +112,19 @@ export function MapLayerPanel({
 
   return (
     <div className={styles.panel}>
-      <input
-        className={styles.search}
-        type="search"
-        inputMode="search"
-        placeholder="Search pins"
-        value={query}
-        onChange={(e) => onQuery(e.target.value)}
-        aria-label="Search map pins"
-        autoComplete="off"
-        autoCorrect="off"
-        autoCapitalize="off"
-        spellCheck={false}
-        enterKeyHint="search"
-      />
-      <div className={styles.actions}>
-        <button type="button" onClick={onShowAll}>
-          Show all
-        </button>
-        <button type="button" onClick={onHideAll}>
-          Hide all
-        </button>
-        <button type="button" aria-pressed={hideCollected} onClick={() => onHideCollected(!hideCollected)}>
-          Hide collected
-        </button>
+      <div className={styles.toolbar}>
+        <SearchField label="Search pins" value={query} onChange={onQuery} placeholder="Name or category…" />
+        <div className={styles.actions}>
+          <button type="button" onClick={onShowAll}>
+            Show all
+          </button>
+          <button type="button" onClick={onHideAll}>
+            Hide all
+          </button>
+          <button type="button" aria-pressed={hideCollected} onClick={() => onHideCollected(!hideCollected)}>
+            Hide collected
+          </button>
+        </div>
       </div>
       <div className={styles.list}>
         {MARKER_GROUPS.map((group) => {

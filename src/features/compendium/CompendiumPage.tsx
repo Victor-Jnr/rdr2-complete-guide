@@ -3,6 +3,7 @@ import { Link, useSearchParams } from 'react-router';
 import { Checkbox } from '@/components/Checkbox';
 import { EmptyState } from '@/components/EmptyState';
 import { FilterChips } from '@/components/FilterChips';
+import { SearchField } from '@/components/SearchField';
 import { SectionHeader } from '@/components/SectionHeader';
 import { compendium, regions } from '@/data';
 import { putEntityState, setFavorite, useAllEntityState, useFavorites } from '@/hooks/useGuideState';
@@ -82,21 +83,12 @@ export default function CompendiumPage() {
         value={region ?? 'all'}
         onChange={(id) => set('region', id === 'all' ? null : id)}
       />
-      <label className="search-field">
-        <span className="sr-only">Filter entries</span>
-        <input
-          type="search"
-          inputMode="search"
-          value={query}
-          onChange={(e) => set('q', e.target.value || null)}
-          placeholder="Filter by name or place…"
-          autoComplete="off"
-          autoCorrect="off"
-          autoCapitalize="off"
-          spellCheck={false}
-          enterKeyHint="search"
-        />
-      </label>
+      <SearchField
+        label="Search"
+        value={query}
+        onChange={(value) => set('q', value || null)}
+        placeholder="Filter by name or place…"
+      />
       <label className="row">
         <input
           type="checkbox"

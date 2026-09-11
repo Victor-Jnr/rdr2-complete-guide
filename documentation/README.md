@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [016](016-android-search-box-visible.md) | Android search boxes actually visible |
 | [015](015-android-search-and-viewport.md) | Android search fields and viewport fit |
 | [014](014-wire-release-signing.md) | Wire release signing from keystore.properties |
 | [013](013-unsigned-android-050-release.md) | Unsigned Android 0.5.0 release |

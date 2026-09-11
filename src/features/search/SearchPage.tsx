@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router';
 import { EmptyState } from '@/components/EmptyState';
+import { SearchField } from '@/components/SearchField';
 import { searchGuide, SEARCH_GROUP_ORDER, type SearchKind } from '@/services/search';
 
 const labels: Record<SearchKind, string> = {
@@ -27,21 +28,12 @@ export default function SearchPage() {
   return (
     <main className="page stack">
       <h1>Search</h1>
-      <label className="search-field">
-        <span className="sr-only">Search the guide</span>
-        <input
-          type="search"
-          inputMode="search"
-          value={q}
-          onChange={(e) => setQ(e.target.value)}
-          placeholder="Missions, treasures, places…"
-          autoComplete="off"
-          autoCorrect="off"
-          autoCapitalize="off"
-          spellCheck={false}
-          enterKeyHint="search"
-        />
-      </label>
+      <SearchField
+        label="Search"
+        value={q}
+        onChange={setQ}
+        placeholder="Missions, treasures, places…"
+      />
       {!q ? <p style={{ color: 'var(--ink-muted)' }}>Search works fully offline.</p> : null}
       {q && !results.length ? <EmptyState title="No search results" body="Try a shorter name or a location." /> : null}
       {grouped.map((g) => (

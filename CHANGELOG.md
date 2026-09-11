@@ -33,9 +33,9 @@
 - `src/app/router.tsx` — lazy routes for every v1 screen
 - `src/layouts/RootLayout.tsx` — flex chrome (header / content / bottom nav), navigation, PWA prompt, toasts, back button
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
-- `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock, Android search-field reset
+- `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock
 - `src/styles/textures.css` — journal panel paper noise and stamps
-- `src/styles/layout.css` — page gutters and search-field wrapper for phone / tablet / desktop
+- `src/styles/layout.css` — page gutters and labeled 44px text search field
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
 - `src/data/*.json` — static guide dataset (never write user progress here)
 - `src/data/index.ts` — typed loaders and chapter helpers
@@ -71,6 +71,7 @@
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
+- `src/components/SearchField.tsx` — visible labeled `type=text` search box (Android WebView cannot paint `type=search`)
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
 - `src/components/GameMap.css` — DivIcon pin and popup chrome; isolate Leaflet stacking
 - `src/features/map/MapPage.module.css` — full-height map shell and Layers button stacking
@@ -418,4 +419,25 @@
 - `documentation/README.md` — linked 015
 - `README.md` — 0.5.1 sideload note; listed 015
 - `CHANGELOG.md` — file roles and 015 section
+
+## 016 — Android search boxes actually visible (2026-09-12)
+
+- `src/components/SearchField.tsx` — shared labeled text search field (`role=searchbox`, not `type=search`)
+- `src/components/SearchField.test.tsx` — asserts visible label and `type=text`
+- `src/features/search/SearchPage.tsx` — Search tab uses `SearchField` with a visible “Search” label
+- `src/features/search/SearchPage.test.tsx` — Search tab has no `input[type=search]`
+- `src/features/compendium/CompendiumPage.tsx` — filter uses the same text field
+- `src/components/MapLayerPanel.tsx` — “Search pins” lives in a non-scrolling toolbar
+- `src/components/MapLayerPanel.test.tsx` — pin search is `type=text`
+- `src/components/MapLayerPanel.module.css` — opaque sheet; toolbar `flex-shrink: 0`; drop `appearance: none` on the field
+- `src/styles/layout.css` — 44px min-height, brass border, `--ink` / `--paper-raised` contrast, visible label
+- `src/styles/base.css` — removed `type=search` + `appearance: none` reset that hid the control on Android WebView
+- `src/styles/tokens.css` — `--safe-*` uses Capacitor `--safe-area-inset-*` then `env()`, not `max()`
+- `package.json` — version 0.5.2
+- `src/features/about/AboutPage.tsx` — Version 0.5.2
+- `android/app/build.gradle` — `versionName "0.5.2"`, `versionCode` 4
+- `documentation/016-android-search-box-visible.md` — added this change document
+- `documentation/README.md` — linked 016
+- `README.md` — 0.5.2 sideload note; listed 016
+- `CHANGELOG.md` — file roles and 016 section
 

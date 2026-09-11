@@ -3,10 +3,9 @@
   z-index: 1100;
   display: flex;
   flex-direction: column;
-  background: color-mix(in srgb, var(--paper) 94%, transparent);
-  border: 1px solid var(--rule);
+  background: var(--paper-raised);
+  border: 1px solid var(--brass-dim);
   overflow: hidden;
-  backdrop-filter: blur(8px);
   left: 8px;
   right: 8px;
   bottom: 8px;
@@ -50,23 +49,17 @@
   font-variant-numeric: tabular-nums;
 }
 
-.search {
-  display: block;
-  flex-shrink: 0;
-  width: 100%;
-  max-width: 100%;
-  min-height: var(--touch);
+.toolbar {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
   margin-bottom: 8px;
-  padding: 8px 12px;
-  background: var(--paper-raised);
-  border: 1px solid var(--rule);
-  border-radius: var(--radius);
-  -webkit-appearance: none;
-  appearance: none;
+  min-height: 44px;
 }
 
 .list {
-  flex: 1;
+  flex: 1 1 auto;
   min-height: 0;
   overflow: auto;
   overscroll-behavior: contain;
@@ -77,7 +70,6 @@
   flex-shrink: 0;
   flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 8px;
 }
 
 .actions button {
