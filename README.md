@@ -83,7 +83,7 @@ npm run android:debug
 
 The Android application ID is frozen as **`io.github.victorjnr.rdr2guide`**. Changing it later installs as a different app.
 
-**Sideload APKs** are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). Current Android build: **0.5.6** (`versionCode` 8). See Release signing below.
+**Sideload APKs** are published as [GitHub Releases](https://github.com/Victor-Jnr/rdr2-complete-guide/releases) (not committed in git). Current Android build: **0.5.7** (`versionCode` 9). See Release signing below.
 
 ## PWA vs Android
 
@@ -127,6 +127,7 @@ The application ID **`io.github.victorjnr.rdr2guide`** is frozen. Changing it in
 
 Numbered change documents live in [`documentation/`](documentation/README.md). Latest:
 
+- [021 — Journey filters, strangers, bounties, and map pin search](documentation/021-journey-filters-strangers-bounties-map-search.md)
 - [020 — Money Lending IV and checklist viewport lock](documentation/020-money-lending-iv-and-checkbox-viewport.md)
 - [019 — Android search box tap focuses the field](documentation/019-android-search-box-tap.md)
 - [018 — Android search tap target matches the brass box](documentation/018-android-search-hit-target.md)

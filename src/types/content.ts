@@ -16,6 +16,7 @@ export type MissionTag =
   | 'optional-story'
   | 'honor'
   | 'stranger'
+  | 'bounty'
   | 'companion-activity'
   | 'camp-activity'
   | 'debt-collection'

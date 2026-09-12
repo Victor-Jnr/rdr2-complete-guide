@@ -53,4 +53,13 @@ describe('MissionDetailPage checklists', () => {
     expect(screen.getAllByText(/Gwyn Hughes/).length).toBeGreaterThan(0);
     expect(screen.queryByText('Mission not found')).toBeNull();
   });
+
+  it('opens a sheriff-board bounty and a newly seeded stranger strand', () => {
+    renderMission('mission-bounty-joshua-brown');
+    expect(screen.getByRole('heading', { name: 'Bounty: Joshua Brown' })).toBeVisible();
+    expect(screen.queryByText('Mission not found')).toBeNull();
+    cleanup();
+    renderMission('mission-the-noblest-of-men-and-a-woman');
+    expect(screen.getByRole('heading', { name: 'The Noblest of Men, and a Woman' })).toBeVisible();
+  });
 });

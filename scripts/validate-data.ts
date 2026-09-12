@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { sideMissions } from '../src/data/sideMissions.ts';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const dataDir = join(root, 'src', 'data');
@@ -31,7 +32,7 @@ interface Source {
 }
 
 const chapters = load<{ id: string; order: number }[]>('chapters.json');
-const missions = load<
+const storyMissions = load<
   {
     id: string;
     chapterId: string;
@@ -45,6 +46,7 @@ const missions = load<
     missables?: { id: string; research?: Research }[];
   }[]
 >('missions.json');
+const missions = [...storyMissions, ...sideMissions];
 const locations = load<{ id: string; coordinate?: { x: number; y: number }; sourceIds?: string[]; research?: Research }[]>(
   'locations.json',
 );

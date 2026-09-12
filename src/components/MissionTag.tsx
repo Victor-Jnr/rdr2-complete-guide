@@ -5,6 +5,7 @@ const labels: Record<MissionTag, string> = {
   'optional-story': 'Optional Story',
   honor: 'Honor',
   stranger: 'Stranger',
+  bounty: 'Bounty',
   'companion-activity': 'Companion',
   'camp-activity': 'Camp',
   'debt-collection': 'Debt',

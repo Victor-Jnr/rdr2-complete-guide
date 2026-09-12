@@ -1,6 +1,6 @@
-import { NavLink, Outlet, ScrollRestoration, useNavigate } from 'react-router';
+import { NavLink, Outlet, ScrollRestoration, useLocation, useNavigate } from 'react-router';
 import { BookOpen, Compass, Gem, Menu, PawPrint, Search, Settings, Trophy } from 'lucide-react';
-import { useEffect } from 'react';
+import { useEffect, useLayoutEffect, useRef } from 'react';
 import { applySystemBars, listenBackButton } from '@/platform/capacitor';
 import { lockLayoutViewport } from '@/platform/viewport';
 import { useSettings } from '@/hooks/useGuideState';
@@ -22,6 +22,18 @@ export function RootLayout() {
   const settings = useSettings();
   const navigate = useNavigate();
   const toast = useToast();
+  const { pathname } = useLocation();
+  const contentRef = useRef<HTMLDivElement>(null);
+
+  useLayoutEffect(() => {
+    const el = contentRef.current;
+    if (!el) return;
+    el.scrollTop = 0;
+    const frame = requestAnimationFrame(() => {
+      el.scrollTop = 0;
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [pathname]);
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', settings.theme);
@@ -81,7 +93,7 @@ export function RootLayout() {
         ))}
       </nav>
 
-      <div className={styles.content}>
+      <div className={styles.content} ref={contentRef}>
         <Outlet />
       </div>
 

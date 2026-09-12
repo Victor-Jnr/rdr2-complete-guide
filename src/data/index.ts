@@ -1,5 +1,6 @@
 import chaptersJson from './chapters.json';
 import missionsJson from './missions.json';
+import { sideMissions } from './sideMissions';
 import locationsJson from './locations.json';
 import treasuresJson from './treasures.json';
 import activitiesJson from './activities.json';
@@ -34,7 +35,7 @@ import type {
 } from '@/types';
 
 export const chapters = chaptersJson as Chapter[];
-export const missions = missionsJson as Mission[];
+export const missions = [...(missionsJson as Mission[]), ...sideMissions];
 export const locations = locationsJson as Location[];
 export const treasures = treasuresJson as TreasureChain[];
 export const activities = activitiesJson as Activity[];

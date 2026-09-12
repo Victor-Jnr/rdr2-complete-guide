@@ -17,6 +17,7 @@ export interface ChapterProgress {
 const MAIN = new Set(['main-story']);
 const OPTIONAL = new Set(['optional-story', 'other-optional']);
 const STRANGER = new Set(['stranger']);
+const BOUNTY = new Set(['bounty']);
 const DEBT = new Set(['debt-collection']);
 
 function hasTag(mission: Mission, tags: Set<string>): boolean {
@@ -55,6 +56,7 @@ export function overallCategories(
   const main = missions.filter((m) => hasTag(m, MAIN));
   const optional = missions.filter((m) => hasTag(m, OPTIONAL) || hasTag(m, DEBT));
   const stranger = missions.filter((m) => hasTag(m, STRANGER));
+  const bounty = missions.filter((m) => hasTag(m, BOUNTY));
   const goldTotal = missions.reduce((n, m) => n + (m.goldRequirements?.length ?? 0), 0);
   const goldDone = missions.reduce((n, m) => {
     const st = missionStates.get(m.id);
@@ -87,6 +89,7 @@ export function overallCategories(
     { id: 'main', label: 'Main Missions', done: main.filter((m) => missionDone(missionStates.get(m.id))).length, total: main.length },
     { id: 'optional', label: 'Optional Missions', done: optional.filter((m) => missionDone(missionStates.get(m.id))).length, total: optional.length },
     { id: 'stranger', label: 'Stranger Content', done: stranger.filter((m) => missionDone(missionStates.get(m.id))).length, total: stranger.length },
+    { id: 'bounty', label: 'Bounty Hunting', done: bounty.filter((m) => missionDone(missionStates.get(m.id))).length, total: bounty.length },
     { id: 'companion', label: 'Companion Activities', done: companionDone, total: extras.companionIds.length },
     { id: 'camp', label: 'Camp Activities', done: campDone, total: extras.campIds.length },
     { id: 'items', label: 'Item Requests', done: itemDone, total: extras.itemTotal },
