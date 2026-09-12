@@ -2,6 +2,7 @@ import { NavLink, Outlet, ScrollRestoration, useNavigate } from 'react-router';
 import { BookOpen, Compass, Gem, Menu, PawPrint, Search, Settings, Trophy } from 'lucide-react';
 import { useEffect } from 'react';
 import { applySystemBars, listenBackButton } from '@/platform/capacitor';
+import { lockLayoutViewport } from '@/platform/viewport';
 import { useSettings } from '@/hooks/useGuideState';
 import { PwaUpdatePrompt } from '@/components/PwaUpdatePrompt';
 import { ToastHost } from '@/components/Toast';
@@ -44,6 +45,8 @@ export function RootLayout() {
       return false;
     });
   }, [navigate]);
+
+  useEffect(() => lockLayoutViewport(), []);
 
   return (
     <div className={styles.shell}>

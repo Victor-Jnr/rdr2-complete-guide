@@ -10,27 +10,31 @@ interface Props {
 
 export function Checkbox({ checked, onChange, label, description }: Props) {
   const settings = useSettings();
+
+  const toggle = () => {
+    const next = !checked;
+    if (checked && !next && settings.confirmOnUncheck) {
+      const ok = window.confirm('Uncheck this item?');
+      if (!ok) return;
+    }
+    onChange(next);
+  };
+
   return (
-    <label className={styles.wrap}>
-      <input
-        type="checkbox"
-        checked={checked}
-        onChange={(e) => {
-          const next = e.target.checked;
-          if (checked && !next && settings.confirmOnUncheck) {
-            const ok = window.confirm('Uncheck this item?');
-            if (!ok) return;
-          }
-          onChange(next);
-        }}
-      />
+    <button
+      type="button"
+      className={styles.wrap}
+      role="checkbox"
+      aria-checked={checked}
+      onClick={toggle}
+    >
       <span className={styles.box} data-checked={checked} aria-hidden>
         {checked ? '✓' : ''}
       </span>
-      <span>
+      <span className={styles.copy}>
         <span>{label}</span>
-        {description ? <small style={{ display: 'block', color: 'var(--ink-muted)' }}>{description}</small> : null}
+        {description ? <small className={styles.hint}>{description}</small> : null}
       </span>
-    </label>
+    </button>
   );
 }
