@@ -89,14 +89,12 @@ export default function CompendiumPage() {
         onChange={(value) => set('q', value || null)}
         placeholder="Filter by name or place…"
       />
-      <label className="row">
-        <input
-          type="checkbox"
-          checked={incompleteOnly}
-          onChange={(e) => set('incomplete', e.target.checked ? '1' : null)}
-        />
-        Show incomplete only
-      </label>
+      <Checkbox
+        checked={incompleteOnly}
+        onChange={(next) => set('incomplete', next ? '1' : null)}
+        label="Show incomplete only"
+        confirmUncheck={false}
+      />
       {!filtered.length ? (
         <EmptyState title="No matching entries" body="Try another region, kind, or a shorter name." />
       ) : null}

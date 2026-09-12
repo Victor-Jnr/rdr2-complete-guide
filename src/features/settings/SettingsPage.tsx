@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react';
+import { Checkbox } from '@/components/Checkbox';
 import { ConfirmDialog } from '@/components/ConfirmDialog';
 import { putSettings, useSettings } from '@/hooks/useGuideState';
 import { applyImport, buildExport, parseExport, summarizeImport } from '@/services/exportImport';
@@ -88,22 +89,18 @@ export default function SettingsPage() {
       </section>
       <section className="journal-panel" style={{ padding: 16 }}>
         <h2>Checklists</h2>
-        <label className="row">
-          <input
-            type="checkbox"
-            checked={settings.confirmOnUncheck}
-            onChange={(e) => void putSettings({ confirmOnUncheck: e.target.checked })}
-          />
-          Confirm when unchecking items
-        </label>
-        <label className="row">
-          <input
-            type="checkbox"
-            checked={settings.hideCompletedByDefault}
-            onChange={(e) => void putSettings({ hideCompletedByDefault: e.target.checked })}
-          />
-          Hide completed by default
-        </label>
+        <Checkbox
+          checked={settings.confirmOnUncheck}
+          onChange={(next) => void putSettings({ confirmOnUncheck: next })}
+          label="Confirm when unchecking items"
+          confirmUncheck={false}
+        />
+        <Checkbox
+          checked={settings.hideCompletedByDefault}
+          onChange={(next) => void putSettings({ hideCompletedByDefault: next })}
+          label="Hide completed by default"
+          confirmUncheck={false}
+        />
       </section>
       {!isNative() ? (
         <section className="journal-panel" style={{ padding: 16 }}>

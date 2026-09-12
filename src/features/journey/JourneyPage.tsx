@@ -3,6 +3,7 @@ import { Link, useSearchParams } from 'react-router';
 import { chapters, missionsForChapter } from '@/data';
 import { MissionCard } from '@/components/MissionCard';
 import { FilterChips } from '@/components/FilterChips';
+import { Checkbox } from '@/components/Checkbox';
 import { SectionHeader } from '@/components/SectionHeader';
 import { useAllMissionState, putMissionState, useFavorites, useSettings } from '@/hooks/useGuideState';
 import type { Mission } from '@/types';
@@ -13,6 +14,7 @@ const chips = [
   { id: 'main', label: 'Main' },
   { id: 'optional', label: 'Optional' },
   { id: 'stranger', label: 'Stranger' },
+  { id: 'bounty', label: 'Bounty' },
   { id: 'missable', label: 'Missable' },
   { id: 'completed', label: 'Completed' },
   { id: 'incomplete', label: 'Not Completed' },
@@ -24,6 +26,7 @@ function matches(m: Mission, filter: string, q: string, completed: boolean, favO
   if (filter === 'main' && !m.tags.includes('main-story')) return false;
   if (filter === 'optional' && !m.tags.some((t) => t === 'optional-story' || t === 'honor' || t === 'debt-collection')) return false;
   if (filter === 'stranger' && !m.tags.includes('stranger')) return false;
+  if (filter === 'bounty' && !m.tags.includes('bounty')) return false;
   if (filter === 'missable' && !m.missable && !m.tags.includes('missable')) return false;
   if (filter === 'completed' && !completed) return false;
   if (filter === 'incomplete' && completed) return false;
@@ -32,12 +35,9 @@ function matches(m: Mission, filter: string, q: string, completed: boolean, favO
 
 export default function JourneyPage() {
   const [params, setParams] = useSearchParams();
-  const filter = params.get('filter') ?? 'all';
-  const q = params.get('q') ?? '';
   const settings = useSettings();
-  const incompleteParam = params.get('incomplete');
-  const incompleteOnly =
-    incompleteParam === '1' || (incompleteParam === null && settings.hideCompletedByDefault);
+  const filter = params.get('filter') ?? (settings.hideCompletedByDefault ? 'incomplete' : 'all');
+  const q = params.get('q') ?? '';
   const favOnly = params.get('fav') === '1';
   const checklist = params.get('mode') === 'checklist';
   const states = useAllMissionState();
@@ -67,35 +67,26 @@ export default function JourneyPage() {
           style={{ width: '100%', minHeight: 44, padding: '0 12px' }}
         />
       </label>
-      <FilterChips chips={chips} value={filter} onChange={(id) => set('filter', id === 'all' ? null : id)} />
+      <FilterChips chips={chips} value={filter} onChange={(id) => set('filter', id)} />
       <div className="row">
-        <label className="row">
-          <input
-            type="checkbox"
-            checked={incompleteOnly}
-            onChange={(e) => set('incomplete', e.target.checked ? '1' : '0')}
-          />
-          Show incomplete only
-        </label>
-        <label className="row">
-          <input type="checkbox" checked={favOnly} onChange={(e) => set('fav', e.target.checked ? '1' : null)} />
-          Saved
-        </label>
-        <label className="row">
-          <input
-            type="checkbox"
-            checked={checklist}
-            onChange={(e) => set('mode', e.target.checked ? 'checklist' : null)}
-          />
-          Checklist mode
-        </label>
+        <Checkbox
+          checked={favOnly}
+          onChange={(next) => set('fav', next ? '1' : null)}
+          label="Saved"
+          confirmUncheck={false}
+        />
+        <Checkbox
+          checked={checklist}
+          onChange={(next) => set('mode', next ? 'checklist' : null)}
+          label="Checklist mode"
+          confirmUncheck={false}
+        />
       </div>
 
       {chapters.map((ch) => {
         const list = missionsForChapter(ch.id).filter((m) => {
           const st = stateById.get(m.id);
           const completed = Boolean(st?.completed);
-          if (incompleteOnly && completed) return false;
           return matches(m, filter, q, completed, favOnly, favSet.has(m.id));
         });
         const leaving = missionsForChapter(ch.id).filter(

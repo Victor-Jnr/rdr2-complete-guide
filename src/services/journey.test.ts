@@ -34,4 +34,20 @@ describe('journey dataset', () => {
     expect(iv?.chapterId).toBe('chapter-3');
     expect(missionsForChapter('chapter-3').some((m) => m.id === iv?.id)).toBe(true);
   });
+
+  it('lists stranger strands beyond Snake Oil and sheriff-board bounties', () => {
+    const strangers = missions.filter((m) => m.tags.includes('stranger'));
+    const bounties = missions.filter((m) => m.tags.includes('bounty'));
+    expect(strangers.map((m) => m.title)).toContain('Good, Honest, Snake Oil');
+    expect(strangers.map((m) => m.title)).toContain('The Noblest of Men, and a Woman');
+    expect(strangers.map((m) => m.title)).toContain("He's British, of Course");
+    expect(strangers.length).toBeGreaterThan(20);
+    expect(bounties.map((m) => m.title)).toContain('Bounty: Joshua Brown');
+    expect(bounties.map((m) => m.title)).toContain('Bounty: Joaquin Arroyo');
+    expect(bounties.some((m) => m.id === 'mission-good-honest-snake-oil')).toBe(true);
+    expect(bounties.length).toBeGreaterThanOrEqual(12);
+    expect(missionsForChapter('chapter-2').some((m) => m.id === 'mission-the-noblest-of-men-and-a-woman')).toBe(
+      true,
+    );
+  });
 });

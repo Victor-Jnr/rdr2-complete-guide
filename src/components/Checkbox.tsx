@@ -6,14 +6,16 @@ interface Props {
   onChange: (next: boolean) => void;
   label: string;
   description?: string;
+  /** When false, skip the settings “confirm on uncheck” prompt (filters/settings). */
+  confirmUncheck?: boolean;
 }
 
-export function Checkbox({ checked, onChange, label, description }: Props) {
+export function Checkbox({ checked, onChange, label, description, confirmUncheck = true }: Props) {
   const settings = useSettings();
 
   const toggle = () => {
     const next = !checked;
-    if (checked && !next && settings.confirmOnUncheck) {
+    if (checked && !next && confirmUncheck && settings.confirmOnUncheck) {
       const ok = window.confirm('Uncheck this item?');
       if (!ok) return;
     }

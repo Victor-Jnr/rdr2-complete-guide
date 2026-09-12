@@ -64,6 +64,23 @@ describe('layer filtering', () => {
     });
     expect(filtered.map((m) => m.id).sort()).toEqual(['b', 'c']);
   });
+
+  it('finds a pin by name or category even when that layer is hidden', () => {
+    const markers = [
+      sampleMarker({ id: 'a', type: 'dinosaur-bone', title: 'Bone A' }),
+      sampleMarker({ id: 'c', type: 'herb', title: 'Yarrow', subtitle: 'Heartlands' }),
+    ];
+    const visible = new Set<typeof MARKER_TYPES[number]>(['dinosaur-bone']);
+    expect(
+      filterMapMarkers({ markers, visibleTypes: visible, query: 'yarrow' }).map((m) => m.id),
+    ).toEqual(['c']);
+    expect(
+      filterMapMarkers({ markers, visibleTypes: visible, query: 'herbs' }).map((m) => m.id),
+    ).toEqual(['c']);
+    expect(
+      filterMapMarkers({ markers, visibleTypes: visible }).map((m) => m.id),
+    ).toEqual(['a']);
+  });
 });
 
 describe('popup actions', () => {

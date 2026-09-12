@@ -7,9 +7,9 @@ import {
   missionsForChapter,
   treasures,
 } from '@/data';
-import { EmptyState } from '@/components/EmptyState';
 import { Checkbox } from '@/components/Checkbox';
 import { ConfirmDialog } from '@/components/ConfirmDialog';
+import { EmptyState } from '@/components/EmptyState';
 import { MissionCard } from '@/components/MissionCard';
 import { SectionHeader } from '@/components/SectionHeader';
 import {
@@ -74,14 +74,12 @@ export default function ChapterDetailPage() {
         {chapter.title} — {chapter.subtitle}
       </h1>
       {chapter.description ? <p>{chapter.description}</p> : null}
-      <label className="row">
-        <input
-          type="checkbox"
-          checked={incompleteOnly}
-          onChange={(e) => setIncompleteOverride(e.target.checked)}
-        />
-        Show incomplete only
-      </label>
+      <Checkbox
+        checked={incompleteOnly}
+        onChange={setIncompleteOverride}
+        label="Show incomplete only"
+        confirmUncheck={false}
+      />
 
       <section>
         <SectionHeader title="Story" />

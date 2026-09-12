@@ -4,6 +4,7 @@ Numbered change documents for this repository. Newest first.
 
 | Doc | Title |
 | --- | --- |
+| [021](021-journey-filters-strangers-bounties-map-search.md) | Journey filters, strangers, bounties, and map pin search |
 | [020](020-money-lending-iv-and-checkbox-viewport.md) | Money Lending IV and checklist viewport lock |
 | [019](019-android-search-box-tap.md) | Android search box tap focuses the field |
 | [018](018-android-search-hit-target.md) | Android search tap target matches the brass box |

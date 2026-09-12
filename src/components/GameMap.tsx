@@ -247,7 +247,7 @@ export function GameMap({
             />
           );
         })}
-        <ZoomGate minZoom={DENSE_MIN_ZOOM}>
+        <ZoomGate minZoom={dense.length <= 48 ? FLOOR_ZOOM : DENSE_MIN_ZOOM}>
           {dense.map((m) => {
             const latlng = toLeaflet({ x: m.x, y: m.y }, manifest);
             const selected = m.id === selectedId || m.id === focusId;

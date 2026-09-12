@@ -3341,5 +3341,25 @@
     "accessedAt": "2026-09-06",
     "publicAttribution": true,
     "notes": "Positions measured directly on the project map tiles (zoom 5 source pixels) from printed labels and station icons. See public/assets/maps/PROVENANCE.md."
+  },
+  {
+    "id": "wiki-stranger-missions",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Category:Redemption 2 stranger missions",
+    "url": "https://reddead.fandom.com/wiki/Category:Redemption_2_stranger_missions",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-13",
+    "publicAttribution": true
+  },
+  {
+    "id": "wiki-bounty-hunting",
+    "sourceName": "Red Dead Wiki",
+    "pageTitle": "Bounty Hunting in Redemption 2",
+    "url": "https://reddead.fandom.com/wiki/Bounty_Hunting_in_Redemption_2",
+    "sourceType": "wiki",
+    "verificationStatus": "researched",
+    "accessedAt": "2026-09-13",
+    "publicAttribution": true
   }
 ]

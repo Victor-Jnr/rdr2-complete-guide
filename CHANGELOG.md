@@ -20,7 +20,7 @@
 - `scripts/research/fill-remaining.mjs` — remaining Wiki lists (cards, POIs, 100%, compendium)
 - `scripts/research/fill-compendium-locations.mjs` — Wiki general locations + species icon map
 - `src/services/mapCoords.ts` — 0–1 ↔ Leaflet CRS.Simple scaled to the tile pyramid
-- `src/components/GameMap.tsx` — map starts at zoom 0; users zoom in for detail
+- `src/components/GameMap.tsx` — map starts at zoom 0; small dense search results (herbs/habitats) still draw at overview zoom
 - `scripts/prepare-map.ts` — Wiki map download + WebP tile pyramid
 - `scripts/make-icons.mjs` — PNG app icons and placeholder preview
 - `scripts/research/build-seed-data.mjs` — regenerates researched JSON seeds
@@ -31,13 +31,14 @@
 - `public/assets/maps/PROVENANCE.md` — map source, rights, and tile notes
 - `src/main.tsx` — React root, fonts, global CSS
 - `src/app/router.tsx` — lazy routes for every v1 screen
-- `src/layouts/RootLayout.tsx` — flex chrome (header / content / bottom nav), navigation, PWA prompt, toasts, back button, layout-viewport lock
+- `src/layouts/RootLayout.tsx` — flex chrome (header / content / bottom nav), navigation, PWA prompt, toasts, back button, layout-viewport lock, reset content pane scroll on pathname change
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
 - `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock
 - `src/styles/textures.css` — journal panel paper noise and stamps
 - `src/styles/layout.css` — page gutters with `--safe-left` / `--safe-right`; wrapping labeled search field whose `<input>` is the brass chrome and the tap target
 - `src/types/*` — content, availability, research, user-state, export, roadmap types
 - `src/data/*.json` — static guide dataset (never write user progress here)
+- `src/data/sideMissions.ts` — stranger strands and sheriff-board bounties concatenated with `missions.json`
 - `src/data/index.ts` — typed loaders and chapter helpers
 - `src/data/schemas.ts` — zod schemas for import validation
 - `src/data/mapManifest.ts` — default Leaflet manifest constants
@@ -71,7 +72,7 @@
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
-- `src/components/Checkbox.tsx` — `role="checkbox"` button; no native `<input>` so Android WebView cannot pan the layout viewport on tap
+- `src/components/Checkbox.tsx` — `role="checkbox"` button; `confirmUncheck` skips the uncheck prompt on filters/settings; no native `<input>` so Android WebView cannot pan the layout viewport on tap
 - `src/platform/viewport.ts` — pin `html`/`body` scroll at (0, 0) when the layout viewport pans
 - `src/components/SearchField.tsx` — wrapping `<label>` + in-flow `type=text` search box; the input paints and receives taps on the brass chrome; `size={1}` so the field can shrink
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
@@ -508,4 +509,26 @@
 - `documentation/README.md` — linked 020
 - `README.md` — 0.5.6 sideload note; listed 020
 - `CHANGELOG.md` — file roles and 020 section
+
+## 021 — Journey filters, mission scroll, strangers, bounties, map pin search (2026-09-13)
+
+- `src/components/Checkbox.tsx` — `confirmUncheck` so filter/settings boxes do not open the uncheck dialog
+- `src/features/journey/JourneyPage.tsx` — remove duplicate “Show incomplete only”; theme Saved / Checklist mode; Stranger + Bounty chips; “Hide completed by default” selects Not Completed
+- `src/features/journey/ChapterDetailPage.tsx` / `src/features/settings/SettingsPage.tsx` / `src/features/compendium/CompendiumPage.tsx` — same themed checkbox, not native Android boxes
+- `src/layouts/RootLayout.tsx` — reset `.content` scrollTop when the pathname changes so mission details open at the top
+- `src/types/content.ts` / `src/components/MissionTag.tsx` / `src/services/progress.ts` — `bounty` tag
+- `src/data/sideMissions.ts` / `src/data/index.ts` / `scripts/validate-data.ts` — stranger strands and sheriff-board bounties
+- `src/data/missions.json` — tag Good, Honest, Snake Oil as bounty (Allbright) without duplicating the row
+- `src/data/sources.json` — `wiki-stranger-missions`, `wiki-bounty-hunting`
+- `src/services/mapLayers.ts` — pin search matches title, subtitle, type, and category and ignores hidden layers while a query is typed
+- `src/components/GameMap.tsx` — small search result sets (including herbs) draw even at overview zoom
+- `src/services/content.ts` — bounty starts use the stranger pin type
+- `src/services/journey.test.ts` / `src/services/map-pins.test.ts` / `src/features/journey/JourneyPage.test.tsx` / `src/features/journey/MissionDetailPage.test.tsx` — coverage
+- `package.json` — version 0.5.7
+- `src/features/about/AboutPage.tsx` — Version 0.5.7
+- `android/app/build.gradle` — `versionName "0.5.7"`, `versionCode` 9
+- `documentation/021-journey-filters-strangers-bounties-map-search.md` — added this change document
+- `documentation/README.md` — linked 021
+- `README.md` — 0.5.7 sideload note; listed 021
+- `CHANGELOG.md` — file roles and 021 section
 

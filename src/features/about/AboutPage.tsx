@@ -75,7 +75,7 @@ export default function AboutPage() {
       <p>
         <ExternalLink href="https://github.com/Victor-Jnr/rdr2-complete-guide/releases">↗ GitHub Releases</ExternalLink>
       </p>
-        <p>Version 0.5.6</p>
+        <p>Version 0.5.7</p>
     </main>
   );
 }

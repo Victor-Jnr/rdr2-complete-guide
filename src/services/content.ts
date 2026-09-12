@@ -2,7 +2,7 @@ import type { MapMarker, MarkerType, Mission, TreasureChain } from '@/types';
 import { explicitMapMarkers, locationsById, missions, speciesIcons, treasures } from '@/data';
 
 const missionMarkerType = (mission: Mission): MarkerType => {
-  if (mission.tags.includes('stranger')) return 'stranger';
+  if (mission.tags.includes('stranger') || mission.tags.includes('bounty')) return 'stranger';
   if (mission.tags.includes('camp-activity')) return 'camp-activity';
   if (mission.tags.includes('item-request')) return 'item-request';
   if (mission.tags.includes('robbery')) return 'robbery';
