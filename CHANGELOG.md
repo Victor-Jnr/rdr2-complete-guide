@@ -31,7 +31,7 @@
 - `public/assets/maps/PROVENANCE.md` — map source, rights, and tile notes
 - `src/main.tsx` — React root, fonts, global CSS
 - `src/app/router.tsx` — lazy routes for every v1 screen
-- `src/layouts/RootLayout.tsx` — flex chrome (header / content / bottom nav), navigation, PWA prompt, toasts, back button
+- `src/layouts/RootLayout.tsx` — flex chrome (header / content / bottom nav), navigation, PWA prompt, toasts, back button, layout-viewport lock
 - `src/styles/tokens.css` — Campfire / Parchment CSS variables, safe areas, and scrollbar colors
 - `src/styles/base.css` — typography, focus, reduced-motion, controls, themed scrollbars, viewport lock
 - `src/styles/textures.css` — journal panel paper noise and stamps
@@ -71,6 +71,8 @@
 - `src/services/mapCalibration.ts` — TypeScript affine apply / residual helpers
 - `src/services/mapLayers.ts` — layer URL parse, collected filter, marker search
 - `src/services/mapPopup.ts` — popup link and mark-action mapping
+- `src/components/Checkbox.tsx` — `role="checkbox"` button; no native `<input>` so Android WebView cannot pan the layout viewport on tap
+- `src/platform/viewport.ts` — pin `html`/`body` scroll at (0, 0) when the layout viewport pans
 - `src/components/SearchField.tsx` — wrapping `<label>` + in-flow `type=text` search box; the input paints and receives taps on the brass chrome; `size={1}` so the field can shrink
 - `src/components/MapLayerPanel.tsx` — grouped map layer controls
 - `src/components/GameMap.css` — DivIcon pin and popup chrome; isolate Leaflet stacking
@@ -484,4 +486,26 @@
 - `documentation/README.md` — linked 019
 - `README.md` — 0.5.5 sideload note; listed 019
 - `CHANGELOG.md` — file roles and 019 section
+
+## 020 — Money Lending IV and checklist viewport lock (2026-09-13)
+
+- `src/data/missions.json` — add Money Lending and Other Sins IV (Chapter 3); link III → IV → V and The New South → IV
+- `src/data/missables.json` — Chapter 3 missable row for IV
+- `src/data/sources.json` — `wiki-money-lending-and-other-sins-iv`
+- `scripts/research/build-seed-data.mjs` — include IV on the Chapter 3 seed list
+- `src/components/Checkbox.tsx` / `Checkbox.module.css` — button checkbox, no hidden native input
+- `src/components/Checkbox.test.tsx` — toggle uses `role="checkbox"` button
+- `src/platform/viewport.ts` — lock layout viewport scroll at (0, 0)
+- `src/layouts/RootLayout.tsx` — install the viewport lock
+- `src/layouts/RootLayout.module.css` — `overflow-anchor: none` on the content pane
+- `src/styles/base.css` — `overflow-anchor: none` on html/body/#root
+- `src/services/journey.test.ts` — I–VII present; IV is Chapter 3
+- `src/features/journey/MissionDetailPage.test.tsx` — checklist taps use button checkboxes; IV page renders
+- `package.json` — version 0.5.6
+- `src/features/about/AboutPage.tsx` — Version 0.5.6
+- `android/app/build.gradle` — `versionName "0.5.6"`, `versionCode` 8
+- `documentation/020-money-lending-iv-and-checkbox-viewport.md` — added this change document
+- `documentation/README.md` — linked 020
+- `README.md` — 0.5.6 sideload note; listed 020
+- `CHANGELOG.md` — file roles and 020 section
 

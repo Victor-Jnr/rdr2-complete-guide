@@ -10,6 +10,11 @@ describe('search grouping', () => {
     const kinds = new Set(hits.map((h) => h.kind));
     expect([...kinds].every((k) => SEARCH_GROUP_ORDER.includes(k))).toBe(true);
   });
+
+  it('finds Money Lending and Other Sins IV', () => {
+    const hits = searchGuide('Money Lending and Other Sins IV');
+    expect(hits.some((h) => h.id === 'mission:mission-money-lending-and-other-sins-iv')).toBe(true);
+  });
 });
 
 describe('progress categories', () => {

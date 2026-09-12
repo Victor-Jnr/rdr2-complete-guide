@@ -1,9 +1,27 @@
 .wrap {
-  display: inline-flex;
+  display: flex;
   align-items: center;
+  align-self: stretch;
   gap: 10px;
+  box-sizing: border-box;
+  width: auto;
+  max-width: 100%;
+  min-width: 0;
   min-height: var(--touch);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
   cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  touch-action: manipulation;
+  overflow-anchor: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .box {
@@ -21,8 +39,12 @@
   color: var(--paper);
 }
 
-input {
-  position: absolute;
-  opacity: 0;
-  pointer-events: none;
+.copy {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.hint {
+  display: block;
+  color: var(--ink-muted);
 }

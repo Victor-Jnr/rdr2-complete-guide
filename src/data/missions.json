@@ -2883,6 +2883,9 @@
     },
     "missable": true,
     "missableWarning": "Complete before leaving Chapter 2",
+    "followUpMissionIds": [
+      "mission-money-lending-and-other-sins-iv"
+    ],
     "sourceIds": [
       "wiki-money-lending-i-ii"
     ],
@@ -3092,6 +3095,9 @@
       "lastReviewedAt": "2026-09-06"
     },
     "questGiver": "Dutch van der Linde",
+    "followUpMissionIds": [
+      "mission-money-lending-and-other-sins-iv"
+    ],
     "summary": "Arthur, Dutch and Hosea go out on a fishing trip.",
     "goldRequirements": [
       {
@@ -5025,6 +5031,94 @@
     ]
   },
   {
+    "id": "mission-money-lending-and-other-sins-iv",
+    "slug": "money-lending-and-other-sins-iv",
+    "title": "Money Lending and Other Sins IV",
+    "chapterId": "chapter-3",
+    "order": 19,
+    "tags": [
+      "debt-collection",
+      "optional-story",
+      "missable"
+    ],
+    "questGiver": "Leopold Strauss",
+    "startLocationId": "loc-clemens-point",
+    "prerequisiteMissionIds": [
+      "mission-the-new-south",
+      "mission-money-lending-and-other-sins-iii"
+    ],
+    "followUpMissionIds": [
+      "mission-money-lending-and-other-sins-v"
+    ],
+    "summary": "At Clemens Point, Strauss sends Arthur to collect from two more debtors: Gwyn Hughes, an undertaker in Rhodes, and Winton Holmes, a hunter camped north of Strawberry.",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "missable": true,
+    "missableWarning": "Finish Strauss’s Clemens Point collections before leaving Chapter 3",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-iv"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-iv"
+      ],
+      "lastReviewedAt": "2026-09-13"
+    },
+    "objectives": [
+      {
+        "id": "obj-money-lending-and-other-sins-iv-1",
+        "label": "Talk to Strauss at Clemens Point",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-money-lending-and-other-sins-iv"
+          ],
+          "lastReviewedAt": "2026-09-13"
+        }
+      },
+      {
+        "id": "obj-money-lending-and-other-sins-iv-2",
+        "label": "Collect the debt from Gwyn Hughes in Rhodes",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-money-lending-and-other-sins-iv"
+          ],
+          "lastReviewedAt": "2026-09-13"
+        }
+      },
+      {
+        "id": "obj-money-lending-and-other-sins-iv-3",
+        "label": "Collect the debt from Winton Holmes north of Strawberry",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-money-lending-and-other-sins-iv"
+          ],
+          "lastReviewedAt": "2026-09-13"
+        }
+      },
+      {
+        "id": "obj-money-lending-and-other-sins-iv-4",
+        "label": "Return the money to the camp tithing box",
+        "research": {
+          "verificationStatus": "researched",
+          "sourceIds": [
+            "wiki-money-lending-and-other-sins-iv"
+          ],
+          "lastReviewedAt": "2026-09-13"
+        }
+      }
+    ]
+  },
+  {
     "id": "mission-the-joys-of-civilization",
     "slug": "the-joys-of-civilization",
     "title": "The Joys of Civilization",
@@ -6493,6 +6587,9 @@
     "tags": [
       "debt-collection",
       "missable"
+    ],
+    "prerequisiteMissionIds": [
+      "mission-money-lending-and-other-sins-iv"
     ],
     "startLocationId": "loc-shady-belle",
     "availability": {

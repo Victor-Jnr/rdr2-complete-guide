@@ -1023,6 +1023,7 @@ const later = [
     ['A Short Walk in a Pretty Town', 'main-story'],
     ['Blood Feuds, Ancient and Modern', 'main-story'],
     ['The Battle of Shady Belle', 'main-story'],
+    ['Money Lending and Other Sins IV', 'debt-collection'],
   ]],
   [4, 'chapter-4', 'loc-shady-belle', [
     ['The Joys of Civilization', 'main-story'],

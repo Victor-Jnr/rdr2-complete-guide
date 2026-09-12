@@ -16,4 +16,22 @@ describe('journey dataset', () => {
       true,
     );
   });
+
+  it('includes every Money Lending and Other Sins part I–VII', () => {
+    const titles = [
+      'Money Lending and Other Sins I',
+      'Money Lending and Other Sins II',
+      'Money Lending and Other Sins III',
+      'Money Lending and Other Sins IV',
+      'Money Lending and Other Sins V',
+      'Money Lending and Other Sins VI',
+      'Money Lending and Other Sins VII',
+    ];
+    for (const title of titles) {
+      expect(missions.some((m) => m.title === title)).toBe(true);
+    }
+    const iv = missions.find((m) => m.id === 'mission-money-lending-and-other-sins-iv');
+    expect(iv?.chapterId).toBe('chapter-3');
+    expect(missionsForChapter('chapter-3').some((m) => m.id === iv?.id)).toBe(true);
+  });
 });

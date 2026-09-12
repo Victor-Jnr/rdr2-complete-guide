@@ -217,6 +217,33 @@
     }
   },
   {
+    "id": "missable-money-lending-and-other-sins-iv",
+    "title": "Money Lending and Other Sins IV",
+    "category": "debt",
+    "availability": {
+      "displayChapterId": "chapter-3",
+      "availableChapterIds": [
+        "chapter-3"
+      ],
+      "earliestChapterId": "chapter-3",
+      "latestChapterId": "chapter-3"
+    },
+    "relatedMissionIds": [
+      "mission-money-lending-and-other-sins-iv"
+    ],
+    "description": "Finish Strauss’s Clemens Point collections before leaving Chapter 3",
+    "sourceIds": [
+      "wiki-money-lending-and-other-sins-iv"
+    ],
+    "research": {
+      "verificationStatus": "researched",
+      "sourceIds": [
+        "wiki-money-lending-and-other-sins-iv"
+      ],
+      "lastReviewedAt": "2026-09-13"
+    }
+  },
+  {
     "id": "missable-help-a-brother-out",
     "title": "Help a Brother Out",
     "category": "honor-mission",
